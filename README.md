@@ -9,7 +9,7 @@ This site is built using [Hugo](https://gohugo.io), a static site generator writ
   1. Make sure to initialize the submodule in `content/`
 1. `$ hugo serve`
 
-That will build the static pages and start the local Go server.
+That will build the static pages and start the local Go server at [http://localhost:1313/](http://localhost:1313/).
 
 ### Working with site assets
 
