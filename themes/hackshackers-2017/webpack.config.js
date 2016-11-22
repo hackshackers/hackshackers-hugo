@@ -8,7 +8,7 @@ var webpackConfig = {
     './client/sass/screen.scss'
   ],
   output: {
-    path: path.join(__dirname, '/static/js'),
+    path: path.join(__dirname, '/static'),
     publicPath: '',
     filename: 'index_bundle.js'
   },
