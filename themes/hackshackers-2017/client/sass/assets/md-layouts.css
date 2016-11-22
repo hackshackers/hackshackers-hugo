@@ -1,0 +1,24 @@
+@media (max-width: 979px )  and ( min-width : 660px ) {
+	/* postcard -------------------- */
+	.postcard-left-md, .postcard-left-wrap-md,
+	.postcard-right-md, .postcard-right-wrap-md {
+			clear: both;
+			margin-bottom: 15px;
+	}
+	.postcard-left-md > div,
+	.postcard-right-md > div {
+			display: table-cell;
+	}
+	.postcard-left-wrap-md > div:first-child, .postcard-left-md > div:first-child, .postcard-left-md a > div:first-child {
+			float: left;
+			margin-right: 15px;
+	}
+	.postcard-right-wrap-md > div:first-child, .postcard-right-md > div:first-child, .postcard-right-md a > div:first-child {
+			float: right;
+			margin-left:  15px;
+	}
+	.postcard-left-md .media,
+	.postcard-right-md .media {
+			max-width: 31.33333333%;
+	}                                    
+}

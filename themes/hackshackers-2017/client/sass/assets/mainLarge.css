@@ -1,0 +1,6 @@
+/* styles specific to larger displays */
+
+.contain-to-grid .container-fluid, .navbar .container-fluid, .footer {
+	min-width: 980px;
+	position: relative;
+}

@@ -1,0 +1,64 @@
+.group:after { 
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden; 
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+.invisible {
+  visibility: hidden;
+}
+.affix {
+  position: fixed;
+}
+.center-block {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.visible-lg, .hidden-md, .hidden-sm {
+	display: block !important;
+}
+.hidden-lg, .visible-md, .visible-sm  {
+	display: none !important;
+}
+
+
+/* CSS Truncation ------------------*/
+.container-one-line-fixed span, .container-two-lines-fixed span, .container-three-lines-fixed span, .container-one-line span, .container-two-lines-fixed span, .container-three-lines span {
+    line-height: 2.5ex;
+}
+.container-one-line-fixed {
+    height: 2.5ex;
+}
+.container-two-lines-fixed {
+    height: 5ex;
+}
+.container-three-lines-fixed {
+    height: 7.5ex;
+}
+.container-one-line {
+    max-height: 2.5ex;
+}
+.container-two-lines {
+    max-height: 5ex;
+}
+.container-three-lines {
+    max-height: 7.5ex;
+}
+.multiline-ellipsis {
+    line-height: 2.8ex;
+    max-height: 8.4ex;
+}

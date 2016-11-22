@@ -1,0 +1,127 @@
+/* Labels ------------------------*/
+.label {
+	font-size: 1.6rem;
+	font-weight: 400;
+	height: 3.1rem;
+	padding: 0.4rem 0.7rem 0;
+	letter-spacing: 0;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+}
+a.label {
+	background-color: #00bbef;
+	color: #fff;
+	font-weight: 600;
+}
+.label.info {
+    font-weight: 400;
+}
+.label.beta {
+	background-color: #fff200;
+	color: black;
+}
+.label.sponsor {
+	background-color: #777;
+}
+.label:empty {
+    display: none;
+}
+a.label:hover {
+	background-color: #000;
+}
+.highlight {
+    background-color: #fff200;
+    color: #000;
+    padding: 0.2rem 0.5rem;
+}
+
+
+/* Labels (Item Small) ----------
+.item-small .label {
+    font-size: 1.2rem;
+} */
+
+
+/* Flags ------------------------*/
+a:hover .item .flag {
+    color: #000;
+}
+.item .flag {
+    position: absolute;
+	z-index: 3;
+	background-color: #fff200;
+	top: -5px;
+	left: -5px;
+	text-align: center;
+	color: #000;
+	letter-spacing: -0.01em;
+}
+.item .flag > div {
+    display: table-cell;
+    vertical-align: middle;
+    height: 2.2em;
+    width: 2.2em;
+}
+.item .flag small {
+    display: block;
+    margin: 0.3em 0;
+    font-size: 0.5em;
+    font-weight: normal;
+}
+.item .flag big {
+	font-size: 1.25em;
+	line-height: 0.9;
+	font-weight: 700;
+}
+
+
+/* Markers ------------------------*/
+.item .marker {
+    background-color: #e62970;
+    color: #ffffff;
+    display: table;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 10;
+    line-height: 0;
+}
+.item .marker > div {
+    display: table-cell;
+    vertical-align: middle;
+}
+.item .marker-tve {
+	padding: 0 10px;
+	font-size: 1.8rem;
+	height: 35px;
+	width: 35px;
+}
+.item .marker-trending {
+	font-size: 3.2rem;
+}
+
+
+/* BETA - Count -------------------*/
+.count {
+	height: 4rem;
+	width: 4rem;
+	background-color: pink;
+	position: absolute;
+	z-index: 1;
+	top:25%;
+	margin-top: -2rem;
+	left: 50%;
+	margin-left: -2rem;
+	text-align: center;
+	display: table;
+	border-radius: 4rem;
+}
+.count span {
+	vertical-align: middle;
+	display: table-cell;
+	font-size: 2.0rem;
+}
+/* beta - end */
+
+

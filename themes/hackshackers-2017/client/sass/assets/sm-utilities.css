@@ -1,0 +1,11 @@
+@media (max-width: 659px) {	
+	.hidden-lg, .hidden-md, .visible-sm {
+	display: block !important;
+	}
+	.visible-lg, .visible-md, .hidden-sm  {
+		display: none !important;
+	}
+	.visible-sm {
+		display: block !important;
+	}
+}

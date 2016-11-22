@@ -1,0 +1,12 @@
+.module-block {
+	min-height: 200px;
+}
+
+aside {
+	>* {
+		margin-bottom: $theflexgrid-gutter;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}

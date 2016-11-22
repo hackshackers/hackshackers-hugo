@@ -1,0 +1,22 @@
+.headline-block {
+	min-height: 105px;
+}
+
+article.content-block {
+	min-height: 960px;
+}
+
+.byline-block,
+.headline-block,
+.subheadline-block {
+	margin-bottom: $spacer-gutter;
+}
+
+@media screen and (max-width: 1023px){
+	.left-column {
+		order: 2;
+	}
+	.right-column {
+		order: 1;
+	}
+}

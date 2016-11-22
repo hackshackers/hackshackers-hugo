@@ -1,0 +1,46 @@
+@media (max-width: 659px ) { 
+	.page-content .item.postcard-left-sm.special .meta-wrap > div.header {
+		background-color: transparent;
+		color: #000000;
+		height: auto;
+		max-width: none;
+	}
+	.item.postcard-left-sm .meta-wrap,
+	.item.postcard-right-sm .meta-wrap {
+			position: relative;
+			bottom: auto;
+			padding-top: 0;
+	}
+	.item .meta-wrap .label.no-overlay-sm {
+			margin-top: -10px;
+			margin-bottom: 0;
+			height: auto;
+			width: 100%;
+	}
+	.item .meta-wrap > div.label.no-overlay-sm { 
+		float: none; 
+	}
+	.item.postcard-left-sm .meta-wrap > div,
+	.item.postcard-right-sm .meta-wrap > div {
+			display: inline-block;
+			margin-top: 0;
+	}
+	.item div.meta-wrap > div.snipe {
+			background-color: #000;
+			color: #fff;   
+	}  
+	.item.postcard-left-sm .meta-wrap > div.header,
+	.item.postcard-right-sm .meta-wrap > div.header {
+			max-width: none;
+			background-color: transparent;
+			color: #000;   
+			display: block;
+	}
+	.item.postcard-left-sm .meta-wrap > div.label,
+	.item.postcard-right-sm .meta-wrap > div.label,
+	.item.postcard-left-wrap-sm .meta-wrap > div.label,
+	.item.postcard-right-wrap-sm .meta-wrap > div.label {
+		clear: none;
+		float: none;
+	}
+}

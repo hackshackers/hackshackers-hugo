@@ -1,0 +1,146 @@
+.btn {
+    cursor: pointer;
+    display: inline-table;
+    font-weight: 700;
+    position: relative;
+    text-shadow: 1px -1px 0 rgba(0, 0, 0, 0.05);
+    height: 40px;
+    font-size: 2.0rem;
+    border-radius: 3px;
+    text-align: center;
+}
+.btn > span {
+    display: table-cell;
+    height: 100%;
+    padding: 5px 15px;
+    position: relative;
+    transition-duration: 0.2s;
+    vertical-align: middle;
+}
+.btn, .btn:hover, .btn-cta, .btn-cta:hover {
+    color: #FFFFFF;
+}
+.btn:hover > span, .btn:active > span, .btn.active > span {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+}
+.btn.disabled, .btn[disabled] {
+    cursor: default;
+}
+.btn.disabled:hover > span, .btn[disabled]:hover > span {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.btn + .btn {
+    margin-left: 10px;
+}
+.btn-primary {
+    background-color: #00BBEF;
+    color: #FFFFFF;
+}
+.btn-primary:hover > span, .btn-primary:active > span, .btn-primary.active > span {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+}
+.btn-primary.active {
+    color: rgba(255, 255, 255, 0.75);
+}
+.btn.btn-secondary {
+    background-color: #fff;
+    color: #1a1a1a;
+}
+.btn-secondary:hover > span, .btn-secondary:active > span, .btn-secondary.active > span {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.btn.btn-inactive {
+	background-color: rgba(0, 0, 0, 0.2);
+    color: rgba(0, 0, 0, 0.3);
+}
+.btn.btn-inactive:hover > span, .btn-inactive:active > span, .btn-inactive.active > span {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+}
+.btn-social {
+    font-size: 2.3rem;
+    height: 45px;
+    text-align: center;
+    width: 45px;
+}
+.btn-social > span {
+    padding: 5px 0 3px;
+}
+.btn-social.btn-facebook {
+    background-color: #3B5998;
+}
+.btn-social.btn-twitter {
+    background-color: #00ACED;
+}
+.btn-social.btn-tumblr {
+    background-color: #2C4762;
+}
+.btn-social.btn-vine {
+    background-color: #00A47A;
+}
+.btn-social.btn-instagram {
+    background-color: #3f729b;
+}
+.btn-social.btn-youtube {
+    background-color: #CE1312;
+}
+.btn-social.btn-rss {
+    background-color: orange;
+}
+.btn-social.btn-podcast {
+    background-color: purple;
+}
+.btn-social > span {
+	border-radius: 100%;
+}
+.btn-large > span {
+    font-size: 2.7rem;
+    padding: 0.8rem 1.7rem 1rem;
+}
+.btn [class*="icon-"] {
+    margin-left: 5px;
+    font-size: 0.85em;
+}
+[class*="btn-"].btn-social [class*="icon-"] {
+    margin-left: 1px;
+}
+.btn-small {
+    height: 32px;
+}
+.btn-small > span {
+    font-size: 85%;
+    padding: 0.3rem 1rem 0.5rem;
+}
+.btn-block {
+    width: 100%;
+}
+.btn[class*="col-"] {
+    padding: 0;
+}
+[class*="btn-"] .pull-right[class*="icon-"] {
+    margin-top: -0.5em;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+}
+
+.demo .btn-cta {
+    background-color: transparent;
+    border-radius: 0;
+    color: #D84315;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+}
+
+.demo .btn-cta:hover {
+    color: #ffffff;
+    background-color: #D84315;
+}
+
+.demo .btn-cta > span {
+    text-shadow: none;
+    padding: 10px 15px 7px;
+}

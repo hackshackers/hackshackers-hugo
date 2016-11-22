@@ -1,0 +1,33 @@
+/* Transitions ------------------*/
+.collapse {
+	height: 0;
+    overflow: hidden;
+     -webkit-transition: height 1s;
+	transition: height 1s;
+}
+.collapse.in {
+	height: 300px;
+    -webkit-transition: height 2s;
+	transition: height 2s;
+}
+
+
+/* Nav Transitions ------------------*/
+nav.menu .collapse {
+    display: none;
+    visibility: hidden;
+    height: auto;
+    overflow: inherit;
+}
+nav.menu .collapse.in {
+    display: block;
+    visibility: visible;
+    height: auto;
+}
+nav.menu .collapsing {
+    height: 0;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    transition: height 0.35s ease 0s;
+}

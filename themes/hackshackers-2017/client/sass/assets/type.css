@@ -1,0 +1,840 @@
+/* IGNORE: SPECIFIC TO THIS PAGE2 ********************************/
+/* CORE ADDITIONS */
+/*	.container3x1 > .content img {
+		margin-top: -13%;
+	}
+
+	.container3x1 > .content img {
+		margin-top: 0;
+		bottom: 0;
+		height: 100%;
+		width: auto;
+	}
+	.container1x1 > .content {
+		bottom: 0;
+	}
+	.container1x1 > .content img {
+		height: 100%;
+		width: auto;
+	}*/
+/* CORE RESETS */
+	.item .meta-wrap .header,
+	.item .meta-wrap .sub-header,
+	.item .meta-wrap .sub-header a,
+	.item .meta-wrap .deck,
+	.item .meta-wrap .meta-wrap,
+	.item .meta-wrap .label  { font-size: inherit; line-height: inherit; }
+
+	/* redefine all flag from labels markers */
+/* **************************************************************/
+
+/* HEADER AND SUB-HEADER */
+/* This will control the size of the header and sub-header,
+   the deck, label and meta will be a percentage based on the numbers defined here */
+
+/* LABELS -----------------*/
+	.item .meta-wrap .label {
+		font-size: 1.6rem;
+		padding: 0.5rem 0.7rem 0;
+		position: relative; /* absolute */
+		line-height: 1.0;
+		height: 2.6rem;
+	/*	margin-top: -3.1rem; /* = .meta-wrap { padding-top } + .label { height } */
+	}
+
+/* HEADER */
+	.item .meta-wrap .header {
+		font-weight: 700;
+	}
+
+/* SUB-HEADER */
+	.item .meta-wrap .sub-header {
+		font-size: 0.75em;
+		font-weight: 400;
+		margin-bottom: 0.2em;
+	}
+
+/* DECK */
+	/*Default Values ------*/
+	.item .meta-wrap .deck {
+		font-size: 0.65em;
+		font-weight: 400;
+		letter-spacing: 0em;
+		line-height: 1.25;
+	}
+
+	/*Order: 1*/
+	.col-lg-12 [class*="col-"] .item .meta-wrap .deck,
+	.col-lg-11 [class*="col-"] .item .meta-wrap .deck,
+	.col-lg-10 [class*="col-"] .item .meta-wrap .deck,
+	.col-lg-9 [class*="col-"] .item .meta-wrap .deck,
+	.col-lg-8 [class*="col-"] .item .meta-wrap .deck  {
+		letter-spacing: 0;
+	}
+
+	/*Order: 2*/
+	.col-lg-12 .item .meta-wrap .deck,
+	.col-lg-11 .item .meta-wrap .deck,
+	.col-lg-10 .item .meta-wrap .deck, .col-lg-10 .col-lg-12 .item .meta-wrap .deck,
+	.col-lg-9 .item .meta-wrap .deck, .col-lg-9 .col-lg-12 .item .meta-wrap .deck,
+	.col-lg-8 .item .meta-wrap .deck, .col-lg-8 .col-lg-12 .item .meta-wrap .deck  {
+		letter-spacing: -0.03em;
+	}
+
+/* META */
+	.item .meta-wrap .meta {
+		font-weight: 400;
+		letter-spacing: 0;
+		font-size: 0.75em;
+		color: #777;
+		margin-top: 0.6em;
+	}
+
+
+/* MEASUREMENTS -----------------*/
+	.item .meta-wrap {
+		padding-top: 0.3em;
+	}
+	.item .meta-wrap > * {
+		margin-bottom: 0.18em;
+	}
+	.item .meta-wrap .sub-header {
+		/*margin-top: 0.06em;*/
+	}
+	.item .meta-wrap .deck {
+		margin-top: 0.4em;
+	}
+
+
+/* POSTCARD Customization ------*/
+	.item[class*="postcard-"] .meta-wrap {
+		padding-top: 0;
+	}
+	.item[class*="postcard-"] .meta-wrap .label {
+		position: relative;
+		font-size: 1.4rem;
+		height: 2.3rem;
+    	padding-top: 0.4rem;
+	}
+	.item[class*="postcard-"] .meta-wrap .label + * {
+		margin-top: 0.3em;
+		display: block;
+	}
+	.item[class*="postcard-"] .meta-wrap .sub-header {
+		line-height: 1;
+	}
+	.item[class*="postcard-"] .meta-wrap .meta {
+		margin-top: 0.4em;
+	}
+
+
+/* FONT SIZE ------*/
+	.col-lg-2 .item, [class*="col-"] .col-lg-2 .item {
+		font-size: 1.7rem;
+		line-height: 1.05;
+	}
+
+	[class*="col-"] .col-lg-4 .item, .col-lg-4 .item[class*="postcard-"],
+	[class*="col-"] .col-lg-6 .item[class*="postcard-"] {
+		font-size: 2rem; /* @300px = 20px */
+		line-height: 1.13;
+	}
+
+	.col-lg-3 .item,
+	.col-lg-6 .item[class*="postcard-"],
+	[class*="col-"] .col-lg-6 .item {
+		font-size: 2.3rem;
+		line-height: 1.1;
+	}
+
+	.col-lg-4 .item,
+	[class*="col-"] .col-lg-5 .item {
+		font-size: 2.3rem;
+		line-height: 1.05;
+		letter-spacing: -0.025em;
+	}
+
+	.col-lg-5 .item,
+	[class*="col-"] .col-lg-7 .item,
+	[class*="col-"] .col-lg-8 .item  {
+		font-size: 3.0rem;
+		line-height: 1.0;
+		letter-spacing: -0.02em;
+	}
+
+	.col-lg-6 .item,
+	.col-lg-7 .item,
+	.col-lg-8 .item {
+		font-size: 3.7rem;
+		line-height: 1.1;
+	}
+
+	.col-lg-9 .item, [class*="col-"] .col-lg-9 .item,
+	.col-lg-10 .item, [class*="col-"] .col-lg-10 .item  {
+		font-size: 4rem;
+		line-height: 1.1;
+		letter-spacing: -0.03em;
+	}
+
+	[class*="col-"] .col-lg-11 .item,
+	[class*="col-"] .col-lg-12 .item {
+		font-size: 4.9rem;
+		line-height: 1.1;
+		letter-spacing: -0.03em;
+	}
+
+	.col-lg-11 .item,
+	.col-lg-12 .item {
+		font-size: 5.9rem;
+		line-height: 0.95;
+		letter-spacing: -0.03em;
+	}
+
+
+@media ( min-width : 660px) and ( max-width : 979px){
+	.col-md-11 .item,
+	.col-md-12 .item {
+		font-size: 6.0vw;
+	}
+
+	.col-md-6 .item {
+		font-size: 4.2vw;
+		line-height: 1;
+	}
+
+/* HP */	[class*="col-"] .col-md-12 .item {
+		font-size: 2.3rem;
+		font-size: 6.4vw;
+		line-height: 1;
+	}
+
+/* HP */	[class*="col-"] .col-md-6 .item {
+		font-size: 2.0rem;
+		font-size: 3.3vw;
+		line-height: 1;
+	}
+
+/* HP */	[class*="col-"] .col-md-4 .item {
+		font-size: 1.7rem;
+		font-size: 2.41vw;
+		line-height: 1.05;
+	}
+
+/* HP */	.col-md-10 .item[class*="postcard-"] {
+		font-size: 1.7rem;
+		font-size: 3.05vw;
+		line-height: 1.05;
+	}
+
+
+/* POSTCARD Customization ------*/
+	.col-md-11 .item[class*="postcard-"],
+	.col-md-12 .item[class*="postcard-"] {
+		font-size: 4.01vw; /* @659px = 27px */
+	}
+
+}
+
+
+@media ( max-width : 659px) {
+	.item .meta-wrap .meta {
+		font-size: 1.2rem;
+	}
+
+	[class*="col-lg"] .item,
+	[class*="col-md"] .item,
+	[class*="col-"] [class*="col-lg"] .item,
+	[class*="col-"] [class*="col-md"] .item,
+	.col-sm-11 .item,
+	.col-sm-12 .item {
+		font-size: 6.85vw;
+	}
+
+
+/* POSTCARD Customization ------*/
+	/*[class*="col-lg"] .item[class*="postcard-"],
+	[class*="col-md"] .item[class*="postcard-"],
+	.col-sm-11 .item[class*="postcard-"],
+	.col-sm-12 .item[class*="postcard-"] {
+		font-size: 6vw;
+	} */
+
+	.col-sm-6 .item,
+	.col-sm-7 .item,
+	.col-sm-8 .item {
+		font-size: 1.7rem;
+		font-size: 5.05vw;
+		line-height: 1.05;
+	}
+
+/* HP */	.col-sm-12 .item[class*="postcard-"],
+	.col-sm-6 .item {
+		font-size: 1.7rem;
+		font-size: 5.05vw;
+		line-height: 1.05;
+	}
+}
+
+
+/* consider defining [class*="col-"] .item at each breakpoint as fallback */
+
+
+/* primary font format */
+.document-info-1 .font-family-1 ul {
+	font-family: 'Montserrat', sans-serif;
+}
+.document-info-1 .font-family-1 ul li {
+    font-size: 2.4rem;
+    letter-spacing: -0.03em;
+    line-height: 1.3;
+}
+.document-info-1 .font-family-1 ul li.italic {
+	font-style: italic;
+}
+.document-info-1 .font-family-1 ul li.bold {
+	font-weight: 700;
+}
+.document-info-1 .font-family-1 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* secondary font format */
+.document-info-1 .font-family-2 ul {
+	font-family: 'Hind', sans-serif;
+}
+.document-info-1 .font-family-2 ul li {
+    font-size: 1.75rem;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+}
+.document-info-1 .font-family-2 ul li.italic {
+	font-style: italic;
+}
+.document-info-1 .font-family-2 ul li.bold {
+	font-weight: 700;
+}
+.document-info-3 .font-family-2 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* primary font format */
+.document-info-2 .font-family-1 ul {
+	font-family: 'Roboto', sans-serif;
+}
+.document-info-2 .font-family-1 ul li {
+    font-size: 2.4rem;
+    letter-spacing: -0.03em;
+    line-height: 1.3;
+}
+.document-info-2 .font-family-1 ul li.italic {
+	font-style: italic;
+}
+.document-info-2 .font-family-1 ul li.bold {
+	font-weight: 700;
+}
+.document-info-2 .font-family-1 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* secondary font format */
+.document-info-2 .font-family-2 ul {
+	font-family: 'Roboto', sans-serif;
+}
+.document-info-2 .font-family-2 ul li {
+    font-size: 1.75rem;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+}
+.document-info-2 .font-family-2 ul li.italic {
+	font-style: italic;
+}
+.document-info-2 .font-family-2 ul li.bold {
+	font-weight: 700;
+}
+.document-info-3 .font-family-2 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+
+.document-info-3 .font-family-1 ul {
+	font-family: 'Oswald', sans-serif;
+}
+.document-info-3 .font-family-1 ul li {
+    font-size: 2.4rem;
+    letter-spacing: -0.03em;
+    line-height: 1.3;
+}
+.document-info-3 .font-family-1 ul li.italic {
+	font-style: italic;
+}
+.document-info-3 .font-family-1 ul li.bold {
+	font-weight: 700;
+}
+.document-info-3 .font-family-1 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* secondary font format */
+.document-info-3 .font-family-2 ul {
+	font-family: 'Quattrocento', sans-serif;
+}
+.document-info-3 .font-family-2 ul li {
+    font-size: 1.75rem;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+}
+.document-info-3 .font-family-2 ul li.italic {
+	font-style: italic;
+}
+.document-info-3 .font-family-2 ul li.bold {
+	font-weight: 700;
+}
+.document-info-3 .font-family-2 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+/*  Pairing 4 -------------------------------*/
+
+/* primary font format */
+.document-info-4 .font-family-1 ul {
+	font-family: 'Helvetica', serif;
+}
+.document-info-4 .font-family-1 ul li {
+    font-size: 2.4rem;
+    letter-spacing: -0.03em;
+    line-height: 1.3;
+}
+.document-info-4 .font-family-1 ul li.italic {
+	font-style: italic;
+}
+.document-info-4 .font-family-1 ul li.bold {
+	font-weight: 700;
+}
+.document-info-4 .font-family-1 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* secondary font format */
+.document-info-4 .font-family-2 ul {
+	font-family: 'Helvetica', serif;
+}
+.document-info-4 .font-family-2 ul li {
+    font-size: 1.75rem;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+}
+.document-info-4 .font-family-2 ul li.italic {
+	font-style: italic;
+}
+.document-info-4 .font-family-2 ul li.bold {
+	font-weight: 700;
+}
+.document-info-3 .font-family-2 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* demo */
+.document-info-4 .demo .item .meta-wrap .header {
+	font-family: 'Helvetica', sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    letter-spacing: -0.02em;
+    font-size: 3.3rem;
+    line-height: 1.2;
+}
+.document-info-4 .demo .item .meta-wrap .deck {
+	font-family: 'Helvetica', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+}
+
+.document-info-1 .demo .item .meta-wrap .header {
+		font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    letter-spacing: -0.02em;
+    font-size: 3.3rem;
+    line-height: 1.2;
+}
+.document-info-1 .demo .item .meta-wrap .deck {
+	font-family: 'Hind', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+}
+.document-info-2 .demo .item .meta-wrap .header {
+		font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    letter-spacing: -0.02em;
+    font-size: 3.3rem;
+    line-height: 1.2;
+}
+.document-info-2 .demo .item .meta-wrap .deck {
+	font-family: 'Roboto', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+}
+.document-info-3 .demo .item .meta-wrap .header {
+		font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    letter-spacing: -0.02em;
+    font-size: 3.3rem;
+    line-height: 1.2;
+}
+.document-info-3 .demo .item .meta-wrap .deck {
+	font-family: 'Quattrocento', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+}
+
+/*  Pairing 4 -------------------------------*/
+
+/* primary font format */
+.font-family-1 ul {
+	font-family: 'PT Serif', serif;
+}
+.font-family-1 ul li {
+    font-size: 2.2rem;
+    letter-spacing: -0.03em;
+    line-height: 1.3;
+}
+.font-family-1 ul li.italic {
+	font-style: italic;
+}
+.font-family-1 ul li.bold {
+	font-weight: 700;
+}
+.font-family-1 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* secondary font format */
+.font-family-2 ul {
+	font-family: 'PT Sans', serif;
+}
+.font-family-2 ul li {
+    font-size: 2.2rem;
+    letter-spacing: -0.04em;
+    line-height: 1.3;
+}
+.font-family-2 ul li.italic {
+	font-style: italic;
+}
+.font-family-2 ul li.bold {
+	font-weight: 700;
+	letter-spacing: -0.022em;
+}
+.font-family-2 ul li.bold-italic {
+	font-weight: 700;
+	font-style: italic;
+	letter-spacing: -0.022em;
+}
+
+/* components */
+.btn {
+	font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    font-size: 1.4rem;
+    line-height: 1.2;
+    text-transform: uppercase;
+    box-shadow: none;
+    text-shadow: 1px -1px 0 rgba(0, 0, 0, 0.07);
+    background-color: transparent;
+}
+.btn.btn-social {
+	background-color: transparent;
+}
+.btn.btn-social > span {
+	border-radius: 10em;
+}
+
+.btn.btn-secondary > span {
+	background-color: #38322A;
+	box-shadow: inset 0px -0.15rem 0 #000;
+}
+.btn.btn-secondary:hover > span {
+	background-color: #0A0908;
+}
+.btn.btn-social.btn-youtube > span img {
+	max-width: inherit;
+	width: 1.6rem;
+	margin-top: -3px;
+}
+.btn.btn-social.btn-more > span img {
+	max-width: inherit;
+	margin-top: -9px;
+}
+.btn-social > span {
+	background-color: #38322A;
+}
+.btn-social.btn-facebook > span {
+    background-color: #3B5998;
+}
+.btn.btn-social.btn-youtube > span {
+	background-color: #CE1312;
+}
+.btn-social.btn-twitter > span {
+    background-color: #00ACED;
+}
+.btn-social.btn-sms > span {
+    background-color: green;
+}
+.btn-social:hover > span {
+    background-color: #0A0908;
+}
+.btn.btn-link > span {
+	background-color: transparent;
+	box-shadow: none;
+	color: #0090D9;
+	text-shadow: none;
+	letter-spacing: 0.005em;
+}
+.btn.btn-link:hover > span {
+	color: #0A0908;
+}
+hr.hr-1 {
+    border-color: #B7B4B0;
+    border-style: solid;
+    border-bottom: none;
+    border-width: 3px;
+}
+hr.hr-2 {
+    border-color: #B7B4B0;
+    border-style: solid;
+    border-bottom: none;
+    border-width: 1px;
+}
+.label.sponsor {
+	font-family: "PT Sans", sans-serif;
+	padding: 5px 8px 4px;
+	height: auto;
+	background-color: #6A6966;
+	color: #fff;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.header-1 {
+	font-family: "PT Sans", sans-serif;
+	text-transform: uppercase;
+	font-size: 2.0rem;
+	font-weight: 700;
+	border-bottom: 3px solid #B7B4B0;
+	padding-bottom: 7px;
+	color: #6A6966;
+}
+.header-1.small {
+	font-family: "PT Sans", sans-serif;
+	text-transform: uppercase;
+	font-size: 1.7rem;
+	border-bottom: 2px solid #B7B4B0;
+}
+a.header-1 {
+	display: block;
+}
+.header-2 {
+	font-family: "PT Sans", sans-serif;
+	text-transform: uppercase;
+	font-size: 2.0rem;
+	font-weight: 700;
+	border-bottom: 3px solid #EDA67F;
+	padding-bottom: 7px;
+	color: #E16019;
+	display: block;
+}
+a[class*="header-"]:hover {
+	color: #0A0908;
+	border-color: #0A0908;
+}
+/*.header-2 {
+	font-family: "PT Sans", sans-serif;
+	text-transform: uppercase;
+	font-size: 2.0rem;
+}
+.header-3 {
+	font-family: "PT Sans", sans-serif;
+	text-transform: uppercase;
+	font-size: 2.0rem;
+}*/
+[class*="header-"] [class*="icon-"] {
+	font-size: 0.7em;
+	position: absolute;
+	margin-top: 6px;
+	margin-left: 5px;
+}
+.card {
+	background: #fff none repeat scroll 0 0;
+    border: 1px solid #F0F0F0;
+    padding: 7px 10px;
+    position: relative;
+    box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.15);
+}
+p {
+	font-family: "PT Serif", serif;
+	font-size: 1.75rem;
+	line-height: 1.55;
+}
+p a {
+	color: #0090D9;
+	border-bottom: 1px dotted #0090D9;
+}
+p a:hover {
+	color: #56B7F2;
+	border-bottom: 1px solid #56B7F2;
+}
+.label, .label:hover {
+	border-bottom: none;
+}
+.label.sponsor {
+	background-color: #6A6966;
+}
+
+.demo-button {
+	display: flex;
+	margin-bottom: 25px;
+}
+
+.item .meta-wrap .header {
+	display: flex;
+	align-items: center;
+}
+
+.vertical-ruler {
+	display: block;
+	height: 40px;
+	width: 9px;
+	content: "";
+	margin-left: 10px;
+	background-color: black;
+}
+
+.meta-wrap .deck a {
+    color: #D84315;
+    border-bottom: 1px solid #D84315;
+		display: inline-block;
+		height: 22px;
+}
+
+.document-info-1 .vertical-ruler {
+	background-color: #4AE263;
+}
+
+.document-info-2 .vertical-ruler {
+	background-color: #0DB4BA;
+}
+
+.document-info-3 .vertical-ruler {
+	background-color: #293A57;
+}
+
+.document-info-4 .vertical-ruler {
+	background-color: #FF8853;
+}
+
+.document-info-1 .meta-wrap a {
+	color: #0052A5;
+	border-bottom: 1px solid #0052A5;
+}
+
+.document-info-2 .meta-wrap a {
+	color: #007FDE;
+	border-bottom: 1px solid #007FDE;
+}
+
+.document-info-3 .meta-wrap a {
+	color: #6B90A7;
+	border-bottom: 1px solid #6B90A7;
+}
+
+.document-info-4 .meta-wrap a {
+	color: #1E1146;
+	border-bottom: 1px solid #1E1146;
+}
+
+.meta-wrap a:hover {
+	opacity: 0.7;
+}
+
+.document-info-1 .demo .btn-cta {
+	background-color: transparent;
+	border: 2px solid #F30000;
+	border-radius: 0;
+	color: #F30000;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+	font-weight: 600;
+}
+.document-info-1 .demo .btn-cta:hover {
+	color: #fff;
+  background-color: #F30000;
+}
+
+.document-info-2 .demo .btn-cta {
+	background-color: #D44032;
+	border-bottom: 2px solid #D44032;
+	border-radius: 2px;
+	border: none;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.45rem;
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	font-weight: 700;
+}
+.document-info-2 .demo .btn-cta:hover {
+	color: #fff;
+  background-color: #334D68;
+}
+
+.document-info-3 .demo .btn-cta {
+	background-color: #293A57;
+	border-bottom: 2px solid #293A57;
+	border-radius: 2px;
+	border: none;
+	color: #FFFFFF;
+	font-family: 'Quattrocento', sans-serif;
+	font-size: 1.45rem;
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	font-weight: 700;
+}
+.document-info-3 .demo .btn-cta:hover {
+	color: #fff;
+  background-color: #334D68;
+}
+
+.document-info-4 .demo .btn-cta {
+	background-color: #007FDE;
+	border-bottom: 2px solid #1E1146;
+	border-radius: 40.03px;
+	color: #FFFFFF;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 1.45rem;
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	font-weight: 700;
+}
+.document-info-4 .demo .btn-cta:hover {
+	color: #fff;
+  background-color: #007FDE;
+}
+
+.module-color {
+	font-size: 15px;
+	color: #B7B4B0;
+}

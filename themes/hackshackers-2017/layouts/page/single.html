@@ -1,0 +1,43 @@
+{{ partial "header.html" }}
+{{ partial "nav.html" }}
+<div class="grid">
+	<div class="main-wrapper">
+		<div class="row row-space-between">
+
+			<div class="col-large-3 col-medium-12 left-column">
+				<aside>
+					<div class="module-block content-block">
+						<h4>Module</h4>
+					</div>
+					<div class="module-block content-block">
+						<h4>Module</h4>
+					</div>
+					<div class="module-block content-block">
+						<h4>Module</h4>
+					</div>
+				</aside>
+			</div>
+
+			<div class="col-large-9 col-medium-12 right-column">
+				<div class="headline-block content-block">
+					<h4>{{ .Title }}</h4>
+				</div>
+				<div class="subheadline-block content-block">
+					<h4>Subheading</h4>
+				</div>
+				<div class="byline-block content-block">
+					<h4>Byline meta</h4>
+				</div>
+
+				<div class="row">
+					<div class="col-large-9">
+						<article class="content-block">
+							<h4>Post entry</h4>
+						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ partial "footer.html" }}

@@ -1,0 +1,100 @@
+/*--refactor further--*/
+body {
+	position: relative;
+	padding-top: 0;
+}
+/*--layering structure--*/
+.page-content, .navbar, .sub-navbar, footer { position: relative; }
+.page-content { z-index: 1; }
+.sub-navbar { z-index: 2; }
+.navbar { z-index: 3; }
+/*--layering structure--*/
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+  display: block;
+}
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+img {
+  /* Responsive images (ensure images don't scale beyond their parents) */
+
+  max-width: 100%;
+  /* Part 1: Set a maxium relative to the parent */
+
+  width: auto\9;
+  /* IE7-8 need help adjusting responsive images */
+
+  height: auto;
+  /* Part 2: Scale the height according to the width, otherwise you get stretching */
+
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+img.opacity50 {
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+	opacity: 1;
+	cursor: default;
+}
+ul, li {
+	list-style: none;
+}
+
+.fade {
+	opacity: 0;
+	-webkit-transition: opacity 0.15s linear;
+	transition: opacity 0.15s linear;
+}
+.fade.in {
+	opacity: 1;
+}
+
+.muted-bg {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+
+/* for prototyping only */
+.seven-twenty-eight {
+	display: block;
+	margin: 0 auto;
+}
+.three-hundred {
+	display: none;
+}
+@media (max-width: 787px) {
+	.seven-twenty-eight {
+		display: none;
+	}
+	.three-hundred {
+		display: block;
+		margin: 0 auto;
+	}
+}
+
+.row-styletile {
+	margin-bottom: 40px;
+	margin-left: -15px;
+	margin-right: -15px;
+}

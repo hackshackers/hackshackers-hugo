@@ -1,0 +1,23 @@
+@media (max-width: 979px) {	
+	.hidden-lg, .visible-md, .hidden-sm {
+		display: block !important;
+	}
+	.visible-lg, .hidden-md, .visible-sm  {
+		display: none !important;
+	}
+	.visible-md {
+		display: block !important;
+	}
+	.sub-navbar-inner .filters .filter.dropdown {
+    margin-right: 0;
+	}
+	.dropdown.hybrid-dropdown-mobile .dropdown-list dt {
+		display: block;
+	}
+	.dropdown.hybrid-dropdown-mobile .dropdown-list .dropdown-menu {
+		display: none;
+	}
+	.dropdown.hybrid-dropdown-mobile .dropdown-list .dropdown-menu li {
+		display: block;
+	}
+}
