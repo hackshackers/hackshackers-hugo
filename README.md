@@ -19,4 +19,13 @@ $ npm install
 $ npm start
 ```
 
-This will start [Webpack](https://webpack.github.io/). Source files for SASS, JS, and images live in `themes/hackshackers-2017/client/`. Webpack will watch for changes and recompile as needed. When Webpack recompiles, it will trigger a reload of the page.
+This will start [Webpack](https://webpack.github.io/). Source files compiled by Webpack should be placed in `themes/hackshackers-2017/client/`.
+
+
+The Webpack bundle and any other static assets _in the theme_ that need be available to built pages should be placed in `themes/hackshackers-2017/static/`. When Hugo runs, this directory is copied to the build directory.
+
+To reference the static directory in a template, use `{{ .Site.Params.staticDir }}`. For example:
+
+```
+<img class="logo"  src="{{ .Site.Params.staticDir }}/svg/hh-horizontal.svg">
+```
