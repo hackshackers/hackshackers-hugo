@@ -1,5 +1,5 @@
 box: debian
 build:
-  steps:
+steps:
     - arjen/hugo-build:
-    version: "1.13.1"
+        version: "1.13.1"
