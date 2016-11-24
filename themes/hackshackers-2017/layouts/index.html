@@ -1,89 +1,29 @@
 {{ partial "header.html" }}
 {{ partial "nav.html" }}
 
-<div class="hero-wrapper row full-bleed">
-	<div class="col-large-12 col-medium-12">
-		<div class="content-block">
-			<h4>Hero image</h4>
-			<div class="dropdown-block">
-				<h4>Find Dropdown</h4>
+<div class="home-wrapper">
+	<div class="hero-wrapper">
+			<img src='https://s12.postimg.org/ddx6i7rvh/map3.png' border='0' alt='map3'/>
+	</div>
+
+	<section class="statement">
+		<div class="section-bg-gray">
+			<div class="statement-wrapper container">
+				<h4 class="statement-heading">Hacks/Hackers is a rapidly expanding <br /> international grassroots journalism organization</h4>
 			</div>
+		</div>
+	</section>
+
+	{{ partial "home-featured-events.html" }}
+	{{ partial "home-newsletter-signup.html" }}
+
+	<div class="section-bg-black">
+		<div class="section-wrapper container">
+			{{ partial "home-resources.html" }}
+			{{ partial "home-featured-organizers.html" }}
 		</div>
 	</div>
-</div>
-
-<div class="row full-bleed">
-	<div class="col-large-12 col-medium-12">
-		<div class="statement-wrapper content-block">
-			<h4>Mission Statement</h4>
-		</div>
-	</div>
-</div>
-
-<div class="grid">
-	<div class="main-wrapper">
-		<div class="row row-space-between row-middle">
-
-			<div class="col-large-12">
-				<div class="featured-events content-block">
-					<h4>Featured Events</h4>
-				</div>
-			</div>
-
-			<div class="col-large-6 col-medium-6">
-				<aside>
-					<div class="module-block content-block popular-resources">
-						<h4>image</h4>
-					</div>
-					<div class="featured-organizers module-block content-block">
-						<h4>Resources</h4>
-					</div>
-				</aside>
-			</div>
-
-			<div class="right-column col-large-6 col-medium-6">
-				<div class="featured-chapter content-block">
-					<h4>Newsletter Sign up</h4>
-				</div>
-				<div class="featured-organizers content-block">
-					<h4>Featured organizers</h4>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-			<div class="col-large-4 col-medium-4">
-				<div class="entry-block content-block">
-					<h4>Post</h4>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 </div>
 
 {{ partial "footer.html" }}

@@ -3,8 +3,10 @@ $spacer-large: 20px;
 $spacer-medium: 15px;
 $spacer-small: 10px;
 $spacer-xsmall: 5px;
+$spacer-section: 70px;
 
 $padding-edge: 0 16px;
+
 
 .push-left {
 	margin-right: auto;
@@ -12,4 +14,10 @@ $padding-edge: 0 16px;
 
 .push-right {
 	margin-left: auto;
+}
+
+.home-wrapper {
+	section {
+		margin-bottom: $spacer-section;
+	}
 }

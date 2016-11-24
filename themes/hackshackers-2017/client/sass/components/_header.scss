@@ -1,14 +1,8 @@
-.content-block {
-	&.logo-wrapper {
-		height: 120px;
-	}
-}
-
 .header-wrapper {
 	align-items: center;
 	display: flex;
-	margin-top: $spacer-large;
-	margin-bottom: $spacer-large;
+	margin-top: $spacer-gutter;
+	margin-bottom: $spacer-gutter;
 	padding: $padding-edge;
 }
 
@@ -43,7 +37,7 @@
 
 .header-logo {
 	display: block;
-	width: 340px;
+	width: 380px;
 }
 
 .main-nav {
@@ -51,7 +45,6 @@
 	height: 80px;
 	display: flex;
 	align-items: center;
-	margin-bottom: 25px;
 }
 
 .main-nav-items {

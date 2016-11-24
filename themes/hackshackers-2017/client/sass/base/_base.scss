@@ -1,3 +1,13 @@
 body {
 	font-family: $font-family-secondary;
 }
+
+.section-padding {
+	padding: 0px 80px;
+}
+
+.section-wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 90px 0px;
+}

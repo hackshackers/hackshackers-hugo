@@ -1,0 +1,27 @@
+.event-row {
+	border-top: $border-primary;
+	display: flex;
+	font-size: 18px;
+	justify-content: space-between;
+	padding: 30px 15px;
+}
+
+.event-name {
+	font-weight: 700;
+	width: 65%;
+}
+
+.event-date,
+.event-time {
+	width: 10%;
+}
+
+.event-time {
+	color: $color-gray;
+}
+
+.heading-section {
+	.featured-events-wrapper & {
+		padding-left: 10px;
+	}
+}
