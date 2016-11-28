@@ -19,10 +19,10 @@ build:
         - arjen/hugo-build@1.13.1:
             version: "0.17"
 
-deploy-production:
+deploy:
     steps:
         - s3sync:
             key-id: $HH_ALLEY_AWS_KEY
             key-secret: $HH_ALLEY_AWS_SECRET
-            bucket-url: $HH_AWS_BUCKET_PROD
+            bucket-url: $HH_AWS_BUCKET
             source-dir: ./public
