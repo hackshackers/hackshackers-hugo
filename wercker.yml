@@ -16,5 +16,5 @@ test-build:
             name: initialize git submodules
             code: |
                 git submodule update --init --recursive
-        - arjen/hugo-build:
-            version: "1.13.1"
+        - arjen/hugo-build@1.13.1:
+            version: "0.17"
