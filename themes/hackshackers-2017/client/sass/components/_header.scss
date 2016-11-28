@@ -50,9 +50,15 @@
 .main-nav-items {
 	font: $font-primary-nav;
 	display: flex;
+	transition-duration: .2s;
 
 	a {
 		text-decoration: none;
+		transition-duration: .2s;
+
+		&:hover {
+			color: $color-gray-light;
+		}
 	}
 
 	li {

@@ -15,28 +15,14 @@
 		right: 0;
 		bottom: 0;
 		opacity: 0.9;
-		// background: #4CB8C4; /* fallback for old browsers */
-		// background: -webkit-linear-gradient(to left, #4CB8C4 , #3CD3AD); /* Chrome 10-25, Safari 5.1-6 */
-		// background: linear-gradient(to left, #4CB8C4 , #3CD3AD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-// //
-// background: #00C9FF; /* fallback for old browsers */
-// background: -webkit-linear-gradient(to left, #00C9FF , #92FE9D); /* Chrome 10-25, Safari 5.1-6 */
-// background: linear-gradient(to left, #00C9FF , #92FE9D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-
-background: #43cea2; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #43cea2 , #185a9d); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #43cea2 , #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        
-
+		background: #43cea2; /* fallback for old browsers */
+		background: -webkit-linear-gradient(to left, #43cea2 , #185a9d); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to left, #43cea2 , #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	}
 
 	.statement-wrapper {
 		position: absolute;
-		top: 90px;
+		top: 120px;
 		width: 100%;
 		color: $color-white;
 		text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);

@@ -11,3 +11,14 @@
 		padding-left: $spacer-small;
 	}
 }
+
+.btn-view-more {
+	background: $color-white;
+	border-radius: 40.03px;
+	display: flex;
+	align-items: center;
+	width: 140px;
+	height: 30px;
+	justify-content: center;
+	margin: 0 auto;
+}

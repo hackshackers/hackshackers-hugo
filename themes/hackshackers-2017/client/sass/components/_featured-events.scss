@@ -4,6 +4,10 @@
 	font-size: 18px;
 	justify-content: space-between;
 	padding: 30px 15px;
+
+	&:last-of-type {
+		border-bottom: $border-primary;
+	}
 }
 
 .event-name {

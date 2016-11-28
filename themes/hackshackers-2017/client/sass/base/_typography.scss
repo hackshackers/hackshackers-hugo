@@ -22,4 +22,10 @@ $font-heading-statement: 700 #{(40rem/16)}/#{1.4} $font-family-primary;
 		bottom: 0;
 		right: -24px;
 	}
+
+	&.ruler-gray {
+		&:after {
+			background-color: $color-gray;	
+		}
+	}
 }
