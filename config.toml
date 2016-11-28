@@ -4,6 +4,5 @@ ignoreFiles = [ "README\\.md$" ]
 languageCode = "en-us"
 title = "Hacks/Hackers"
 theme = "hackshackers-2017"
-
-[params]
-	staticDir = "/themes/hackshackers-2017/static"
+disableRSS = true
+disableSitemap = true
