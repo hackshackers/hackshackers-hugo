@@ -33,7 +33,9 @@ This will start [Webpack](https://webpack.github.io/). Source files that are com
 Each of these subdirectories of `static` is copied to the _root directory_ when a Hugo build happens. So you would include them with a root-relative URL like:
 
 ```
-<img class="logo"  src="/svg/hh-horizontal.svg">
+/themes/hackshackers-2017/static/images/work.png
+...
+<img src="/images/work.png">
 ```
 
 ### Pull requests
