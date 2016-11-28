@@ -5,37 +5,20 @@
 	}
 }
 
-.right-column {
-	>* {
-		margin-bottom: $spacer-gutter;
-
-		&:last-child {
-			margin-bottom: 0;
-		}
-	}
-}
-
 .featured-chapter,
 .popular-resources,
 .entry-block {
 	height: 350px;
 }
 
-.upcoming-events,
-.statement-wrapper {
+.upcoming-events {
 	height: 250px;
 }
 
-.featured-organizers,
-.featured-events {
+.featured-organizers {
 	height: 485px;
 }
 
-.row-middle,
-.statement-wrapper {
+.row-middle {
 	margin-bottom: 40px;
-}
-
-.footer-wrapper {
-	padding: 0;
 }

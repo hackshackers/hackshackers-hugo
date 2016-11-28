@@ -1,0 +1,24 @@
+.btn-outline {
+	background: none;
+	border: 3px solid $color-white;
+	color: $color-white;
+	padding: 20px 80px;
+	font-size: 15px;
+	font-weight: 400;
+	text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+	i {
+		padding-left: $spacer-small;
+	}
+}
+
+.btn-view-more {
+	background: $color-white;
+	border-radius: 40.03px;
+	display: flex;
+	align-items: center;
+	width: 140px;
+	height: 30px;
+	justify-content: center;
+	margin: 0 auto;
+}

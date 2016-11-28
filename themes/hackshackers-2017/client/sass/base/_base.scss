@@ -1,17 +1,13 @@
 body {
-	font-family: "helvetica";
+	font-family: $font-family-secondary;
 }
 
-h4 {
-	font-weight: 400;
+.section-padding {
+	padding: 0px 80px;
 }
 
-.full-bleed {
-	margin: 0;
-	padding: 0;
-
-	> * {
-		padding-left: 0;
-		padding-right: 0;
-	}
+.section-wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 90px 0px;
 }

@@ -1,36 +1,32 @@
-<div class="grid">
-	<div class="header-wrapper row">
+<div class="container">
+	<div class="header-wrapper">
 
-		<div class="col-large-4 col-medium-6 col-small-6">
-			<div class="logo-wrapper content-block">
-				<h4>Logo</h4>
-			</div>
-		</div>
 
-		<div class="col-large-2 col-medium-2 hide-small">
-			<div class="content-block">
-				<h4>Group Dropdown</h4>
+			<div class="logo-wrapper">
+				<img class="header-logo"  src="{{ .Site.Params.staticDir }}/svg/hh-horizontal.svg">
 			</div>
-		</div>
 
-		<div class="col-small-3 align-right hide-medium hide-large">
-			<div class="content-block">
-				<h4>Menu</h4>
-			</div>
-		</div>
+			<!-- <div class="dropdown-wrapper">
+				<h4>Find group</h4>
+				<i class="fa fa-chevron-down" aria-hidden="true"></i>
+			</div> -->
 
-		<div class="col-large-2 col-medium-2 push-right hide-small">
-			<div class="content-block">
-				<h4>Subscribe</h4>
-			</div>
-		</div>
+			<button class="header-subscribe push-right">Subscribe</button>
+
 	</div>
 </div>
 
-<div class="main-nav row full-bleed">
-	<div class="col-large-12 col-medium-12 hide-small">
-		<div class="content-block">
-			<h4>Main Navigation</h4>
+<nav role="navigation" class="main-nav full-bleed">
+	<div class="container">
+		<div class="nav-wrapper">
+			<ul class="main-nav-items">
+				<li><a href="#">About</a></li>
+				<li><a href="#">Find a Group</a></li>
+				<li><a href="#">Featured Events</a></li>
+				<li><a href="#">Resources</a></li>
+				<li><a href="#">Blog</a></li>
+			</ul>
+			<i class="fa fa-search push-right" aria-hidden="true"></i>
 		</div>
 	</div>
-</div>
+</nav>

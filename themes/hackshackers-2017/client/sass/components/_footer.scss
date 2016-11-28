@@ -1,0 +1,30 @@
+.footer-nav {
+	display: flex;
+	font-family: $font-family-primary;
+	font-size: 14px;
+
+	li{
+		&:not(:last-of-type) {
+			margin-right: 40px;
+		}
+	}
+}
+
+.footer-wrapper {
+	border-top: $border-primary;
+}
+
+.footer-container {
+	align-items: baseline;
+	display: flex;
+	justify-content: space-between;
+	padding: 55px 85px 30px;
+}
+
+.footer-social {
+	li {
+		&:not(:first-of-type) {
+			margin-left: 20px;
+		}
+	}
+}
