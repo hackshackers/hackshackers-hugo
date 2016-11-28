@@ -1,5 +1,5 @@
 box: debian
-test-build:
+build:
     steps:
         - script:
             name: install git
@@ -18,3 +18,11 @@ test-build:
                 git submodule update --init --recursive
         - arjen/hugo-build@1.13.1:
             version: "0.17"
+
+deploy-production:
+    steps:
+        - s3sync:
+            key-id: $AWS_KEY
+            key-secret: $AWS_SECRET
+            bucket-url: $AWS_BUCKET
+            source-dir: ./public
