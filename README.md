@@ -21,7 +21,20 @@ $ npm install
 $ npm start
 ```
 
-This will start [Webpack](https://webpack.github.io/). Source files for SASS, JS, and images live in `themes/hackshackers-2017/client/`. Webpack will watch for changes and recompile as needed. When Webpack recompiles, it will trigger a reload of the page.
+This will start [Webpack](https://webpack.github.io/). Source files that are compiled by Webpack live in `themes/hackshackers-2017/webpack-src/`
+
+`themes/hackshackers-2017/static/` contains:
+
+* `webpack/` - compiled Webpack assets
+* `images/` - images that belong to the _theme_ (not content images
+* `svg/` - SVG assets
+* other stuff as needed
+
+Each of these subdirectories of `static` is copied to the _root directory_ when a Hugo build happens. So you would include them with a root-relative URL like:
+
+```
+<img class="logo"  src="/svg/hh-horizontal.svg">
+```
 
 ### Pull requests
 

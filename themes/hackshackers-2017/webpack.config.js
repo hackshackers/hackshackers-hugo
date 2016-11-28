@@ -4,11 +4,11 @@ var path = require('path');
 var webpackConfig = {
   watch: !!process.env.WATCH,
   entry: [
-    './client/js/loader.js',
-    './client/sass/screen.scss'
+    './webpack-src/js/loader.js',
+    './webpack-src/sass/screen.scss'
   ],
   output: {
-    path: path.join(__dirname, '/static'),
+    path: path.join(__dirname, '/static/webpack/'),
     publicPath: '',
     filename: 'index_bundle.js'
   },
