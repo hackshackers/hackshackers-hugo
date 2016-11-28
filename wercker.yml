@@ -1,5 +1,5 @@
 box: debian
-build:
+test-build:
     steps:
         - script:
             name: install git
@@ -7,7 +7,7 @@ build:
                 apt-get update
                 apt-get install git -y
         - add-ssh-key:
-            keyname: Wercker
+            keyname: HH_BUILD
             host: github.com
         - add-to-known_hosts:
             hostname: github.com
