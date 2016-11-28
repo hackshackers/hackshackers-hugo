@@ -22,7 +22,7 @@ build:
 deploy-production:
     steps:
         - s3sync:
-            key-id: $AWS_KEY
-            key-secret: $AWS_SECRET
-            bucket-url: $AWS_BUCKET
+            key-id: $HH_ALLEY_AWS_KEY
+            key-secret: $HH_ALLEY_AWS_SECRET
+            bucket-url: $HH_AWS_BUCKET_PROD
             source-dir: ./public
