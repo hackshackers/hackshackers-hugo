@@ -10,13 +10,18 @@ var webpackConfig = {
   output: {
     path: path.join(__dirname, '/static/webpack/'),
     publicPath: '',
-    filename: 'index_bundle.js'
+    filename: 'index_bundle.js',
+    jsonpFunction: 'hackshackersJsonp'
   },
   module: {
+    preLoaders: [
+      { test: /\.js$/, loader: 'eslint', exclude: /node_modules/ },
+    ],
     loaders: [
       {
-        loader: 'babel-loader',
-        test: /\.js$/
+        loader: 'babel',
+        test: /\.js$/,
+        include: path.join(__dirname, 'webpack-src/js'),
       },
       {
         loaders: ['style', 'css', 'sass'],
