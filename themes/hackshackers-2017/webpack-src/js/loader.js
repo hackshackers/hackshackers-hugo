@@ -1,1 +1,3 @@
-console.info('webpack loaded');
+import Map from './Map';
+
+Map('.map');
