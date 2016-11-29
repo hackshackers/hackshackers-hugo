@@ -3,7 +3,12 @@
 	font-family: $font-family-primary;
 	font-size: 14px;
 
-	li{
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+		line-height: 25px;
+	}
+
+	li {
 		&:not(:last-of-type) {
 			margin-right: 40px;
 		}
@@ -19,6 +24,13 @@
 	display: flex;
 	justify-content: space-between;
 	padding: 55px 85px 30px;
+
+	@media #{$breakpoint-mobile} {
+		padding: $spacer-large;
+	}
+	@media #{$breakpoint-tablet} {
+		padding: 40px;
+	}
 }
 
 .footer-social {

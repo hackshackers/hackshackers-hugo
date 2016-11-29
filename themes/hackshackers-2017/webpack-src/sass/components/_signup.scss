@@ -7,37 +7,32 @@
 	.widget-heading {
 		margin-bottom: 3px;
 	}
-
-	input {
-		border: 1px solid $border-primary;
-		border-radius: 3px 0 0 3px;
-		height: 30px;
-		padding-left: 34px;
-		border-right: none;
-		width: 79%;
-	}
 }
 
 .widget-signup--form {
 	display: flex;
 
 	button {
-		background-color: $color-orange;
+		background-color: $color-orange-light;
 		color: $color-white;
 		text-transform: uppercase;
 		font-weight: 700;
 		padding: 0px 20px;
+		margin-left: 40px;
 
 		&:hover {
 			background-color: $color-black;
 			color: $color-white;
 		}
 	}
+
+	.right-column-signup & {
+		margin-bottom: $spacer-large;
+	}
 }
 
 .widget-signup--input {
 	position: relative;
-	width: 100%;
 
 	i {
 		color: $color-gray;
@@ -45,4 +40,13 @@
 		top: 11px;
 		left: 10px;
 	}
+}
+
+.form-input {
+	border: 1px solid $border-primary;
+	border-radius: 3px 0 0 3px;
+	height: 30px;
+	padding-left: 34px;
+	border-right: none;
+	width: 100%;
 }

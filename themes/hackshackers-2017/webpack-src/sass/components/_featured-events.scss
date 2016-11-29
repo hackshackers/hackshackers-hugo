@@ -7,17 +7,31 @@
 
 	&:last-of-type {
 		border-bottom: $border-primary;
+		margin-bottom: $spacer-large;
+	}
+
+	@media #{$breakpoint-mobile} {
+		flex-wrap: wrap;
 	}
 }
 
 .event-name {
 	font-weight: 700;
 	width: 65%;
+
+	@media #{$breakpoint-mobile} {
+		margin-bottom: $spacer-small;
+		width: 100%;
+	}
 }
 
 .event-date,
 .event-time {
 	width: 12%;
+
+	@media #{$breakpoint-mobile} {
+		width: 45%;
+	}
 }
 
 .event-time {

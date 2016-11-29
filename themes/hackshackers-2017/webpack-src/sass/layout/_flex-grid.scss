@@ -6,11 +6,10 @@ $theflexgrid-maxwidth: 1200px !default;
 $theflexgrid-silent-only: false !default;
 
 // breakpoints
-$theflexgrid-breakpoint-small: "(max-width: 767px)" !default;
-$theflexgrid-breakpoint-medium: "(min-width: 768px) and (max-width: 1023px)" !default;
-$theflexgrid-breakpoint-large: "(min-width: 1024px) and (max-width: 1239px)" !default;
-$theflexgrid-breakpoint-xlarge: "(min-width: 1240px)" !default;
-$gray: #a2a2a2;
+$breakpoint-mobile: "(max-width: 767px)" !default;
+$breakpoint-tablet: "(min-width: 768px) and (max-width: 1023px)" !default;
+$breakpoint-desktop: "(min-width: 1024px)" !default;
+$breakpoint-desktop-large: "(min-width: 1240px)" !default;
 
 //
 // Viewport mixin
@@ -180,47 +179,37 @@ $gray: #a2a2a2;
     /*
      * Small viewport (mobile)
      */
-    @media #{$theflexgrid-breakpoint-small} {
+    @media #{$breakpoint-mobile} {
         @include viewport(small);
     }
 
     /*
      * Medium viewport (tablets)
      */
-    @media #{$theflexgrid-breakpoint-medium} {
+    @media #{$breakpoint-tablet} {
         @include viewport(medium);
     }
 
     /*
      * Large viewport (desktop)
      */
-    @media #{$theflexgrid-breakpoint-large} {
+    @media #{$breakpoint-desktop} {
         @include viewport(large);
     }
 
-    @media #{$theflexgrid-breakpoint-xlarge} {
+    @media #{$breakpoint-desktop-large} {
         @include viewport(large);
     }
-}
-
-.content-block {
-  align-items: center;
-	background: $gray;
-	color: #fff;
-  display: flex;
-  justify-content: center;
-	min-height: 3em;
-	text-align: center;
 }
 
 .container {
-  @media #{$theflexgrid-breakpoint-medium} {
+  @media #{$breakpoint-tablet} {
     width: 735px;
   }
-  @media #{$theflexgrid-breakpoint-large} {
+  @media #{$breakpoint-desktop} {
     width: 1001px;
   }
-  @media #{$theflexgrid-breakpoint-xlarge} {
+  @media #{$breakpoint-desktop-large} {
     width: 1200px;
   }
 }
