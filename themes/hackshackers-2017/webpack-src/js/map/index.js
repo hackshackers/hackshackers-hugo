@@ -1,14 +1,15 @@
-import L from 'leaflet';
+// import Leaflet from 'leaflet';
 
-export default function(selector) {
-	const mapContainer;
-	function init(selector) {
-		mapContainer = document.querySelector(selector);
-		if (!mapContainer) {
-			return;
-		}
-		mapContainer.innerText = 'hello world';
-	}
+export default function (selector) {
+  let mapContainer = null;
 
-	init(selector);
+  function init() {
+    mapContainer = document.querySelector(selector);
+    if (! mapContainer) {
+      return;
+    }
+    mapContainer.innerText = 'hello world';
+  }
+
+  init();
 }

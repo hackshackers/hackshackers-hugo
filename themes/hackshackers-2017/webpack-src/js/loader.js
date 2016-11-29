@@ -1,3 +1,3 @@
-import Map from './Map';
+import map from './map';
 
-Map('.map');
+map('.map');
