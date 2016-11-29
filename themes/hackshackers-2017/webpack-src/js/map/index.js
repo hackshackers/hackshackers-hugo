@@ -1,30 +1,36 @@
 import * as LeafletStyles from 'style!raw!leaflet/dist/leaflet.css'; // eslint-disable-line no-unused-vars
 import Leaflet from 'leaflet';
+import config from './config';
 
-export default function (selector) {
-  const mapEl = document.querySelector(`#${selector}`);
+export default function (mapId) {
+  const mapEl = document.querySelector(`#${mapId}`);
+  const groups = window.__hh_groups__ || null;
 
-  function tileLayer() {
-    return Leaflet.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoiam9zaGthZGlzIiwiYSI6ImNpaDBsbG1rZzB3bjJ2a201eXY4YzlhMnIifQ.YA0hpf_w8bJgwrLNmZDE-Q',
-      {
-        maxZoom: 9,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        detectRetina: true,
-        reuseTiles: false,
-      }
-    );
+  function addTileLayer(map) {
+    Leaflet.tileLayer(config.tileLayer.url, config.tileLayer.opts).addTo(map);
+  }
+
+  function addMarkers(map) {
+    Object.keys(groups).forEach((group) => {
+      const latLng = Leaflet.latLng(groups[group].coordinates);
+      Leaflet.marker(latLng, {
+        title: groups[group].label,
+      }).addTo(map);
+    });
   }
 
   function init() {
-    if (! mapEl) {
+    if (! mapEl || ! groups) {
       return;
     }
 
-    mapEl.style.height = '400px';
-    mapEl.style.width = '100%';
+    // Set these manually in case Webpack hasn't applied styles yet
+    mapEl.style.height = config.mapStyle.height;
+    mapEl.style.width = config.mapStyle.width;
 
-    const map = Leaflet.map(selector).setView([51.505, -0.09], 2);
-    tileLayer().addTo(map).redraw();
+    const map = Leaflet.map(mapId).setView(config.map.center, config.map.zoom);
+    addTileLayer(map);
+    addMarkers(map);
   }
 
   init();
