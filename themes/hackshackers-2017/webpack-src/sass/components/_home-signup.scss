@@ -4,6 +4,11 @@
 
 .left-column-signup {
 	min-width: 50%;
+	display: none;
+
+	@media #{$breakpoint-desktop} {
+		display: block;
+	}
 }
 
 .home-signup-img {
@@ -18,6 +23,11 @@
 
 	p {
 		margin-bottom: $spacer-medium;
+	}
+
+	@media #{$breakpoint-mobile} {
+		padding: $spacer-large;
+		width: 100%;
 	}
 }
 

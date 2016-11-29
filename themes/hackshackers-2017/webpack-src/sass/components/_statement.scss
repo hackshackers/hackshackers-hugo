@@ -6,7 +6,16 @@
 	font: $font-heading-statement;
 	margin-bottom: 90px;
 
+	@media #{$breakpoint-mobile} {
+		line-height: 38px;
+	}
+
 	span {
 		font-size: 50px;
+
+		@media #{$breakpoint-mobile} {
+			display: block;
+			font-size: 40px;
+		}
 	}
 }

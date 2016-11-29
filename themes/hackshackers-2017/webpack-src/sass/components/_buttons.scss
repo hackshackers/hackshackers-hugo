@@ -22,3 +22,26 @@
 	justify-content: center;
 	margin: 0 auto;
 }
+
+
+.btn-view-more--blue {
+	align-items: baseline;
+	background-color: $color-blue;
+	border-bottom: 2px solid $color-blue-dark;
+	border-radius: 40px;
+	color: $color-white;
+	display: flex;
+	font-weight: 700;
+	letter-spacing: .07em;
+	margin: 0 auto;
+	padding: 10px 20px;
+	text-transform: uppercase;
+
+	a {
+		transition-duration: .2s;
+	}
+
+	.fa-chevron-right {
+		margin-left: $spacer-small;
+	}
+}
