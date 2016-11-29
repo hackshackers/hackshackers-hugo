@@ -10,6 +10,9 @@ export default function (mapId) {
     Leaflet.tileLayer(config.tileLayer.url, config.tileLayer.opts).addTo(map);
   }
 
+  /**
+   * @todo Use custom marker
+   */
   function addMarkers(map) {
     Object.keys(groups).forEach((group) => {
       const latLng = Leaflet.latLng(groups[group].coordinates);
