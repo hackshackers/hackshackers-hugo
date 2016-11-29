@@ -1,0 +1,48 @@
+.widget-signup {
+	p {
+		font-size: 14px;
+		margin-bottom: $spacer-medium;
+	}
+
+	.widget-heading {
+		margin-bottom: 3px;
+	}
+
+	input {
+		border: 1px solid $border-primary;
+		border-radius: 3px 0 0 3px;
+		height: 30px;
+		padding-left: 34px;
+		border-right: none;
+		width: 79%;
+	}
+}
+
+.widget-signup--form {
+	display: flex;
+
+	button {
+		background-color: $color-orange;
+		color: $color-white;
+		text-transform: uppercase;
+		font-weight: 700;
+		padding: 0px 20px;
+
+		&:hover {
+			background-color: $color-black;
+			color: $color-white;
+		}
+	}
+}
+
+.widget-signup--input {
+	position: relative;
+	width: 100%;
+
+	i {
+		color: $color-gray;
+		position: absolute;
+		top: 11px;
+		left: 10px;
+	}
+}

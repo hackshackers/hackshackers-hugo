@@ -1,0 +1,28 @@
+.widget-most-popular--img {
+	margin-right: $spacer-large;
+}
+
+.widget-most-popular--post {
+	display: flex;
+}
+
+.widget-most-popular--header {
+	font: $font-widget-header;
+	padding-bottom: 3px;
+}
+
+.widget-most-popular--meta {
+	color: $color-gray;
+	display: flex;
+	font-size: 14px;
+}
+
+.widget-most-popular--byline {
+	margin-right: $spacer-small;
+}
+
+.widget-most-popular--list {
+	li {
+		margin-bottom: 20px;
+	}
+}
