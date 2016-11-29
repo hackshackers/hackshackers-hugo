@@ -4,10 +4,22 @@ body {
 
 .section-padding {
 	padding: 0px 80px;
+	@media #{$breakpoint-mobile} {
+		padding: 0 $spacer-small;
+	}
+
+	@media #{$breakpoint-tablet} {
+		padding: 0 $spacer-large;
+	}
 }
 
 .section-wrapper {
 	display: flex;
 	justify-content: space-between;
 	padding: 90px 0px;
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+		padding: 35px 0;
+	}
 }
