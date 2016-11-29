@@ -1,3 +1,3 @@
 import map from './map';
 
-map('.map');
+map('hero-map');
