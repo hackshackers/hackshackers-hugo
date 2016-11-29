@@ -5,4 +5,8 @@
 .statement-heading {
 	font: $font-heading-statement;
 	margin-bottom: 90px;
+
+	span {
+		font-size: 50px;
+	}
 }

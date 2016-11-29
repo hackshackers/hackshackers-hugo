@@ -19,16 +19,21 @@
 }
 
 .left-column {
-	margin-right: 50px;
-	min-width: 300px;
+	border-right: $border-primary;
+	padding-right: 28px;
+	padding-top: 5px;
+	width: 100%;
+	max-width: 300px;
 }
 
 .right-column {
+	padding-left: 28px;
 	width: 100%;
 }
 
 .single-headline {
 	font: $font-single-header;
+	letter-spacing: -.03em;
 
 	&:after {
 		content: '—';
