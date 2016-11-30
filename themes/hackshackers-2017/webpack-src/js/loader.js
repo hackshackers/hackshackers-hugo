@@ -1,1 +1,3 @@
-console.info('webpack loaded');
+import map from './map';
+
+map('hero-map');
