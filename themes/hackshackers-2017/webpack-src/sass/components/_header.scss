@@ -76,7 +76,16 @@
 	align-items: center;
 
 	@media #{$breakpoint-mobile} {
+    bottom: 0px;
 		display: none;
+    display: block;
+    height: 100%;
+		padding-top: $spacer-gutter;
+		position: fixed;
+    right: -60%;
+		top: 0px;
+		width: 60%;
+		z-index: 9999;
 	}
 }
 
@@ -97,6 +106,23 @@
 	li {
 		&:not(:last-of-type) {
 			padding-right: 50px;
+
+			@media #{$breakpoint-mobile} {
+				padding-bottom: $spacer-large;
+			}
 		}
 	}
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+	}
+}
+
+.main-nav-search {
+		display: flex;
+		margin-left: auto;
+}
+
+.mobile-close {
+	display: none;
 }
