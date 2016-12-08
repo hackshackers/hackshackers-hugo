@@ -8,8 +8,12 @@ This site is built using [Hugo](https://gohugo.io), a static site generator writ
 
 1. [Install](https://gohugo.io/overview/installing/) Hugo
 1. `$ git clone git@github.com:hackshackers/hackshackers-hugo.git`
-1. `$ cd hackshackers-hugo && git submodule init && git submodule update`
-1. `$ hugo serve`
+1. `$ cd hackshackers-hugo`
+1. To develop locally with _sample_ content (recommended most of the time):
+  1. `$ hugo --config=devConfig.toml server`
+1. To develop locally with _production_ content (Git submodules can be tricky):
+  1. `$ git submodule update --init --recursive`
+  1. `$ hugo server`
 
 That will build the static pages and start the local Go server at [http://localhost:1313/](http://localhost:1313/).
 
