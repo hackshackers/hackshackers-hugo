@@ -5,51 +5,28 @@
 
     <div class="left-column">
       <aside>
-        {{ partial "widget-most-popular.html" }}
-        {{ partial "widget-signup.html" }}
-        <div class="module-block content-block">
-          <h4>Module</h4>
-        </div>
-        <div class="module-block content-block">
-          <h4>Module</h4>
-        </div>
+        {{ partial "widgets/most-popular.html" }}
+        {{ partial "widgets/signup.html" }}
+        {{ partial "widgets/placeholder.html" }}
+        {{ partial "widgets/placeholder.html" }}
       </aside>
     </div>
 
     <div class="right-column">
-      <h2 class="single-headline">Fake news and trust in the media take front row</h2>
-      <div class="single-meta">
-        <h4 class="single-meta-byline"><i class="fa fa-user" aria-hidden="true"></i>samanthasunne</h4>
-        <h4 class="single-meta-date">Nov 28, 2016</h4>
-        <a href="https://github.com/hackshackers/hackshackers-hugo-content/edit/master/{{ .File.Dir }}{{ .File.LogicalName }}" class="link-hack-this">Suggest edits</a>
-      </div>
+      <h2 class="single-headline">{{ .Title }}</h2>
+
+      {{ if eq .Type "blog" }}
+        {{ partial "meta-single.html" . }}
+      {{ end }}
+
+      {{ if isset .Params "sectionfront" }}
+        {{ partial (printf "section-fronts/%s.html" .Section) }}
+      {{ end }}
+
+      {{ partial "utils/suggest-edits.html" . }}
+
       <article class="single-article">
-        <p>Good morning, afternoon, <a href="#">evening or night, hacks and hackers.</a> After a year of news events like Brexit, the European refugee crisis and the U.S. election, journalists are getting more concerned about the spread of fake news and an apparent lack of trust from the public. Organizations and private companies are starting to take action, but it’s going to be a long road ahead.</p>
-        <p>
-          <h4>The week ahead:</h4>
-          <li>Brisbane is socialising at the Australian Broadcasting</li> <li>Corporation</li>
-          <li>London is holding its November meetup</li>
-          <li>Zurich is talking about storytelling</li>
-          <li>Miami and IRE are holding their regular weekly open labs</li>
-        </p>
-        <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Transportat%C3%B3n?src=hash">#Transportatón</a> 5 equipos armados y trabajando <a href="https://t.co/aQF2N21KMQ">pic.twitter.com/aQF2N21KMQ</a></p>&mdash; HacksHackersMZA (@HacksHackersMZA) <a href="https://twitter.com/HacksHackersMZA/status/799627575949541376">November 18, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <p>
-          <h4>Chapter spotlight:</h4>
-          Helsinki met last month to share info about the Uutisraivaaja media innovation contest in Finland. Event organizer Rosa Lampela learned something that may be counterintuitive: sometimes you can have too many speakers.
-          “Even though the speeches in H/H are supposed to be quite short, a lot of time goes into the questions and discussion. That’s a good thing as they are the whole point of the meetings. Now I know not to crowd the schedule.”
-        </p>
-        <br />
-        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Talking with hacks/hackers organizers from all over the world. Most of them use HackDash 🙈</p>&mdash; Dan Zajdband (@impronunciable) <a href="https://twitter.com/impronunciable/status/789808194575077376">October 22, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <br />
-        <h4>Worth a read:</h4>
-        <ul>
-          <li><a href="#">Die Welt in Germany created an analytics ‘score’ to assign to articles, taking into account things like time spent and social media shares (journalism.co.uk)</a></li>
-          <li><a href="#">The NYT tracked a case study of some false information going viral and political (NYTimes)</a></li>
-          <li><a href="#">Facebook created a tool that lets governments censor content by location in order to break into the China user market (NYTimes)</a></li>
-          <li><a href="#">Privacy and security are trending again, as they often are these days, and freeCodeCamp offered a one-hour walkthrough of how to enable basic encryption features (Medium)</a></li>
-        </ul>
+        {{ .Content }}
       </article>
     </div>
   </div>

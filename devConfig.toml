@@ -9,4 +9,4 @@ disableRSS = true
 disableSitemap = true
 
 # Dev-specific config options
-contentDir = "themes/hackshackers-2017/sample-content"
+contentDir = "sample-content"
