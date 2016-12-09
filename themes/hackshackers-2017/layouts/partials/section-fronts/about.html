@@ -1,1 +1,10 @@
 <h3>Custom section front module for /about</h3>
+
+<ul>
+  {{/* loop through pages in the About section, excluding the sectionfront */}}
+  {{ range $.Site.Pages }}
+    {{ if and (eq .Section "about") (not ( isset .Params "sectionfront")) }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+<ul>

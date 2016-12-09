@@ -2,7 +2,7 @@
 title: "Resources"
 description: "Resources for Hacks/Hackers group organizers and members"
 type: "page"
-sectionFront: true
+sectionfront: true
 ---
 
 Main content of the Resources section front page. Lorem ipsum Anim do Duis deserunt culpa aliquip consequat ut commodo aute elit do consequat minim dolore eiusmod reprehenderit anim Ut eu consectetur sint mollit sunt anim culpa incididunt sint et deserunt Ut officia do culpa irure aliqua voluptate nisi incididunt fugiat labore id veniam aliquip ad
