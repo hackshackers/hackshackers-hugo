@@ -2,6 +2,13 @@ box: debian
 build:
     steps:
         - script:
+            name: check if disabled
+            code: |
+                if [ ! -z ${DISABLE+x} ]; then
+                    error "Wercker is currently disabled."
+                    exit 1;
+                fi
+        - script:
             name: install git
             code: |
                 apt-get update

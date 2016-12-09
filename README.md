@@ -2,11 +2,16 @@
 
 [![wercker status](https://app.wercker.com/status/fe62437d890aa393a1bd651a16be98a9/s/master "wercker status")](https://app.wercker.com/project/byKey/fe62437d890aa393a1bd651a16be98a9)
 
-This site is built using [Hugo](https://gohugo.io), a static site generator written in [Go](http://golang.org/). This repository contains the general site configuration, sample content, and the `hackshackers-2017` theme.
 
-All of the **live** content is in the [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) repository, which is a [submodule](https://github.com/blog/2104-working-with-submodules) of the main repo.
+## Overview
 
-### Local dev setup
+This site is built using [Hugo](https://gohugo.io), a static site generator written in [Go](http://golang.org/).
+
+This is the "main" repository, containing general site configuration, sample content, and the `hackshackers-2017` [theme](https://gohugo.io/themes/overview/). **The theme contains all of the templates, CSS, and JS files.**
+
+All of the site's content pages are generated from Markdown files in [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content). **Think of that repository as the database.** It is included as a [submodule](https://github.com/blog/2104-working-with-submodules) of the main repo.
+
+## Local dev setup
 
 To start the local Go server at [http://localhost:1313/](http://localhost:1313/) with pages compiled from the `sample-content/` directory:
 
@@ -49,7 +54,7 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
 <img src="/images/work.png">
 ```
 
-### Branching and pull requests
+## Branching and pull requests
 
 1. Fork the repository
   1. Use [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) for updates to the Hugo site config and site theme.
@@ -60,7 +65,7 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
 1. `$ git push origin [my-feature-branch]`
 1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo` or `hackshackers/hackshackers-hugo-content`
 
-### Deployments
+## Deployments
 
 We have three development tiers to which we deploy automatically when new commits are received in the corresponding Github branch in **hackshackers-hugo**:
 
@@ -70,6 +75,6 @@ We have three development tiers to which we deploy automatically when new commit
 | `master`     | [hh-staging](http://hh-staging.s3-website-us-west-2.amazonaws.com/) | Branch off and merge into `master`; use `hh-staging` for final pre-production QA testing before merging to `production`. |
 | `sandbox`    | [hh-sandbox](http://hh-sandbox.s3-website-us-west-2.amazonaws.com/) | This branch is **never** merged to production; use for testing unfinished work. |
 
-#### Deploying new/updated content
+### Deploying new/updated content
 
 New commits on the `master` branch of **hackshackers-hugo-content** are automatically pulled into both the `production` and `master` branches of **hackshackers-hugo**, which then deploy automatically to the production and staging tiers, respectively.
