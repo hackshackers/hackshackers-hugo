@@ -49,12 +49,23 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
 <img src="/images/work.png">
 ```
 
-### Pull requests and deployments
+### Branching and pull requests
 
-To edit the Hugo site configuration or the theme, fork _this repo_ ([hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo)) and make a pull request.
+1. Fork the repository
+  1. Use [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) for updates to the Hugo site config and site theme.
+  1. Use [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) to edit the content of existing pages or add new pages to the site.
+1. `$ git checkout master && git pull origin master` (ensures you have the latest updates)
+1. `$ git checkout -b my-feature-branch` (creates and checks out a new branch)
+1. Make your changes and test them locally
+1. `$ git push origin my-feature-branch`
+1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo`
 
-To edit the content or metadata of existing pages, or to create a new page, fork [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) and make a pull request.
+### Deployments
 
-New commits on the `master` branch will trigger an automatic Hugo rebuild and deployment to http://hh-production.s3-website-us-west-2.amazonaws.com/
+We have three development tiers to which we deploy automatically when new commits are received in the corresponding Github branch:
 
-The `staging` branch works the same way, but deploys to http://hh-staging.s3-website-us-west-2.amazonaws.com/
+| Branch     | Tier          | Usage |
+|------------|---------------|-------|
+| `production` | [hh-production](http://hh-production.s3-website-us-west-2.amazonaws.com/) | Restricted branch for the live site; this branch should **only** receive commits from the `master` branch. |
+| `master`     | [hh-staging](http://hh-staging.s3-website-us-west-2.amazonaws.com/) | Branch off and merge into `master`; use `hh-staging` for final pre-production QA testing before merging to `production`. |
+| `sandbox`    | [hh-sandbox](http://hh-sandbox.s3-website-us-west-2.amazonaws.com/) | This branch is **never** merged to production; use for testing unfinished work. |
