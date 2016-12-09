@@ -1,10 +1,16 @@
 {{ partial "header.html" }}
 {{ partial "nav.html" }}
+
+<div class="map-wrapper">
+  {{ partial "map.html" . }}
+</div>
+
 <div class="container">
   <div class="single-wrapper">
+    <h2 class="events-landing-heading">54 Local Groups</h2>
+    <h3>Here are the local chapters that have started up so far. Others are in the works.</h3>
 
-    <h1>Groups landing page</h1>
-
+    {{ partial "group-cities.html" . }}
   </div>
 </div>
 {{ partial "footer.html" }}

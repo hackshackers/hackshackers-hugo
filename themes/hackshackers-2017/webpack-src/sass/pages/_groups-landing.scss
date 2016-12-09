@@ -1,0 +1,24 @@
+.local-groups {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.local-groups-city {
+	margin-bottom: $spacer-large;
+	width: 22%;
+}
+
+.local-groups-city-box {
+	display: flex;
+	background: $color-black;
+	color: $color-white;
+	align-items: center;
+	justify-content: center;
+	padding: 20px 30px;
+}
+
+.local-groups-city-title {
+	font: $font-primary-nav;
+	text-transform: uppercase;
+}

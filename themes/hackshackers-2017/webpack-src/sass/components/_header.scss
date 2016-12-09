@@ -3,7 +3,6 @@
 	display: flex;
 	margin-top: $spacer-gutter;
 	margin-bottom: $spacer-gutter;
-	padding: $padding-edge;
 
 	@media #{$breakpoint-mobile} {
 		border-bottom: $border-primary;
@@ -16,7 +15,6 @@
 .nav-wrapper {
 	display: flex;
 	color: $color-gray;
-	padding: $padding-edge;
 
 	.fa-search {
 		font-size: 20px;
