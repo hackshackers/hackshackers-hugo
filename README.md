@@ -55,9 +55,9 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
   1. Use [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) for updates to the Hugo site config and site theme.
   1. Use [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) to edit the content of existing pages or add new pages to the site.
 1. `$ git checkout master && git pull origin master` (ensures you have the latest updates)
-1. `$ git checkout -b my-feature-branch` (creates and checks out a new branch)
+1. `$ git checkout -b [my-feature-branch]` (creates and checks out a new branch)
 1. Make your changes and test them locally
-1. `$ git push origin my-feature-branch`
+1. `$ git push origin [my-feature-branch]`
 1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo` or `hackshackers/hackshackers-hugo-content`
 
 ### Deployments
@@ -66,8 +66,10 @@ We have three development tiers to which we deploy automatically when new commit
 
 | Branch     | Tier          | Usage |
 |------------|---------------|-------|
-| `production` | [hh-production](http://hh-production.s3-website-us-west-2.amazonaws.com/) | Restricted branch for the live site; this branch should **only** receive commits from the `master` branch. |
+| `production` | [hh-production](http://hh-production.s3-website-us-west-2.amazonaws.com/)<br>(hackshackers.com) | Restricted branch for the live site; this branch should **only** receive commits from the `master` branch. |
 | `master`     | [hh-staging](http://hh-staging.s3-website-us-west-2.amazonaws.com/) | Branch off and merge into `master`; use `hh-staging` for final pre-production QA testing before merging to `production`. |
 | `sandbox`    | [hh-sandbox](http://hh-sandbox.s3-website-us-west-2.amazonaws.com/) | This branch is **never** merged to production; use for testing unfinished work. |
 
-New commits on the `master` branch of **hackshackers-hugo-content** are automatically pulled into the `production` and `master` branches of **hackshackers-hugo**, which then deploy automatically to production and staging, respectively.
+#### Deploying new/updated content
+
+New commits on the `master` branch of **hackshackers-hugo-content** are automatically pulled into both the `production` and `master` branches of **hackshackers-hugo**, which then deploy automatically to the production and staging tiers, respectively.
