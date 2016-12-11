@@ -22,20 +22,7 @@ build:
         - script:
             name: initialize git submodules
             code: |
-                git submodule init content
-        - script:
-            name: merge new submodule ref into master & push
-            code: |
-                git checkout master
-                git merge --no-ff origin/auto-update-content
-                git push origin master
-
-        - script:
-            name: merge master into production & push
-            code: |
-                git checkout production origin/production
-                git merge --no-ff master
-                git push origin production
+                git submodule update --init --recursive
 
 deploy:
     steps:
@@ -62,3 +49,8 @@ updateContentSubmodule:
                 git checkout production origin/production
                 git merge --no-ff master
                 git push origin production
+
+        - script:
+            name: delete remote auto-update-content branch
+            code: |
+                git branch -dr origin/auto-update-content
