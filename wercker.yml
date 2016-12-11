@@ -1,40 +1,40 @@
 box: debian
 build:
-#     steps:
-#         - script:
-#             name: check if disabled
-#             code: |
-#                 if [ ! -z ${DISABLE+x} ]; then
-#                     error "Wercker is currently disabled."
-#                     exit 1;
-#                 fi
-#         - script:
-#             name: install git
-#             code: |
-#                 apt-get update
-#                 apt-get install git -y
-#         - add-ssh-key:
-#             keyname: HH_BUILD
-#             host: github.com
-#         - add-to-known_hosts:
-#             hostname: github.com
-#             fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
-#         - script:
-#             name: initialize git submodules
-#             code: |
-#                 git submodule update --init --recursive
+    steps:
+        - script:
+            name: check if disabled
+            code: |
+                if [ ! -z ${DISABLE+x} ]; then
+                    error "Wercker is currently disabled."
+                    exit 1;
+                fi
+        - script:
+            name: install git
+            code: |
+                apt-get update
+                apt-get install git -y
+        - add-ssh-key:
+            keyname: HH_BUILD
+            host: github.com
+        - add-to-known_hosts:
+            hostname: github.com
+            fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
+        - script:
+            name: initialize git submodules
+            code: |
+                git submodule update --init --recursive
 
-# deploy:
-#     steps:
-#         - arjen/hugo-build@1.13.1:
-#             version: "0.17"
-#         - s3sync:
-#             key-id: $HH_ALLEY_AWS_KEY
-#             key-secret: $HH_ALLEY_AWS_SECRET
-#             bucket-url: $HH_AWS_BUCKET
-#             source-dir: ./public
+deploy:
+    steps:
+        - arjen/hugo-build@1.13.1:
+            version: "0.17"
+        - s3sync:
+            key-id: $HH_ALLEY_AWS_KEY
+            key-secret: $HH_ALLEY_AWS_SECRET
+            bucket-url: $HH_AWS_BUCKET
+            source-dir: ./public
 
-# update-content-submodule:
+update-content-submodule:
     steps:
         - script:
             name: check if disabled
