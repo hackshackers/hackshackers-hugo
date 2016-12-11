@@ -34,7 +34,7 @@ deploy:
             bucket-url: $HH_AWS_BUCKET
             source-dir: ./public
 
-# update-content-submodule:
+update-content-submodule:
     steps:
         - script:
             name: check if disabled
