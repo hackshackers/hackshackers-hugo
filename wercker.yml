@@ -64,6 +64,7 @@ update-content-submodule:
                 git checkout master
                 git pull --no-edit origin master
                 git merge --no-ff origin/auto-update-content
+                git config --global user.email "josh+wercker@alleyinteractive.com"
                 git push origin master
 
         - script:
