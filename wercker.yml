@@ -22,14 +22,43 @@ build:
         - script:
             name: initialize git submodules
             code: |
-                git submodule update --init --recursive
-        - arjen/hugo-build@1.13.1:
-            version: "0.17"
+                git submodule init content
+        - script:
+            name: merge new submodule ref into master & push
+            code: |
+                git checkout master
+                git merge --no-ff origin/auto-update-content
+                git push origin master
+
+        - script:
+            name: merge master into production & push
+            code: |
+                git checkout production origin/production
+                git merge --no-ff master
+                git push origin production
 
 deploy:
     steps:
+        - arjen/hugo-build@1.13.1:
+            version: "0.17"
         - s3sync:
             key-id: $HH_ALLEY_AWS_KEY
             key-secret: $HH_ALLEY_AWS_SECRET
             bucket-url: $HH_AWS_BUCKET
             source-dir: ./public
+
+updateContentSubmodule:
+    steps:
+        - script:
+            name: merge new submodule ref into master & push
+            code: |
+                git checkout master
+                git merge --no-ff origin/auto-update-content
+                git push origin master
+
+        - script:
+            name: merge master into production & push
+            code: |
+                git checkout production origin/production
+                git merge --no-ff master
+                git push origin production
