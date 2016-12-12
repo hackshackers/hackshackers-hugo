@@ -25,6 +25,21 @@
 	}
 }
 
+.event-name-info,
+.event-name {
+	width: 65%;
+
+	@media #{$breakpoint-mobile} {
+		margin-bottom: $spacer-small;
+		width: 100%;
+	}
+
+	p {
+		font: $font-single-paragraph;
+		margin-bottom: $spacer-medium;
+	}
+}
+
 .event-date,
 .event-time {
 	width: 12%;

@@ -45,3 +45,25 @@
 		margin-left: $spacer-small;
 	}
 }
+
+.header-subscribe {
+	@media #{$breakpoint-mobile} {
+		display: none;
+	}
+}
+
+.btn-standard {
+	align-items: center;
+	background-color: $color-orange-light;
+	color: $color-white;
+	font-weight: 700;
+	font-size: 15px;
+	letter-spacing: .25px;
+	display: flex;
+	padding: $spacer-medium;
+	text-transform: uppercase;
+
+	&.btn-red {
+		background-color: $color-orange-dark;
+	}
+}
