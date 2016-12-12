@@ -16,7 +16,8 @@ All of the site's content pages are generated from Markdown files in [hackshacke
 To start the local Go server at [http://localhost:1313/](http://localhost:1313/) with pages compiled from the `sample-content/` directory:
 
 1. [Install](https://gohugo.io/overview/installing/) Hugo
-1. `$ git clone git@github.com:hackshackers/hackshackers-hugo.git`
+1. `$ git clone https://github.com/hackshackers/hackshackers-hugo.git`
+  1. Or `$ git clone git@github.com:hackshackers/hackshackers-hugo.git` if you have a SSH key set up
 1. `$ cd hackshackers-hugo`
 1. `$ hugo --config=devConfig.toml server`
 
