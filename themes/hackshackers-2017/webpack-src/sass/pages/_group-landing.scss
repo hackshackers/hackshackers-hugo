@@ -1,0 +1,22 @@
+.group-title {
+	font: $font-heading-section;
+}
+
+.group-widget {
+	margin-bottom: $spacer-large;
+}
+
+.group-single-event-header {
+	font: $font-single-subheader;
+}
+
+.group-single-event-entry {
+	display: flex;
+	margin-bottom: $spacer-large;
+	border-bottom: $border-primary;
+	padding-bottom: $spacer-large;
+}
+
+.group-single-event-info {
+	width: 65%;
+}
