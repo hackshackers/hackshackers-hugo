@@ -59,7 +59,6 @@
 	@media #{$breakpoint-mobile} {
     bottom: 0px;
 		display: none;
-    display: block;
     height: 100%;
 		padding-top: $spacer-gutter;
 		position: fixed;
@@ -68,8 +67,27 @@
 		width: 60%;
 		z-index: 9999;
 	}
+
+	&.active {
+		display: block;
+		right: 0px;
+	}
 }
 
+.mobile-close {
+	display: none;
+	background: none;
+	border: none;
+	font-size: 24px;
+	color: $color-white;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+
+	@media #{$breakpoint-mobile} {
+		display: block;
+	}
+}
 .main-nav-items {
 	font: $font-primary-nav;
 	display: flex;
@@ -102,8 +120,4 @@
 .main-nav-search {
 		display: flex;
 		margin-left: auto;
-}
-
-.mobile-close {
-	display: none;
 }
