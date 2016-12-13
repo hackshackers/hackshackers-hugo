@@ -1,10 +1,32 @@
 {{ partial "header.html" }}
 {{ partial "nav.html" }}
+
+<div class="map-wrapper">
+  {{ partial "map.html" . }}
+</div>
+
 <div class="container">
   <div class="single-wrapper">
+    <div class="groups-archive-wrapper">
+      <div class="groups-archive-top">
+        <h2 class="single-headline">54 Local Groups</h2>
+        <div class="find-group-dropdown">
+          Find a group
+          <ul>
+            <li><a href="#">New York City</a></li>
+            <li><a href="#">New York City</a></li>
+            <li><a href="#">New York City</a></li>
+            <li><a href="#">New York City</a></li>
+            <li><a href="#">New York City</a></li>
+            <li><a href="#">New York City</a></li>
+          </ul>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+        </div>
+      </div>
+      <h3>Here are the local chapters that have started up so far. Others are in the works.</h3>
+    </div>
 
-    <h1>Groups landing page</h1>
-
+    {{ partial "group-cities.html" . }}
   </div>
 </div>
 {{ partial "footer.html" }}

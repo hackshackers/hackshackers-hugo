@@ -12,7 +12,7 @@
 	}
 }
 
-.btn-view-more {
+.btn-view-more-default {
 	background: $color-white;
 	border-radius: 40.03px;
 	display: flex;
@@ -24,7 +24,7 @@
 }
 
 
-.btn-view-more--blue {
+.btn-view-more {
 	align-items: baseline;
 	background-color: $color-blue;
 	border-bottom: 2px solid $color-blue-dark;
@@ -43,5 +43,31 @@
 
 	.fa-chevron-right {
 		margin-left: $spacer-small;
+	}
+
+	&.fill-orange {
+		background-color: $color-orange-dark;
+	}
+}
+
+.btn-standard {
+	align-items: center;
+	background-color: $color-orange-light;
+	color: $color-white;
+	font-weight: 700;
+	font-size: 15px;
+	letter-spacing: .25px;
+	display: flex;
+	padding: $spacer-medium;
+	text-transform: uppercase;
+
+	&.btn-red {
+		background-color: $color-orange-dark;
+	}
+
+	&.header-subscribe {
+		@media #{$breakpoint-mobile} {
+			display: none;
+		}
 	}
 }

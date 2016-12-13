@@ -1,0 +1,36 @@
+.local-groups {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.local-groups-city {
+	margin-bottom: 45px;
+	width: 22%;
+}
+
+.local-groups-city-box {
+	display: flex;
+	background: $color-black;
+	color: $color-white;
+	align-items: center;
+	justify-content: center;
+	padding: 20px 30px;
+}
+
+.local-groups-city-title {
+	font: $font-primary-nav;
+	text-transform: uppercase;
+}
+
+.groups-archive-wrapper {
+	h3 {
+		font: $font-single-subheader;
+		margin-bottom: $spacer-gutter;
+	}
+}
+
+.groups-archive-top {
+	align-items: flex-start;
+	display: flex;
+}

@@ -13,6 +13,10 @@
 	@media #{$breakpoint-mobile} {
 		flex-wrap: wrap;
 	}
+
+	&:hover {
+		background-color: $color-gray-light;
+	}
 }
 
 .event-name {
@@ -22,6 +26,21 @@
 	@media #{$breakpoint-mobile} {
 		margin-bottom: $spacer-small;
 		width: 100%;
+	}
+}
+
+.event-name-info,
+.event-name {
+	width: 65%;
+
+	@media #{$breakpoint-mobile} {
+		margin-bottom: $spacer-small;
+		width: 100%;
+	}
+
+	p {
+		font: $font-single-paragraph;
+		margin-bottom: $spacer-medium;
 	}
 }
 

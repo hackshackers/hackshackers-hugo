@@ -1,0 +1,49 @@
+.group-title {
+	font: $font-heading-section;
+	letter-spacing: 0.7px;
+}
+
+.group-widget {
+	margin-bottom: $spacer-large;
+}
+
+.group-single-event-header {
+	font: $font-single-subheader;
+}
+
+.group-single-event-entry {
+	display: flex;
+	margin-bottom: $spacer-large;
+	border-bottom: $border-primary;
+	padding-bottom: $spacer-large;
+	padding-left: $spacer-gutter;
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+		padding-left: 0;
+	}
+}
+
+.group-single-event-info {
+	@media #{$breakpoint-tablet-min} {
+		width: 65%;
+	}
+}
+
+.group-single-event-meta {
+	@media #{$breakpoint-tablet-min} {
+		border-left: $border-primary;
+		padding-left: $spacer-medium;
+	}
+}
+
+.rsvp-item {
+	color: $color-orange;
+	text-decoration: underline;
+}
+
+.group-single-events-wrapper {
+	border-top: $border-primary;
+	padding-top: $spacer-large;
+	margin-bottom: 65px;
+}

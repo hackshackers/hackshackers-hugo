@@ -3,7 +3,6 @@
 	display: flex;
 	margin-top: $spacer-gutter;
 	margin-bottom: $spacer-gutter;
-	padding: $padding-edge;
 
 	@media #{$breakpoint-mobile} {
 		border-bottom: $border-primary;
@@ -16,7 +15,6 @@
 .nav-wrapper {
 	display: flex;
 	color: $color-gray;
-	padding: $padding-edge;
 
 	.fa-search {
 		font-size: 20px;
@@ -27,23 +25,6 @@
 	border: 1px solid $color-gray;
 	display: flex;
 	padding: $spacer-small;
-}
-
-.header-subscribe {
-	align-items: center;
-	background-color: $color-orange-light;
-	color: $color-white;
-	font-weight: 700;
-	font-size: 15px;
-	height: 35px;
-	letter-spacing: .25px;
-	display: flex;
-	padding: 0 $spacer-medium;
-	text-transform: uppercase;
-
-	@media #{$breakpoint-mobile} {
-		display: none;
-	}
 }
 
 .hamburger-menu {

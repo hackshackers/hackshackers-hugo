@@ -13,7 +13,7 @@
 	}
 }
 
-.single-wrapper {
+.flex-wrapper {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 40px 0;
@@ -35,17 +35,17 @@
 		padding-top: 5px;
 		margin: 0;
 	}
+
+	&.group-single {
+		max-width: 200px;
+	}
 }
 
 .right-column {
-	padding-left: 28px;
 	width: 100%;
-}
 
-.right-column,
-.left-column {
-	@media #{$breakpoint-mobile} {
-		padding: 0 $spacer-large;
+	@media #{$breakpoint-desktop} {
+		padding-left: 28px;
 	}
 }
 
