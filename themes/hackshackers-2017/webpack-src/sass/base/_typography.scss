@@ -3,10 +3,10 @@ $font-family-secondary: 'Hind', sans-serif;
 
 $font-primary-nav: 700 #{(18rem/16)}/#{1} $font-family-primary;
 $font-heading-section: 700 #{(46rem/16)}/#{1} $font-family-primary;
-$font-heading-statement: 700 #{(40rem/16)}/#{1.4}; 
+$font-heading-statement: 700 #{(40rem/16)}/#{1.4} $font-family-primary;
 $font-single-header: 700 #{(48rem/16)}/#{1} $font-family-primary;
 $font-single-subheader: 400 #{(20rem/16)}/#{1.2} $font-family-primary;
-$font-single-paragraph: 300 #{(18rem/16)}/#{1.4}; 
+$font-single-paragraph: 300 #{(18rem/16)}/#{1.4} $font-family-secondary;
 $font-widget-heading: 700 #{(24rem/16)}/#{1} $font-family-primary;
 $font-widget-header: 700 #{(14rem/16)}/#{1.2} $font-family-primary;
 
@@ -67,4 +67,10 @@ article {
 	font: $font-widget-heading;
 	margin-bottom: $spacer-medium;
 	letter-spacing: -.015em;
+}
+
+.statement-heading {
+	span {
+		font-size: 50px;
+	}
 }
