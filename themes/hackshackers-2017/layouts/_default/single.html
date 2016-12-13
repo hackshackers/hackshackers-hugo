@@ -15,7 +15,7 @@
       {{ end }}
 
       {{ if isset .Params "sectionfront" }}
-        {{ partial (printf "section-fronts/%s.html" .Section) }}
+        {{ partial (printf "section-fronts/%s.html" .Section) . }}
       {{ end }}
 
       {{ partial "utils/suggest-edits.html" . }}

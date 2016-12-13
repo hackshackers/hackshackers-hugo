@@ -2,22 +2,35 @@
 
 [![wercker status](https://app.wercker.com/status/fe62437d890aa393a1bd651a16be98a9/s/master "wercker status")](https://app.wercker.com/project/byKey/fe62437d890aa393a1bd651a16be98a9)
 
-This site is built using [Hugo](https://gohugo.io), a static site generator written in [Go](http://golang.org/). This repository contains the general site configuration and `hackshackers-2017` theme; all of the content should live in the [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) repository, which is a submodule of the main repo.
 
-### Local dev setup
+## Overview
+
+This site is built using [Hugo](https://gohugo.io), a static site generator written in [Go](http://golang.org/).
+
+This is the "main" repository, containing general site configuration, sample content, and the `hackshackers-2017` [theme](https://gohugo.io/themes/overview/). **The theme contains all of the templates, CSS, and JS files.**
+
+All of the site's content pages are generated from Markdown files in [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content). **Think of that repository as the database.** It is included as a [submodule](https://github.com/blog/2104-working-with-submodules) of the main repo.
+
+## Local dev setup
+
+To start the local Go server at [http://localhost:1313/](http://localhost:1313/) with pages compiled from the `sample-content/` directory:
 
 1. [Install](https://gohugo.io/overview/installing/) Hugo
-1. `$ git clone git@github.com:hackshackers/hackshackers-hugo.git`
+1. `$ git clone https://github.com/hackshackers/hackshackers-hugo.git`
+  1. Or `$ git clone git@github.com:hackshackers/hackshackers-hugo.git` if you have a SSH key set up
 1. `$ cd hackshackers-hugo`
-1. To develop locally with _sample_ content (recommended most of the time):
-  1. `$ hugo --config=devConfig.toml server`
-1. To develop locally with _production_ content (Git submodules can be tricky):
-  1. `$ git submodule update --init --recursive`
-  1. `$ hugo server`
+1. `$ hugo --config=devConfig.toml server`
 
-That will build the static pages and start the local Go server at [http://localhost:1313/](http://localhost:1313/).
+Git submodules can be tricky to work with, so we recommend using the sample content. But if you _really_ want to run the production content locally, replace step 4 with:
+
+1. `$ git submodule update --init --recursive`
+1. `$ hugo server`
+
+Once the local server is running, it will watch for changes when you save the files you're working on and automatically reload any open browser tabs.
 
 ### Working with site assets
+
+We use [Webpack](https://webpack.github.io/) to "bundle" CSS and JavaScript files.
 
 ```
 $ cd themes/hackshackers-2017
@@ -25,16 +38,16 @@ $ npm install
 $ npm start
 ```
 
-This will start [Webpack](https://webpack.github.io/). Source files that are compiled by Webpack are located in `themes/hackshackers-2017/webpack-src/`. These files should not be loaded directly.
+This will start Webpack and watch for changes in `themes/hackshackers-2017/webpack-src/`. Files in this directory should **not** be loaded directly; we use them only as to create the Webpack bundle.
 
-`themes/hackshackers-2017/static/` contains assets that can be referenced directly by HTML pages:
+`themes/hackshackers-2017/static/` contains assets that **can** be referenced directly by HTML pages:
 
 * `webpack/` - compiled Webpack assets
 * `images/` - images that belong to the _theme_ (not content images
 * `svg/` - SVG assets
 * other stuff as needed
 
-Each of these subdirectories of `static` is copied to the _root directory_ when a Hugo build happens. So you would include them with a root-relative URL like:
+Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to the _root directory_ when a Hugo build happens. So you would include them with a root-relative URL like:
 
 ```
 /themes/hackshackers-2017/static/images/work.png
@@ -42,12 +55,27 @@ Each of these subdirectories of `static` is copied to the _root directory_ when 
 <img src="/images/work.png">
 ```
 
-### Pull requests and deployments
+## Branching and pull requests
 
-To edit the Hugo site configuration or the theme, fork _this repo_ ([hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo)) and make a pull request.
+1. Fork the repository
+  1. Use [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) for updates to the Hugo site config and site theme.
+  1. Use [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) to edit the content of existing pages or add new pages to the site.
+1. `$ git checkout master && git pull origin master` (ensures you have the latest updates)
+1. `$ git checkout -b [my-feature-branch]` (creates and checks out a new branch)
+1. Make your changes and test them locally
+1. `$ git push origin [my-feature-branch]`
+1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo` or `hackshackers/hackshackers-hugo-content`
 
-To edit the content or metadata of existing pages, or to create a new page, fork [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) and make a pull request.
+## Deployments
 
-New commits on the `master` branch will trigger an automatic Hugo rebuild and deployment to http://hh-production.s3-website-us-west-2.amazonaws.com/
+We have three development tiers to which we deploy automatically when new commits are received in the corresponding Github branch in **hackshackers-hugo**:
 
-The `staging` branch works the same way, but deploys to http://hh-staging.s3-website-us-west-2.amazonaws.com/
+| Branch     | Tier          | Usage |
+|------------|---------------|-------|
+| `production` | [hh-production](http://hh-production.s3-website-us-west-2.amazonaws.com/)<br>(hackshackers.com) | Restricted branch for the live site; this branch should **only** receive commits from the `master` branch. |
+| `master`     | [hh-staging](http://hh-staging.s3-website-us-west-2.amazonaws.com/) | Branch off and merge into `master`; use `hh-staging` for final pre-production QA testing before merging to `production`. |
+| `sandbox`    | [hh-sandbox](http://hh-sandbox.s3-website-us-west-2.amazonaws.com/) | This branch is **never** merged to production; use for testing unfinished work. |
+
+### Deploying new/updated content
+
+New commits on the `master` branch of **hackshackers-hugo-content** are automatically pulled into both the `production` and `master` branches of **hackshackers-hugo**, which then deploy automatically to the production and staging tiers, respectively.

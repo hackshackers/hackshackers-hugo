@@ -2,7 +2,7 @@
 title: "About"
 description: "General information about Hacks/Hackers"
 type: "page"
-sectionFront: true
+sectionfront: true
 ---
 
 Main content of the About section front page. Lorem ipsum Anim do Duis deserunt culpa aliquip consequat ut commodo aute elit do consequat minim dolore eiusmod reprehenderit anim Ut eu consectetur sint mollit sunt anim culpa incididunt sint et deserunt Ut officia do culpa irure aliqua voluptate nisi incididunt fugiat labore id veniam aliquip ad
