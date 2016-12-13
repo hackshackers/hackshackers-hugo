@@ -15,8 +15,26 @@
 	margin-bottom: $spacer-large;
 	border-bottom: $border-primary;
 	padding-bottom: $spacer-large;
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+	}
 }
 
 .group-single-event-info {
-	width: 65%;
+	@media #{$breakpoint-tablet-min} {
+		width: 65%;
+	}
+}
+
+.group-single-event-meta {
+	@media #{$breakpoint-tablet-min} {
+		border-left: $border-primary;
+		padding-left: $spacer-medium;
+	}
+}
+
+.rsvp-item {
+	color: $color-orange;
+	text-decoration: underline;
 }

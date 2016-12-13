@@ -42,14 +42,10 @@
 }
 
 .right-column {
-	padding-left: 28px;
 	width: 100%;
-}
 
-.right-column,
-.left-column {
-	@media #{$breakpoint-mobile} {
-		padding: 0 $spacer-large;
+	@media #{$breakpoint-desktop} {
+		padding-left: 28px;
 	}
 }
 

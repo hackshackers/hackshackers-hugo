@@ -5,49 +5,7 @@
 
     <div class="left-column group-single">
       <!-- {{ .Title }} -->
-      <div class="group-widget">
-        <h2 class="group-title">Atlanta</h2>
-        <h4 class="group-founded">Founded Nov 5, 2009</h4>
-      </div>
-
-      <div class="group-widget-info group-widget">
-        <ul>
-          <li><a href="#">
-            <span class="group-widget-info-title">Upcoming Meetups:</span>
-            <span class="group-widget-info-number">4</span>
-          </a></li>
-          <li><a href="#">
-            <span class="group-widget-info-title">Past Meetups:</span>
-            <span class="group-widget-info-number">54</span>
-          </a></li>
-          <li><a href="#">
-            <span class="group-widget-info-title">Our Calendar:</span>
-            <span class="group-widget-info-number">54</span>
-          </a></li>
-          <li><a href="#"></a></li>
-        </ul>
-      </div>
-
-      <div class="group-widget group-widget-organizers">
-        <h4 class="group-widget-ogranizers-heading">Organizers:</h4>
-        <ul>
-          <li><a href="#">Joey Smith</a></li>
-          <li><a href="#">Joey Smith</a></li>
-          <li><a href="#">Joey Smith</a></li>
-          <li><a href="#">Joey Smith</a></li>
-          <li><a href="#">Joey Smith</a></li>
-        </ul>
-      </div>
-
-      <div class="group-widget-social">
-        <ul class="footer-social">
-          <li class="fa fa-facebook"><a href="#"></a></li>
-          <li class="fa fa-twitter"><a href="#"></a></li>
-          <li class="fa fa-rss"><a href="#"></a></li>
-        </ul>
-      </div>
-
-      <button class="btn-view-more--blue"><a href="#">CONTACT</a></button>
+      {{ partial "widgets/container-group.html" }}
     </div>
 
     <div class="right-column">
@@ -86,9 +44,10 @@
           <p>Get your ticket(s) early to get ready to celebrate the almost end of 2016 with fellow hacks (and hackers).</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta libero soluta, aliquam magnam ab dolor id assumenda exercitationem necessitatibus? Illum quis eligendi asperiores iste tenetur molestiae dolor unde? Nisi, aliquam!</p>
           <p>Tix are $15 and you can them here: <a>https://www.eventbrite.com/e/holiday-party-for-bay-area-journalists-tickets-27677632544</a></p>
-        </div>  
+        </div>
       </div>
     </div>
+    
   </div>
 </div>
 {{ partial "footer.html" }}

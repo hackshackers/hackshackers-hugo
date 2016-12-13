@@ -46,12 +46,6 @@
 	}
 }
 
-.header-subscribe {
-	@media #{$breakpoint-mobile} {
-		display: none;
-	}
-}
-
 .btn-standard {
 	align-items: center;
 	background-color: $color-orange-light;
@@ -65,5 +59,11 @@
 
 	&.btn-red {
 		background-color: $color-orange-dark;
+	}
+
+	&.header-subscribe {
+		@media #{$breakpoint-mobile} {
+			display: none;
+		}
 	}
 }
