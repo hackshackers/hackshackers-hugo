@@ -28,11 +28,17 @@ deploy:
     steps:
         - arjen/hugo-build@1.13.1:
             version: "0.17"
+            config: $HH_CONFIG_FILENAME
         - s3sync:
             key-id: $HH_ALLEY_AWS_KEY
             key-secret: $HH_ALLEY_AWS_SECRET
             bucket-url: $HH_AWS_BUCKET
             source-dir: ./public
+    after-steps:
+        - install-packages:
+            packages: ruby
+        - wantedly/pretty-slack-notify@0.3.4:
+            webhook_url: $SLACK_WEBHOOK_URL
 
 update-content-submodule:
     steps:
