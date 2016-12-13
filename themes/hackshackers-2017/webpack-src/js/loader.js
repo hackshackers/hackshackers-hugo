@@ -1,5 +1,5 @@
 import map from './map';
+import mobileMenu from './app/mobile-menu';
 
 map('hero-map');
-
-require('./app/mobile-menu.js');
+mobileMenu();

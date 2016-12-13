@@ -1,8 +1,9 @@
-// function mobileMenu() {
-//   const menuBtn = document.querySelectorAll('hamburger-menu');
-//   menuBtn.addEventListener('click', () => {
-//     console.log('hello');
-//   });
-// }
-//
-// mobileMenu();
+export default function () {
+  const menuBtn = document.querySelector('.hamburger-menu');
+  if (menuBtn) {
+    menuBtn.addEventListener('click', (evt) => {
+      evt.preventDefault();
+      console.log('hello');
+    });
+  }
+}
