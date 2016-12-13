@@ -23,9 +23,3 @@ body {
 		padding: 35px 0;
 	}
 }
-
-body {
-	@media #{$breakpoint-mobile} {
-		padding: 0 $spacer-large;
-	}
-}

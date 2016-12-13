@@ -1,0 +1,42 @@
+.find-group-dropdown {
+	position: relative;
+	width: 200px;
+	padding: 12px 15px;
+	background: $color-blue-water;
+	color: $color-white;
+	border-radius: 5px;
+	box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	cursor: pointer;
+	outline: none;
+	transition: all 0.3s ease-out;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: $font-family-primary;
+	margin-left: $spacer-gutter;
+
+	ul {
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		background: #fff;
+		border-radius: 0 0 5px 5px;
+		border: 1px solid rgba(0,0,0,0.2);
+		border-top: none;
+		border-bottom: none;
+		list-style: none;
+		transition: all 0.3s ease-out;
+		max-height: 0;
+		overflow: hidden;
+	}
+
+	li {
+		padding: 0 10px;
+	}
+
+	i {
+		position: absolute;
+		right: 20px;
+		top: 13px;
+	}
+}
