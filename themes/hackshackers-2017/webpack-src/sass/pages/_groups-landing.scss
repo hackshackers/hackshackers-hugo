@@ -5,7 +5,7 @@
 }
 
 .local-groups-city {
-	margin-bottom: $spacer-large;
+	margin-bottom: 45px;
 	width: 22%;
 }
 
@@ -21,4 +21,11 @@
 .local-groups-city-title {
 	font: $font-primary-nav;
 	text-transform: uppercase;
+}
+
+.groups-archive-wrapper {
+	h3 {
+		font: $font-single-subheader;
+		margin-bottom: $spacer-gutter;
+	}
 }

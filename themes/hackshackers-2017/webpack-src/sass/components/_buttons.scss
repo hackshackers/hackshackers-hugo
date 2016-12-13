@@ -12,7 +12,7 @@
 	}
 }
 
-.btn-view-more {
+.btn-view-more-default {
 	background: $color-white;
 	border-radius: 40.03px;
 	display: flex;
@@ -24,7 +24,7 @@
 }
 
 
-.btn-view-more--blue {
+.btn-view-more {
 	align-items: baseline;
 	background-color: $color-blue;
 	border-bottom: 2px solid $color-blue-dark;
@@ -43,6 +43,10 @@
 
 	.fa-chevron-right {
 		margin-left: $spacer-small;
+	}
+
+	&.fill-orange {
+		background-color: $color-orange-dark;
 	}
 }
 

@@ -17,7 +17,7 @@
 
 	i {
 		font-size: 20px;
-		width: 8%;
+		width: 5%;
 	}
 }
 
@@ -32,6 +32,20 @@
 
 .single-event-share-wrapper {
 	margin-bottom: $spacer-gutter;
+
+	button {
+		margin: 0;
+		padding: 20px 35px;
+		font-size: 22px;
+
+		@media #{$breakpoint-mobile} {
+			margin-bottom: 20px;
+		}
+	}
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+	}
 }
 
 .share-social {
@@ -46,4 +60,21 @@
 			margin-right: 5px;
 		}
 	}
+}
+
+.single-event-meta {
+	border-bottom: $border-primary;
+	border-top: $border-primary;
+	padding-top: $spacer-large;
+	margin-bottom: $spacer-large;
+}
+
+.mobile-city-headline {
+	font: $font-single-subheader;
+	display: inline-block;
+  margin-bottom: 15px;
+	border-bottom: 1px solid $color-orange;
+	color: $color-black;
+	letter-spacing: 0.9px;
+	font-size: 18px;
 }
