@@ -12,8 +12,13 @@
       {{ if eq .Data.Singular "author" }}
         {{ partial "meta-author.html" . }}
       {{ end }}
+
+      <section class="content-list">
+        {{ range .Data.Pages }}
+          {{ .Render "archive"}}
+        {{ end }}
+      </section>
     </div>
   </div>
 </div>
-{{ partial "console.log.html" . }}
 {{ partial "footer.html" }}

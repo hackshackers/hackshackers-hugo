@@ -1,0 +1,13 @@
+<article class="archive">
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ if eq .Type "blog" }}
+    {{ partial "meta-single.html" . }}
+  {{ end }}
+  <p class="excerpt">
+    {{ if .Description }}
+      {{ .Description }}
+    {{ else }}
+      {{ .Summary }}
+    {{ end }}
+  </p>
+</article>
