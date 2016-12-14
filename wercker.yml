@@ -29,6 +29,9 @@ deploy:
         - arjen/hugo-build@1.13.1:
             version: "0.17"
             config: $HH_CONFIG_FILENAME
+        - script:
+            name: delete data files
+            code: rm -rf ./public/data
         - s3sync:
             key-id: $HH_ALLEY_AWS_KEY
             key-secret: $HH_ALLEY_AWS_SECRET
