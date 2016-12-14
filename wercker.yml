@@ -30,10 +30,9 @@ deploy:
             version: "0.17"
             config: $HH_CONFIG_FILENAME
         - script:
-            name: delete data files and content images
+            name: delete data files
             code: |
                 rm -rf ./public/data
-                rm -rf ./public/content-images
         - s3sync:
             key-id: $HH_ALLEY_AWS_KEY
             key-secret: $HH_ALLEY_AWS_SECRET
