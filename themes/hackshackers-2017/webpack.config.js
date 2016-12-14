@@ -1,9 +1,9 @@
-var fs = require('fs-extra');
 var path = require('path');
 
 var webpackConfig = {
   watch: !!process.env.WATCH,
   entry: [
+    'whatwg-fetch',
     './webpack-src/js/loader.js',
     './webpack-src/sass/screen.scss'
   ],

@@ -1,5 +1,10 @@
 import map from './map';
+import meetups from './events/meetups';
 
 map('hero-map');
 
-require('./app/mobile-menu.js');
+meetups({
+  future: 5,
+  past: 3,
+  order: 'DESC',
+});
