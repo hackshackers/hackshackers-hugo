@@ -16,6 +16,10 @@
 	align-items: center;
 	justify-content: center;
 	padding: 20px 30px;
+
+	&:hover {
+		background-color: $color-blue-water;
+	}
 }
 
 .local-groups-city-title {
