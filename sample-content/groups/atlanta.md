@@ -1,9 +1,6 @@
 ---
 # Generic front matter
 title: "Atlanta"
-description: "The peachiest H/H group"
-# Group type front matter
-organizer: "Ludacris"
 ---
 
 They got a place down Kentucky
