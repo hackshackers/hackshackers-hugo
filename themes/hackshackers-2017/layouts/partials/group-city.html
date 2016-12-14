@@ -1,0 +1,24 @@
+<li class="local-groups-city">
+
+  {{/*
+    Links first to local group page if one is available.
+    If no local group page, try the external link (e.g. Meetup).
+  */}}
+
+  {{ if $.groupPage }}
+    <a class="local-group-page" href="{{ (printf "/groups/%s/" $.groupPage) }}">
+  {{ else if $.externalUrl }}
+    <a class="external-group-page" href="{{ $.externalUrl }}">
+  {{ else }}
+    <a href="#0">
+  {{ end }}
+
+    <div class="local-groups-city-wrapper">
+      <div class="local-groups-city-box">
+        <h5 class="local-groups-city-title">{{ $.label }}</h5>
+      </div>
+      <h5 class="local-groups-city-organizer"><span>Organized By:<span>Josh Ryan</h5>
+      <a class="local-groups-city-contact">hhnyc@gmail.com</a>
+    </div>
+  </a>
+</li>
