@@ -6,3 +6,7 @@ title = "Hacks/Hackers"
 theme = "hackshackers-2017"
 disableRSS = true
 disableSitemap = true
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
