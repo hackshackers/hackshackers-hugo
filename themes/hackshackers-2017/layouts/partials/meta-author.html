@@ -1,0 +1,11 @@
+<div class="author-metadata">
+  <img src="{{ (index .Site.Data.authors (.Title | urlize)).avatar }}" />
+  <p class="bio">{{ (index .Site.Data.authors (.Title | urlize)).bio }}</p>
+  {{ if (index .Site.Data.authors (.Title | urlize)).twitter }}
+    <span class="twitter">
+      <a href="https://twitter.com/{{ (index .Site.Data.authors (.Title | urlize)).twitter }}">
+        @{{ (index .Site.Data.authors (.Title | urlize)).twitter }}
+      </a>
+    </span>
+  {{ end }}
+</div>
