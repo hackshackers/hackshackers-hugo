@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "scripts": {
     "build": "BUILD=true webpack --optimize-minimize",
-    "start": "WATCH=true BUILD=true webpack --optimize-minimize"
+    "start": "WATCH=true BUILD=true webpack -d --optimize-minimize"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
