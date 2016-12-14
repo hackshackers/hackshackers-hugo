@@ -19,6 +19,10 @@
 	.fa-search {
 		font-size: 20px;
 	}
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+	}
 }
 
 .dropdown-wrapper {
@@ -55,21 +59,23 @@
 	height: 80px;
 	display: flex;
 	align-items: center;
+	transition-property: all;
+	transition-duration: 300ms;
+	transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1);;
 
 	@media #{$breakpoint-mobile} {
     bottom: 0px;
-		display: none;
     height: 100%;
-		padding-top: $spacer-gutter;
 		position: fixed;
-    right: -60%;
+    right: -51%;
 		top: 0px;
-		width: 60%;
+		width: 45%;
 		z-index: 9999;
+		padding: 70px 0 0 $spacer-large;
+		display: block;
 	}
 
 	&.active {
-		display: block;
 		right: 0px;
 	}
 }
@@ -78,7 +84,7 @@
 	display: none;
 	background: none;
 	border: none;
-	font-size: 24px;
+	font-size: 31px;
 	color: $color-white;
 	position: absolute;
 	top: 20px;
@@ -92,6 +98,11 @@
 	font: $font-primary-nav;
 	display: flex;
 	transition-duration: .2s;
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+		margin-bottom: $spacer-gutter;
+	}
 
 	a {
 		text-decoration: none;
@@ -111,13 +122,12 @@
 			}
 		}
 	}
-
-	@media #{$breakpoint-mobile} {
-		flex-direction: column;
-	}
 }
 
 .main-nav-search {
-		display: flex;
+	display: flex;
+
+	@media #{$breakpoint-tablet-min} {
 		margin-left: auto;
+	}
 }
