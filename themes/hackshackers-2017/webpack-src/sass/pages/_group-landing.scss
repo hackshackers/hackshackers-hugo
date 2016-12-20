@@ -1,6 +1,13 @@
 .group-title {
+	display: inline-block;
 	font: $font-heading-section;
 	letter-spacing: 0.7px;
+	border-bottom: 1px solid $color-orange;
+	margin-bottom: $spacer-large;
+
+	@media #{$breakpoint-mobile} {
+		font-size: 26px;
+	}
 }
 
 .group-widget {
@@ -46,4 +53,14 @@
 	border-top: $border-primary;
 	padding-top: $spacer-large;
 	margin-bottom: 65px;
+}
+
+.group-founded {
+	font-weight: 700;
+}
+
+.group-widget-organizers {
+	i {
+		color: $color-twitter;
+	}
 }

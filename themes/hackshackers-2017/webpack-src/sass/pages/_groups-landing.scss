@@ -1,12 +1,12 @@
 .local-groups {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
 }
 
 .local-groups-city {
 	margin-bottom: 45px;
 	width: 22%;
+	padding: 0px 20px;
 }
 
 .local-groups-city-box {
@@ -16,6 +16,10 @@
 	align-items: center;
 	justify-content: center;
 	padding: 20px 30px;
+
+	&:hover {
+		background-color: $color-blue-water;
+	}
 }
 
 .local-groups-city-title {

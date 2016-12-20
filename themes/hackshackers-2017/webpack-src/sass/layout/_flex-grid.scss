@@ -204,6 +204,9 @@ $breakpoint-desktop-large: "(min-width: 1240px)" !default;
 }
 
 .container {
+  @media #{$breakpoint-mobile} {
+    padding: 0px 10px;
+  }
   @media #{$breakpoint-tablet} {
     width: 735px;
   }

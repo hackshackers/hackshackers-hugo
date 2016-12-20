@@ -10,3 +10,9 @@ disableSitemap = true
 
 # Dev-specific config options
 contentDir = "sample-content"
+dataDir = "sample-content/data"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
