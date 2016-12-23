@@ -5,36 +5,60 @@
 
 .local-groups-city {
 	margin-bottom: 45px;
-	width: 22%;
-	padding: 0px 20px;
+	padding: 0px 45px;
 }
 
 .local-groups-city-box {
-	display: flex;
-	background: $color-black;
-	color: $color-white;
-	align-items: center;
-	justify-content: center;
-	padding: 20px 30px;
-
-	&:hover {
-		background-color: $color-blue-water;
-	}
+	color: $color-black;
 }
 
 .local-groups-city-title {
 	font: $font-primary-nav;
+	font-size: 32px;
 	text-transform: uppercase;
+	border-bottom: 3px solid $color-black;
+	display: inline-block;
+	margin-bottom: 3px;
+
+	&:hover {
+		color: $color-orange;
+	}
 }
 
 .groups-archive-wrapper {
+	border-bottom: $border-primary;
+	margin-bottom: 55px;
+	padding-bottom: $spacer-small;
+
 	h3 {
 		font: $font-single-subheader;
-		margin-bottom: $spacer-gutter;
+	}
+
+	h4 {
+		color: $color-orange;
+		font-size: 22px;
+		font-weight: 700;
+		text-decoration: underline;
+
+		@media #{$breakpoint-tablet-min} {
+			margin-left: $spacer-gutter;
+		}
 	}
 }
 
 .groups-archive-top {
-	align-items: flex-start;
+	align-items: baseline;
 	display: flex;
+
+	@media #{$breakpoint-mobile} {
+		flex-direction: column;
+	}
+}
+
+.group-header-small {
+	font-weight: 700;
+
+	span {
+		font-weight: 400;
+	}
 }
