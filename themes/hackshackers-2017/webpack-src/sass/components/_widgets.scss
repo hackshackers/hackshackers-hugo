@@ -1,4 +1,13 @@
 .group-widget-info-title {
 	font-weight: 700;
 	margin-right: $spacer-medium;
+	line-height: 15px;
+}
+
+.group-widget-upcoming {
+	h5,
+	span {
+		margin-bottom: $spacer-small;
+		display: block;
+	}
 }
