@@ -70,4 +70,12 @@
 			display: none;
 		}
 	}
+
+	i {
+		margin-left: $spacer-small;
+	}
+
+	&:hover {
+		background-color: $color-orange-dark;
+	}
 }
