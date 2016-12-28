@@ -22,7 +22,7 @@
 	text-transform: uppercase;
 	border-bottom: 3px solid $color-black;
 	display: inline-block;
-	margin-bottom: 3px;
+	margin-bottom: 5px;
 
 	&:hover {
 		color: $color-orange;
@@ -64,5 +64,20 @@
 
 	span {
 		font-weight: 400;
+	}
+}
+
+.external-group-page {
+	position: relative;
+
+	.local-groups-city-title {
+		&:after {
+			content: "\f08e";
+			display: inline-block;
+    	font: normal normal normal 14px/1 FontAwesome;
+			position: absolute;
+			margin-left: 6px;
+			top: 9px;
+		}
 	}
 }
