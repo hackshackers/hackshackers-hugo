@@ -1,6 +1,6 @@
 .group-widget {
 	margin-bottom: $spacer-gutter;
-	padding-bottom: $spacer-large;
+	padding-bottom: 22px;
 	position: relative;
 
 	button {
@@ -17,7 +17,7 @@
 		content: '';
 		display: block;
 		width: 45px;
-		border-top: 1px solid $color-gray-dark;
+		border-top: 3px solid $color-gray-dark;
 		position: absolute;
 		bottom: 0;
 		left: 0;
@@ -25,7 +25,7 @@
 }
 
 .group-widget-upcoming {
-	padding-bottom: 25px;
+	padding-bottom: 28px;
 
 	h5 {
 		line-height: 24px;

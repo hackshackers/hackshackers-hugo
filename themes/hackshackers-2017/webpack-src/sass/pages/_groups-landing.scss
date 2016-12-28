@@ -47,6 +47,10 @@
 		@media #{$breakpoint-tablet-min} {
 			margin-left: $spacer-gutter;
 		}
+
+		&:hover {
+			color: $color-blue-water;
+		}
 	}
 }
 
