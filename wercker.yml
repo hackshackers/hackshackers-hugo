@@ -43,6 +43,7 @@ deploy:
             packages: ruby
         - wantedly/pretty-slack-notify@0.3.4:
             webhook_url: $SLACK_WEBHOOK_URL
+            passed_message: Check out $DEPLOY_URL
 
 update-content-submodule:
     steps:
