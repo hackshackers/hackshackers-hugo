@@ -8,7 +8,7 @@
   {{ if $.groupPage }}
     <a class="local-group-page" href="{{ (printf "/groups/%s/" $.groupPage) }}">
   {{ else if $.externalUrl }}
-    <a class="external-group-page" href="{{ $.externalUrl }}">
+    <a class="external-group-page" href="{{ $.externalUrl }}" target="_blank">
   {{ else }}
     <a href="#0">
   {{ end }}

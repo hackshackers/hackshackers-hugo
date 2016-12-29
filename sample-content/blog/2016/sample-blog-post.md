@@ -1,13 +1,17 @@
 ---
-title: "Sample Blog Post"
-description: "A sample post for the blog section of the Hacks/Hackers website"
-date: "2016-12-15"
-tags: ["sample-content"]
+title: Sample Blog Post
+description: A sample post for the blog section of the Hacks/Hackers website
+date: 2016-12-15
+tags: ["Sample Content", "Other Stuff"]
 categories: ["Big Picture"]
 authors: ["Wendy Wenders"]
 ---
 
 Good morning, afternoon, [evening or night, hacks and hackers.](#) After a year of news events like Brexit, the European refugee crisis and the U.S. election, journalists are getting more concerned about the spread of fake news and an apparent lack of trust from the public. Organizations and private companies are starting to take action, but it’s going to be a long road ahead.
+
+## Use of the Hugo figure shortcode
+
+{{< figure src="/content-images/blog/lost-dogs.jpg" link="#" caption="Caption here Lorem ipsum Officia proident sint dolor incididunt eiusmod." >}}
 
 #### The week ahead:
 
