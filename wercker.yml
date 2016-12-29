@@ -43,7 +43,7 @@ deploy:
             packages: ruby
         - wantedly/pretty-slack-notify@0.3.4:
             webhook_url: $SLACK_WEBHOOK_URL
-            passed_message: $WERCKER_STARTED_BY deployed $WERCKER_GIT_OWNER/$WERCKER_GIT_REPOSITORY to $DEPLOY_URL
+            passed_message: Check out $DEPLOY_URL
 
 update-content-submodule:
     steps:
