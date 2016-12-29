@@ -8,8 +8,10 @@ theme: "hackshackers-2017"
 disableRSS: true
 disableSitemap: true
 
-contentDir: "content"
-dataDir: "content/data"
+# Dev-specific config options
+# Revert for production use
+contentDir: "sample-content"
+dataDir: "sample-content/data"
 
 taxonomies:
   tag: "tags"
