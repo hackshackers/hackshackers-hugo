@@ -10,8 +10,8 @@ disableSitemap: true
 
 # Dev-specific config options
 # Revert for production use
-contentDir: "sample-content"
-dataDir: "sample-content/data"
+contentDir: "content"
+dataDir: "content/data"
 
 taxonomies:
   tag: "tags"

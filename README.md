@@ -19,7 +19,7 @@ To start the local Go server at [http://localhost:1313/](http://localhost:1313/)
 1. `$ git clone https://github.com/hackshackers/hackshackers-hugo.git`
   1. Or `$ git clone git@github.com:hackshackers/hackshackers-hugo.git` if you have a SSH key set up
 1. `$ cd hackshackers-hugo`
-1. `$ hugo --config=devConfig.toml server`
+1. `$ hugo --config=devConfig.yml server`
 
 Git submodules can be tricky to work with, so we recommend using the sample content. But if you _really_ want to run the production content locally, replace step 4 with:
 
