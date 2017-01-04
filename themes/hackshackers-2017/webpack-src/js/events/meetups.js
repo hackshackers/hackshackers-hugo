@@ -6,12 +6,11 @@ import 'whatwg-fetch';
 /**
  * Parse feed of future events from HH groups on Meetup.com
  * @param obj opts
- *    int|null after Earliest timestamp to include, compared to orderBY value, defaults to Date.now()
- *    int|null before Last timestamp to include, compared to orderBY value, defaults to null
+ *    int|null compareTime Timestamp to cutoff future vs past events
  *    string order 'ASC' or 'DESC', defaults to 'ASC'
- *    string orderBy 'start' or 'end', defaults to 'start'
+ *    string orderBy Compare by event 'start' or 'end' times; defaults to 'start'
  *    int future Number of future events to include, defaults to 0
- *    int past Number of past events to include, defaults to 0. 'after' must be set to a time in the past to use this option.
+ *    int past Number of past events to include, defaults to 0
  */
 export default function meetups(calledOpts) {
   const opts = assign(defaultOpts, calledOpts);
@@ -41,47 +40,48 @@ function _filterEvents(map, opts) {
   // Assume unordered key-value pairs
   // Break into future/past lists
   Object.keys(map).forEach((key) => {
-    // Reject events that aren't in the after/before time range
     const item = map[key];
     const compareTime = item[opts.orderBy].getTime();
-    if (compareTime < opts.after ||
-      (opts.before && compareTime > opts.before)
-    ) {
-      return;
-    }
 
     // Add to future or past queue
-    if (compareTime > Date.now()) {
+    if (compareTime > opts.compareTime) {
       futureEvents.push(item);
     } else {
       pastEvents.push(item);
     }
   });
 
-  /**
-   * Sort by start or end, in ASC or DESC order
-   */
-  function _compareFunc(first, second) {
-    let delta = first[opts.orderBy].getTime() - second[opts.orderBy].getTime();
-    if ('DESC' === opts.orderBy) {
-      delta *= -1;
-    }
-    return delta;
-  }
-  futureEvents.sort(_compareFunc);
-  pastEvents.sort(_compareFunc);
+  // Sort the future/past queues in ASC order
+  futureEvents.sort((first, second) =>
+    _compareFunc(first, second, opts.orderBy));
+  pastEvents.sort((first, second) =>
+    _compareFunc(first, second, opts.orderBy, false));
 
-  /**
-   * Retur sliced lists according to orderBy value
-   */
-  if ('ASC' === opts.orderBy) {
+  if ('ASC' === opts.order) {
     return {
-      future: futureEvents.slice((-1 * opts.future)),
-      past: pastEvents.slice(0, opts.past),
+      future: futureEvents.slice(0, opts.future),
+      past: pastEvents.slice(0, opts.past).reverse(),
     };
   }
+
   return {
-    future: futureEvents.slice(0, opts.future),
-    past: pastEvents.slice((-1 * opts.past)),
+    future: futureEvents.slice(0, opts.future).reverse(),
+    past: pastEvents.slice(0, opts.past),
   };
+}
+
+/**
+ * Sort by event start or end time
+ *
+ * @param object first First event
+ * @param object second Second event
+ * @param string orderBy 'start' or 'end'
+ * @param bool ascOrder Defaults to true, use false to sort in descending order.
+ */
+function _compareFunc(first, second, orderBy, ascOrder = true) {
+  const delta = first[orderBy].getTime() - second[orderBy].getTime();
+  if (! ascOrder) {
+    return -1 * delta;
+  }
+  return delta;
 }

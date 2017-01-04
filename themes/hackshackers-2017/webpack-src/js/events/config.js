@@ -1,14 +1,15 @@
 /**
  * Events-related constants
  */
-// export const calendarFeed = 'https://matchmaker.hhldn.co.uk/calendars/global';
-export const calendarFeed = '/data/calendar/global.ics';
+
+export const calendarFeed = ('localhost' === window.location.hostname) ?
+  '/mock/calendar/global.ics' :
+  'https://matchmaker.hhldn.co.uk/calendars/global';
 
 export const defaultOpts = {
   future: 0,
   past: 0,
-  after: Date.now(),
-  before: null,
+  compareTime: Date.now(),
   order: 'ASC',
   orderBy: 'start',
 };
