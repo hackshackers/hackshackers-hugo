@@ -26,8 +26,8 @@ build:
 
 deploy:
     steps:
-        - arjen/hugo-build@1.13.1:
-            version: "0.18.1"
+        - arjen/hugo-build@1.14.0:
+            version: "0.18"
             config: $HH_CONFIG_FILENAME
         - script:
             name: delete data files
