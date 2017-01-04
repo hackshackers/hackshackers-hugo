@@ -12,4 +12,5 @@ export const defaultOpts = {
   compareTime: Date.now(),
   order: 'ASC',
   orderBy: 'start',
+  renderStyle: 'basic',
 };
