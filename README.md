@@ -11,11 +11,19 @@ This is the "main" repository, containing general site configuration, sample con
 
 All of the site's content pages are generated from Markdown files in [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content). **Think of that repository as the database.** It is included as a [submodule](https://github.com/blog/2104-working-with-submodules) of the main repo.
 
-## Local dev setup
+## Setup
 
-To start the local Go server at [http://localhost:1313/](http://localhost:1313/) with pages compiled from the `sample-content/` directory:
+### Hugo
 
-1. [Install](https://gohugo.io/overview/installing/) Hugo
+[Install](https://gohugo.io/overview/installing/) Hugo if you haven't already.
+The minimum required version is **0.18.1**.
+
+Use `$ hugo version` to see what's currently installed on your machine and then upgrade if needed.
+
+### Local dev server
+
+To start the local Go server at [http://localhost:1313/](http://localhost:1313/) with pages compiled from the `sample-content/` directory (recommended):
+
 1. `$ git clone https://github.com/hackshackers/hackshackers-hugo.git`
   1. Or `$ git clone git@github.com:hackshackers/hackshackers-hugo.git` if you have a SSH key set up
 1. `$ cd hackshackers-hugo`
