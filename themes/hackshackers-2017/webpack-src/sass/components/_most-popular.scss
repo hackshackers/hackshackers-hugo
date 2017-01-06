@@ -22,7 +22,20 @@
 }
 
 .widget-most-popular--list {
-	li {
-		margin-bottom: 20px;
+
+	>li {
+		margin-bottom: 25px;
+		padding-bottom: 20px;
+		position: relative;
+
+		&:after {
+			content: '';
+			display: block;
+			width: 45px;
+			border-top: 3px solid $color-gray-dark;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+		}
 	}
 }

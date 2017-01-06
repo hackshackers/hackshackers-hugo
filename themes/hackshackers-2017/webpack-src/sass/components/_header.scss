@@ -129,3 +129,13 @@
 		margin-left: auto;
 	}
 }
+
+header {
+	.widget-signup {
+		margin-left: auto;
+
+		@media #{$breakpoint-mobile} {
+			display: none;
+		}
+	}
+}
