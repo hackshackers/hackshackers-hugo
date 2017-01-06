@@ -1,0 +1,9 @@
+{{/*  Partial sends key-value pairs webpack-src/events/meetups.js
+      See webpack-src/events/config.js for default options */}}
+
+<div
+  class="fetch-events"
+  {{ range $key, $value := . }}
+    data-{{ $key }}="{{ $value }}"
+  {{ end }}
+></div>

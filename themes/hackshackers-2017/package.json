@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "scripts": {
     "build": "BUILD=true webpack --optimize-minimize",
-    "start": "WATCH=true BUILD=true webpack --optimize-minimize"
+    "start": "WATCH=true BUILD=true webpack -d --optimize-minimize"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
@@ -27,7 +27,11 @@
     "webpack": "^1.13.3"
   },
   "dependencies": {
+    "fecha": "2.3.0",
+    "ical": "0.5.0",
     "jquery": "3.1.1",
-    "leaflet": "1.0.2"
+    "leaflet": "1.0.2",
+    "lodash": "4.17.2",
+    "whatwg-fetch": "2.0.1"
   }
 }
