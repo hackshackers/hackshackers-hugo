@@ -1,11 +1,15 @@
 .local-groups {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
 .local-groups-city {
 	margin-bottom: 45px;
-	padding: 0px 45px;
+
+	@media #{$breakpoint-desktop} {
+		width: 30%;
+	}
 
 	button {
 		margin: 5px 0 0 0;
@@ -20,12 +24,20 @@
 	font: $font-primary-nav;
 	font-size: 32px;
 	text-transform: uppercase;
-	border-bottom: 3px solid $color-black;
-	display: inline-block;
 	margin-bottom: 5px;
+	position: relative;
 
 	&:hover {
 		color: $color-orange;
+	}
+
+	&:before {
+		content: "";
+		position: absolute;
+		width: 17%;
+		height: 1px;
+		bottom: -4px;
+		border-bottom: 3px solid $color-black;
 	}
 }
 
@@ -79,9 +91,8 @@
 			content: "\f08e";
 			display: inline-block;
     	font: normal normal normal 14px/1 FontAwesome;
-			position: absolute;
-			margin-left: 6px;
-			top: 9px;
+			margin-left: 8px;
+			vertical-align: middle;
 		}
 	}
 }
