@@ -1,0 +1,1300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Hacks/Hackers Global Event calendar is generated from Meetup.com eve
+ nt data
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+TZID:UTC
+X-WR-TIMEZONE:UTC
+X-WR-CALNAME:Hacks/Hackers global events
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:1e2b518d-9169-47f7-a0c0-6fa722e27261
+DTSTART:20180101T190000
+DTEND:20180101T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdyxcbcb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdyxcbcb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:ac518bfd-ed72-4e80-964b-62ae6f1abfbb
+DTSTART:20171204T190000
+DTEND:20171204T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywqbgb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywqbgb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:8f4cab6c-ee69-41b7-b41d-af250515622b
+DTSTART:20171106T190000
+DTEND:20171106T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywpbjb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywpbjb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:ca36be40-908d-4b22-beb6-b38091316346
+DTSTART:20171002T180000
+DTEND:20171002T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywnbdb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywnbdb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:fb939de1-a33b-4d39-938d-3c12691e5c7d
+DTSTART:20170904T180000
+DTEND:20170904T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywmbgb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywmbgb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:9e0be611-da58-4321-b7c0-30bd6bdaa1a1
+DTSTART:20170807T180000
+DTEND:20170807T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywlbkb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywlbkb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:b63a345b-05c1-4114-b991-878760c24ae3
+DTSTART:20170703T180000
+DTEND:20170703T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywkbfb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywkbfb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:c515e2dc-835c-4885-b11f-a663229b6bbd
+DTSTART:20170605T180000
+DTEND:20170605T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywjbhb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywjbhb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:0f48a8e4-b527-48f3-bfb6-8a67c7d9b474
+DTSTART:20170520T020000
+DTEND:20170520T030000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlywhbzb/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlywhbzb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:53e4adb6-a163-4b99-8d24-9c8369080103
+DTSTART:20170501T180000
+DTEND:20170501T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/231918088/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/231918088/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:d30ad14c-3bbd-41c2-b7f4-4594bf509d52
+DTSTART:20170422T020000
+DTEND:20170422T030000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlywgbcc/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlywgbcc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:5240717a-f829-4594-87d5-9c5129f6b329
+DTSTART:20170403T180000
+DTEND:20170403T190000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywgbfb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywgbfb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:9667e292-17fa-4d74-a01d-2c33187f94db
+DTSTART:20170318T020000
+DTEND:20170318T030000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlywfbwb/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlywfbwb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:0de945c4-d6c4-43ed-bf5e-ef9d6a3d6f55
+DTSTART:20170306T190000
+DTEND:20170306T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywfbjb/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywfbjb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:f3e6cc51-37ff-4c79-8080-f5b851ed3134
+DTSTART:20170218T030000
+DTEND:20170218T040000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlywdbwb/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlywdbwb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:5677271f-05c5-4437-bfe5-1c23a356a5c7
+DTSTART:20170206T190000
+DTEND:20170206T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/236605330/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/236605330/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:b29934a2-addb-4b51-ae34-efbab77f22ba
+DTSTART:20170121T030000
+DTEND:20170121T040000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlywcbbc/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlywcbbc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:f9c9ff0f-83c1-4285-85b1-1677cd8a0e34
+DTSTART:20170111T000000
+DTEND:20170111T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttps://www.meetup.com/
+ hackshackersIRE/events/qlcfwgywcbnb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywcbnb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:c2559837-acc3-4f2c-bb7d-ce08ae863f06
+DTSTART:20170104T000000
+DTEND:20170104T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttps://www.meetup.com/
+ hackshackersIRE/events/qlcfwgywcbfb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywcbfb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:683104f6-42cd-43c8-8054-12e4705a539e
+DTSTART:20170102T190000
+DTEND:20170102T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/236277144/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/236277144/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:30e8211e-cc7b-48e2-b1db-b061707b5aad
+DTSTART:20161221T000000
+DTEND:20161221T010000
+DESCRIPTION:Come out for a drink up with others who are interested in\, are
+  working with\, and/or are affected by the ways new media is changing the c
+ reation\, dissemination\, presentation and business of journalism.  You mig
+ ht learn something new\, have a disagreement\, find what you know is a big 
+ help to someone\, get an idea\, make a new friend\, have a nice time\, or h
+ ave one too many.  All are welcome: hacks and hackers\, data journalists an
+ d scientists\, open data and gov aficionados\, students and academics\, beg
+ inners and pros\, venture capitalists and paupers\, teetotallers and barfli
+ es. Bring your colleagues\, and feel free to cross post this invitation wit
+ h any group that could be relevant to the conversation. See you there\,Leon
+  & the Hacks/Hackers Toronto Team\n\nhttp://www.meetup.com/Hacks-Hackers-To
+ ronto/events/227998241/
+LOCATION:Betty's\, 240 King Street East
+SUMMARY:Hacks/Hackers Toronto: Hacks/Hackers Toronto Pub Night series
+URL:http://www.meetup.com/Hacks-Hackers-Toronto/events/227998241/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:b30088d0-f618-4dfc-9490-00a5d1dc48ad
+DTSTART:20161221T000000
+DTEND:20161221T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttps://www.meetup.com/
+ hackshackersIRE/events/qlcfwgyvqbbc/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgyvqbbc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:6d00464d-c3cc-41fe-a12b-812a69ed43ab
+DTSTART:20161217T113000
+DTEND:20161217T123000
+DESCRIPTION: Hola de nuevo!!!  Nueva sesión a la vista y esta vez dedicada 
+ a la ciberseguridad!   Si eres periodista o de cualquier otra profesión\, p
+ ero quieres que tus fuentes queden protegidas\, si quieres mejorar tu priva
+ cidad en la red\, enviar un mail con total seguridad o trabajar en un entor
+ no seguro\, queremos invitarte a esta nueva sesión gratuita.  Programa (ire
+ mos ampliando los contenidos e instrucciones a lo largo de la semana).  • 1
+ 2:30 h a 13:00h Charla   "Cybersecurity 101" Charla sobre ciberseguridad bá
+ sica con Sílvia Puglisi del grupo Barcelona Cibersegurity\, ingeniera de so
+ ftware. Actualmente trabajando en torproject.org.   @nopressure es Candidat
+ a Ph.D. del grupo de seguridad de la información en el Departamento de Inge
+ niería Telemática en la Universidad Politécnica de Cataluña (UPC)\, investi
+ gando en los campos de la privacidad y el anonimato de los usuarios en comu
+ nidades online y redes sociales. • 13:00 h a 13:40 h Taller  'Cifrado de fi
+ cheros: Uso de VeraCrypt' Jordi Iparraguirre y Jordi Delgado introducirán i
+ deas básicas para mejorar nuestra seguridad y privacidad en internet. Harán
+  un mini taller de cifrado de ficheros.  IMPORTANTE!!!  - Para el taller\, 
+ tenéis que traer vuestros portátiles aunque si lo preferís\, podéis venir s
+ olo de oyentes.  - Para mejorar la dinámica de la sesión\, os tendríais que
+  descargar e instalar  antes de venir VeraCrypt. Quien quiera también puede
+  traer una memoria USB.   @jordiipa es Ingeniero informático y vicedecano d
+ el Col·legi d'Informàtics de Catalunya.    @v4ley4rd es profesor de la Facu
+ ltat d'Informàtica de Barcelona.   Ambos son organizadores de las Cryptopar
+ ty • 13:40 a 14:00h  Networking  Dónde?   Como es habitual\, hemos buscado 
+ un lugar con cervezas\, esta vez\, cerveza artesanal\, de producción propia
+ . Volvemos al Black Lab\, en el Palau de Mar (Port Vell). Será un sábado\, 
+ a la hora del aperitivo. La sesión que os ofrecemos es gratuita\, pero las 
+ cervezas\, si queréis\, corren a cuenta de cada uno. Os aseguramos que está
+ n buenísimas y a buen precio.  Os esperamos media rebels!!!! \n\nhttps://ww
+ w.meetup.com/Hacks-Hackers-Barcelona/events/236135362/
+LOCATION:BlackLab Brewhouse\, Plaça de Pau Vila
+SUMMARY:Hacks/Hackers Barcelona: Vermutillo de ciberseguridad para periodis
+ tas y afines (I)
+URL:https://www.meetup.com/Hacks-Hackers-Barcelona/events/236135362/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:711aea0f-cf23-47fd-9423-2a590b5016db
+DTSTART:20161217T030000
+DTEND:20161217T040000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlyvqbvb/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlyvqbvb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:a0befe07-6a4e-45d7-bcd1-8e6ad4ee71ac
+DTSTART:20161215T020000
+DTEND:20161215T030000
+DESCRIPTION:Though not an official Hacks/Hackers event\, we wanted to let y
+ ou know there's a holiday party for Bay Area journalists and media types\, 
+ put on by our friends at the Solutions Journalism Network and the Pacific M
+ edia Workers Guild (and more). Get your ticket(s) early to get ready to cel
+ ebrate the almost end of 2016 with fellow hacks (and hackers). Wed\, Decemb
+ er 14\, 20166:00 PM – 9:00 PM PST It'll be at the Bluxome Winery in North B
+ each  900 North Point StreetSan Francisco\, CA 94109 Tix are $15 and you ca
+ n them here:https://www.eventbrite.com/e/holiday-party-for-bay-area-journal
+ ists-tickets-27677632544\n\nhttps://www.meetup.com/hacksandhackers/events/2
+ 35043545/
+LOCATION:Bluxome Street Winery\,  900 North Point Street
+SUMMARY:Hacks and Hackers: Friendly Heads Up: Holiday Party for Bay Area Jo
+ urnalists  Dec. 14
+URL:https://www.meetup.com/hacksandhackers/events/235043545/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:161b5844-82e0-4726-9c85-6aa51f7a85f2
+DTSTART:20161214T183000
+DTEND:20161214T193000
+DESCRIPTION:Let's get together for pre Christmas drinks.  To welcome the ho
+ liday season\, this will be a social meet up and there will no presentation
+ s! Come to drink\, mingle and chat.  Hope to see many of you there.\n\nhttp
+ s://www.meetup.com/hacks-hackers-dublin/events/236094987/
+LOCATION:The Library Bar @ The Central Hotel\, Exchequer Street
+SUMMARY:Hacks/Hackers Dublin: Christmas social meet-up
+URL:https://www.meetup.com/hacks-hackers-dublin/events/236094987/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:eccb0231-7711-4f80-876b-d3efcfed5df0
+DTSTART:20161214T000000
+DTEND:20161214T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttps://www.meetup.com/
+ hackshackersIRE/events/qlcfwgyvqbrb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgyvqbrb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:10b58f69-d040-4090-a974-0a4618695edc
+DTSTART:20161207T180000
+DTEND:20161207T190000
+DESCRIPTION:HacksHackers München melden sich zurück. Und hier ist das Lineu
+ p für unser Meetup am 7.12.: •  Marion Bruchhäuser von piqd\, dem Kurations
+ -Dienst\, berichtet uns von ihrer Arbeit an der Schnittstelle zwischen Reda
+ ktion und Programmierung und wie sich piqd im vergangenen Jahr weiterentwic
+ kelt hat.  Zur Sprache kommen technische\, rechtliche und organisatorische 
+ Aspekte der Softwareentwicklung sowie ein Ausblick auf die nächsten Schritt
+ e von piqd. • Software-Entwickler Felix Ebert hat für die Redaktion der Hei
+ lbronner Stimme einen Facebook-Bot programmiert und zeigt\, welche Technik 
+ dahinter steckt und wie leicht sich Bots redaktionell nutzen lassen. Außerd
+ em berichtet Philipp Naderer vom ORF spontan zum Einsatz ihres überaus erfo
+ lgreichen Wahl-Bots bei der österreichischen Bundespräsidentenwahl am verga
+ ngenen Wochenende.  • Mario Haim von der Uni München hat beim letzten Meetu
+ p Pollyvote vorgestellt\, ein Vorhersage-Tool zur US-Wahl.  Pollyvote hat w
+ ie fast allen anderen Prognose-Tools einen Clinton-Sieg vorhergesagt.  Mari
+ o wird uns nun von Learnings aus dem Projektund die Auswirkungen auf die Pr
+ ognose(-forschung) erzählen. Wie immer werden alle drei Speaker 15 Minuten 
+ Zeit haben\, es schließt sich eine Fragerunde an. Und anschließend besteht 
+ die Möglichkeit\, sich bei einem Bier weiter auszutauschen.  \n\nhttps://ww
+ w.meetup.com/Hacks-Hackers-Munchen/events/235775473/
+LOCATION:Media Lab Bayern\, Rosenheimer Str. 145
+SUMMARY:Hacks/Hackers München: 1 Jahr piqd\, Facebook-Bots und Prognose-Too
+ ls nach Trump
+URL:https://www.meetup.com/Hacks-Hackers-Munchen/events/235775473/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:c5eb8964-2431-4d76-af1f-7de3d2a74590
+DTSTART:20161207T000000
+DTEND:20161207T010000
+DESCRIPTION:Happy holidays to all you hacks (journalists) and hackers (tech
+ nologists) out there in Nola. We're planning a hackathon for January and Fe
+ bruary\, and we'd like your input. And also your pleasant company. So pleas
+ e join us for drinks at Capdeville next Tuesday\, as we figure out what we 
+ want to going to hack and why. Journalists\, coders\, civic hackers\, nonpr
+ ofits\, activists and all else are welcome. Capdeville is next door to the 
+ Nola Hack Night\, so feel free to bring your computer and work on a project
+  as well. See you there! \n\nhttps://www.meetup.com/Hacks-Hackers-New-Orlea
+ ns/events/235967594/
+LOCATION:Capdeville\, 520 Capdeville Street
+SUMMARY:Hacks/Hackers New Orleans: Holiday hackathon happy hour
+URL:https://www.meetup.com/Hacks-Hackers-New-Orleans/events/235967594/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:65ebf21a-f2ab-470e-8fc1-790402e8e5d8
+DTSTART:20161206T223000
+DTEND:20161206T233000
+DESCRIPTION: Venez participer au tout premier atelier pratique de Hacks Hac
+ kers Montréal! Nos experts vous feront des démonstrations en direct de troi
+ s technologies utiles dans le travail journalistique. Ce sera concret. Emme
+ nez votre propre ordinateur pour les suivre pas à pas*. 1. Pandas avec Robe
+ rto Rocha Analysez vos données et faites-les parler pour trouver des histoi
+ res exclusives! Vous aurez besoin de: Python (2 ou 3) et de quelques packag
+ es supplémentaires (Anaconda\, pandas\, numpy\, jupyter) si vous souhaitez 
+ reproduire sur votre ordi ce qui sera présenté à l'écran. Vous pouvez aussi
+  télécharger le Jupyter Notebook et données sur ce lien. 2. D3 avec Naël Sh
+ iab Fabriquez vos propres visualisations interactives! Vous aurez besoin de
+ : un éditeur de code (Sublime Text\, Atom\, Text Wrangler\, NotePad) 3. UNI
+ X avec Alexandre Guédon Ouvrez le capot de votre ordinateur et découvrez to
+ ute la puissance d'UNIX! Vous aurez besoin de: un ordinateur MacOS (avec l'
+ application Terminal) ou Linux. En attendant que MS implante Unix dans sa p
+ rochaine version de Windows\, vous pourrez aussi émuler Linux avec des outi
+ ls comme VirtualBox.  * Notre atelier pratique est d'abord et avant tout un
+  démo. Il ne s'agira pas d'une formation. Nos experts bénévoles pourront ré
+ pondre à vos questions d'ordre général\, mais n'auront pas le temps faire d
+ u débogage pointu. \;-) --- Un mot de notre commanditaire: WeWork est une c
+ ommunauté de créateurs qui vise à aider les entreprises à croître en l
+ eur fournissant non seulement un bel espace\, mais aussi le soutient\, les 
+ avantages\, les commodités et la communauté professionnelle dont ils ont 
+ besoin pour se concentrer sur leur activité. Ecrivez nous à placevillemar
+ ie@wework.com et réservez une visite dès aujourd'hui! ========= For the h
+ olidays\, we invite you to Hacks/Hackers Montreal's first ever practical wo
+ rkshop! On the menu: three fantastic tools to analyze and visualize data. O
+ ur experts will do live demos\, so bring your laptop and code along or just
+  watch and learn. \n\n1. Pandas with Roberto Rocha Analyze big datasets and
+  find exclusive stories with this powerful Python library for analyzing and
+  visualizing data. If you want to code along\, you'll need Python (2 or 3) 
+ and the following libraries installed: pandas\, numpy and jupyter). An easy
+ \, cross-platform package with everything pre-installed is the Anaconda dat
+ a science distribution. You can also download the Jupyter Notebook and exer
+ cise data here. \n\n\n2. D3 with Naël Shiab Roll your own interactive data 
+ visualizations for the web with this versatile JavaScript library. You'll n
+ eed a text editor like Sublime Text\, Atom\, Text Wrangler\, Notepad++\, et
+ c. 3. UNIX with Alexandre Guédon Open your computer's hood and discover the
+  power of UNIX. You'll need a *nix machine (Mac or Linux) and some familiar
+ ity with the command line (Terminal). If you have a Windows laptop\, you ca
+ n run Linux in a virtual machine like VirtualBox. Note: this meetup is abov
+ e all a demo\, not a course. Our presenters will gladly answer some questio
+ ns\, but they won't be able to personally troubleshoot everyone. --- A word
+  from our sponsor: WeWork is a community of creators that aims to help comp
+ anies grow by providing them with not just beautiful space\, but also the b
+ enefits\, amenities\, and professional community they need to focus on thei
+ r business. Email placevillemarie@wework.com to set up a tour today!\n\nhtt
+ ps://www.meetup.com/HacksHackersMontreal/events/235831008/
+LOCATION:L'Avenue (nouveau centre de co-travail de WeWork)\, 1275 Avenue de
+ s Canadiens-de-Montréal
+SUMMARY:Hacks/Hackers Montreal: Atelier pratique pour Noël: Pandas\, Unix e
+ t D3
+URL:https://www.meetup.com/HacksHackersMontreal/events/235831008/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:19e80652-cf4b-427b-ab3d-b0ea1b7b2b2f
+DTSTART:20161206T160000
+DTEND:20161206T170000
+DESCRIPTION: Journalists\, writers\, data scientists and developers: want t
+ o use your powers for good and learn how technology\, reporting and civic a
+ ctivism intersect? Keen to find out how entrepreneurial storytellers are cr
+ eating tools that bring narrative to public data and in doing so\, democrat
+ ise it? Whether you're a regular member or a curious newcomer\, we'd like y
+ ou to join Hacks/Hackers Johannesburg for a special last-of-the-year festiv
+ e meet-up at JoziHub on Tuesday 6th December at 6pm. We've had a busy and v
+ ery successful 2016\, and we'd like to finish it off with an awesome couple
+  of hours of information\, catch-up and networking before Joburg heads into
+  its traditional December lull. First up\, we've got a special speaker in t
+ he form of former ICFJ/Knight Fellow Raymond Joseph. Joseph is the very def
+ inition of an entrepreneurial journalist and one of the country's leading s
+ pecialists in data-driven storytelling and journalism. A veteran with four 
+ decades in the industry\, Joseph is currently head of the media programme a
+ t Code for South Africa\, a non-profit civic tech organisation which uses d
+ ata and tech to promote informed decision-making that drives social change.
+  Joseph will be talking about Code for South Africa's latest free tools for
+  journalists and researchers. Municipal Money is a detailed breakdown of th
+ e audited details of the finances of every municipality in South Africa in 
+ an easy to use format. OpenGazettes is a vital tool which makes South Afric
+ a’s national and provincial government gazettes easily searchable and avail
+ able for free. As well as Joseph's talk on Code for South Africa\, we'll al
+ so be catching up on the latest from our current flagship project\, #HackTh
+ eConstitution. This began in May as an investigation in to the best way to 
+ turn the text of South Africa's world-renowned Constitution into a living d
+ ocument that was easily accessible and understandable by all\, and as yet a
+ nother series of national discussions about the relevance of this amazing d
+ ocument kicks off is more needed than ever. And finally\, we'll be rounding
+  off with drinks at the Beer Yard in 44 Stanley. The first round is on us.\
+ n\nhttps://www.meetup.com/HacksHackersAfrica/events/235855887/
+LOCATION:Jozihub\, 44 Stanley Avenue
+SUMMARY:Hacks / Hackers Africa: City budgets\, Christmas drinks and a speci
+ al guest speaker Raymond Joseph
+URL:https://www.meetup.com/HacksHackersAfrica/events/235855887/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:e183c695-5b96-46e2-80dc-54ac8403d021
+DTSTART:20161206T020000
+DTEND:20161206T030000
+DESCRIPTION:NOTE: We're limiting this to full-time journalists and coders s
+ ince space is so limited. We'll have follow-up sessions on the topic in the
+  future.  We're back! It's been a while Hacks/Hackers\, but we're entering 
+ the new year with a timely event: how do journalists communicate securely a
+ nd protect their work. Data Guild is hosting a hands-on operational securit
+ y workshop with Hacks/Hackers on Monday\, December 5\, 2016 from 6:00-9:00 
+ p.m. If you are a Bay Area reporter\, come learn the threats facing journal
+ ists and effective ways to respond.   The format will be a balance between 
+ informal\, interactive small-group discussions and workstations where parti
+ cipants can bring their own devices\, ask questions\, and get help with the
+ ir own security configurations. Every participant should leave with more co
+ nfidence in their security practices and a better understanding of the uniq
+ ue threats. Journalists should understand how to protect themselves\, as we
+ ll as their network of colleagues\, sources\, partners\, and social connect
+ ions.  Agenda:  6:00 - 6:30 Snacks and chatting 6:30 - 7:15 Presentation 7:
+ 15 - 9:00 Workshop  Topics:  • What is a threat model? What is your threat 
+ model? • Special needs for investigative journalists • Threat actors and co
+ mmonly-seen tactics • Tradecraft pointers for journalists • Security workfl
+ ows and best practices for groups • Expert-staffed workstations for tool-ba
+ sed specifics – software and hardware. BYOD Security experts will work with
+  participants one-on-one and in small groups. Please bring your laptop or o
+ ther devices to work on this if you choose. \n\nhttps://www.meetup.com/hack
+ sandhackers/events/235889971/
+LOCATION:Bloomberg\, 140 New Montgomery 22 Floor
+SUMMARY:Hacks and Hackers: Information security for journalists
+URL:https://www.meetup.com/hacksandhackers/events/235889971/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:2c25bf00-b662-49a0-9550-1bf74129f732
+DTSTART:20161205T233000
+DTEND:20161206T003000
+DESCRIPTION:Please register through Eventbrite here: http://bit.ly/2gFYD9Z 
+  Join journalists\, developers and product managers from the Guardian US Mo
+ bile Innovation Lab\, Quartz and Mic for our next Hacks/Hackers NYC meetup 
+ on how to build better news notifications.  We'll be talking about ways tha
+ t each publisher has taken a distinctly different approach to delivering ne
+ ws on the lock screen: including experimentation with tone\, format\, graph
+ ics\, and interactivity with information — on apps and on web — to help dri
+ ve news alert innovation beyond standard breaking news.\n\nhttps://www.meet
+ up.com/hacks-hackers-nyc/events/235782661/
+SUMMARY:Hacks/Hackers New York City: Building Better News Notifications (Gu
+ ardian Mobile Innovation Lab\, Quartz\, Mic)
+URL:https://www.meetup.com/hacks-hackers-nyc/events/235782661/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:cf09c649-8167-4b61-82ed-8199a6c39ebe
+DTSTART:20161205T190000
+DTEND:20161205T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttps://www.meetup.com/Hacks-Hackers-Canterbury/events/235911553/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/235911553/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:59a301e7-c700-4b07-baaa-5b0da14cec15
+DTSTART:20161205T113000
+DTEND:20161205T123000
+DESCRIPTION:Thanks for your interest! This will be our regular monthly meet
+ -up - a very informal catch-up & networking session.  There is no scheduled
+  programme for today's event - it will be very 'unconference' in style and 
+ will give us space to plan future monthly meets. Just bring yourselves! If 
+ there are any problems arriving at the location - please call me - Rebecca\
+ , on 97850630. I'll meet everyone in the SPH Reception Lobby and take you u
+ pstairs\, there is no-one on reception at this time but I'll be there to me
+ et you. A space to meet like-minded people in the media & from the develope
+ r beat every first Monday of the month over food & drinks. Perfect for anyo
+ ne who has a story or an idea that could be told interactively but doesn't 
+ know where or how to get started. Or\, for anyone who has a new code or lib
+ rary to try out but doesn't have a story angle yet.\n\nhttp://www.meetup.co
+ m/Hacks-Hackers-Singapore/events/bshsmlyvqbhb/
+LOCATION:ST Innovation Lab - SPH\, 1000 Toa Payoh North
+SUMMARY:Hacks/Hackers Singapore: Micro Hack Mondays
+URL:http://www.meetup.com/Hacks-Hackers-Singapore/events/bshsmlyvqbhb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:f3f92a10-fcf7-4c60-8735-b68476c74669
+DTSTART:20161201T080000
+DTEND:20161201T090000
+DESCRIPTION:The final 2016 Hacks/Hackers Brisbane is on this Thursday and w
+ e have Nick Evershed from The Guardian Australia coming to talk about their
+  Walkley Award nominated Nauru Files reporting. Nick will tell us a bit abo
+ ut how the project came together with a focus on how technology played a ro
+ le in reporting and telling the story. We'll then have a Q&A session—so com
+ e armed with your questions. 6:00pm Arrive / Socialise / Grab a drink6:30pm
+  Nick Evershed—The Guardian Australia7:30pm Drinks / Food / Socialise8:30pm
+  Close / Socialise Sponsors Hacks/Hackers is supported by a number of wonde
+ rful sponsors. Our presentation partner hub4101 provides event support and 
+ does a great job of promoting innovation\, creativity and digital technolog
+ y in the 4101 postcode. We're very pleased to have sponsorship for this eve
+ nt from the Australian Broadcasting Corporation (who provide our venue)\, T
+ houghtWorks (who are providing the eats) and Walkley Foundation (who are su
+ pplying drinks).  If you have any other feedback\, questions or suggestions
+  to make 2017 a great year for Hacks/Hackers Brisbane\, please don't hesita
+ te to get in touch. You can email us (simon@elvery.net or d.angus@uq.edu.au
+ ) or get in touch via Twitter (@hackshackersbne) or Facebook.\n\nhttps://ww
+ w.meetup.com/Hacks-Hackers-Brisbane/events/235873112/
+LOCATION:ABC Brisbane Southbank\, 114 Grey St
+SUMMARY:Hacks/Hackers Brisbane: The Nauru Files—how Guardian Australia repo
+ rted a leak
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/235873112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:0fc19b4b-ea53-4e5e-a709-797a3ed8f41b
+DTSTART:20161130T000000
+DTEND:20161130T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttps://www.meetup.com/
+ hackshackersIRE/events/qlcfwgyvpbmc/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgyvpbmc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:11242ac4-f674-4b07-aba2-0ea5206c7e0d
+DTSTART:20161124T163000
+DTEND:20161124T173000
+DESCRIPTION: Seit etwas mehr als einen Jahr gibt es NZZ Storytelling\, ein 
+ interdisziplinäres Team aus Datenjournalistinnen\, Entwicklern\, Designern 
+ und Infografikerinnen. Bei Hacks/Hackers gibt das Team Einblicke in seine A
+ rbeit\, besonders auch jene Aspekte\, die von aussen weniger sichtbar sind:
+  Wie funktioniert die Zusammenarbeit mit der Redaktion? Welche Rolle spielt
+  ein Storytelling-Team in einem Traditionshaus\, das sich am wandeln ist? U
+ nd was hat es eigentlich mit der sagenumwobenen Toolbox Q auf sich? Spreche
+ r: David Bauer\, Leiter Storytelling\, und weitere Mitglieder von NZZ Story
+ telling. Der Vortrag ist auf Deutsch. WICHTIG: Die Besammlung findet um 17 
+ Uhr 30 beim SRF-Empfang statt (Haltestelle Fernsehstudio\, dann zum Hauptei
+ ngang gehen). Danach gehen wir gemeinsam zum Sitzungszimmer. Bitte seid all
+ e pünktlich dort. Wenn es jemandem nicht reicht\, erfolgt um 18 Uhr noch ei
+ nmal eine Besammlung. Bei Fragen bitte an 044 305 55 19 wenden. 17:30 Empfa
+ ng / 18:00 Vortrag / 19:00 Fragen&Diskutieren&Bier&Drinks&Snacks\n\nhttps:/
+ /www.meetup.com/Hacks-Hackers-Zurich/events/234914531/
+LOCATION:SRF Studio Zürich Leutschenbach\, Fernsehstrasse 1-4
+SUMMARY:Hacks/Hackers Zürich: #17: NZZ Storytelling
+URL:https://www.meetup.com/Hacks-Hackers-Zurich/events/234914531/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:2d60a53d-f057-4bf9-ab16-d8bd9e213a74
+DTSTART:20161123T183000
+DTEND:20161123T193000
+DESCRIPTION:Hi Hacks/Hackers\,   Our next event is on 23 November at Twitte
+ r UK\, London.  Please note that our event signup and waiting list have mov
+ ed to Eventbrite.   We will not be opening RSVPs via Meetup.com\, nor annou
+ ncing events or ticket release times via Meetup.com.  All event announcemen
+ ts will be made via our Mailchimp mailing list. If you're not on the announ
+ cement mailing already\, please sign up for that too\, to be notified first
+  about future events: http://meetup.us10.list-manage1.com/subscribe?u=5ec48
+ 38c77e74bdaea232babb&id=fcfb28c4fd \n\n\nTo suggest a lightning pitch slot\
+ , fill in this form.\n\nhttps://www.meetup.com/HacksHackersLondon/events/22
+ 9127046/
+LOCATION:Twitter UK \, 20 Air Street\, W1B 5AN
+SUMMARY:Hacks/Hackers London: Hacks/Hackers November Meetup
+URL:https://www.meetup.com/HacksHackersLondon/events/229127046/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:026b6a0a-b143-455e-a7b8-41507d22d792
+DTSTART:20161123T080000
+DTEND:20161123T090000
+DESCRIPTION:6:00pm Arrive / Socialise / Grab a drink 6:30pm Emily Craven—St
+ ory City 7:30pm More socialising / Drinks / Food 8:00pm Close / Socialise S
+ tory City is a digital storytelling experience that combines fictional choo
+ se-your-own-adventure style stories with physical locations\, allowing the 
+ fantasy to become ‘real’ to the reader. Sponsors Hacks/Hackers is supported
+  by a number of wonderful sponsors. Our presentation partner hub4101 provid
+ es event support and does a great job of promoting innovation\, creativity 
+ and digital technology in the 4101 postcode. We're very pleased to have spo
+ nsorship for this event from ThoughtWorks (who provide food and drink) and 
+ the Australian Broadcasting Corporation (who provide our venue).  If you ha
+ ve any other questions or suggestions for this event or to make 2016 a grea
+ t year for Hacks/Hackers Brisbane\, please don't hesitate to get in touch. 
+ You can email us (simon@elvery.net or d.angus@uq.edu.au) or get in touch vi
+ a Twitter (@hackshackersbne).\n\nhttps://www.meetup.com/Hacks-Hackers-Brisb
+ ane/events/234935705/
+LOCATION:ABC Brisbane Southbank\, 114 Grey St
+SUMMARY:Hacks/Hackers Brisbane: Story City—Hacks/Hackers November
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/234935705/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:8badd372-9ca1-464a-a3aa-8ef8d359e846
+DTSTART:20161119T120000
+DTEND:20161119T130000
+DESCRIPTION:Hacks/Hackers Buenos Aires y la Campaña Nacional Contra la Viol
+ encia Institucional convocan a una hackatón especial para poner la tecnolog
+ ía al servicio de los derechos humanos.  \n\n\nPOR QUÉ UNA HACKATÓN CONTRA 
+ LA VIOLENCIA INSTITUCIONAL? Por muchas razones\, pero básicamente porque no
+  hay ninguna razón que justifique los casos de gatillo fácil\, detenciones 
+ ilegales\, la tortura en cárceles\, la desaparición forzada de personas o l
+ as causas armadas y abusos cotidianos de las fuerzas de policía\, de seguri
+ dad y penitenciarias. Los defensores de derechos humanos denuncian desde ha
+ ce años la violencia institucional y eso no ha sido suficiente para sancion
+ ar a los responsables y evitar que sus abusos queden en la impunidad. Quere
+ mos ayudar a los defensores de los derechos humanos y a las víctimas que su
+ fren estos abusos en manos del Estado. Pensamos que una buena manera de ayu
+ dar es visibilizar y denunciar la violencia institucional. Y para la comuni
+ dad Hacks/Hackers no hay nada mejor que hacerlo mediante una jornada de tra
+ bajo colaborativo (una HACKATÓN)\, es decir\, una maratón de desarrollo y p
+ rogramación de tecnología al servicio de quién más lo necesita. \n\n\nQUÉ H
+ AREMOS EN LA HACKATÓN Junto a sociólogos\, antropólogos\, abogados\, activi
+ stas de derechos humanos\, expertos de organismos de DDHH y familiares de v
+ íctimas -entre otros- trabajaremos en base a problemas\, ideas y proyectos 
+ de las organizaciones y universidades participantes. Muchas de ellas aporta
+ rán datos\, o en su defecto la "estructura de datos" (sólo los descriptores
+ ) si tienen reparos en abrir la información por tratarse de datos sensibles
+ . También usaremos datos estadísticos de fuentes públicas y de libre dispon
+ ibilidad para vincular con los proyectos. Además continuaremos desarrolland
+ o los proyectos que se iniciaron en la MediaParty2016\, como el archivo de 
+ la memoria de las víctimas\, los sistemas de indexación\, denuncia y alerta
+  temprana. \n\n\nQUERÉS PROPONER UNA IDEA O PROYECTO PARA DESARROLLAR? Entr
+ á en https://hackdash.org/dashboards/vi2016 y agregá tu idea/proyecto para 
+ desarrollarla en la hackatón. \n\n\n\nInscribite para participar !\n\nhttps
+ ://www.meetup.com/HacksHackersBA/events/235258306/
+LOCATION:UMET\, Sarmiento 2037
+SUMMARY:Hacks/Hackers Buenos Aires: Hackaton contra la violencia institucio
+ nal
+URL:https://www.meetup.com/HacksHackersBA/events/235258306/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:743133fd-e3fa-474a-a80e-9b54e9d52d55
+DTSTART:20161119T030000
+DTEND:20161119T040000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlyvpbxb/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlyvpbxb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:df4f078a-9dea-434b-a21d-34275528891f
+DTSTART:20161118T130000
+DTEND:20161118T140000
+DESCRIPTION:Creatividad\, tecnología y activismo cívico se unirán en el "Tr
+ ansportatón: hackatón por un transporte sustentable en Mendoza"\, cuyo obje
+ tivo es crear apps\, juegos\, webs y herramientas digitales que promocionen
+ \, analicen y ayuden a desarrollar el uso de medios de transporte modernos 
+ y no contaminantes en el Gran Mendoza. Se realizará el 18 de noviembre desd
+ e las 10 de la mañana en el nuevo Parque TIC de Godoy Cruz (calles Cubillos
+  y Preciado)\, en el marco del encuentro Ciudades Conectadas. El equipo par
+ ticipante que haga el mejor desarrollo ganará 20 mil pesos para acelerar el
+  proyecto. En qué consiste Autos\, colectivos\, metrotranvia\, bicicletas\,
+  taxis y remises circulan a diario por nuestras calles en forma caótica\, c
+ on poca planificación y nula sustentabilidad. ¿Podemos mejorar y optimizar 
+ el uso de cada uno de ellos? ¿Es posible vivir en una ciudad donde el trans
+ porte público sea la mejor opción para trasladarse? El objetivo es que todo
+ s los interesados trabajen en equipos para desarrollar herramientas que mue
+ stren cómo se puede lograr esto\, a partir del cruce de las bases de datos 
+ y la tecnología para ayudar al Estado a tomar decisiones. Cómo participar S
+ i sos emprendedor\, comunicador\, diseñador\, programador\, ingeniero o est
+ ás interesado en mejorar las costumbres urbanas en materia de transporte\, 
+ este es el evento para que te pongas en acción. Solo tenés que llevar tu co
+ mputadora y una buena idea para desarrollar\, la que podés cargar en este l
+ ink para empezar a sumar apoyos e ir armando tu equipo. Si no tenés una ide
+ a ahora\, igual te podés sumar a alguna que te guste el mismo día del event
+ o. La participación es libre y gratuita. No hay límites de conocimientos ni
+  de edades. Solo se necesitan ganas de trabajar en un ámbito colaborativo. 
+ El equipo que haga el mejor desarrollo ganará un premio en efectivo de 20.0
+ 00 pesos que podrá usar para darle forma definitiva al proyecto que surja d
+ el Transportatón. Fecha: viernes 18 de noviembre Hora: 10 hs. Lugar: Parque
+  TIC (Cubillos y Preciado\, Godoy Cruz) Organizan: Municipalidad de Godoy C
+ ruz\, Secretaría de Servicios Públicos de la Provincia\, Unidiversidad y Ha
+ cks/Hackers Mendoza\n\nhttps://www.meetup.com/Hacks-Hackers-Mendoza/events/
+ 235490374/
+LOCATION:Parque TIC de Godoy Cruz\,  Cubillos y Preciado
+SUMMARY:Hacks/Hackers Mendoza: Transportatón: primer hackatón sobre transpo
+ rte público en Mendoza
+URL:https://www.meetup.com/Hacks-Hackers-Mendoza/events/235490374/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:07987f6a-fe62-44a0-b50a-6724e4269b76
+DTSTART:20161116T000000
+DTEND:20161116T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttp://www.meetup.com/h
+ ackshackersIRE/events/qlcfwgyvpbtb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvpbtb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:ba5447e5-3a94-44c1-adf9-318f62371856
+DTSTART:20161111T193000
+DTEND:20161111T203000
+DESCRIPTION:Hacks/Hackers Dublin is delighted to have partnered up with Inv
+ estigative Journalism on the Digital Frontier Conference\, to be held from 
+ 11 Nov 2016 to 13 Nov 2016 in Dublin.  The conference programme includes: •
+  Masterclass with Carol Leonnig (2015 Pulitzer Prize Winner) on investigati
+ ve journalism • Masterclass with George Carey on producing an investigative
+  documentary • Cleraun Award for Outstanding Contribution to Journalism • A
+  session on ICIJ's work on Panama Papers. • And many more interesting talks
+  and discussion.  Please check the conference brochure for a full list of t
+ alks and masterclasses.  You can find more information on the conference he
+ re:  http://www.cleraunmedia.com/ Registration is ONLY via Eventbrite.  We 
+ have a good news that Hacks/Hackers Dublin members get a 17% discount for a
+ dmission. To avail of this discount please choose "General Admission" and E
+ nter promotional code on Eventbrite.  Your discount code is: Hacks  \n\n\nD
+ ate and Time: Fri\, 11 Nov 2016\, 19:30 – Sun\, 13 Nov 2016\, 18:00 GMT\n\n
+ https://www.meetup.com/hacks-hackers-dublin/events/235157683/
+LOCATION:Chartered Accountants House\, 47-49 Pearse Street
+SUMMARY:Hacks/Hackers Dublin: Investigative Journalism on the Digital Front
+ ier Conference
+URL:https://www.meetup.com/hacks-hackers-dublin/events/235157683/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:92a0f270-a059-4cfd-9fae-687946164038
+DTSTART:20161109T180000
+DTEND:20161109T190000
+DESCRIPTION:The summer break is over at we are back for the rainy season! P
+ lease join us this month for some journalism and technology love. Hosted ag
+ ain by the lovely crew at Correctiv! Tracey Jaquith was the founding coder 
+ and system architect for Internet Archive in 1996.  Recently\, she rewrote 
+ Archive's TV recording system to an opensource single server system\, capab
+ le of 75 simultaneous 24x7 channels\, made the TV site "full stack"\, and b
+ rought archive.org website to "version 2". Tracey holds degrees in computer
+  science from Cornell University where she focused on machine vision and ro
+ botics.  Tracey will talk about the TV News Archive\, new video tools for q
+ uoting and editing\, audio fingerprinting\, and recent partnerships for the
+  US 2016 political election. Alsino Skowronnek is a Berlin-based geographer
+  and designer as well as a maker of maps and digital interfaces. Some of hi
+ s work can be found here: www.darkbluedata.com. Alsino is also part of desi
+ gn Studio Karat\, which has just released a new analysis of Berlin Airbnb d
+ ata. He will talk about his project UFOLand: Mapping UFO sightings in Germa
+ ny between 1945 and 2016. In this little fun side project\, Alsino (@alsino
+ sko) and Hans (@hnshack) have scraped a database on UFO sightings in German
+ y (...yes\, those flying saucers are still around) and mapped them out on u
+ foland.info. You can even explore the sightings at the end using different 
+ filters. Carl Odera is an independent researcher and editor from Kenya. Car
+ l worked with C4ADS​ ​(Center for Advanced Security Studies)​ ​an implement
+ ing partner for The Sentry\, an initiative of the Enough Project and Not On
+  Our Watch (NOOW). A collaborative effort between financial investigators\,
+  regional analysts\, and policy advocates\, The Sentry sought​ ​to dismantl
+ e networks of perpetrators\, facilitators\, and enablers who fund and profi
+ t from Africa’s​ ​current deadliest conflict in South Sudan.  \n\n\n\nIf yo
+ u have any suggestions for speakers\, venues or other wonderful community m
+ embers please do let us know. Cheers\, Hacks/Hackers team.\n\nhttp://www.me
+ etup.com/Hacks-Hackers-Berlin/events/235399214/
+LOCATION:CORRECT!V\, Singerstrasse 109\,  10179
+SUMMARY:Hacks/Hackers Berlin: Hacks/Hackers #34 – TV News Archive/US electi
+ ons\, Inv.J in a conflict zone\, UFOs
+URL:http://www.meetup.com/Hacks-Hackers-Berlin/events/235399214/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:8c4757fa-593d-4c96-a029-312c1f308c5f
+DTSTART:20161109T000000
+DTEND:20161109T010000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttp://www.meetup.com/h
+ ackshackersIRE/events/qlcfwgyvpblb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvpblb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:26c4f351-5f28-45e7-9566-68de75713224
+DTSTART:20161108T111500
+DTEND:20161108T121500
+DESCRIPTION:With 3D graphics and virtual reality becoming more mainstream\,
+  we\, as storytellers\, are forced to find the best ways to communicate usi
+ ng these mediums. Nick Holliman\, Professor of Visualization from Newcastle
+  University\, UK is in town and has covered all aspects of 3D displays\, au
+ dio and how to use them. Join us at ASTAR for his talk about stereoscopic-3
+ D\, and he'll touch on visualization projects on cosmology\, urban IoT (Int
+ ernet of Things) and even\, medieval history! Edit: please note that you wi
+ ll be required to register at the security counter by exchanging your photo
+  ID for a visitor's pass. Please contact icedwater if you have any question
+ s. Thank you!\n\nhttp://www.meetup.com/Hacks-Hackers-Singapore/events/23512
+ 7287/
+LOCATION:Institute for Infocomm Research\, Franklin Room\, #11-19a\, Connex
+ is South Tower\, 1 Fusionopolis Way 138632
+SUMMARY:Hacks/Hackers Singapore: HHSG NOV 8: Stereoscopic 3D & more with Pr
+ of Nick from Newcastle University UK
+URL:http://www.meetup.com/Hacks-Hackers-Singapore/events/235127287/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:80fe1b7c-f573-4e17-9843-63b7e9e6993c
+DTSTART:20161107T190000
+DTEND:20161107T200000
+DESCRIPTION:More info on speakers to come as soon as they are confirmed!\n\
+ nhttp://www.meetup.com/Hacks-Hackers-Canterbury/events/234304769/
+SUMMARY:Hacks/Hackers Canterbury: Hacks/Hackers Monthly Meetup
+URL:http://www.meetup.com/Hacks-Hackers-Canterbury/events/234304769/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:52797639-b4a6-46be-9ed8-25ebde324a46
+DTSTART:20161107T113000
+DTEND:20161107T123000
+DESCRIPTION:Thanks for your interest! This will be our regular monthly meet
+ -up - a very informal catch-up & networking session.  There is no scheduled
+  programme for today's event - it will be very 'unconference' in style and 
+ will give us space to plan future monthly meets. Just bring yourselves! If 
+ there are any problems arriving at the location - please call me - Rebecca\
+ , on 97850630. I'll meet everyone in the SPH Reception Lobby and take you u
+ pstairs\, there is no-one on reception at this time but I'll be there to me
+ et you. A space to meet like-minded people in the media & from the develope
+ r beat every first Monday of the month over food & drinks. Perfect for anyo
+ ne who has a story or an idea that could be told interactively but doesn't 
+ know where or how to get started. Or\, for anyone who has a new code or lib
+ rary to try out but doesn't have a story angle yet.\n\nhttp://www.meetup.co
+ m/Hacks-Hackers-Singapore/events/bshsmlyvpbkb/
+LOCATION:ST Innovation Lab - SPH\, 1000 Toa Payoh North
+SUMMARY:Hacks/Hackers Singapore: Micro Hack Mondays
+URL:http://www.meetup.com/Hacks-Hackers-Singapore/events/bshsmlyvpbkb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:2213adf9-8f9c-40af-a0a3-5a4bc99b6cbb
+DTSTART:20161105T130000
+DTEND:20161105T140000
+DESCRIPTION:Hacks/Hackers Buenos Aires junto con la Campaña Nacional Contra
+  la Violencia Institucional\, organismos de derechos humanos y universidade
+ s comenzamos a organizar la primera hackatón contra la violencia institucio
+ nal para crear herramientas que permitan visibilizar la problemática y ayud
+ ar a quienes la investigan y denuncian. El próximo sábado 5 de noviembre en
+  la sede de CONADU/FEDUBA organizamos un encuentro preparatorio para organi
+ zar todos los detalles del encuentro. Vení ! Es una oportunidad única de in
+ teractuar y ayudar a sociólogos\, antropólogos\, abogados\, defensores de o
+ rganismos de derechos humanos y familiares de víctimas. Pondremos la tecnol
+ ogía al servicio de los derechos humanos !\n\nhttp://www.meetup.com/HacksHa
+ ckersBA/events/235283491/
+LOCATION:CONADU / Feduba\, Pasco 255
+SUMMARY:Hacks/Hackers Buenos Aires: Vení a preparar la primera hackatón con
+ tra la violencia institucional
+URL:http://www.meetup.com/HacksHackersBA/events/235283491/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:f4015834-93b5-4dbd-a00b-22784cc80050
+DTSTART:20161103T160000
+DTEND:20161103T170000
+DESCRIPTION:Apologies for the late notice\, but we're planning a get-togeth
+ er at JoziHub on Thursday evening to move the #HackTheConstitution project 
+ to its next phase. Not sure what #HackThe Constitution is? Check some of ou
+ r past events for details\, but in short it's am awesome attempt to build a
+ n interactive Constitution-learn-a-matron. So if you're\, say\, head of a n
+ ational prosecuting thingamijig and aren't sure what your rights and powers
+  under the Constitution are\, in future you'll have #HackTheConstitution to
+  help you out! If we've seemed quiet for a bit\, it's because a small team 
+ of designers has been working on turning all the great ideas that came from
+  the hackathon into pictures for the coders among us to build around. On Th
+ ursday\, we're going to be sharing where we are so far and planning the nex
+ t step forward. So if you're a writer\, a developer\, a web designer or som
+ eone who really\, really wishes there was an awesome resource for spreading
+  Constitutional awareness\, come join us on Thursday at JoziHub!\n\nhttp://
+ www.meetup.com/HacksHackersAfrica/events/235243736/
+LOCATION:Jozihub\, 44 Stanley Avenue
+SUMMARY:Hacks / Hackers Africa: #HackTheConstitution: designs to engineerin
+ g
+URL:http://www.meetup.com/HacksHackersAfrica/events/235243736/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:83f16177-46ab-4594-a0d8-eab4d67ef914
+DTSTART:20161101T230000
+DTEND:20161102T000000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttp://www.meetup.com/h
+ ackshackersIRE/events/qlcfwgyvpbcb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvpbcb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:ec606731-48e8-46f7-a0dd-41b5c64883a6
+DTSTART:20161031T160000
+DTEND:20161031T170000
+DESCRIPTION:Hacks/Hackers Helsinki kokoontuu jälleen\, tällä kertaa yhdessä
+  Uutisraivaajan kanssa innovaatiot-teemalla! Helsingin Sanomain Säätiön med
+ iainnovaatiokilpailu Uutisraivaajassa etsitään uraauurtavia ideoita journal
+ ismin ja tiedonvälityksen kehittämiseksi. Jaossa on jopa 250 000 euroa kehi
+ tysrahaa! Haku on auki 17. tammikuuta asti. Kannattaa siis ehdottomasti tul
+ la mukaan ottamaan selvää kilpailusta ja hakemaan inspiraatiota innovaatioi
+ den parissa työskenteleviltä kovan luokan media-ammattilaisilta! Ohjelma ma
+  31.10.– Uutisraivaaja-intro\, tiedottaja Rosa Lampela– Voittajan kokemuksi
+ a ja innovaatioajatuksia\, Johanna Vehkoo Long Playn vuoden 2013 voittajati
+ imistä– Miten suuri mediatalo voi hyödyntää innovaatioajattelua? Helsingin 
+ Sanomien liiketoiminnan kehityspäällikkö Vesa Lindqvist– Mitä innovaatioaja
+ ttelu merkitsee nuorelle mediayritykselle?– Arttu Seppänen\, yksi palkitun 
+ podcast-startup Vernerin perustajista #uutisraivaaja#hhhki www.uutisraivaaj
+ a.fiwww.twitter.com/Uutisraivaajawww.meetup.com/HHHelsinki/www.twitter.com/
+ hackshackershki\n\nhttps://www.meetup.com/HHHelsinki/events/235037561/
+LOCATION:Dubliner\, Mannerheimintie 5
+SUMMARY:Hacks/Hackers Helsinki: Hacks/Hackers x Uutisraivaaja
+URL:https://www.meetup.com/HHHelsinki/events/235037561/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:1724bc34-0bea-4d42-bb94-8d55dad32db5
+DTSTART:20161026T080000
+DTEND:20161026T090000
+DESCRIPTION:6:00pm Arrive / Socialise / Grab a drink 6:20pm Start This mont
+ h we'll have a showcase of student journalism projects from two classes at 
+ the University of Queensland—Journalism Design and Social and Mobile Comput
+ ing. Some of the students teams will present their design concepts and prot
+ otypes. Projects viewARA visual solution to the issue of a lack of engageme
+ nt in the news.  Screens displaying a collage of images will be placed on p
+ ublic transport and passengers will be able to engage with the image that i
+ nterests them using AR technology. They will 'scan' this image and when the
+ y do the corresponding news story will appear on their mobile device. CivCi
+ tyA mobile application that aims to increase political engagement in young 
+ voters. It utilises a smartphone to detect player location and provide an a
+ ugmented view of physical infrastructure within the player’svicinity and pr
+ ovide information about how policy decisions led to the creation of each la
+ ndmark.  Local Knowledge An interactive coffee table\, designed to bring pe
+ ople together\, enrich and augment their table-top discussions about news a
+ nd current affairs. Users can explore global news\, search for keywords and
+  have access to both local public opinion (twitter) coupled with  mainstrea
+ m media on a single screen. The presentation of both types of news feeds al
+ lows users to read and reflect over news items\, through novel interactions
+  designed to support exploratory news consumption. 'Local Knowledge' acts a
+ s a catalyst for users to be able to form their own opinions about issues\,
+  situations and the climate of events.  ReactA student project about explor
+ ing (through design) the human values that emerge surrounding the applicati
+ on of affective feedback to news consumption. Side ChatTake part in open\, 
+ balanced dialogue with Side Chat!Side Chat is a Reddit-like discussion foru
+ m that makes political echo-chambers more transparent.  Rather than up-voti
+ ng and down-voting comments\, users vote on the political leaning of a comm
+ ent.  Balanced discussions are then prioritised over more biased 'group-thi
+ nk' threads. WorldViewA live-streaming app designed to increase the engagem
+ ent of young people - who are currently relying on Facebook for news - with
+  reliable\, and relevant\, news. \n\nSponsors Hacks/Hackers is supported by
+  a number of wonderful sponsors. Our presentation partner hub4101 provides 
+ event support and does a great job of promoting innovation\, creativity and
+  digital technology in the 4101 postcode. We're very pleased to have sponso
+ rship for this event from ThoughtWorks (who provide food and drink) and the
+  Australian Broadcasting Corporation (who provide our venue).  If you have 
+ any other questions or suggestions for this event or to make 2016 a great y
+ ear for Hacks/Hackers Brisbane\, please don't hesitate to get in touch. You
+  can email us (simon@elvery.net or d.angus@uq.edu.au) or get in touch via T
+ witter (@hackshackersbne).\n\nhttp://www.meetup.com/Hacks-Hackers-Brisbane/
+ events/232355771/
+LOCATION:ABC Brisbane Southbank\, 114 Grey St
+SUMMARY:Hacks/Hackers Brisbane: Student journalism showcase
+URL:http://www.meetup.com/Hacks-Hackers-Brisbane/events/232355771/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:2c6df668-0744-4c39-b023-1c9fe3e7261b
+DTSTART:20161025T233000
+DTEND:20161026T003000
+DESCRIPTION:Join us on Tuesday\, Oct. 25 at 6:30pm at the Statesman for the
+  next Hacks Hackers event. We'll have Nick Whitaker\, the Training and Deve
+ lopment Manager for Google News Lab. This meetup is a good chance for journ
+ alists and entrepreneurs to learn more about the tools and strategies Googl
+ e has for research and information. \n\n\nGoogle's mission is to organize t
+ he world's information and make it universally accessible and useful. They 
+ created the News Lab to support the creation and distribution of the inform
+ ation that keeps us all informed about what's happening in the world today.
+  \n\n\nToday's news organizations and media entrepreneurs are inventing new
+  ways to discover\, create and distribute news content—and Google News Lab 
+ provides tools\, data and programs designed to help. \n\n\nWe hope to see y
+ ou at the Statesman on Oct. 25!\n\nhttp://www.meetup.com/Hacks-Hackers-Aust
+ in/events/234777218/
+LOCATION:Austin American Statesman\, 305 South Congress Ave.
+SUMMARY:Hacks/Hackers Austin: Google News Lab
+URL:http://www.meetup.com/Hacks-Hackers-Austin/events/234777218/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:d68785db-8f80-4e24-b4d1-6c9b45c0b8aa
+DTSTART:20161025T230000
+DTEND:20161026T000000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttp://www.meetup.com/h
+ ackshackersIRE/events/qlcfwgyvnbhc/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvnbhc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:4e646cfd-966f-488f-9dda-b1990c0e9c2a
+DTSTART:20161025T113000
+DTEND:20161025T123000
+DESCRIPTION:A special panel discussing all things US Elections coverage - i
+ n graphics that is. From what we’ve liked\, not liked and hope to see more 
+ of as the countdown to Nov 8 polling day edges closer. Simon Scarr\, Deputy
+  Head of Graphics\, Thomson ReutersAlan Soon\, Founder\, The Splice Newsroo
+ mChi-loong Chan\, Founder\, VslashR Agenda7 - 7.30pm: Feel free to come ear
+ lier and mingle7.30 - 8:15: Panel discussing various graphics from polls\, 
+ maps to games and what has worked best or worst in the coverage so far.8.15
+  - 9pm: Network & chat Any questions\, comment away or email us at hackshac
+ kersg@gmail.com. \n\nhttp://www.meetup.com/Hacks-Hackers-Singapore/events/2
+ 34890614/
+LOCATION:ST Innovation Lab - SPH\, 1000 Toa Payoh North
+SUMMARY:Hacks/Hackers Singapore: HHSG OCT 25: US Elections Special Edition
+URL:http://www.meetup.com/Hacks-Hackers-Singapore/events/234890614/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:d972f78f-d2b0-4b78-b541-bb29c58170c5
+DTSTART:20161022T020000
+DTEND:20161022T030000
+DESCRIPTION:\n\nhttp://www.meetup.com/HacksHackersPDX/events/smndtlyvnbcc/
+SUMMARY:Hacks/Hackers Portland: Beyond Comments: Community and News
+URL:http://www.meetup.com/HacksHackersPDX/events/smndtlyvnbcc/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:be0d8b3f-dde7-455d-bc2f-5cecda83e01e
+DTSTART:20161019T173000
+DTEND:20161019T183000
+DESCRIPTION:Hi Hacks/Hackers\,  \n\nOur next event is on 19 October at Twit
+ ter UK\, London.  Please note that our event signup and waiting list have m
+ oved to Eventbrite.   We will not be opening RSVPs via Meetup.com\, nor ann
+ ouncing events or ticket release times via Meetup.com.  Please sign up here
+  for tickets: https://www.eventbrite.co.uk/e/hackshackers-london-october-me
+ etup-tickets-28388663256 All event announcements will be made via our Mailc
+ himp mailing list. If you're not on the announcement mailing already\, plea
+ se sign up for that too\, to be notified first about future events: http://
+ meetup.us10.list-manage1.com/subscribe?u=5ec4838c77e74bdaea232babb&id=fcfb2
+ 8c4fd\n\nhttp://www.meetup.com/HacksHackersLondon/events/229127006/
+LOCATION:Twitter UK \, 20 Air Street\, W1B 5AN
+SUMMARY:Hacks/Hackers London: Hacks/Hackers October Meetup
+URL:http://www.meetup.com/HacksHackersLondon/events/229127006/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:21b6a678-8595-42fd-93c7-85d9d86b908d
+DTSTART:20161015T130000
+DTEND:20161015T140000
+DESCRIPTION: Shared on behalf of our friends at Technical.ly Barcamp News I
+ nnovation Philadelphia is an annual\, low-cost\, one-day national unconfere
+ nce on journalism innovation and the future of news as explored by practiti
+ oners and friends. Attendees come from around the country with both legacy 
+ and new media backgrounds to share best practices\, actionable steps and cl
+ ear take aways on editorial and business innovation in journalism\, news an
+ d information. BCNI is organized by Technically Media\, a niche media organ
+ ization that publishes two local news sites: Technical.ly\, which focuses o
+ n local tech communities\, and Generocity.org\, which focuses on the social
+  impact community of Philadelphia. The first BCNI was held at Temple Univer
+ sity on April 25\, 2009. A Barcamp is an event format that gives its attend
+ ees the power to create the day’s schedule -- otherwise known as an unconfe
+ rence. Though there are Barcamps on many subjects and in many places\, this
+  is the largest unconference dedicated to news\, journalism and media makin
+ g. Please also purchase tickets here: https://tp.ticketleap.com/bcni16 Imag
+ e above by Center for Public Interest Journalism\n\nhttp://www.meetup.com/H
+ acks-Hackers-Philadelphia/events/233965558/
+LOCATION:Temple University Annenberg Hall\, 2020 North 13th Street
+SUMMARY:Hacks/Hackers Philly: Barcamp News Innovation
+URL:http://www.meetup.com/Hacks-Hackers-Philadelphia/events/233965558/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:a54d5e8a-0705-4f80-bbb1-1edc4506ab81
+DTSTART:20161011T230000
+DTEND:20161012T000000
+DESCRIPTION:Come hangout with journalists and developers interested in the 
+ future...err\, present of journalism. It doesn't matter if you are a rockst
+ ar data analyst or just beginning to monkey around with Excel pivot tables.
+  We intend to be a space and community we're people of all backgrounds and 
+ skill-level can discuss project ideas\, find out what others are working on
+ \, or develop and hone their programming skills.\n\nhttp://www.meetup.com/h
+ ackshackersIRE/events/qlcfwgyvnbpb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvnbpb/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:dd1ce242-8442-4cb9-b08a-347aebf0b26a
+DTSTART:20161008T193000
+DTEND:20161008T203000
+DESCRIPTION:Hola\, chicos  Ya tenemos fecha para el primer encuentro. Será 
+ el sábado 8 de octubre a las 3:00pm. El lugar será en la sede de Armando.in
+ fo en Colinas de Bello Monte. Queda a dos-tres cuadras del metro de Bello M
+ onte.  Para asistir deben registrarse en este formulario: https://docs.goog
+ le.com/forms/d/e/1FAIpQLSePa54lUewyOOqFSXy3mJADBqPexSHrvVwNefj8vMGTajqdbg/v
+ iewform Por correo le enviaremos la dirección exacta y otros detalles sobre
+  quienes estarán hablando ese día.  Los tequeños van por la casa. \n\nhttp:
+ //www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas/events/2
+ 34249929/
+LOCATION:Bello Monte\, Detalles por email
+SUMMARY:Hacks/Hackers (Periodistas y Programadores) Caracas: Data&Tequeños
+URL:http://www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas
+ /events/234249929/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:0695dde2-fdbb-41b5-b58a-01a4fa0e9fbf
+DTSTART:20161006T213000
+DTEND:20161006T223000
+DESCRIPTION: Au programme de cette première réunion de HHMTL de la saison 2
+ 016-17 (English follows): 1. Un aperçu de l'infonuagique Présentation des d
+ ifférents modèles et services d'infonuagique disponibles: SaaS («Software a
+ s a Service»)\, IaaS («Infrastructure as a Service»)\, PaaS («Platform as a
+  Service»). Par Rami Sayar\, évangéliste technologique principal\, Microsof
+ t Canada. 2. Exemples concrets Présentation éclair de l'utilisation journal
+ istique de l'infonuagique (Google Drive\, Github\, Heroku\, etc.). Par Robe
+ rto Rocha\, Radio-Canada Montréal et co-organisateur de Hacks/Hackers Montr
+ éal. ***PAUSE RÉSEAUTAGE*** 3. Comment utiliser les Amazon Web Services? Dé
+ monstration concrète de la façon d'utiliser les AWS pour des projets journa
+ listiques. Par l'analyste de données David Taylor. 4. Calcul Québec Le serv
+ ice d'infonuagique utilisé par les chercheurs universitaires canadiens ouvr
+ e ses portes au milieu journalistique québécois\, dans la mesure où il s'ag
+ it de projets dans l'intérêt public. Par Félix-Antoine Fortin\, de Calcul Q
+ uébec. ***** MESSAGE DE WEWORK\, QUI NOUS FOUNIT L'ESPACE POUR CET ÉVÉNEMEN
+ T: «WeWork est une communauté de créateurs qui vise à aider les entrepri
+ ses à croître en leur fournissant non seulement un bel espace\, mais auss
+ i le soutient\, les avantages\, les commodités et la communauté professio
+ nnelle dont ils ont besoin pour se concentrer sur leur activité. Ecrivez n
+ ous à placevillemarie@wework.com et réservez une visite dès aujourd'hui!
+ » +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+ =+=+= Here's the lineup for this first meetup of our 2016-17 season: 1. An 
+ overview of the Cloud Rami Sayar\, Senior Technical Evangelist\, Microsoft 
+ Canada\, will introduce the various cloud services models and explain the a
+ dvantages and disadvantages of each. He will cover Software-as-a-Service\, 
+ Platform-as-a-Service and Infrastructure-as-a-Service as well as survey the
+  largest cloud providers out there. 2. What's in it for journalists? Robert
+ o Rocha\, HH Montreal co-organizer and journalist with CBC Montreal\, will 
+ give us a lightning tour of the various cloud services useful for journalis
+ ts (Google Drive\, Github\, Heroku\, etc.). ***NETWORKING BREAK*** 3. AWS f
+ or data journalism How can you use Amazon Web Services for reporting purpos
+ es? Step-by-step demo by data scientist David Taylor. 4. Compute Canada and
+  Calcul Québec Compute Canada provides cloud-based computing services for t
+ he research and science community in Canada. It is willing to allow some jo
+ urnalists to use its services in the public interest. Demo by Félix-Antoine
+  Fortin\, from Calcul Québec. ***** MESSAGE FROM WEWORK WHO PROVIDES US THE
+  SPACE FOR THIS EVENT: «WeWork is a community of creators that aims to help
+  companies grow by providing them with not just beautiful space\, but also 
+ the benefits\, amenities\, and professional community they need to focus on
+  their business. Email placevillemarie@wework.com to set up a tour today!»\
+ n\nhttp://www.meetup.com/HacksHackersMontreal/events/231363613/
+LOCATION:WeWork Montréal\, 3\, Place Ville-Marie\, Suite 400 (4e étage)
+SUMMARY:Hacks/Hackers Montreal: Au 7e ciel avec le nuage - Cloud-based tool
+ s for journalists
+URL:http://www.meetup.com/HacksHackersMontreal/events/231363613/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170104T220236Z
+UID:193be4df-5b91-4f39-bacd-de89f0913b8f
+DTSTART:20161004T230000
+DTEND:20161005T000000
+DESCRIPTION:Hey everyone\, Well\, it's been a while since our last meetup. 
+ Now it's a new school year old friends are back in town\, and new comers ar
+ e wandering into our community. Tonight will be a casual meetup with introd
+ uctions\, catching up and discussions about future meetups this year. Hope 
+ to see you there!\n\nhttp://www.meetup.com/hackshackersIRE/events/qlcfwgyvn
+ bgb/
+LOCATION:Reynolds Journalism Institute\, Reynolds Journalism Institute\, So
+ uth 9th Street
+SUMMARY:Hacks/Hackers with Investigative Reporters & Editors: Hacks/Hackers
+  Lab
+URL:http://www.meetup.com/hackshackersIRE/events/qlcfwgyvnbgb/
+END:VEVENT
+END:VCALENDAR
