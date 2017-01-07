@@ -1,0 +1,47 @@
+<!-- sync with layouts/_default/archive.html -->
+<article class="archive search">
+  <h3><a href="<% permalink %>"><%- title %></a></h3>
+    <% if (isBlog) { %>
+      <div class="single-meta">
+          <div class="blog-single-meta">
+            <% if (authors.length) { %>
+              <h4 class="single-meta-byline"><i class="fa fa-user" aria-hidden="true"></i>
+                <% authors.forEach((item, idx) => {
+                  <% if (0 < idx) { %>, <%<a href="<%- item.url %>"><%- item.name %></a>
+                }) %>
+              </h4>
+            <% } %>
+
+            <h4 class="single-meta-date"><%- date %></h4>
+
+            <% if (categories.length) { %>
+              <div class="taxonomy-terms categories">
+                <strong>
+                  <% if (1 === categories.length ) { %>
+                    Category
+                  <% } else { %>
+                    Categories
+                  <% } %>
+                </strong>
+                <% categories.forEach((item, idx) => {
+                  <% if (0 < idx) { %>, <%<a href="<%- item.url %>"><%- item.name %></a>
+                }) %>
+              </div>
+            <% } %>
+
+            <% if (tags.length) { %>
+              <div class="taxonomy-terms tags">
+                <strong>Tag<% if (1 < tags.length) { %>s<% } %>:</strong>
+                <% tags.forEach((item, idx) => {
+                  <% if (0 < idx) { %>, <%<a href="<%- item.url %>"><%- item.name %></a>
+                }) %>
+              </div>
+            <% } %>
+
+          </div>
+      </div>
+    <% } %>
+  <p class="excerpt">
+  <%- excerpt %>
+  </p>
+</article>
