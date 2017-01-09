@@ -17,4 +17,9 @@ indexer.setExcludes([
   path.join(dir, '**/_index.md'),
   path.join(dir, 'wercker.yml')
 ]);
+indexer.setFileOpts({
+  matter: {delims: '---', lang:'yaml'},
+  taxonomies: ['tags', 'categories', 'authors'],
+  params: ['date']
+});
 indexer.index();

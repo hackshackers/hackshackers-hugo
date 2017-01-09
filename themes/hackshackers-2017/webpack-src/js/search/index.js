@@ -51,6 +51,10 @@ function _initLunr(docs) {
     this.field('content');
     this.ref('uri');
   });
+
+  /**
+   * @todo translate doc.date from YYYY-MM-DD to timestamp
+   */
   docs.forEach((doc) => _indexer.add(doc));
   return _indexer;
 }
