@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Build helpers for Hackshackers.com Hugo site",
   "scripts": {
-    "index-prod": "hugo-lunr -i \"content/**\" -o themes/hackshackers-2017/static/js/lunr-index.json",
-    "index-dev": "hugo-lunr -i \"sample-content/**\" -o themes/hackshackers-2017/static/js/lunr-index.json"
+    "index-prod": "node init-hugo-lunr.js content",
+    "index-dev": "node init-hugo-lunr.js sample-content"
   },
   "devDependencies": {
     "hugo-lunr": "joshkadis/hugo-lunr"
