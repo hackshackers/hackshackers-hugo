@@ -50,7 +50,7 @@ This will start Webpack and watch for changes in `themes/hackshackers-2017/webpa
 
 `themes/hackshackers-2017/static/` contains assets that **can** be referenced directly by HTML pages:
 
-* `webpack/` - compiled Webpack assets
+* `js/` - compiled Webpack files and other JS
 * `images/` - images that belong to the _theme_ (not content images
 * `svg/` - SVG assets
 * other stuff as needed
