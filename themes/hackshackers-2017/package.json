@@ -29,6 +29,7 @@
   "dependencies": {
     "fecha": "2.3.0",
     "ical": "0.5.0",
+    "lunr": "0.7.2",
     "jquery": "3.1.1",
     "leaflet": "1.0.2",
     "lodash": "4.17.2",
