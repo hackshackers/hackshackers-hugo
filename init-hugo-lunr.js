@@ -12,6 +12,9 @@ indexer.setInput(path.join(dir, '**'));
 indexer.setOutput('themes/hackshackers-2017/static/js/lunr-index.json');
 indexer.setExcludes([
   path.join(dir, 'data', '**'),
-  path.join(dir, 'content-images', '**')
+  path.join(dir, 'content-images', '**'),
+  path.join(dir, '**/README.md'),
+  path.join(dir, '**/_index.md'),
+  path.join(dir, 'wercker.yml')
 ]);
 indexer.index();
