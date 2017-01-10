@@ -8,6 +8,7 @@ $theflexgrid-silent-only: false !default;
 // breakpoints
 $breakpoint-mobile: "(max-width: 767px)" !default;
 $breakpoint-tablet: "(min-width: 768px) and (max-width: 1023px)" !default;
+$breakpoint-tablet-max: "(max-width: 1023px)" !default;
 $breakpoint-tablet-min: "(min-width: 768px)" !default;
 $breakpoint-desktop: "(min-width: 1024px)" !default;
 $breakpoint-desktop-large: "(min-width: 1240px)" !default;
