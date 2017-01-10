@@ -17,11 +17,14 @@
         {{ end }}
       {{ end }}
 
-      {{ if .Params.isSearch }}
+      {{ if eq .RelPermalink "/search/" }}
         <h3 id="search-query" class="search-query"></h3>
       {{ end }}
 
-      <section class="content-list">
+      <section
+        {{ if eq .RelPermalink "/search/" }}id="search-results"{{end}}
+        class="content-list"
+      >
         {{/* .IsNode is false for single page, i.e. Search */}}
         {{ if .IsNode }}
           {{ range .Paginator.Pages }}
