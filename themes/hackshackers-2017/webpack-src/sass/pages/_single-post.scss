@@ -65,10 +65,10 @@
 		animation: blinker .5s step-end infinite alternate;
 		content: "";
 		display: inline-block;
-		height: 38px;
-		border-right: 3px solid $color-gray;
-		margin-bottom: 8px;
-		margin-left: 16px;
+		height: 42px;
+		border-right: 13px solid $color-lime-green;
+		margin-bottom: 3px;
+		margin-left: 11px;
 		vertical-align: sub;
 
 		@media #{$breakpoint-mobile} {

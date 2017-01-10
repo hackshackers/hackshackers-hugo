@@ -1,0 +1,33 @@
+.archive {
+	padding-top: $spacer-gutter;
+
+	h3 {
+		font: $font-single-subheader;
+		font-weight: 700;
+		margin-bottom: $spacer-small;
+
+		a {
+			&:hover {
+				&:before {
+					bottom: -1px;
+				}
+			}
+		}
+	}
+
+	.single-meta-byline,
+	.single-meta-date {
+		font-weight: 400;
+		font-size: 13px;
+	}
+
+	.excerpt {
+		margin-bottom: 5px;
+	}
+}
+
+.content-list {
+	@media #{$breakpoint-desktop-large} {
+		width: 80%;
+	}
+}

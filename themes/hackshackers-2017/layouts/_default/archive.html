@@ -1,8 +1,5 @@
 <article class="archive">
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  {{ if eq .Type "blog" }}
-    {{ partial "meta-single.html" . }}
-  {{ end }}
   <p class="excerpt">
     {{ if .Description }}
       {{ .Description }}
@@ -10,4 +7,7 @@
       {{ .Summary }}
     {{ end }}
   </p>
+  {{ if eq .Type "blog" }}
+    {{ partial "meta-single.html" . }}
+  {{ end }}
 </article>
