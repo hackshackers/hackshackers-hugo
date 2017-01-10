@@ -3,29 +3,14 @@
 
       {{/* Blog post authors */}}
       {{ if .Params.authors }}
-        <h4 class="single-meta-byline"><i class="fa fa-user" aria-hidden="true"></i>
+        <h4 class="single-meta-byline">
+          <span>By</span>
           {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/authors/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
         </h4>
       {{ end }}
 
       {{/* Blog post date */}}
       <h4 class="single-meta-date">{{ $.Date.Format "Jan 2, 2006" }}</h4>
-
-      {{/* Blog post categories */}}
-      {{ if .Params.categories }}
-        <div class="taxonomy-terms categories">
-          <strong>{{ if eq (len .Params.categories) 1 }}Category{{ else }}Categories{{ end }}:</strong>
-          {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-        </div>
-      {{ end }}
-
-      {{/* Blog post tags */}}
-      {{ if .Params.tags }}
-        <div class="taxonomy-terms tags">
-          <strong>Tag{{ if gt (len .Params.tags) 1 }}s{{ end }}:</strong>
-          {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-        </div>
-      {{ end }}
 
     </div>
 </div>

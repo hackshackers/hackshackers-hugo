@@ -36,7 +36,8 @@ $font-widget-header: 700 #{(14rem/16)}/#{1.2} $font-family-primary;
 }
 
 .event-row,
-article {
+article,
+.single-meta-byline {
 	a {
 		transition: all .15s ease-out;
 		position: relative;

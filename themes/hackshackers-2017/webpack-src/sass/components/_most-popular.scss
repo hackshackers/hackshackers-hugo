@@ -9,6 +9,11 @@
 .widget-most-popular--header {
 	font: $font-widget-header;
 	padding-bottom: 3px;
+	font-weight: 400;
+
+	&:hover {
+		color: $color-blue;
+	}
 }
 
 .widget-most-popular--meta {
@@ -18,7 +23,16 @@
 }
 
 .widget-most-popular--byline {
-	margin-right: $spacer-small;
+	margin-right: 4px;
+
+	&:after {
+		@extend %slash;
+		padding: 0 4px 0 8px;
+	}
+
+	&:hover {
+		color: $color-blue;
+	}
 }
 
 .widget-most-popular--list {
@@ -32,7 +46,7 @@
 			content: '';
 			display: block;
 			width: 45px;
-			border-top: 3px solid $color-gray-dark;
+			border-top: 1px solid $color-gray;
 			position: absolute;
 			bottom: 0;
 			left: 0;
