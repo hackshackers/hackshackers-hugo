@@ -20,9 +20,7 @@
 }
 
 .slogan {
-	background: #43cea2;
-  background: -webkit-linear-gradient(270deg,#43cea2,#185a9d);
-  background: linear-gradient(270deg,#43cea2,#185a9d);
+	@extend %background-gradient;
 	margin-bottom: $spacer-section;
 
 	@media #{$breakpoint-mobile} {
