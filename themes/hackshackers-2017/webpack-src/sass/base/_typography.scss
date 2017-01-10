@@ -17,17 +17,6 @@ $font-widget-header: 700 #{(14rem/16)}/#{1.2} $font-family-primary;
 	margin-bottom: 35px;
 	position: relative;
 
-	&:after {
-		display: block;
-		content: "";
-		height: 100%;
-		width: 10px;
-		background-color: #185a9d;
-		position: absolute;
-		bottom: 0;
-		right: -24px;
-	}
-
 	&.ruler-gray {
 		&:after {
 			background-color: $color-gray;

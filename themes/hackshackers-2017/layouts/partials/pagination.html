@@ -2,18 +2,22 @@
 
 {{ $pag := . }}
 <div class="pagination">
+  <button class="btn-view-more">
     <a
         {{ if not $pag.HasPrev }}class="disabled"{{ end }}
         href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}"
         aria-label="Previous">
         <span aria-hidden="true">Previous</span>
     </a>
+  </button>
 
+  <button class="btn-view-more">
     <a
         {{ if not $pag.HasNext }}class="disabled"{{ end }}
         href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}"
         aria-label="Next">
         <span aria-hidden="true">Next</span>
     </a>
+  </button>
 
 </div>

@@ -18,8 +18,9 @@ form {
 		text-transform: uppercase;
 		font-weight: 700;
 		padding: 0px 20px;
-		margin-left: 40px;
-
+		height: 30px;
+		width: 100%;
+		
 		&:hover {
 			background-color: $color-black;
 			color: $color-white;
@@ -33,6 +34,7 @@ form {
 
 .widget-signup--input {
 	position: relative;
+	width: 100%;
 
 	i {
 		color: $color-gray;
@@ -45,8 +47,12 @@ form {
 .form-input {
 	border: 1px solid $border-primary;
 	border-radius: 3px 0 0 3px;
-	height: 30px;
+	height: 40px;
 	padding-left: 34px;
-	border-right: none;
 	width: 100%;
+	box-sizing: border-box;
+}
+
+.widget-signup--form {
+	flex-wrap: wrap;
 }

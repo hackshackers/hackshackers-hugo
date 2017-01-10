@@ -57,22 +57,29 @@
 	@media #{$breakpoint-desktop} {
 		width: 90%;
 	}
+}
 
+.single-headline,
+.heading-section {
 	&:after {
+		animation: blinker .5s step-end infinite alternate;
 		content: "";
-    display: inline-block;
-    width: 8px;
-    height: 38px;
-    background-color: $color-blue-water;
-    margin-bottom: 8px;
-    margin-left: 16px;
-    vertical-align: sub;
+		display: inline-block;
+		height: 42px;
+		border-right: 13px solid $color-gray;
+		margin-bottom: 3px;
+		margin-left: 11px;
+		vertical-align: sub;
 
 		@media #{$breakpoint-mobile} {
 			height: 25px;
 			margin-bottom: 5px;
 		}
 	}
+}
+
+@keyframes blinker {
+  50% { opacity: 0; }
 }
 
 .single-subheadline {
