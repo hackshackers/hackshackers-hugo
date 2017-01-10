@@ -45,20 +45,6 @@
 	}
 }
 
-.single-headline {
-	font: $font-single-header;
-	letter-spacing: -.03em;
-	margin-bottom: $spacer-medium;
-
-	@media #{$breakpoint-mobile} {
-		font-size: 34px;
-	}
-
-	@media #{$breakpoint-desktop} {
-		width: 90%;
-	}
-}
-
 .single-headline,
 .heading-section {
 	&:after {
@@ -78,8 +64,31 @@
 	}
 }
 
+.single-headline {
+	font: $font-single-header;
+	letter-spacing: -.03em;
+	margin-bottom: $spacer-medium;
+
+	@media #{$breakpoint-mobile} {
+		font-size: 34px;
+	}
+
+	@media #{$breakpoint-desktop} {
+		width: 90%;
+	}
+}
+
 @keyframes blinker {
   50% { opacity: 0; }
+}
+
+article {
+	.single-headline {
+		&:after {
+			margin-left: 17px;
+			margin-bottom: 7px;
+		}
+	}
 }
 
 .single-subheadline {

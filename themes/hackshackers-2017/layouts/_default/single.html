@@ -8,39 +8,41 @@
     </div>
 
     <div class="right-column">
-      <h2 class="single-headline">{{ .Title }}</h2>
+      <article>
+        <h2 class="single-headline">{{ .Title }}</h2>
 
-      {{ if eq .Type "blog" }}
-        {{ partial "meta-single.html" . }}
-      {{ end }}
+        {{ if eq .Type "blog" }}
+          {{ partial "meta-single.html" . }}
+        {{ end }}
 
-      {{ if isset .Params "sectionfront" }}
-        {{ partial (printf "section-fronts/%s.html" .Section) . }}
-      {{ end }}
+        {{ if isset .Params "sectionfront" }}
+          {{ partial (printf "section-fronts/%s.html" .Section) . }}
+        {{ end }}
 
-      {{ partial "utils/suggest-edits.html" . }}
+        {{ partial "utils/suggest-edits.html" . }}
 
-      <article class="single-article">
-        {{ .Content }}
+        <article class="single-article">
+          {{ .Content }}
+        </article>
+
+        <div class="meta-single-tags">
+          {{/* Blog post categories */}}
+          {{ if .Params.categories }}
+            <div class="taxonomy-terms categories">
+              <strong>{{ if eq (len .Params.categories) 1 }}Category{{ else }}Categories{{ end }}:</strong>
+              {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+            </div>
+          {{ end }}
+
+          {{/* Blog post tags */}}
+          {{ if .Params.tags }}
+            <div class="taxonomy-terms tags">
+              <strong>Tag{{ if gt (len .Params.tags) 1 }}s{{ end }}:</strong>
+              {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+            </div>
+          {{ end }}
+        </div>
       </article>
-
-      <div class="meta-single-tags">
-        {{/* Blog post categories */}}
-        {{ if .Params.categories }}
-          <div class="taxonomy-terms categories">
-            <strong>{{ if eq (len .Params.categories) 1 }}Category{{ else }}Categories{{ end }}:</strong>
-            {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-          </div>
-        {{ end }}
-
-        {{/* Blog post tags */}}
-        {{ if .Params.tags }}
-          <div class="taxonomy-terms tags">
-            <strong>Tag{{ if gt (len .Params.tags) 1 }}s{{ end }}:</strong>
-            {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-          </div>
-        {{ end }}
-      </div>
     </div>
   </div>
 </div>
