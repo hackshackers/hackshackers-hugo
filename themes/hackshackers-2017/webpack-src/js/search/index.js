@@ -27,6 +27,18 @@ export default function initSearch() {
     return;
   }
 
+  // Inputs from any search form on this page should update the window hash
+  document.querySelectorAll('form.search').forEach((form) => {
+    form.addEventListener('submit', (evt) => {
+      evt.preventDefault();
+      const inputEl = evt.target.querySelector('.input-search');
+      if (! inputEl || ! inputEl.value.length) {
+        return;
+      }
+      window.location.hash = `#${encodeURIComponent(inputEl.value)}`;
+    });
+  });
+
   // Get query from hash and render in page
   const query = _getQuery();
   _displayQuery(query);
@@ -56,7 +68,7 @@ export default function initSearch() {
  * @return obj Lunr index
  */
 function _initLunr(docs) {
-  const _indexer = lunr(function () {
+  const _indexer = lunr(function () { // eslint-disable-line func-names
     // Arrow function would not have the correct context here
     this.field('content');
     this.ref('idx');

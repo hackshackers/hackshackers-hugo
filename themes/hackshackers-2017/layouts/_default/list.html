@@ -19,6 +19,7 @@
 
       {{ if eq .RelPermalink "/search/" }}
         <h3 id="search-query" class="search-query"></h3>
+        {{ partial "search-form.html" }}
       {{ end }}
 
       <section
