@@ -8,6 +8,17 @@ var path = require('path');
 var indexer = new hugolunr();
 var dir = process.argv[2];
 
+// Process file content before adding to index JSON file
+var readFileCallback = function(fileData) {
+  if (!fileData.content) {
+    return fileData;
+  }
+  // Strip Hugo shortcodes
+  fileData.content = fileData.content.replace(/{{ \w+ .*?}}/gi, '');
+
+  return fileData;
+}
+
 indexer.setInput(path.join(dir, '**'));
 indexer.setOutput('themes/hackshackers-2017/static/js/lunr-index.json');
 indexer.setExcludes([
@@ -20,6 +31,7 @@ indexer.setExcludes([
 indexer.setFileOpts({
   matter: {delims: '---', lang:'yaml'},
   taxonomies: ['tags', 'categories', 'authors'],
-  params: ['date']
+  params: ['date'],
+  callback: readFileCallback
 });
 indexer.index();
