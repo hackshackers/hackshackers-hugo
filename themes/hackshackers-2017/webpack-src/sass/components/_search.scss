@@ -1,0 +1,24 @@
+.input-search {
+	border: 1px solid $border-primary;
+	border-radius: 3px 0 0 3px;
+	height: 30px;
+	padding-left: 34px;
+	width: 50%;
+}
+
+.search-404 {
+	margin-top: $spacer-medium;
+	position: relative;
+
+	i {
+		color: #9e9ea1;
+		position: absolute;
+		top: 11px;
+		left: 10px;
+	}
+
+	button {
+		margin: 0;
+		background-color: $color-orange-dark;
+	}
+}

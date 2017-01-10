@@ -17,4 +17,3 @@ document.querySelectorAll('.fetch-events').forEach((el) => {
   }
   meetups(opts, el);
 });
-
