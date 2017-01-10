@@ -13,3 +13,9 @@ $border-primary: 1px solid #EBEBEB;
 	padding: 0 2px 0 5px;
 	content: "/ ";
 }
+
+%background-gradient {
+	background: #43cea2;
+	background: -webkit-linear-gradient(270deg,#43cea2,#185a9d);
+	background: linear-gradient(270deg,#43cea2,#185a9d);
+}
