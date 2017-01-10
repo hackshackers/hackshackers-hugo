@@ -8,3 +8,8 @@ $border-primary: 1px solid #EBEBEB;
 	background-color: $color-black;
 	color: $color-white;
 }
+
+%slash {
+	padding: 0 2px 0 5px;
+	content: "/ ";
+}
