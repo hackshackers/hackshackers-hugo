@@ -55,10 +55,11 @@ update-content-submodule:
                     exit 1;
                 fi
         - script:
-            name: install git
+            name: install dependencies git and node
             code: |
-                apt-get update
-                apt-get install git -y
+                curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+                apt-get update                
+                apt-get install -y nodejs git            
         - add-ssh-key:
             keyname: HH_BUILD
             host: github.com
@@ -78,7 +79,11 @@ update-content-submodule:
                 git config --global user.email "josh+wercker@alleyinteractive.com"
                 git merge --no-ff origin/auto-update-content
                 git push origin master
-
+        - script:
+            name: npm install and index-prod
+            code: |
+                npm install
+                npm run index-prod
         - script:
             name: merge master into production & push
             code: |
