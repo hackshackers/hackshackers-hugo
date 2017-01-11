@@ -134,22 +134,36 @@ function _displayResults(indexer, query, docs) {
 
   const compiler = template(resultTemplate);
 
-  indexer.search(query)
-    .slice(0, config.maxResults)
-    .forEach((result, idx) => {
-      if (!docs[result.ref]) {
-        return;
-      }
-      const doc = docs[result.ref];
-      const _html = _singleResultHtml(doc, idx, compiler);
-      if (!_html) {
-        return;
-      }
-      const placeholder = document.createElement('div');
-      // _html is escaped using <%- var %> template tags
-      placeholder.innerHTML = _html;
-      resultsEl.appendChild(placeholder.firstElementChild);
-    });
+  const results = indexer.search(query);
+  if (!results || !results.length) {
+    _displayNoResults(resultsEl);
+    return;
+  }
+
+  results.slice(0, config.maxResults).forEach((result, idx) => {
+    if (!docs[result.ref]) {
+      return;
+    }
+    const doc = docs[result.ref];
+    const _html = _singleResultHtml(doc, idx, compiler);
+    if (!_html) {
+      return;
+    }
+    const placeholder = document.createElement('div');
+    // _html is escaped using <%- var %> template tags
+    placeholder.innerHTML = _html;
+    resultsEl.appendChild(placeholder.firstElementChild);
+  });
+}
+
+/**
+ * Show message if no results were found
+ *
+ * @param HTMLElement resultsEl
+ * @return none
+ */
+function _displayNoResults(resultsEl) {
+  resultsEl.innerHTML = `<article class="archive"><h3>${config.noResultsMsg}</h3></article>`; // eslint-disable-line no-param-reassign
 }
 
 /**
