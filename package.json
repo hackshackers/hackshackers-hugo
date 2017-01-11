@@ -1,0 +1,12 @@
+{
+  "name": "hackshackers-hugo",
+  "version": "0.0.1",
+  "description": "Build helpers for Hackshackers.com Hugo site",
+  "scripts": {
+    "index-prod": "node init-hugo-lunr.js content",
+    "index-dev": "node init-hugo-lunr.js sample-content"
+  },
+  "devDependencies": {
+    "hugo-lunr": "joshkadis/hugo-lunr"
+  }
+}

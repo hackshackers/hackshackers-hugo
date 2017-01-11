@@ -1,6 +1,7 @@
 import map from './map';
 import meetups from './events/meetups';
 import mobileMenu from './app/mobile-menu';
+import initSearch from './search';
 
 map('hero-map');
 mobileMenu();
@@ -17,3 +18,5 @@ document.querySelectorAll('.fetch-events').forEach((el) => {
   }
   meetups(opts, el);
 });
+
+initSearch();

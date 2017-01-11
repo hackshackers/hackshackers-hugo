@@ -1,3 +1,5 @@
+{{/*  List for blog posts, taxonomy terms. Also used by search single page */}}
+
 {{ partial "header.html" }}
 {{ partial "nav.html" }}
 <div class="container">
@@ -15,13 +17,26 @@
         {{ end }}
       {{ end }}
 
-      <section class="content-list">
-        {{ range .Paginator.Pages }}
-          {{ .Render "archive"}}
+      {{ if eq .RelPermalink "/search/" }}
+        <h3 id="search-query" class="search-query"></h3>
+        {{ partial "search-form.html" }}
+      {{ end }}
+
+      <section
+        {{ if eq .RelPermalink "/search/" }}id="search-results"{{end}}
+        class="content-list"
+      >
+        {{/* .IsNode is false for single page, i.e. Search */}}
+        {{ if .IsNode }}
+          {{ range .Paginator.Pages }}
+            {{ .Render "archive" }}
+          {{ end }}
         {{ end }}
       </section>
 
-      {{ partial "pagination.html" .Paginator }}
+      {{ if .IsNode }}
+        {{ partial "pagination.html" .Paginator }}
+      {{ end }}
     </div>
   </div>
 </div>
