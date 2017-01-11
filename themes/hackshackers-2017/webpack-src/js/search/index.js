@@ -4,13 +4,7 @@
 
 import 'whatwg-fetch';
 import lunr from 'lunr';
-import {
-  indexUri,
-  emptyQueryMsg,
-  maxResults,
-  excerptChars,
-  excerptFuzz,
-} from './config';
+import * as config from './config';
 import template from 'lodash/template';
 import resultTemplate from 'raw!./search-partial.html';
 import fecha from 'fecha';
@@ -32,7 +26,7 @@ export default function initSearch() {
     form.addEventListener('submit', (evt) => {
       evt.preventDefault();
       const inputEl = evt.target.querySelector('.input-search');
-      if (! inputEl || ! inputEl.value.length) {
+      if (!inputEl || !inputEl.value.length) {
         return;
       }
       window.location.hash = `#${encodeURIComponent(inputEl.value)}`;
@@ -43,7 +37,7 @@ export default function initSearch() {
   const query = _getQuery();
   _displayQuery(query);
 
-  fetch(indexUri)
+  fetch(config.indexUri)
     .then((res) => res.text(), (err) => console.log(err)) // eslint-disable-line no-console
     .then((text) => JSON.parse(text))
     .catch((err) => console.log(err)) // eslint-disable-line no-console
@@ -94,7 +88,7 @@ function _initLunr(docs) {
  */
 function _displayResults(indexer, query, docs) {
   const resultsEl = document.getElementById('search-results');
-  if (! query || ! resultsEl) {
+  if (!query || !resultsEl) {
     return;
   }
 
@@ -104,14 +98,14 @@ function _displayResults(indexer, query, docs) {
   const compiler = template(resultTemplate);
 
   indexer.search(query)
-    .slice(0, maxResults)
+    .slice(0, config.maxResults)
     .forEach((result, idx) => {
-      if (! docs[result.ref]) {
+      if (!docs[result.ref]) {
         return;
       }
       const doc = docs[result.ref];
       const _html = _singleResultHtml(doc, idx, compiler);
-      if (! _html) {
+      if (!_html) {
         return;
       }
       const placeholder = document.createElement('div');
@@ -153,7 +147,7 @@ function _singleResultHtml(doc, idx, compiler) {
  * @return array
  */
 function _mapTerms(doc, taxonomy) {
-  if (! doc[taxonomy] || ! doc[taxonomy].length) {
+  if (!doc[taxonomy] || !doc[taxonomy].length) {
     return [];
   }
   return doc[taxonomy].map((name) => ({
@@ -169,10 +163,10 @@ function _mapTerms(doc, taxonomy) {
  * @return string Excerpted content
  */
 function _getExcerpt(content) {
-  if (content.length <= (excerptChars + excerptFuzz)) {
+  if (content.length <= (config.excerptChars + config.excerptFuzz)) {
     return content;
   }
-  return content.substr(0, excerptChars) // trim to max length
+  return content.substr(0, config.excerptChars) // trim to max length
     .split(/\s/) // split by whitespace
     .slice(0, -1) // remove last element in case it's a partial word
     .concat(['...']) // append ...
@@ -216,6 +210,6 @@ function _getQuery() {
 function _displayQuery(query) {
   const queryEl = document.getElementById('search-query');
   if (queryEl) {
-    queryEl.innerText = query || emptyQueryMsg;
+    queryEl.innerText = query || config.emptyQueryMsg;
   }
 }

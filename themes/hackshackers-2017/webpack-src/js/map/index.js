@@ -23,7 +23,7 @@ export default function (mapId) {
   }
 
   function init() {
-    if (! mapEl || ! groups) {
+    if (!mapEl || !groups) {
       return;
     }
 

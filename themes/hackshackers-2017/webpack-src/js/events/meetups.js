@@ -119,7 +119,7 @@ function _filterEvents(map, opts) {
  */
 function _compareFunc(first, second, orderBy, ascOrder = true) {
   const delta = first[orderBy].getTime() - second[orderBy].getTime();
-  if (! ascOrder) {
+  if (!ascOrder) {
     return -1 * delta;
   }
   return delta;
