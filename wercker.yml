@@ -9,10 +9,12 @@ build:
                     exit 1;
                 fi
         - script:
-            name: Install git
+            name: Install dependencies git and node
             code: |
                 apt-get update
-                apt-get install git -y
+                apt-get install -y curl
+                curl -sL https://deb.nodesource.com/setup_6.x | bash -
+                apt-get install -y nodejs git
         - add-ssh-key:
             keyname: HH_BUILD
             host: github.com
@@ -23,6 +25,11 @@ build:
             name: Initialize git submodules
             code: |
                 git submodule update --init --recursive
+        - script:
+            name: Rebuild Lunr.js search index
+            code: |
+                npm install
+                npm run index-prod
 
 deploy:
     steps:
@@ -55,12 +62,10 @@ update-content-submodule:
                     exit 1;
                 fi
         - script:
-            name: Install dependencies git and node
+            name: Install git
             code: |
                 apt-get update
-                apt-get install -y curl
-                curl -sL https://deb.nodesource.com/setup_6.x | bash -
-                apt-get install -y nodejs git
+                apt-get install git -y
         - add-ssh-key:
             keyname: HH_BUILD
             host: github.com
@@ -80,18 +85,12 @@ update-content-submodule:
                 git config --global user.email "josh+wercker@alleyinteractive.com"
                 git merge --no-ff origin/auto-update-content
         - script:
-            name: Rebuild Lunr.js search index
-            code: |
-                npm install
-                npm run index-prod
-        - script:
             name: Push master and production
             code: |
                 git push origin master
                 git checkout -b production origin/production
                 git merge --no-ff master
                 git push origin production
-
         - script:
             name: Delete remote auto-update-content branch
             code: |
