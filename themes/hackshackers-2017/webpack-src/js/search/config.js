@@ -10,3 +10,7 @@ export const maxResults = 15;
 // Max chars in excerpt
 export const excerptChars = 150;
 export const excerptFuzz = 20;
+
+// search page uri
+export const searchPageUriRegex = /^\/search(?:\/|$)/;
+export const searchPageUri = '/search/';

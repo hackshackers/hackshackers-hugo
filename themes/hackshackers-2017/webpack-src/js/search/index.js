@@ -16,12 +16,7 @@ import slug from 'slug';
  * @return none
  */
 export default function initSearch() {
-  // Must be on Search page
-  if (0 !== window.location.pathname.indexOf('/search/')) {
-    return;
-  }
-
-  // Inputs from any search form on this page should update the window hash
+  // Setup search form submit listeners
   document.querySelectorAll('form.search').forEach((form) => {
     form.addEventListener('submit', (evt) => {
       evt.preventDefault();
@@ -29,9 +24,19 @@ export default function initSearch() {
       if (!inputEl || !inputEl.value.length) {
         return;
       }
-      window.location.hash = `#${encodeURIComponent(inputEl.value)}`;
+
+      if (_isSearchPage()) {
+        _searchPageSubmitHandler(inputEl.value);
+      } else {
+        _genericSubmitHandler(inputEl.value);
+      }
     });
   });
+
+  // If not on Search page, we're done
+  if (!_isSearchPage()) {
+    return;
+  }
 
   // Get query from hash and render in page
   const query = _getQuery();
@@ -53,6 +58,38 @@ export default function initSearch() {
         _displayResults(indexer, newQuery, docs);
       });
     });
+}
+
+/**
+ * Is current page the search page?
+ *
+ * @param string pathname Optional pathname, defaults to window.location.pathname
+ * @return bool
+ */
+function _isSearchPage(pathname = null) {
+  return config.searchPageUriRegex.test(pathname || window.location.pathname);
+}
+
+/**
+ * Setup search forms *not* on the Search page, e.g. 404, header, etc
+ * When submitted, these forms will redirect to the Search page with the
+ * search query as the page hash
+ *
+ * @param string query Search query
+ * @return none
+ */
+function _genericSubmitHandler(query) {
+  window.location = `${config.searchPageUri}#${encodeURIComponent(query)}`;
+}
+
+/**
+ * Form submit listener for use on Search page only
+ *
+ * @param string query Search query
+ * @return none
+ */
+function _searchPageSubmitHandler(query) {
+  window.location.hash = `#${encodeURIComponent(query)}`;
 }
 
 /**
