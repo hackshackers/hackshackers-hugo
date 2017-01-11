@@ -2,17 +2,19 @@ box: debian
 build:
     steps:
         - script:
-            name: check if disabled
+            name: Check if disabled
             code: |
                 if [ ! -z ${DISABLE+x} ]; then
                     error "Wercker is currently disabled."
                     exit 1;
                 fi
         - script:
-            name: install git
+            name: Install dependencies git and node
             code: |
                 apt-get update
-                apt-get install git -y
+                apt-get install -y curl
+                curl -sL https://deb.nodesource.com/setup_6.x | bash -
+                apt-get install -y nodejs git
         - add-ssh-key:
             keyname: HH_BUILD
             host: github.com
@@ -20,9 +22,14 @@ build:
             hostname: github.com
             fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
         - script:
-            name: initialize git submodules
+            name: Initialize git submodules
             code: |
                 git submodule update --init --recursive
+        - script:
+            name: Rebuild Lunr.js search index
+            code: |
+                npm install
+                npm run index-prod
 
 deploy:
     steps:
@@ -30,7 +37,7 @@ deploy:
             version: "0.18"
             config: $HH_CONFIG_FILENAME
         - script:
-            name: delete data files
+            name: Delete data files
             code: |
                 rm -rf ./public/data
         - s3sync:
@@ -48,14 +55,14 @@ deploy:
 update-content-submodule:
     steps:
         - script:
-            name: check if disabled
+            name: Check if disabled
             code: |
                 if [ ! -z ${DISABLE+x} ]; then
                     error "Wercker is currently disabled."
                     exit 1;
                 fi
         - script:
-            name: install git
+            name: Install git
             code: |
                 apt-get update
                 apt-get install git -y
@@ -66,27 +73,25 @@ update-content-submodule:
             hostname: github.com
             fingerprint: 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48
         - script:
-            name: initialize git submodules
+            name: Initialize git submodules
             code: |
                 git submodule update --init --recursive
         - script:
-            name: merge new submodule ref into master & push
+            name: Merge new submodule ref into master
             code: |
                 git fetch origin
                 git checkout master
                 git pull --no-edit origin master
                 git config --global user.email "josh+wercker@alleyinteractive.com"
                 git merge --no-ff origin/auto-update-content
-                git push origin master
-
         - script:
-            name: merge master into production & push
+            name: Push master and production
             code: |
+                git push origin master
                 git checkout -b production origin/production
                 git merge --no-ff master
                 git push origin production
-
         - script:
-            name: delete remote auto-update-content branch
+            name: Delete remote auto-update-content branch
             code: |
                 git branch -dr origin/auto-update-content
