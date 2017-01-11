@@ -25,27 +25,27 @@ build:
                 git submodule update --init --recursive
 
 deploy:
-    steps:
-        - arjen/hugo-build@1.14.0:
-            version: "0.18"
-            config: $HH_CONFIG_FILENAME
-        - script:
-            name: Delete data files
-            code: |
-                rm -rf ./public/data
-        - s3sync:
-            key-id: $HH_ALLEY_AWS_KEY
-            key-secret: $HH_ALLEY_AWS_SECRET
-            bucket-url: $HH_AWS_BUCKET
-            source-dir: ./public
-    after-steps:
-        - install-packages:
-            packages: ruby
-        - wantedly/pretty-slack-notify@0.3.4:
-            webhook_url: $SLACK_WEBHOOK_URL
-            passed_message: Check out $DEPLOY_URL
+#     steps:
+#         - arjen/hugo-build@1.14.0:
+#             version: "0.18"
+#             config: $HH_CONFIG_FILENAME
+#         - script:
+#             name: Delete data files
+#             code: |
+#                 rm -rf ./public/data
+#         - s3sync:
+#             key-id: $HH_ALLEY_AWS_KEY
+#             key-secret: $HH_ALLEY_AWS_SECRET
+#             bucket-url: $HH_AWS_BUCKET
+#             source-dir: ./public
+#     after-steps:
+#         - install-packages:
+#             packages: ruby
+#         - wantedly/pretty-slack-notify@0.3.4:
+#             webhook_url: $SLACK_WEBHOOK_URL
+#             passed_message: Check out $DEPLOY_URL
 
-update-content-submodule:
+# update-content-submodule:
     steps:
         - script:
             name: Check if disabled
@@ -57,6 +57,7 @@ update-content-submodule:
         - script:
             name: Install dependencies git and node
             code: |
+                apt-get install -y curl
                 curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
                 apt-get update
                 apt-get install -y nodejs git
@@ -83,15 +84,15 @@ update-content-submodule:
             code: |
                 npm install
                 npm run index-prod
-        - script:
-            name: Push master and production
-            code: |
-                git push origin master
-                git checkout -b production origin/production
-                git merge --no-ff master
-                git push origin production
+        # - script:
+        #     name: Push master and production
+        #     code: |
+        #         git push origin master
+        #         git checkout -b production origin/production
+        #         git merge --no-ff master
+        #         git push origin production
 
-        - script:
-            name: Delete remote auto-update-content branch
-            code: |
-                git branch -dr origin/auto-update-content
+        # - script:
+        #     name: Delete remote auto-update-content branch
+        #     code: |
+        #         git branch -dr origin/auto-update-content
