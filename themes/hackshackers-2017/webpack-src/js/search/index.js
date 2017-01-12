@@ -134,8 +134,13 @@ function _displayResults(indexer, query, docs) {
 
   const compiler = template(resultTemplate);
 
-  indexer.search(query)
-    .slice(0, config.maxResults)
+  const results = indexer.search(query);
+  if (!results || !results.length) {
+    _displayNoResults(resultsEl);
+    return;
+  }
+
+  results.slice(0, config.maxResults)
     .forEach((result, idx) => {
       if (!docs[result.ref]) {
         return;
@@ -150,6 +155,16 @@ function _displayResults(indexer, query, docs) {
       placeholder.innerHTML = _html;
       resultsEl.appendChild(placeholder.firstElementChild);
     });
+}
+
+/**
+ * Show message if no results were found
+ *
+ * @param HTMLElement resultsEl
+ * @return none
+ */
+function _displayNoResults(resultsEl) {
+  resultsEl.innerHTML = `<article class="archive"><h3>${config.noResultsMsg}</h3></article>`; // eslint-disable-line no-param-reassign
 }
 
 /**

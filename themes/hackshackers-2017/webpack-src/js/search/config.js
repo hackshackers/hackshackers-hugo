@@ -14,3 +14,5 @@ export const excerptFuzz = 20;
 // search page uri
 export const searchPageUriRegex = /^\/search(?:\/|$)/;
 export const searchPageUri = '/search/';
+
+export const noResultsMsg = 'We could\'t find anything. Please try again.';
