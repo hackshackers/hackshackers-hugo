@@ -14,10 +14,13 @@ export default function (mapId) {
    * @todo Use custom marker
    */
   function addMarkers(map) {
+    const defaultMarker = new Leaflet.Icon.Default({ imagePath: '/images/' });
+
     Object.keys(groups).forEach((group) => {
       const latLng = Leaflet.latLng(groups[group].coordinates);
       Leaflet.marker(latLng, {
         title: groups[group].label,
+        icon: defaultMarker,
       }).addTo(map);
     });
   }
