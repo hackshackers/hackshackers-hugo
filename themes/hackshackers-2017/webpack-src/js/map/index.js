@@ -34,6 +34,7 @@ export default function (mapId) {
     const map = Leaflet.map(mapId).setView(config.map.center, config.map.zoom);
     addTileLayer(map);
     addMarkers(map);
+    map.scrollWheelZoom.disable();
   }
 
   init();

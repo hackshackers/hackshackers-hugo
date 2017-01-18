@@ -7,12 +7,17 @@ export default {
     zoom: 2,
   },
   tileLayer: {
-    url: 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoiam9zaGthZGlzIiwiYSI6ImNpaDBsbG1rZzB3bjJ2a201eXY4YzlhMnIifQ.YA0hpf_w8bJgwrLNmZDE-Q',
+    url: 'https://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}.{ext}',
     opts: {
-      maxZoom: 9,
-      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      subdomains: 'abcd',
+      ext: 'png',
+      attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       detectRetina: true,
       reuseTiles: true,
+      scrollWheelZoom: false, // also need to call map.scrollWheelZoom.disable() after setting up map
+      touchZoom: false,
+      minZoom: 2,
+      maxZoom: 6,
     },
   },
   mapStyle: {
