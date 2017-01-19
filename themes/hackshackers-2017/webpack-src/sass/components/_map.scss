@@ -1,6 +1,17 @@
 .map {
 	@media #{$breakpoint-mobile} {
 		margin-bottom: $spacer-section;
-	}	
+	}
   // width and height set in map/index.js to make sure they're available before initializing map
+}
+
+.group-popup {
+
+}
+
+.group-popup-link {
+
+  &.external {
+
+  }
 }
