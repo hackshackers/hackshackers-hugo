@@ -4,10 +4,11 @@
 	margin-bottom: $spacer-gutter;
 }
 
-@media screen and (max-width: 1023px){
+@media #{$breakpoint-tablet-max} {
 	.left-column {
 		order: 2;
 	}
+
 	.right-column {
 		order: 1;
 	}
@@ -35,6 +36,11 @@
 		padding-top: 5px;
 		margin: 0;
 	}
+
+	@media #{$breakpoint-tablet-max} {
+		margin-bottom: $spacer-gutter;
+		max-width: 100%;
+	}
 }
 
 .right-column {
@@ -42,6 +48,12 @@
 
 	@media #{$breakpoint-desktop} {
 		padding-left: 28px;
+	}
+
+	@media #{$breakpoint-tablet-max} {
+		border-bottom: $border-primary;
+		margin-bottom: $spacer-gutter;
+		padding-bottom: $spacer-gutter;
 	}
 }
 
