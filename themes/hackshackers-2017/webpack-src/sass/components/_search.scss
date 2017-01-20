@@ -1,9 +1,13 @@
 .input-search {
-	border: 1px solid $border-primary;
+	border: 1px solid $color-gray-light;
 	border-radius: 3px 0 0 3px;
 	height: 30px;
 	padding-left: 34px;
 	width: 50%;
+
+	&:focus {
+		outline: none;
+	}
 }
 
 .search-404 {
@@ -23,4 +27,46 @@
 		background-color: $color-orange-dark;
 		width: auto;
 	}
+}
+
+.search-overlay {
+	background: linear-gradient(to bottom, rgba(0,0,0,0.95) 20%, rgba(0,0,0,0.75) 60%, transparent);
+	height: 100%;
+	height: calc(100% - 65px);
+	left: 0;
+	opacity: 0;
+	padding: 45px 0 0 0;
+	position: absolute;
+	top: 65px;
+	transition: 0.2s;
+	visibility: hidden;
+	width: 100%;
+	z-index: 999;
+
+	&.show {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	.input-search {
+		background: none;
+		border: 0;
+		box-shadow: none;
+		color: $color-white;
+		font: $font-single-header;
+		height: auto;
+		padding: 0;
+		width: 70%;
+	}
+}
+
+.search-wrapper {
+	margin: 0 auto;
+	max-width: 1200px;
+	padding: 0 20px;
+}
+
+.search-query {
+	font: $font-widget-heading;
+	text-transform: capitalize;
 }
