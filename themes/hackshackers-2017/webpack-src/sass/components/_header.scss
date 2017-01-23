@@ -11,7 +11,7 @@
 }
 
 header {
-	height: 87px;
+	height: 86px;
 	display: block;
 
 	@media #{$breakpoint-tablet-max} {
@@ -82,9 +82,10 @@ header {
 }
 
 .main-nav {
+	align-self: flex-end;
 	display: flex;
-	align-items: center;
-
+	height: 13px;
+	
 	@media #{$breakpoint-tablet-max} {
 		bottom: 0px;
 		height: 100%;
@@ -147,6 +148,7 @@ header {
 }
 
 .main-nav-search {
+	cursor: pointer;
 	display: flex;
 
 	@media #{$breakpoint-tablet-min} {
@@ -165,6 +167,7 @@ header {
 }
 
 .header-signup {
+	height: 19px;
 	margin-left: auto;
 
 	@media #{$breakpoint-tablet-max} {
@@ -172,7 +175,23 @@ header {
 	}
 
 	.widget-signup--input {
-		display: none;
+		i {
+			color: $color-jungle-green;
+			top: 4px;
+		}
+	}
+
+	.form-input {
+		border: none;
+		background: none;
+		color: $color-white;
+		height: 23px;
+	}
+
+	::-webkit-input-placeholder {
+		color: $color-jungle-green;
+		font-size: 14px;
+		text-transform: uppercase;
 	}
 
 	button {

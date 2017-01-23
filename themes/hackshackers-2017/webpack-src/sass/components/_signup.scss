@@ -20,7 +20,7 @@ form {
 		padding: 0px 20px;
 		height: 30px;
 		width: 100%;
-		
+
 		&:hover {
 			background-color: $color-black;
 			color: $color-white;
@@ -45,12 +45,15 @@ form {
 }
 
 .form-input {
-	border: 1px solid $border-primary;
+	background: none;
 	border-radius: 3px 0 0 3px;
+	border: 1px solid $border-primary;
+	box-sizing: border-box;
 	height: 40px;
 	padding-left: 34px;
+	position: relative;
 	width: 100%;
-	box-sizing: border-box;
+	z-index: 69;
 }
 
 .widget-signup--form {
