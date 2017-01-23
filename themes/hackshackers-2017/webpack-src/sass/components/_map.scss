@@ -1,6 +1,44 @@
 .map {
 	@media #{$breakpoint-mobile} {
 		margin-bottom: $spacer-section;
-	}	
+	}
+
+	// Changes white-on-black tiles to gray-on-black tiles
+	background-color: black;
+	.leaflet-tile-container {
+		opacity: .35;
+	}
+
+	.leaflet-popup-content-wrapper,
+	.leaflet-popup-tip {
+		//@extend %background-gradient;
+		background-color: $color-jungle-green;
+	}
+
+	.leaflet-popup-content-wrapper {
+		border-radius: 4px;
+	}
+
+	.leaflet-popup-content {
+		text-align: center;
+	}
+
+	.group-popup-link {
+		color: $color-white;
+		font: $font-widget-header;
+
+		&:after {
+			content: "\F08E";
+			display: inline-block;
+			font: normal normal normal 14px/1 FontAwesome;
+			margin-left: 8px;
+			vertical-align: middle;
+		}
+
+		&:hover {
+			color: $color-black;
+			text-decoration: underline;
+		}
+	}
   // width and height set in map/index.js to make sure they're available before initializing map
 }
