@@ -3,6 +3,12 @@
 		margin-bottom: $spacer-section;
 	}
 
+	// Changes white-on-black tiles to gray-on-black tiles
+	background-color: black;
+	.leaflet-tile-container {
+		opacity: .35;
+	}
+
 	.leaflet-popup-content-wrapper,
 	.leaflet-popup-tip {
 		//@extend %background-gradient;
