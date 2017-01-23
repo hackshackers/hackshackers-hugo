@@ -14,7 +14,7 @@ export default function (mapId) {
    * @todo Use custom marker
    */
   function addMarkers(map) {
-    const defaultMarker = new Leaflet.Icon.Default({ imagePath: '/images/' });
+    const defaultMarker = new Leaflet.Icon(config.markerOpts);
 
     Object.keys(groups).forEach((group) => {
       const latLng = Leaflet.latLng(groups[group].coordinates);
