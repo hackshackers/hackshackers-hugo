@@ -4,22 +4,20 @@
     Links first to local group page if one is available.
     If no local group page, try the external link (e.g. Meetup).
   */}}
-
-  {{ if $.groupPage }}
-    <a class="local-group-page" href="{{ (printf "/groups/%s/" $.groupPage) }}">
-  {{ else if $.externalUrl }}
-    <a class="external-group-page" href="{{ $.externalUrl }}" target="_blank">
-  {{ else }}
-    <a href="#0">
-  {{ end }}
-
-    <div class="local-groups-city-wrapper">
-      <div class="local-groups-city-box">
-        <h5 class="local-groups-city-title">{{ $.label }}</h5>
-      </div>
-      <h5 class="local-groups-city-organizer"><span class="group-header-small">Organized By:</span> <span>Josh Ryan, Matt Ryan, Ryan Josh</span></h5>
-      <h5><span class="group-header-small">Next Event:</span> <span>February 12</span></h5>
-      <a class="local-groups-city-contact"><span class="group-header-small">Contact: </span>hhnyc@gmail.com</a>
+  <div class="local-groups-city-wrapper">
+    <div class="local-groups-city-box">
+      <h5 class="local-groups-city-title">
+        {{ if $.groupPage }}
+          <a class="group-link local" href="{{ (printf "/groups/%s/" $.groupPage) }}">{{ $.label }}</a>
+        {{ else if $.externalUrl }}
+          <a class="group-link external" href="{{ $.externalUrl }}" target="_blank">{{ $.label }}</a>
+        {{ else }}
+          {{ $.label }}
+        {{ end }}
+      </h5>
     </div>
-  </a>
+    <h5 class="local-groups-city-organizer"><span class="group-header-small">Organized By:</span> <span>Josh Ryan, Matt Ryan, Ryan Josh</span></h5>
+    <h5><span class="group-header-small">Next Event:</span> <span>February 12</span></h5>
+    <a class="local-groups-city-contact"><span class="group-header-small">Contact: </span>hhnyc@gmail.com</a>
+  </div>
 </li>
