@@ -1,14 +1,14 @@
 .local-groups {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: flex-start;
 }
 
 .local-groups-city {
 	margin-bottom: 45px;
 
 	@media #{$breakpoint-desktop} {
-		width: 30%;
+		width: 33.3%;
 	}
 
 	button {
@@ -25,6 +25,7 @@
 	font-size: 32px;
 	text-transform: uppercase;
 	margin-bottom: 5px;
+	margin-right: 10px;
 	position: relative;
 	font-weight: 700;
 
