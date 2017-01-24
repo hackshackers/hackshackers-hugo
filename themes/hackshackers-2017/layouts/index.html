@@ -3,7 +3,7 @@
 
 <div class="home-wrapper">
 	{{ partial "map.html" . }}
-	{{ partial "slogan.html" }}
+	{{ partial "statement.html" (dict "title" .Title "subtitle" .Params.subtitle) }}
 	{{ partial "home-upcoming-events.html" }}
 	{{ partial "home-newsletter-signup.html" }}
 
