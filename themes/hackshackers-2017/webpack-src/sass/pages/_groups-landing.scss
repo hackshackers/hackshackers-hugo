@@ -1,14 +1,14 @@
 .local-groups {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: flex-start;
 }
 
 .local-groups-city {
 	margin-bottom: 45px;
 
 	@media #{$breakpoint-desktop} {
-		width: 30%;
+		width: 33.3%;
 	}
 
 	button {
@@ -25,21 +25,35 @@
 	font-size: 32px;
 	text-transform: uppercase;
 	margin-bottom: 5px;
+	margin-right: 10px;
 	position: relative;
 	font-weight: 700;
 
-	&:hover {
-		color: $color-orange;
+	.group-link {
+		&:before {
+			content: "";
+			position: absolute;
+			width: 17%;
+			height: 1px;
+			bottom: -4px;
+			border-bottom: 3px solid $color-black;
+		}
+
+		&:hover {
+			color: $color-orange;
+		}
+
+		&.external {
+			&:after {
+				content: "\f08e";
+				display: inline-block;
+				font: normal normal normal 14px/1 FontAwesome;
+				margin-left: 8px;
+				vertical-align: middle;
+			}
+		}
 	}
 
-	&:before {
-		content: "";
-		position: absolute;
-		width: 17%;
-		height: 1px;
-		bottom: -4px;
-		border-bottom: 3px solid $color-black;
-	}
 }
 
 .groups-archive-wrapper {
@@ -81,19 +95,5 @@
 
 	span {
 		font-weight: 400;
-	}
-}
-
-.external-group-page {
-	position: relative;
-
-	.local-groups-city-title {
-		&:after {
-			content: "\f08e";
-			display: inline-block;
-    	font: normal normal normal 14px/1 FontAwesome;
-			margin-left: 8px;
-			vertical-align: middle;
-		}
 	}
 }
