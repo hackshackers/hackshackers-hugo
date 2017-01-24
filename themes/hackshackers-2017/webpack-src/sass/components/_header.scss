@@ -15,7 +15,7 @@ header {
 	display: block;
 
 	@media #{$breakpoint-tablet-max} {
-		height: 75px;
+		height: 68px;
 	}
 }
 
@@ -59,7 +59,7 @@ header {
 	background: none;
 	color: $color-white;
 	display: none;
-	font-size: 30px;
+	font-size: 24px;
 	margin-left: auto;
 
 	@media #{$breakpoint-tablet-max} {
@@ -85,16 +85,16 @@ header {
 	align-self: flex-end;
 	display: flex;
 	height: 13px;
-	
+
 	@media #{$breakpoint-tablet-max} {
 		bottom: 0px;
 		height: 100%;
 		position: fixed;
-		right: -51%;
+		right: -60%;
 		top: 0px;
 		width: 45%;
 		z-index: 9999;
-		padding: 70px 0 0 $spacer-large;
+		padding: 70px $spacer-large 0 $spacer-large;
 		display: block;
 		background-color: $color-black;
 		transition: all 0.5s ease;
@@ -126,7 +126,6 @@ header {
 
 	@media #{$breakpoint-tablet-max} {
 		flex-direction: column;
-		margin-bottom: $spacer-gutter;
 	}
 
 	a {
@@ -134,7 +133,7 @@ header {
 		transition-duration: .2s;
 
 		&:hover {
-			color: $color-gray-light;
+			color: $color-jungle-green;
 		}
 	}
 
@@ -150,9 +149,15 @@ header {
 .main-nav-search {
 	cursor: pointer;
 	display: flex;
+	margin-left: auto;
+	transition-duration: .2s;
 
-	@media #{$breakpoint-tablet-min} {
-		margin-left: auto;
+	@media #{$breakpoint-tablet-max} {
+		display: none;
+	}
+
+	&:hover {
+		color: $color-jungle-green;
 	}
 }
 
@@ -169,6 +174,7 @@ header {
 .header-signup {
 	height: 19px;
 	margin-left: auto;
+	transition-duration: .2s;
 
 	@media #{$breakpoint-tablet-max} {
 		display: none;
@@ -178,6 +184,10 @@ header {
 		i {
 			color: $color-jungle-green;
 			top: 4px;
+
+			&:hover {
+				color: $color-white;
+			}
 		}
 	}
 
@@ -192,11 +202,36 @@ header {
 		color: $color-jungle-green;
 		font-size: 14px;
 		text-transform: uppercase;
+		transition-duration: .2s;
+	}
+
+	&:hover {
+		cursor: pointer;
+
+		::-webkit-input-placeholder {
+			color: $color-white;
+		}
+
+		.widget-signup--input {
+			i {
+				color: $color-white;
+			}
+		}
 	}
 
 	button {
 		color: $color-jungle-green;
 		background-color: transparent;
 		font-size: 14px;
+	}
+
+	&.mobile-signup {
+		display: block;
+		margin-left: -9px;
+		margin-bottom: 25px;
+
+		@media #{$breakpoint-desktop} {
+			display: none;
+		}
 	}
 }

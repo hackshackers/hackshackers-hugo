@@ -24,9 +24,9 @@ $font-widget-header: 700 #{(14rem/16)}/#{1.2} $font-family-primary;
 	}
 }
 
-.event-row,
-article,
-.single-meta-byline {
+.single-article,
+.single-meta-byline,
+.footer-nav {
 	a {
 		transition: all .15s ease-out;
 		position: relative;
@@ -37,7 +37,7 @@ article,
 	    content: " ";
 	    width: 100%;
 	    height: 1px;
-	    bottom: 5px;
+	    bottom: 0px;
 	    left: 0;
 	    background-color: #ff4936;
 	    visibility: hidden;
@@ -49,6 +49,14 @@ article,
 				visibility: visible;
 				transform: scaleX(1);
 			}
+		}
+	}
+}
+
+.single-article {
+	a {
+		&:before {
+			bottom: 5px;
 		}
 	}
 }

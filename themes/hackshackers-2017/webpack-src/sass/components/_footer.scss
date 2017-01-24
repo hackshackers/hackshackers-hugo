@@ -40,3 +40,20 @@
 		}
 	}
 }
+
+.footer-credit {
+	align-items: center;
+	display: flex;
+	font-size: 12px;
+	flex-direction: column;
+	text-align: center;
+
+	h6 {
+		margin-right: 5px;
+	}
+}
+
+.alley-interactive-logo {
+	height: 32px;
+	width: auto;
+}
