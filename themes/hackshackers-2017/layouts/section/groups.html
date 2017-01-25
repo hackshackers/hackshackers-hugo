@@ -1,5 +1,5 @@
 {{ partial "header.html" }}
-{{ partial "nav.html" }}
+{{ partial "nav.html" . }}
 
 <div class="map-wrapper">
   {{ partial "map.html" . }}
@@ -19,4 +19,4 @@
     {{ partial "group-cities.html" . }}
   </div>
 </div>
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}
