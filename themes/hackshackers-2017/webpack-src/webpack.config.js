@@ -1,5 +1,6 @@
 var path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const HHCleanup = require('./plugins/HHCleanup');
 const autoprefixer = require('autoprefixer');
 
 var webpackConfig = {
@@ -14,7 +15,10 @@ var webpackConfig = {
     filename: '[name].js',
     jsonpFunction: 'hackshackersJsonp'
   },
-  plugins: [ new ExtractTextPlugin('[name].css') ],
+  plugins: [
+    new ExtractTextPlugin('[name].css'),
+    new HHCleanup(__dirname),
+  ],
   module: {
     preLoaders: [
       { test: /\.js$/, loader: 'eslint', exclude: /node_modules/ },
