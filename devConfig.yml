@@ -16,3 +16,16 @@ taxonomies:
   tag: "tags"
   category: "categories"
   author: "authors"
+
+menu:
+  main:
+    - Name: About
+      URL: "/about/"
+    - Name: Find A Group
+      URL: "/groups/"
+    - Name: Featured Events
+      URL: "/featured-events/"
+    - Name: Resources
+      URL: "/resources/"
+    - Name: Blog
+      URL: "/blog/"

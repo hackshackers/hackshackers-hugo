@@ -1,25 +1,28 @@
-.statement-heading {
-	color: $color-white;
-	font: $font-heading-statement;
+.statement-wrapper {
 	padding: 35px 0;
 	text-align: center;
-	text-shadow: 0 0 10px rgba(0,0,0,.2);
 
 	@media #{$breakpoint-mobile} {
 		line-height: 38px;
 	}
 
-	span {
-		font-size: 50px;
+	.statement-title {
+		color: $color-white;
+		font: $font-heading-statement;
+		text-shadow: 0 0 10px rgba(0,0,0,.2);
 
-		@media #{$breakpoint-mobile} {
-			display: block;
-			font-size: 40px;
+		&.primary {
+			font-size: 50px;
+
+			@media #{$breakpoint-mobile} {
+				display: block;
+				font-size: 40px;
+			}
 		}
 	}
 }
 
-.slogan {
+.statement {
 	@extend %background-gradient;
 	margin-bottom: $spacer-section;
 

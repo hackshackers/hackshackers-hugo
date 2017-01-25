@@ -1,11 +1,31 @@
 {{ partial "header.html" }}
-{{ partial "nav.html" }}
+{{ partial "nav.html" . }}
 
 <div class="home-wrapper">
 	{{ partial "map.html" . }}
-	{{ partial "slogan.html" }}
+	{{ partial "statement.html" (dict "title" .Title "subtitle" .Params.subtitle) }}
 	{{ partial "home-upcoming-events.html" }}
-	{{ partial "home-newsletter-signup.html" }}
+
+	<div class="section-bg-gray">
+		<div class="container">
+			<div class="home-newsletter-signup">
+				<div class="left-column-signup">
+					<img src={{ .Params.feature_img }} border="0" alt="{{ .Params.feature_img_alt }}" class="home-signup-img"/>
+				</div>
+				<div class="right-column-signup">
+					<h4 class="heading-section">Sign Up</h4>
+					<form class="widget-signup--form">
+						<div class="widget-signup--input">
+							<input class="form-input" placeholder="Email">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</div>
+						<button type="submit">Subscribe</button>
+					</form>
+					{{ .Content }}
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div class="section-bg-black">
 		<div class="section-wrapper container">
@@ -16,4 +36,4 @@
 
 </div>
 
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}
