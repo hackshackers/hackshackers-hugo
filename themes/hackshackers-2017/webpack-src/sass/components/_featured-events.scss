@@ -15,7 +15,7 @@
 	}
 
 	&:hover {
-		background-color: $color-gray-light;
+		background-color: #f6f8fa;
 	}
 }
 
@@ -26,6 +26,11 @@
 	@media #{$breakpoint-mobile} {
 		margin-bottom: $spacer-small;
 		width: 100%;
+	}
+
+	&:hover {
+		color: $color-blue;
+		text-decoration: underline;
 	}
 }
 

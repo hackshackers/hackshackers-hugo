@@ -36,10 +36,7 @@
 	margin: 0 auto;
 	padding: 10px 20px;
 	text-transform: uppercase;
-
-	a {
-		transition-duration: .2s;
-	}
+	transition-duration: .2s;
 
 	.fa-chevron-right {
 		margin-left: $spacer-small;
@@ -47,6 +44,12 @@
 
 	&.fill-orange {
 		background-color: $color-orange-dark;
+	}
+
+	&:hover {
+		background-color: $color-jungle-green;
+		color: $color-black;
+		cursor: pointer;
 	}
 }
 

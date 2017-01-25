@@ -58,4 +58,8 @@ form {
 
 .widget-signup--form {
 	flex-wrap: wrap;
+
+	&:hover {
+		cursor: pointer;
+	}
 }
