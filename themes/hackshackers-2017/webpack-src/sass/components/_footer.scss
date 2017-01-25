@@ -23,7 +23,7 @@
 	align-items: baseline;
 	display: flex;
 	justify-content: space-between;
-	padding: 55px 85px 30px;
+	padding: 30px 85px 30px;
 
 	@media #{$breakpoint-mobile} {
 		padding: $spacer-large;
@@ -38,5 +38,24 @@
 		&:not(:first-of-type) {
 			margin-left: 20px;
 		}
+	}
+}
+
+.footer-credit {
+	align-items: center;
+	display: flex;
+	font-size: 12px;
+
+	span {
+		margin-right: 5px;
+	}
+}
+
+.alley-interactive-logo {
+	display: inline-flex;
+
+	svg {
+		height: 32px;
+		width: auto;
 	}
 }
