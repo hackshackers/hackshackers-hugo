@@ -9,7 +9,7 @@ var webpackConfig = {
     styles: './webpack-src/sass/screen.scss',
   },
   output: {
-    path: path.resolve(__dirname, '../static/js/'),
+    path: path.resolve(__dirname, '../static/lib/'),
     publicPath: '',
     filename: '[name].js',
     jsonpFunction: 'hackshackersJsonp'
