@@ -9,7 +9,7 @@ var webpackConfig = {
     styles: './webpack-src/sass/screen.scss',
   },
   output: {
-    path: path.join(__dirname, '/static/js/'),
+    path: path.resolve(__dirname, '../static/js/'),
     publicPath: '',
     filename: '[name].js',
     jsonpFunction: 'hackshackersJsonp'
@@ -23,7 +23,7 @@ var webpackConfig = {
       {
         loader: 'babel',
         test: /\.js$/,
-        include: path.join(__dirname, 'webpack-src/js'),
+        include: path.resolve(__dirname, 'js'),
       },
       {
         loader: ExtractTextPlugin.extract('style-loader', 'css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap'),
