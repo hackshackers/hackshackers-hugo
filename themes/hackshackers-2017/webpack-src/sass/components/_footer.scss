@@ -45,15 +45,17 @@
 	align-items: center;
 	display: flex;
 	font-size: 12px;
-	flex-direction: column;
-	text-align: center;
 
-	h6 {
+	span {
 		margin-right: 5px;
 	}
 }
 
 .alley-interactive-logo {
-	height: 32px;
-	width: auto;
+	display: inline-flex;
+	
+	svg {
+		height: 32px;
+		width: auto;
+	}
 }
