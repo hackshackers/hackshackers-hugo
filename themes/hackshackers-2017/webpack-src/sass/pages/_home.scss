@@ -25,10 +25,17 @@
 
 .home-resource-signup-wrapper {
 	background: $color-black;
-	display: flex;
 	padding: $spacer-gutter 0;
 
 	.heading-section {
 		color: $color-white;
+	}
+
+	.container {
+		display: flex;
+
+		@media #{$breakpoint-tablet-max} {
+			flex-direction: column;
+		}
 	}
 }

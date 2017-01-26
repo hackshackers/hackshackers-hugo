@@ -1,7 +1,12 @@
 .home-newsletter-signup {
 	display: flex;
 	flex: 50%;
-	
+	flex-direction: column;
+
+	@media #{$breakpoint-desktop} {
+		padding: 0px 0px 0px 70px;
+	}
+
 	input {
 		background-color: $color-white;
 	}
@@ -9,19 +14,26 @@
 	i {
 		z-index: 99;
 	}
+
+	.widget-signup--form {
+		flex-wrap: nowrap;
+	}
+
+	button {
+		height: auto;
+		width: auto;
+
+		&:hover {
+			background-color: $color-jungle-green;
+		}
+	}
 }
 
 .right-column-signup {
-	flex-direction: column;
-	padding: 0px 0px 0px 70px;
+	color: $color-white;
 
 	p {
 		margin-bottom: $spacer-medium;
-	}
-
-	@media #{$breakpoint-mobile} {
-		padding: $spacer-large;
-		width: 100%;
 	}
 }
 
