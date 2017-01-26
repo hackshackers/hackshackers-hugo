@@ -4,8 +4,9 @@ body {
 
 .section-padding {
 	padding: 0px 80px;
+
 	@media #{$breakpoint-mobile} {
-		padding: 0 $spacer-small;
+		padding: 0px;
 	}
 
 	@media #{$breakpoint-tablet} {
