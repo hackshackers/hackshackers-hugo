@@ -20,7 +20,7 @@ var readFileCallback = function(fileData) {
 }
 
 indexer.setInput(path.join(dir, '**'));
-indexer.setOutput('themes/hackshackers-2017/static/js/lunr-index.json');
+indexer.setOutput('themes/hackshackers-2017/static/lib/lunr-index.json');
 indexer.setExcludes([
   path.join(dir, 'data', '**'),
   path.join(dir, 'content-images', '**'),
