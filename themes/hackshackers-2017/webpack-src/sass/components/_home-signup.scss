@@ -1,5 +1,13 @@
 .home-newsletter-signup {
 	display: flex;
+
+	input {
+		background-color: $color-white;
+	}
+
+	i {
+		z-index: 99;
+	}
 }
 
 .left-column-signup {
