@@ -1,6 +1,8 @@
 .resources {
+	flex: 50%;
+
 	@media #{$breakpoint-desktop} {
-		padding-left: 80px;
+		padding-left: 125px;
 	}
 
 	@media #{$breakpoint-mobile} {
@@ -30,7 +32,6 @@
 
 .resources,
 .organizers {
-	width: 35%;
 
 	.heading-section {
 		padding-left: $spacer-small;
