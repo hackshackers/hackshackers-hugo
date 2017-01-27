@@ -17,7 +17,7 @@ var webpackConfig = {
   },
   plugins: [
     new ExtractTextPlugin('[name].css'),
-    // new HHCleanup(__dirname),
+    new HHCleanup(__dirname),
   ],
   module: {
     preLoaders: [
