@@ -39,13 +39,11 @@
 	position: fixed;
 	top: 65px;
 	transition: 0.2s;
-	visibility: hidden;
 	width: 100%;
 	z-index: 999;
 
 	&.show {
 		opacity: 1;
-		visibility: visible;
 	}
 
 	.input-search {
