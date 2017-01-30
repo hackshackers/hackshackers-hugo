@@ -22,3 +22,20 @@
 .row-middle {
 	margin-bottom: 40px;
 }
+
+.home-resource-signup-wrapper {
+	background: $color-black;
+	padding: $spacer-gutter 0;
+
+	.heading-section {
+		color: $color-white;
+	}
+
+	.container {
+		display: flex;
+
+		@media #{$breakpoint-tablet-max} {
+			flex-direction: column;
+		}
+	}
+}

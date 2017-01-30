@@ -1,33 +1,39 @@
 .home-newsletter-signup {
 	display: flex;
-}
-
-.left-column-signup {
-	min-width: 50%;
-	display: none;
+	flex: 50%;
+	flex-direction: column;
 
 	@media #{$breakpoint-desktop} {
-		display: block;
+		padding: 0px 0px 0px 70px;
 	}
-}
 
-.home-signup-img {
-	height: 100%;
-	width: 100%;
+	input {
+		background-color: $color-white;
+	}
+
+	i {
+		z-index: 99;
+	}
+
+	.widget-signup--form {
+		flex-wrap: nowrap;
+	}
+
+	button {
+		height: auto;
+		width: auto;
+
+		&:hover {
+			background-color: $color-jungle-green;
+		}
+	}
 }
 
 .right-column-signup {
-	flex-direction: column;
-	padding: 50px 0px 0px 70px;
-	width: 50%;
+	color: $color-white;
 
 	p {
 		margin-bottom: $spacer-medium;
-	}
-
-	@media #{$breakpoint-mobile} {
-		padding: $spacer-large;
-		width: 100%;
 	}
 }
 
