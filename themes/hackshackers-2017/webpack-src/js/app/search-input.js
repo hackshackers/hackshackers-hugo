@@ -5,8 +5,8 @@ export default function () {
   if (searchBtn) {
     searchBtn.addEventListener('click', (evt) => {
       evt.preventDefault();
-      searchInput.focus();
       searchOverlay.classList.toggle('show');
+      searchInput.focus();
     });
   }
 }
