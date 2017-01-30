@@ -10,7 +10,7 @@
     </div>
 
     <div class="right-column">
-      <h2 class="single-headline">{{ .Title }}</h2>
+      <h2 class="heading-section">{{ .Title }}</h2>
       {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") ( .Site.Data.authors ) }}
         {{ if (index .Site.Data.authors (.Title | urlize)) }}
           {{ partial "meta-author.html" . }}
