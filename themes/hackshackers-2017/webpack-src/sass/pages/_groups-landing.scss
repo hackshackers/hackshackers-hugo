@@ -2,6 +2,10 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: flex-start;
+
+	@media #{$breakpoint-tablet-min} {
+		justify-content: space-between;
+	}
 }
 
 .local-groups-city {
