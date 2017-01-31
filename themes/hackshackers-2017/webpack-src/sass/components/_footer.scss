@@ -28,7 +28,7 @@
 	@media #{$breakpoint-mobile} {
 		padding: $spacer-large;
 	}
-	
+
 	@media #{$breakpoint-tablet} {
 		padding: 40px;
 	}
@@ -36,8 +36,16 @@
 
 .footer-social {
 	li {
+		display: inline-block;
 		&:not(:first-of-type) {
 			margin-left: 20px;
+		}
+
+		a {
+			transition-duration: .2s;
+			&:hover {
+				color: $color-jungle-green;
+			}
 		}
 	}
 }

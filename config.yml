@@ -30,3 +30,7 @@ menu:
       URL: "/resources/"
     - Name: Blog
       URL: "/blog/"
+
+params:
+  twitter: HacksHackers
+  facebook: HacksHackers
