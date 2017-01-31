@@ -56,3 +56,9 @@
 		color: $color-twitter;
 	}
 }
+
+.single-wrapper {
+	@media #{$breakpoint-tablet-min} {
+		margin-top: 50px;
+	}
+}

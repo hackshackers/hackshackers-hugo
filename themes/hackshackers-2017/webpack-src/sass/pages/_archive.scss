@@ -1,17 +1,16 @@
 .archive {
-	padding-top: $spacer-gutter;
-
+	&:not(:last-of-type) {
+		padding-bottom: $spacer-gutter;
+	}
 	h3 {
 		font: $font-single-subheader;
 		font-weight: 700;
 		margin-bottom: $spacer-small;
+	}
 
-		a {
-			&:hover {
-				&:before {
-					bottom: -1px;
-				}
-			}
+	a {
+		&:hover {
+			color: $color-blue;
 		}
 	}
 

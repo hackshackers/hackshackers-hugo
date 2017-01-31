@@ -38,10 +38,10 @@
 	padding: 45px 0 0 0;
 	position: fixed;
 	top: 65px;
-	transition: 0.2s;
+	transition: 0.5s opacity ease;
 	visibility: hidden;
 	width: 100%;
-	z-index: 999;
+	z-index: 9999;
 
 	&.show {
 		opacity: 1;
