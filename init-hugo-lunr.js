@@ -7,14 +7,19 @@ var hugolunr = require('hugo-lunr');
 var path = require('path');
 var indexer = new hugolunr();
 var dir = process.argv[2];
+var entities = require('entities');
 
 // Process file content before adding to index JSON file
 var readFileCallback = function(fileData) {
   if (!fileData.content) {
     return fileData;
   }
+
   // Strip Hugo shortcodes
   fileData.content = fileData.content.replace(/{{ \w+ .*?}}/gi, '');
+
+  // Decode HTML entities
+  fileData.content = entities.decodeHTML(fileData.content);
 
   return fileData;
 }
