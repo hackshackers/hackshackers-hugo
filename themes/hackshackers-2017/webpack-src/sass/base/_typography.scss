@@ -22,6 +22,10 @@ $font-widget-header: 700 #{(14rem/16)}/#{1.2} $font-family-primary;
 			background-color: $color-gray;
 		}
 	}
+
+	@media #{$breakpoint-mobile} {
+		margin-bottom: $spacer-large;
+	}
 }
 
 .single-article,
