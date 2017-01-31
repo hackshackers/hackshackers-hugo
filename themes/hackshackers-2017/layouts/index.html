@@ -1,9 +1,9 @@
-{{ partial "header.html" .Site }}
+{{ partial "header.html" (dict "maintitle" .Site.Title "subtitle" .Site.Params.tagline) }}
 {{ partial "nav.html" . }}
 
 <div class="home-wrapper">
 	{{ partial "map.html" . }}
-	{{ partial "statement.html" (dict "title" .Site.Params.title "subtitle" .Site.Params.subtitle) }}
+	{{ partial "statement.html" (dict "title" .Site.Params.tagline "subtitle" .Site.Params.subtagline) }}
 	{{ partial "home-upcoming-events.html" }}
 	<div class="home-resource-signup-wrapper">
 		<div class="container">
