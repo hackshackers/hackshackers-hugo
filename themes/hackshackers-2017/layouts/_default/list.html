@@ -6,7 +6,7 @@
   <div class="flex-wrapper">
 
     <div class="left-column">
-      {{ partial "widgets/container.html" . }}
+      {{ partial "widgets/container.html" (dict "Content" .Site.Pages "Len" 5) }}
     </div>
 
     <div class="right-column">
