@@ -41,7 +41,7 @@
 	transition: 0.5s opacity ease;
 	visibility: hidden;
 	width: 100%;
-	z-index: 999;
+	z-index: 9999;
 
 	&.show {
 		opacity: 1;
