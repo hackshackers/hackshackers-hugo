@@ -74,6 +74,10 @@ header {
 	svg {
 		display: block;
 		fill: $color-white;
+		transition-duration: $header-duration;
+		&:hover {
+			fill: $color-jungle-green;
+		}
 	}
 
 	@media #{$breakpoint-tablet-max} {
@@ -122,7 +126,7 @@ header {
 .main-nav-items {
 	font: $font-primary-nav;
 	display: flex;
-	transition-duration: .2s;
+	transition-duration: $header-duration;
 
 	@media #{$breakpoint-tablet-max} {
 		flex-direction: column;
@@ -130,7 +134,7 @@ header {
 
 	a {
 		text-decoration: none;
-		transition-duration: .2s;
+		transition-duration: $header-duration;
 
 		&:hover {
 			color: $color-jungle-green;
@@ -150,7 +154,7 @@ header {
 	cursor: pointer;
 	display: flex;
 	margin-left: auto;
-	transition-duration: .2s;
+	transition-duration: $header-duration;
 
 	@media #{$breakpoint-tablet-max} {
 		display: none;
@@ -174,7 +178,7 @@ header {
 .header-signup {
 	height: 19px;
 	margin-left: auto;
-	transition-duration: .2s;
+	transition-duration: $header-duration;
 
 	@media #{$breakpoint-tablet-max} {
 		display: none;
@@ -202,7 +206,7 @@ header {
 		color: $color-jungle-green;
 		font-size: 14px;
 		text-transform: uppercase;
-		transition-duration: .2s;
+		transition-duration: $header-duration;
 	}
 
 	&:hover {
