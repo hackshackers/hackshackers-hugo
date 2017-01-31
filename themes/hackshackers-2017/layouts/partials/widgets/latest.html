@@ -1,0 +1,17 @@
+<div class="widget widget-wrapper widget-latest">
+	<ul class="widget-latest--list">
+		{{ range first 5 (where . "Section" "blog") }}
+			<li>
+				<a href="#" class="widget-latest--post">
+					<div class="widget-latest--title">
+						<h3 class="widget-latest--header">{{ .Title }}</h3>
+						<ul class="widget-latest--meta">
+							<li class="widget-latest--byline">Barrett Golding</li>
+							<li>Last week</li>
+						</ul>
+					</div>
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</div>
