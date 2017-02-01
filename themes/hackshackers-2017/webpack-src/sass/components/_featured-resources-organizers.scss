@@ -19,6 +19,10 @@
 
 	a {
 		padding-left: $spacer-medium;
+
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 }
 
