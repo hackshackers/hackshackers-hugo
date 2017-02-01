@@ -1,0 +1,18 @@
+.organizer-entry {
+	margin-bottom: 65px;
+	border-bottom: $border-primary;
+	padding-bottom: 45px;
+
+	figure {
+		float: left;
+		width: 50%;
+	}
+
+	img {
+		width: 100%;
+	}
+
+	figure {
+		margin: 0 $spacer-large $spacer-small 0;
+	}
+}
