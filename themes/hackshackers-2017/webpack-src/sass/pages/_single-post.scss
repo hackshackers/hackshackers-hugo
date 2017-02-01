@@ -176,6 +176,14 @@
 		padding-bottom: $spacer-small;
 	}
 
+	hr {
+		margin: 0 0 65px 0;
+		border: none;
+		border-bottom: $border-primary;
+		padding: 0 0 45px 0;
+		height: 0px;
+	}
+
 	@include headings {
 		font: $font-single-subheader;
 		font-weight: 700;
