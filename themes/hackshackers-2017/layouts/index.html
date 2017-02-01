@@ -7,7 +7,7 @@
 	{{ partial "home-upcoming-events.html" }}
 	<div class="home-resource-signup-wrapper">
 		<div class="container">
-			{{ partial "home-resources.html" }}
+			{{ partial "home-resources.html" .Site.Pages }}
 			{{ partial "home-signup.html" .Content }}
 	</div>
 </div>
