@@ -173,6 +173,12 @@
 	li {
 		padding-bottom: $spacer-small;
 	}
+
+	h2 {
+		font: $font-single-subheader;
+		font-weight: 700;
+		margin-bottom: $spacer-small;
+	}
 }
 
 .link-hack-this {

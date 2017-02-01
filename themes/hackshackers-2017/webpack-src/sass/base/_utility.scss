@@ -20,3 +20,10 @@ $header-duration: .2s;
 	background: -webkit-linear-gradient(270deg,#43cea2,#185a9d);
 	background: linear-gradient(270deg,#43cea2,#185a9d);
 }
+
+@mixin headings {
+  h1, h2, h3,
+  h4, h5, h6 {
+    @content;
+  }
+}
