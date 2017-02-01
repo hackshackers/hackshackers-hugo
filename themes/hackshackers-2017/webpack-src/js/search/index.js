@@ -101,6 +101,10 @@ function _searchPageSubmitHandler(query) {
 function _initLunr(docs) {
   const _indexer = lunr(function () { // eslint-disable-line func-names
     // Arrow function would not have the correct context here
+    this.field('title', { boost: 10 });
+    this.field('authors', { boost: 8 });
+    this.field('categories', { boost: 6 });
+    this.field('tags', { boost: 4 });
     this.field('content');
     this.ref('idx');
   });

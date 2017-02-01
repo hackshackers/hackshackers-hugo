@@ -30,3 +30,9 @@ menu:
       URL: "/resources/"
     - Name: Blog
       URL: "/blog/"
+
+params:
+  twitter: HacksHackers
+  facebook: HacksHackers
+  tagline: join the media revolution
+  subtagline: rebooting journalism

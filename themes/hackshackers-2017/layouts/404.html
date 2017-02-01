@@ -1,15 +1,15 @@
-{{ partial "header.html" .Site }}
+{{ partial "header.html" (dict "maintitle" "404" "subtitle" .Site.Title) }}
 {{ partial "nav.html" . }}
 <div class="container">
   <div class="flex-wrapper">
 
     {{/* Do we need 2-column layout on 404 page? */}}
     <div class="left-column">
-      {{ partial "widgets/container.html" }}
+      {{ partial "widgets/container.html" (dict "Content" .Site.Pages "Len" 5) }}
     </div>
 
     <div class="right-column">
-      <h2 class="single-headline">{{ .Title }}</h2>
+      <h2 class="single-headline">404</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt cupiditate praesentium et a, vel accusantium molestias voluptates optio voluptas soluta eaque perspiciatis, architecto mollitia porro autem laborum esse, pariatur at.</p>
 
       {{ partial "search-form.html" . }}

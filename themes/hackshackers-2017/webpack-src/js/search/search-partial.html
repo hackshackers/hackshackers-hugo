@@ -9,7 +9,8 @@
         <div class="blog-single-meta">
 
           <% if (authors.length) { %>
-            <h4 class="single-meta-byline"><i class="fa fa-user" aria-hidden="true"></i>
+            <h4 class="single-meta-byline">
+              <span>By</span>
               <% authors.forEach((item, idx) => {
                 if (0 < idx) { print(",") }; %>
                 <a href="<%- item.url %>"><%- item.name %></a>
@@ -18,33 +19,6 @@
           <% } %>
 
           <h4 class="single-meta-date"><%- date %></h4>
-
-          <% if (categories.length) { %>
-            <div class="taxonomy-terms categories">
-              <strong>
-                <% if (1 === categories.length ) {
-                  print("Category");
-                } else {
-                  print("Categories");
-                } %>
-              </strong>
-              <% categories.forEach((item, idx) => {
-                if (0 < idx) { print(",") }; %>
-                <a href="<%- item.url %>"><%- item.name %></a>
-              <% }) %>
-            </div>
-          <% } %>
-
-          <% if (tags.length) { %>
-            <div class="taxonomy-terms tags">
-              <strong>Tag<% if (1 < tags.length) { print("s"); } %>:</strong>
-              <% tags.forEach((item, idx) => {
-                if (0 < idx) { print(",") }; %>
-                <a href="<%- item.url %>"><%- item.name %></a>
-              <% }) %>
-            </div>
-          <% } %>
-
         </div>
     </div>
   <% } %>

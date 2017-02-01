@@ -1,0 +1,16 @@
+<div class="widget widget-wrapper widget-latest">
+	<ul class="widget-latest--list">
+		{{ range first .Len (where .Content "Section" "blog") }}
+			<li>
+				<a href="{{ .RelPermalink }}" class="widget-latest--post">
+					<div class="widget-latest--title">
+						<h3 class="widget-latest--header">{{ .Title }}</h3>
+						<ul class="widget-latest--meta">
+							<li>{{ .Date.Format "Jan 2, 2006" }}</li>
+						</ul>
+					</div>
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</div>

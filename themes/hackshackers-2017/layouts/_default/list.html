@@ -1,12 +1,12 @@
 {{/*  List for blog posts, taxonomy terms. Also used by search single page */}}
 
-{{ partial "header.html" .Site }}
+{{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
 {{ partial "nav.html" . }}
 <div class="container">
   <div class="flex-wrapper">
 
     <div class="left-column">
-      {{ partial "widgets/container.html" }}
+      {{ partial "widgets/container.html" (dict "Content" .Site.Pages "Len" 5) }}
     </div>
 
     <div class="right-column">

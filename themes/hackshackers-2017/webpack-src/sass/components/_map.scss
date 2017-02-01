@@ -5,6 +5,10 @@
 
 	// Changes white-on-black tiles to gray-on-black tiles
 	background-color: black;
+	// width/height to match webpack-src/js/map/config.js
+	height: 400px;
+	width: 100%;
+
 	.leaflet-tile-container {
 		opacity: .35;
 	}
