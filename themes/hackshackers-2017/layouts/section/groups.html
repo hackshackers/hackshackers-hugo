@@ -1,4 +1,4 @@
-{{ partial "header.html" .Site }}
+{{ partial "header.html" (dict "maintitle" .Site.Title "subtitle" "Find A Group") }}
 {{ partial "nav.html" . }}
 
 <div class="map-wrapper">
