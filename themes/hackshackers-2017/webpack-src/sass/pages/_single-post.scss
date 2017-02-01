@@ -164,7 +164,8 @@
 		color: $color-blue;
 	}
 
-	ul {
+	ul,
+	ol {
 		list-style-type: circle;
 		margin-bottom: $spacer-large;
 		padding-left: $spacer-large;
@@ -174,7 +175,7 @@
 		padding-bottom: $spacer-small;
 	}
 
-	h2 {
+	@include headings {
 		font: $font-single-subheader;
 		font-weight: 700;
 		margin-bottom: $spacer-small;
