@@ -1,0 +1,8 @@
+{{/* loop through pages in the section, excluding the sectionfront itself */}}
+<ul>
+  {{ range .Content }}
+    {{ if and (eq .Section $.FrontOf) (not ( isset .Params "sectionfront")) }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+<ul>
