@@ -12,7 +12,7 @@
 form {
 	display: flex;
 
-	button {
+	.widget-signup--button {
 		background-color: $color-orange-light;
 		color: $color-white;
 		text-transform: uppercase;
@@ -20,6 +20,7 @@ form {
 		padding: 0px 20px;
 		height: 30px;
 		width: 100%;
+		border: none;
 
 		&:hover {
 			background-color: $color-black;
