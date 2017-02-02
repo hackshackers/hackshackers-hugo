@@ -19,7 +19,7 @@
         {{ end }}
 
         {{ if isset .Params "sectionfront" }}
-          <ul>
+          <ul class="section-list">
             {{ partial "section-list.html" (dict "FrontOf" .Params.sectionfront "Content" .Site.Pages) }}
           </ul>
         {{ end }}
