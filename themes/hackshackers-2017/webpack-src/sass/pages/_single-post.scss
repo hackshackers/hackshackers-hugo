@@ -29,6 +29,7 @@
 	margin: 0 auto;
 	width: 100%;
 	max-width: 200px;
+	min-width: 200px;
 
 	@media #{$breakpoint-desktop} {
 		border-right: $border-primary;
@@ -164,7 +165,8 @@
 		color: $color-blue;
 	}
 
-	ul {
+	ul,
+	ol {
 		list-style-type: circle;
 		margin-bottom: $spacer-large;
 		padding-left: $spacer-large;
@@ -172,6 +174,20 @@
 
 	li {
 		padding-bottom: $spacer-small;
+	}
+
+	hr {
+		margin: 0 0 65px 0;
+		border: none;
+		border-bottom: $border-primary;
+		padding: 0 0 45px 0;
+		height: 0px;
+	}
+
+	@include headings {
+		font: $font-single-subheader;
+		font-weight: 700;
+		margin-bottom: $spacer-small;
 	}
 }
 

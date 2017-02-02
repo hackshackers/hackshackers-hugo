@@ -1,7 +1,7 @@
 {{/* Default for single blog post or single page */}}
 {{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
 {{ partial "nav.html" . }}
-<div class="container">
+<div class="container {{ if .IsPage }}{{ (printf "single-%s" .File.TranslationBaseName) }}{{ end }}">
   <div class="flex-wrapper">
 
     <div class="left-column">
@@ -11,6 +11,8 @@
     <div class="right-column">
       <article>
         <h2 class="single-headline">{{ .Title }}</h2>
+
+
 
         {{ if eq .Type "blog" }}
           {{ partial "meta-single.html" . }}
