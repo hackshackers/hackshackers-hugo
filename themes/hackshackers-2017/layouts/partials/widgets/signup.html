@@ -1,11 +1,5 @@
 <div class="widget widget-wrapper widget-signup">
 	<h4 class="widget-heading">Prevent FoMO</h4>
 	<p>Enter your email to get Hacks/Hackers news and updates in your inbox weekly</p>
-	<form class="widget-signup--form">
-		<div class="widget-signup--input">
-			<input class="form-input" placeholder="Email">
-			<i class="fa fa-envelope" aria-hidden="true"></i>
-		</div>
-		<button type="submit">Subscribe</button>
-	</form>
+  {{ partial "utils/mailchimp-form.html" }}
 </div>

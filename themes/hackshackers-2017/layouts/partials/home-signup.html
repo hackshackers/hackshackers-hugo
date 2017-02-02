@@ -1,13 +1,7 @@
 <section class="home-newsletter-signup">
 	<div class="right-column-signup">
 		<h4 class="heading-section">Sign Up</h4>
-		<form class="widget-signup--form">
-			<div class="widget-signup--input">
-				<input class="form-input" placeholder="Email">
-				<i class="fa fa-envelope" aria-hidden="true"></i>
-			</div>
-			<button type="submit">Subscribe</button>
-		</form>
+		{{ partial "utils/mailchimp-form.html" }}
 		{{ . }}
 	</div>
 </section>
