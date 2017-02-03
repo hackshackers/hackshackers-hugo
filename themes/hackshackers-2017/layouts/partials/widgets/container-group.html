@@ -1,6 +1,14 @@
+{{/* page params overwrite group data */}}
+
+{{ $groupData := (index .Site.Data.groups .File.TranslationBaseName) }}
+{{ $.Scratch.Add "organizers" (or .Params.organizers $groupData.organizers) }}
+{{ $.Scratch.Add "founded" (or .Params.founded $groupData.founded) }}
+{{ $.Scratch.Add "externalUrl" (or .Params.externalurl $groupData.externalUrl) }}
+
+{{ $data := dict "organizers" ($.Scratch.Get "organizers") "founded" ($.Scratch.Get "founded") "externalUrl" ($.Scratch.Get "externalUrl") }}
+
 <aside>
-  {{ partial "widgets/group.html" }}
-  {{ partial "widgets/group-upcoming.html" }}
-  {{ partial "widgets/group-organizers.html" }}
-  {{ partial "widgets/group-external.html" }}
+  {{ partial "widgets/group-founded.html" $data }}
+  {{ partial "widgets/group-organizers.html" $data }}
+  {{ partial "widgets/group-external.html" $data }}
 </aside>

@@ -1,17 +1,21 @@
-{{ partial "header.html" .Site }}
+{{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
 {{ partial "nav.html" . }}
 <div class="container {{ if .IsPage }}{{ (printf "group-%s" .File.TranslationBaseName) }}{{ end }}">
   <div class="flex-wrapper">
 
     <div class="left-column group-single">
       <!-- {{ .Title }} -->
-      {{ partial "widgets/container-group.html" }}
+      {{ partial "widgets/container-group.html" . }}
     </div>
 
     <div class="right-column">
-      <h2 class="single-headline group-title">ATLANTA</h2>
+      <h2 class="single-headline group-title">{{ .Title }}</h2>
 
-      {{ .Content }}
+      {{ partial "utils/suggest-edits.html" . }}
+
+      <article class="single-article">
+        {{ .Content }}
+      </article>
 
     </div>
   </div>
