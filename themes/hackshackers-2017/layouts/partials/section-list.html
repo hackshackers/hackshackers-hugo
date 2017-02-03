@@ -1,6 +1,6 @@
 {{/* loop through pages in the section, excluding the sectionfront itself */}}
 {{ range .Content }}
   {{ if and (eq .Section $.FrontOf) (not ( isset .Params "sectionfront")) }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 {{ end }}
