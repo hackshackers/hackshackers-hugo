@@ -35,3 +35,6 @@ params:
   facebook: HacksHackers
   tagline: join the media revolution
   subtagline: rebooting journalism
+  events:
+    homepage: 5
+    credit: "Events feed courtesy of [Peter MacRobert](https://twitter.com/PeteM) / [Matchmaker](https://matchmaker.hhldn.co.uk/welcome)"

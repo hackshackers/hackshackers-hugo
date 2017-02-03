@@ -4,7 +4,7 @@
 <div class="home-wrapper">
 	{{ partial "map.html" . }}
 	{{ partial "statement.html" (dict "title" .Site.Params.tagline "subtitle" .Site.Params.subtagline) }}
-	{{ partial "home-upcoming-events.html" }}
+	{{ partial "home-upcoming-events.html" .Site.Params.events }}
 	<div class="home-resource-signup-wrapper">
 		<div class="container">
 			{{ partial "home-resources.html" .Site.Pages }}

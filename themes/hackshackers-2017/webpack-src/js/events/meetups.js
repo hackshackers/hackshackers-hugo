@@ -58,7 +58,7 @@ function _renderAll(events, el, opts) {
 function _renderSingle(evt, evtTemplate, opts) {
   const title = evt.summary;
   const link = evt.url;
-  const date = `${fecha.format(evt[opts.orderBy], 'MMM D')} (GMT)`;
+  const date = `${fecha.format(evt[opts.orderBy], 'MMM D')}`;
 
   // Uses <%- var %> in the template to escape strings
   const compiled = template(evtTemplate);

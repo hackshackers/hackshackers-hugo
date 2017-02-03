@@ -67,3 +67,15 @@
 		padding-left: 10px;
 	}
 }
+
+.featured-events--credit {
+	text-align: right;
+	font-size: .8em;
+	padding: 0 15px;
+	a {
+		text-decoration: underline;
+		&:hover {
+			color: $color-blue;
+		}
+	}
+}
