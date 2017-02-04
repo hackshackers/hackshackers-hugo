@@ -1,7 +1,12 @@
+{{/* Will only render Example Group in local envs */}}
+{{ $isLocalhost := (findRE "http://localhost:1313" .Site.BaseURL) }}
+
 <div class="local-groups-wrapper">
 	<ul class="local-groups groups">
-		{{ range .Site.Data.groups }}
-			{{ partial "group-city.html" . }}
+    {{ range .Site.Data.groups }}
+      {{ if or (ne .label "Example Group") $isLocalhost }}
+  			{{ partial "group-city.html" . }}
+      {{ end }}
 		{{ end }}
 	</ul>
 </div>
