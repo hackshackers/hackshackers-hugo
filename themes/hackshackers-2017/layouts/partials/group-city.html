@@ -1,5 +1,4 @@
 <li class="local-groups-city">
-
   {{/*
     Links first to local group page if one is available.
     If no local group page, try the external link (e.g. Meetup).
@@ -16,8 +15,15 @@
         {{ end }}
       </h5>
     </div>
-    <h5 class="local-groups-city-organizer"><span class="group-header-small">Organized By:</span> <span>Josh Ryan, Matt Ryan, Ryan Josh</span></h5>
-    <h5><span class="group-header-small">Next Event:</span> <span>February 12</span></h5>
-    <a class="local-groups-city-contact"><span class="group-header-small">Contact: </span>hhnyc@gmail.com</a>
+    {{ if $.organizers }}
+      <h5 class="local-groups-city-organizer"><span class="group-header-small">Organized By:</span>
+        {{ range $idx, $value := $.organizers }}
+          <span>{{ if ne 0 $idx }}, {{ end }}<a href="{{ $value.link }}">{{ $value.name }}</a></span>
+        {{ end }}
+      </h5>
+    {{ end }}
+    {{ if $.founded }}
+      <h5><span class="group-header-small">Founded:</span> <span>{{ $.founded }}</span></h5>
+    {{ end }}
   </div>
 </li>

@@ -1,6 +1,8 @@
+{{ $groupData := (index .Site.Data.groups .File.TranslationBaseName) }}
+{{ if $groupData }}
 <aside>
-  {{ partial "widgets/group.html" }}
-  {{ partial "widgets/group-upcoming.html" }}
-  {{ partial "widgets/group-organizers.html" }}
-  {{ partial "widgets/group-external.html" }}
+  {{ partial "widgets/group-founded.html" $groupData }}
+  {{ partial "widgets/group-organizers.html" $groupData }}
+  {{ partial "widgets/group-external.html" $groupData }}
 </aside>
+{{ end }}

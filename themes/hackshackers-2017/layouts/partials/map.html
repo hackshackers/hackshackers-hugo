@@ -1,4 +1,5 @@
 <div id="hero-map" class="module map"></div>
 <script>
-  window.__hh_groups__ = window.__hh_groups__ || {{ .Site.Data.groups }};
+  window.__hh_groups__ = {};
+  {{ partial "utils/groups-json.html" (dict "Data" .Site.Data.groups "Var" "__hh_groups__") | safeJS }};
 </script>
