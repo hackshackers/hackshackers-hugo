@@ -1,0 +1,9 @@
+{{/*  Render groups JSON, discarding what Go can't parse from YAML to JSON and keeping only what we need to render the map */}}
+{{ range $key, $value := .Data }}
+  window.{{ $.Var }}['{{ $key }}'] = {
+    label: '{{ $value.label }}',
+    coordinates: [{{ index $value.coordinates 0 }}, {{ index $value.coordinates 1 }}],
+    externalUrl: '{{ default "" $value.externalUrl }}',
+    groupPage: '{{ default "" $value.groupPage }}'
+  };
+{{ end }}

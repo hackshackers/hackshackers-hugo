@@ -49,27 +49,23 @@ export default function (mapId) {
    * @return HTMLAnchorElement
    */
   function groupLinkEl(group) {
-    let href;
-    if (group.groupPage) {
-      // Internal group page, e.g. hh.com/groups/atlanta
-      href = group.groupPage;
-    } else if (group.externalUrl) {
-      // External link, e.g. meetup.com/groups/HHAtlanta
-      href = group.externalUrl;
-    } else {
-      // Fallback
-      href = '#0';
-    }
-
     const link = document.createElement('a');
-    link.href = href;
     link.innerText = group.label;
     link.className = 'group-popup-link';
 
-    if (group.externalUrl) {
+    if (group.groupPage) {
+      // Internal group page, e.g. hh.com/groups/atlanta
+      link.href = `/groups/${group.groupPage}`;
+    } else if (group.externalUrl) {
+      // External link, e.g. meetup.com/groups/HHAtlanta
+      link.href = group.externalUrl;
       link.target = '_blank';
       link.className += ' external';
+    } else {
+      // Fallback
+      link.href = '#0';
     }
+
     return link;
   }
 
