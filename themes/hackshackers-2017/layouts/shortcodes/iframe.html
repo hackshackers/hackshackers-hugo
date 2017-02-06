@@ -1,6 +1,6 @@
 <figure class="iframe-container">
   <iframe
-    src="{{ .Get "src" }}"
+    src="{{ replace (.Get "src") "#" "%23" }}"
     style="{{ with .Get "width"}}width:{{.}};{{ end }}{{ with .Get "height"}}height:{{.}};{{ end }}"
   ></iframe>
 </figure>
