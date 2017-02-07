@@ -1,12 +1,16 @@
 .pagination {
 	display: flex;
 	margin-top: 45px;
-	
+
 	button {
 		margin: 0;
+	}
 
+	a {
 		&:last-of-type {
-			margin-left: $spacer-medium;
+			button {
+				margin-left: $spacer-medium;
+			}
 		}
 	}
 }
