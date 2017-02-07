@@ -13,7 +13,9 @@ form {
 	display: flex;
 
 	.widget-signup--button {
+		appearance: none;
 		background-color: $color-orange-light;
+		border-radius: 0;
 		color: $color-white;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -25,6 +27,7 @@ form {
 		&:hover {
 			background-color: $color-black;
 			color: $color-white;
+			cursor: pointer;
 		}
 	}
 
