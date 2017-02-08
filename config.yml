@@ -36,6 +36,11 @@ params:
   facebook: HacksHackers
   tagline: join the media revolution
   subtagline: rebooting journalism
+  og_image:
+    url: "https://hackshackers.com/images/hh_logo_stacked.jpg"
+    width: 920
+    height: 365
+  og_desc: One or two sentences describing Hacks/Hackers. Those go here.
   events:
     homepage: 5
     credit: "Events feed courtesy of [Peter MacRobert](https://twitter.com/PeteM) / [Matchmaker](https://matchmaker.hhldn.co.uk/welcome)"

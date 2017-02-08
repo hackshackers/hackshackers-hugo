@@ -1,4 +1,4 @@
-{{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
+{{ partial "header.html" . }}
 {{ partial "nav.html" . }}
 <div class="container {{ if .IsPage }}{{ (printf "group-%s" .File.TranslationBaseName) }}{{ end }}">
   <div class="flex-wrapper">

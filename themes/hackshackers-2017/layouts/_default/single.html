@@ -1,5 +1,5 @@
 {{/* Default for single blog post or single page */}}
-{{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
+{{ partial "header.html" . }}
 {{ partial "nav.html" . }}
 <div class="container {{ if .IsPage }}{{ (printf "single-%s" .File.TranslationBaseName) }}{{ end }}">
   <div class="flex-wrapper">
