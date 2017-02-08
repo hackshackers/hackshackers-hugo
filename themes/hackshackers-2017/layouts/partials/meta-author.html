@@ -1,11 +1,6 @@
-<div class="author-metadata">
-  <img src="{{ (index .Site.Data.authors (.Title | urlize)).avatar }}" />
-  <p class="bio">{{ (index .Site.Data.authors (.Title | urlize)).bio }}</p>
-  {{ if (index .Site.Data.authors (.Title | urlize)).twitter }}
-    <span class="twitter">
-      <a href="https://twitter.com/{{ (index .Site.Data.authors (.Title | urlize)).twitter }}">
-        @{{ (index .Site.Data.authors (.Title | urlize)).twitter }}
-      </a>
-    </span>
+<div class="meta_author">
+  <h2 class="meta_author--title heading-section">{{ .Title }}</h2>
+  {{ if and ( .Site.Data.authorlinks ) (index .Site.Data.authorlinks (.Title | urlize)) }}
+    <div class="meta_author--link">{{ partial "utils/maybe-twitter-link" (index .Site.Data.authorlinks (.Title | urlize)) }}</div>
   {{ end }}
 </div>
