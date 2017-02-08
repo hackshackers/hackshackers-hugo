@@ -1,0 +1,15 @@
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:title" content="{{ .Title | default .Site.Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:image:url" content="{{ .Site.Params.og_image.url }}" />
+<meta property="og:image:width" content="{{ .Site.Params.og_image.width }}" />
+<meta property="og:image:height" content="{{ .Site.Params.og_image.height }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ if .Description }}
+  <meta property="og:description" content="{{ .Description }}" />
+{{ else if .Summary }}
+  {{/* not-foolproof way of extracting the first two sentences from the .Summary */}}
+  <meta property="og:description" content="{{ delimit (first 2 (split .Summary ". ")) ". " }}." />
+{{ else }}
+  <meta property="og:description" content="{{ .Site.Params.og_desc }}" />
+{{ end }}
