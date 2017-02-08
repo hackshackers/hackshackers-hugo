@@ -69,6 +69,38 @@ export default function (mapId) {
     return link;
   }
 
+  /**
+   * Add button to controls to toggle map dragging
+   *
+   * @param Leaflet map
+   */
+  function toggleDragging(map) {
+    const zoomEl = map.zoomControl.getContainer();
+    if (!zoomEl) {
+      return;
+    }
+    // Disable dragging to start
+    map.dragging.disable();
+
+    // Create button to toggle dragging and insert it
+    const toggle = document.createElement('a');
+    toggle.href = '#';
+    toggle.innerHTML = '<i class="fa fa-arrows" aria-hidden="true"></i>';
+    toggle.className = 'leaflet-button-dragging dragging-disabled';
+    zoomEl.appendChild(toggle);
+
+    // Add listener to toggle dragging
+    toggle.addEventListener('click', (evt) => {
+      evt.preventDefault();
+      if (map.dragging.enabled()) {
+        map.dragging.disable();
+      } else {
+        map.dragging.enable();
+      }
+      toggle.classList.toggle('dragging-disabled');
+    });
+  }
+
   function init() {
     if (!mapEl || !groups) {
       return;
@@ -81,7 +113,14 @@ export default function (mapId) {
     const map = Leaflet.map(mapId).setView(config.map.center, config.map.zoom);
     addTileLayer(map);
     addMarkers(map);
-    map.scrollWheelZoom.disable();
+
+    // Options that need to be applied after map setup
+    config.postSetup.disable.forEach((key) => map[key].disable());
+
+    // Add button to toggle map panning on mobile
+    if (window.innerWidth < config.mobileBreakpoint) {
+      toggleDragging(map);
+    }
   }
 
   init();

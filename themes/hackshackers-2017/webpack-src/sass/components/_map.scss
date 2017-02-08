@@ -13,6 +13,20 @@
 		opacity: .35;
 	}
 
+	.leaflet-button-dragging {
+		color: $color-blue;
+		&:hover {
+			cursor: pointer;
+		}
+
+		&.dragging-disabled {
+			color: $color-jungle-green;
+			&:hover {
+				color: $color-orange-dark;
+			}
+		}
+	}
+
 	.leaflet-popup-content-wrapper,
 	.leaflet-popup-tip {
 		//@extend %background-gradient;
