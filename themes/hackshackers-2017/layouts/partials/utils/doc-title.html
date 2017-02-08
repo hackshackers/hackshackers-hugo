@@ -1,0 +1,9 @@
+{{ if eq .Kind "404" }}
+  <title>404 / {{ .Site.Title }}</title>
+{{ else if .IsHome }}
+  <title>{{ .Site.Title }} / {{ .Site.Params.tagline }}</title>
+{{ else if and (eq .Kind "section") (eq .Section "groups") }}
+  <title>{{ .Site.Title }} / Find A Group</title>
+{{ else }}
+  <title>{{ .Title }} / {{ .Site.Title }}</title>
+{{ end }}
