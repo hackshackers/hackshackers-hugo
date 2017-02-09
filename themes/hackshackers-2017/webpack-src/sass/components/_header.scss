@@ -177,10 +177,10 @@ header {
 }
 
 .header-signup {
+	display: -ms-inline-grid; //IE alignment
 	height: 0px;
 	margin-left: auto;
 	transition-duration: $header-duration;
-	display: -ms-inline-grid; //IE alignment
 
 	@media #{$breakpoint-tablet-max} {
 		display: none;
@@ -208,14 +208,7 @@ header {
 		height: 23px;
 	}
 
-	::-webkit-input-placeholder {
-		color: $color-jungle-green;
-		font-size: 14px;
-		text-transform: uppercase;
-		transition-duration: $header-duration;
-	}
-
-	:-ms-input-placeholder {
+	::placeholder {
 		color: $color-jungle-green;
 		font-size: 14px;
 		text-transform: uppercase;
