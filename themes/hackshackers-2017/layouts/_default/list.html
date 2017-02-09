@@ -1,6 +1,6 @@
 {{/*  List for blog posts, taxonomy terms. Also used by search single page */}}
 
-{{ partial "header.html" (dict "maintitle" .Title "subtitle" .Site.Title) }}
+{{ partial "header.html" . }}
 {{ partial "nav.html" . }}
 <div class="container">
   <div class="flex-wrapper">
@@ -10,11 +10,11 @@
     </div>
 
     <div class="right-column">
-      <h2 class="heading-section">{{ .Title }}</h2>
-      {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") ( .Site.Data.authors ) }}
-        {{ if (index .Site.Data.authors (.Title | urlize)) }}
-          {{ partial "meta-author.html" . }}
-        {{ end }}
+
+      {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") }}
+        {{ partial "meta-author.html" . }}
+      {{ else }}
+        <h2 class="heading-section">{{ .Title }}</h2>
       {{ end }}
 
       {{ if eq .RelPermalink "/search/" }}
