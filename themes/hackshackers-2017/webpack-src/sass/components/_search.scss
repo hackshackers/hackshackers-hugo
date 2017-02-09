@@ -25,7 +25,7 @@
 		height: 39px;
 		margin: 0;
 		background-color: $color-orange-dark;
-		width: auto;
+		width: 70px;
 	}
 }
 
@@ -79,7 +79,8 @@
 	}
 
 	button {
-		height: auto;
+		background-color: $color-blue-water;
+		height: 39px;
 		width: 30%;
 
 		&:hover {

@@ -1,9 +1,9 @@
 .home-newsletter-signup {
 	display: flex;
-	flex: 50%;
 	flex-direction: column;
 
 	@media #{$breakpoint-desktop} {
+		flex: 50%;
 		padding: 0px 0px 0px 70px;
 	}
 

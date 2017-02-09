@@ -1,5 +1,7 @@
 body {
 	font-family: $font-family-secondary;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .section-padding {
@@ -23,4 +25,10 @@ body {
 		flex-direction: column;
 		padding: 35px 0;
 	}
+}
+
+select,
+textarea,
+input {
+	font-size: 1rem;  //prevent mobile zoom
 }
