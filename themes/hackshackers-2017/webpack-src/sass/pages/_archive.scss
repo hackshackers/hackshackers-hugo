@@ -30,3 +30,16 @@
 		width: 80%;
 	}
 }
+
+.taxonomy-terms--list {
+	font: $font-single-subheader;
+
+	li {
+		padding-bottom: $spacer-medium;
+		text-decoration: underline;
+		
+		&:hover {
+			color: $color-blue;
+		}
+	}
+}
