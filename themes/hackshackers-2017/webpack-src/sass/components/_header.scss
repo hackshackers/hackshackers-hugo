@@ -218,11 +218,7 @@ header {
 	&:hover {
 		cursor: pointer;
 
-		::-webkit-input-placeholder {
-			color: $color-white;
-		}
-
-		:-ms-input-placeholder {
+		::placeholder {
 			color: $color-white;
 		}
 
