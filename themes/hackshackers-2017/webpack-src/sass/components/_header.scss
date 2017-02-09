@@ -198,6 +198,7 @@ header {
 	}
 
 	.widget-signup--form {
+		display: block;
 		height: 19px;
 	}
 
@@ -242,7 +243,7 @@ header {
 	&.mobile-signup {
 		display: block;
 		margin-left: -9px;
-		margin-bottom: 25px;
+		margin-bottom: 45px;
 
 		@media #{$breakpoint-desktop} {
 			display: none;
