@@ -22,6 +22,7 @@
 	}
 
 	button {
+		color: $color-white;
 		height: 39px;
 		margin: 0;
 		background-color: $color-orange-dark;
@@ -98,4 +99,8 @@
 	@media #{$breakpoint-desktop} {
 		display: none;
 	}
+}
+
+#search-main {
+	margin-bottom: 30px;
 }
