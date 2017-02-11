@@ -9,7 +9,8 @@ mobileMenu();
 searchInput();
 
 // Init meetups list
-document.querySelectorAll('.fetch-events').forEach((el) => {
+const eventsEls = document.querySelectorAll('.fetch-events');
+[].forEach.call(eventsEls, (el) => {
   const opts = {};
   for (let i = 0; i < el.attributes.length; i++) {
     const attr = el.attributes.item(i);
