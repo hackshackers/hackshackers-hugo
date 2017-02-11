@@ -12,6 +12,7 @@
 
 	@media #{$breakpoint-mobile} {
 		flex-wrap: wrap;
+		padding: 20px 15px;
 	}
 
 	&:hover {

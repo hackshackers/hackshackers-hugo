@@ -69,12 +69,13 @@ header {
 .logo-wrapper {
 	display: block;
 	margin-right: 52px;
-	width: 215px;
 
 	svg {
 		display: block;
 		fill: $color-white;
+		height: 19px;
 		transition-duration: $header-duration;
+		width: 215px;
 		&:hover {
 			fill: $color-jungle-green;
 		}
@@ -176,7 +177,8 @@ header {
 }
 
 .header-signup {
-	height: 19px;
+	display: -ms-inline-grid; //IE alignment
+	height: 0px;
 	margin-left: auto;
 	transition-duration: $header-duration;
 
@@ -195,6 +197,11 @@ header {
 		}
 	}
 
+	.widget-signup--form {
+		display: block;
+		height: 19px;
+	}
+
 	.form-input {
 		border: none;
 		background: none;
@@ -202,7 +209,7 @@ header {
 		height: 23px;
 	}
 
-	::-webkit-input-placeholder {
+	::placeholder {
 		color: $color-jungle-green;
 		font-size: 14px;
 		text-transform: uppercase;
@@ -212,7 +219,7 @@ header {
 	&:hover {
 		cursor: pointer;
 
-		::-webkit-input-placeholder {
+		::placeholder {
 			color: $color-white;
 		}
 
@@ -236,7 +243,7 @@ header {
 	&.mobile-signup {
 		display: block;
 		margin-left: -9px;
-		margin-bottom: 25px;
+		margin-bottom: 45px;
 
 		@media #{$breakpoint-desktop} {
 			display: none;
