@@ -16,11 +16,13 @@
 
         {{ if eq .Type "blog" }}
           {{ partial "meta-single.html" . }}
-        {{ end }}
-
-        {{ if isset .Params "sectionfront" }}
+        {{ else if (isset .Params "sectionfront") }}
           <ul class="section-list">
-            {{ partial "section-list.html" (dict "FrontOf" .Params.sectionfront "Content" .Site.Pages) }}
+            {{ partial "section-list.html" (dict "Subpages" (where .Site.Pages "Section" .Params.sectionfront)) }}
+          </ul>
+        {{ else if and .IsPage (or (eq .Section "_about") (eq .Section "_resources")) }}
+          <ul class="section-list">
+            <li><a href="{{ trim .Section "_" | relURL }}">&lt; Back to {{ humanize (trim .Section "_") }}</a></li>
           </ul>
         {{ end }}
 

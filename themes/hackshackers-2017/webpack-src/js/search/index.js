@@ -17,7 +17,8 @@ import slug from 'slug';
  */
 export default function initSearch() {
   // Setup search form submit listeners
-  document.querySelectorAll('form.search').forEach((form) => {
+  const searchForms = document.querySelectorAll('form.search');
+  [].forEach.call(searchForms, (form) => {
     form.addEventListener('submit', (evt) => {
       evt.preventDefault();
       const inputEl = evt.target.querySelector('.input-search');
