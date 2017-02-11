@@ -18,9 +18,9 @@
           {{ partial "meta-single.html" . }}
         {{ end }}
 
-        {{ if isset .Params "sectionfront" }}
+        {{ if and .IsPage (isset .Params "sectionfront") }}
           <ul class="section-list">
-            {{ partial "section-list.html" (where .Site.Pages "Section" .Params.sectionfront) }}
+            {{ partial "section-list.html" (dict "Subpages" (where .Site.Pages "Section" .Params.sectionfront)) }}
           </ul>
         {{ end }}
 
