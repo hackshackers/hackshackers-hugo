@@ -1,21 +1,21 @@
-{{/* Just "Previous" and "Next" links; will have .disabled if there is no prev/next page */}}
-
 {{ $pag := . }}
 <div class="pagination">
-  <a
-    {{ if not $pag.HasPrev }}class="disabled"{{ end }}
-    href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}"
-    aria-label="Previous">
-    <button class="btn-view-more">
-      <span aria-hidden="true">Previous</span>
-    </button>
-  </a>
-  <a
-    {{ if not $pag.HasNext }}class="disabled"{{ end }}
-    href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}"
-    aria-label="Next">
-    <button class="btn-view-more">
-      <span aria-hidden="true">Next</span>
-    </button>
-  </a>
+  {{ if $pag.HasPrev }}
+    <a
+      href="{{ $pag.Prev.URL }}"
+      aria-label="Previous">
+      <button class="btn-view-more">
+        <span aria-hidden="true">Previous</span>
+      </button>
+    </a>
+  {{ end }}
+  {{ if $pag.HasNext }}
+    <a
+      href="{{ $pag.Next.URL }}"
+      aria-label="Next">
+      <button class="btn-view-more">
+        <span aria-hidden="true">Next</span>
+      </button>
+    </a>
+  {{ end }}
 </div>
