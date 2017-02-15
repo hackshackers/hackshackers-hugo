@@ -14,15 +14,20 @@
 	}
 
 	.leaflet-button-dragging {
-		color: $color-blue;
+		background-color: $color-jungle-green;
+		color: $color-white;
+
 		&:hover {
 			cursor: pointer;
+			color: $color-orange-dark;
 		}
 
 		&.dragging-disabled {
-			color: $color-jungle-green;
+			background-color: $color-orange-dark;
+			color: $color-white;
+
 			&:hover {
-				color: $color-orange-dark;
+				color: $color-white;
 			}
 		}
 	}
