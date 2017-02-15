@@ -26,6 +26,10 @@
 		&:hover {
 			background-color: $color-jungle-green;
 		}
+
+		@media #{$breakpoint-mobile} {
+			width: 45%;
+		}
 	}
 }
 

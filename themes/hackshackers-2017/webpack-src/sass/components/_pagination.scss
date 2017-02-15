@@ -3,14 +3,6 @@
 	margin-top: 45px;
 
 	button {
-		margin: 0;
-	}
-
-	a {
-		&:last-of-type {
-			button {
-				margin-left: $spacer-medium;
-			}
-		}
+		margin: 0 $spacer-medium 0 0;
 	}
 }
