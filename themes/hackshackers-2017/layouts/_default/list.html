@@ -14,7 +14,7 @@
       {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") }}
         {{ partial "meta-author.html" . }}
       {{ else }}
-        <h2 class="heading-section">{{ .Title }}</h2>
+        <h2 class="single-headline">{{ .Title }}</h2>
       {{ end }}
 
       {{ if eq .RelPermalink "/search/" }}
