@@ -1,12 +1,8 @@
 .pagination {
 	display: flex;
 	margin-top: 45px;
-	
-	button {
-		margin: 0;
 
-		&:last-of-type {
-			margin-left: $spacer-medium;
-		}
+	button {
+		margin: 0 $spacer-medium 0 0;
 	}
 }

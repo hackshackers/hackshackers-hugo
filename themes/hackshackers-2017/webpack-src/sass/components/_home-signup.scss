@@ -1,10 +1,10 @@
 .home-newsletter-signup {
-	display: flex;
-	flex: 50%;
-	flex-direction: column;
 
 	@media #{$breakpoint-desktop} {
+		flex: 50%;
 		padding: 0px 0px 0px 70px;
+		display: flex;
+		flex-direction: column;
 	}
 
 	input {
@@ -21,10 +21,14 @@
 
 	.widget-signup--button {
 		height: auto;
-		width: auto;
+		width: 30%;
 
 		&:hover {
 			background-color: $color-jungle-green;
+		}
+
+		@media #{$breakpoint-mobile} {
+			width: 45%;
 		}
 	}
 }

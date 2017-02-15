@@ -17,7 +17,8 @@ import slug from 'slug';
  */
 export default function initSearch() {
   // Setup search form submit listeners
-  document.querySelectorAll('form.search').forEach((form) => {
+  const searchForms = document.querySelectorAll('form.search');
+  [].forEach.call(searchForms, (form) => {
     form.addEventListener('submit', (evt) => {
       evt.preventDefault();
       const inputEl = evt.target.querySelector('.input-search');
@@ -177,19 +178,25 @@ function _displayNoResults(resultsEl) {
  * @param obj doc Lunr search result
  * @param int idx Index in results
  * @param func compiler Lodash template compiler
- * @return string HTML for search result
+ * @return string|null HTML for search result or null if missing required elements
  */
 function _singleResultHtml(doc, idx, compiler) {
+  // Requires index, title permalink
+  if (('number' !== typeof idx) || !doc.title || !doc.uri) {
+    return null;
+  }
+
   const templateOpts = {
+    idx,
     title: doc.title,
     permalink: doc.uri,
     isBlog: 0 === doc.uri.indexOf('/blog/'),
+    excerpt: doc.content ? _getExcerpt(doc.content) : '',
+    date: doc.date ? _parseDate(doc.date) : '',
+    // _mapTerms() handles invalid doc.taxonomy
     authors: _mapTerms(doc, 'authors'),
     tags: _mapTerms(doc, 'tags'),
     categories: _mapTerms(doc, 'categories'),
-    excerpt: _getExcerpt(doc.content),
-    date: _parseDate(doc.date),
-    idx,
   };
 
   return compiler(templateOpts);

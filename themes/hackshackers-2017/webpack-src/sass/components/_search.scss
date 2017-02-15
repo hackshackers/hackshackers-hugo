@@ -22,10 +22,15 @@
 	}
 
 	button {
+		color: $color-white;
 		height: 39px;
 		margin: 0;
 		background-color: $color-orange-dark;
-		width: auto;
+		width: 70px;
+
+		&:hover {
+			cursor: pointer;
+		}
 	}
 }
 
@@ -79,7 +84,8 @@
 	}
 
 	button {
-		height: auto;
+		background-color: $color-blue-water;
+		height: 39px;
 		width: 30%;
 
 		&:hover {
@@ -97,4 +103,8 @@
 	@media #{$breakpoint-desktop} {
 		display: none;
 	}
+}
+
+#search-main {
+	margin-bottom: 30px;
 }

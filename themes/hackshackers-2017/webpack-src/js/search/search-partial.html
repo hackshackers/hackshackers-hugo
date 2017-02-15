@@ -11,8 +11,8 @@
           <% if (authors.length) { %>
             <h4 class="single-meta-byline">
               <span>By</span>
-              <% authors.forEach((item, idx) => {
-                if (0 < idx) { print(",") }; %>
+              <% authors.forEach(function(item, idx) { %>
+                <% if (0 < idx) { print(",&nbsp;") }; %>
                 <a href="<%- item.url %>"><%- item.name %></a>
               <% }) %>
             </h4>

@@ -144,7 +144,7 @@
 .single-article {
 	font: $font-single-paragraph;
 	width: 100%;
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 	z-index: 2;
 	position: relative;
 
@@ -177,10 +177,10 @@
 	}
 
 	hr {
-		margin: 0 0 65px 0;
+		margin: 0 0 45px 0;
 		border: none;
 		border-bottom: $border-primary;
-		padding: 0 0 45px 0;
+		padding: 0 0 25px 0;
 		height: 0px;
 	}
 
@@ -188,6 +188,18 @@
 		font: $font-single-subheader;
 		font-weight: 700;
 		margin-bottom: $spacer-small;
+	}
+
+	img {
+		@media #{$breakpoint-tablet-max} {
+			width: 100%;
+		}
+	}
+
+	figure {
+		@media #{$breakpoint-tablet-max} {
+			margin: 10px;
+		}
 	}
 }
 

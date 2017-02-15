@@ -4,7 +4,11 @@
 .single-organizers {
 	figure {
 		float: left;
-		width: 50%;
+		width: 200px;
+
+		@media #{$breakpoint-mobile} {
+			width: 100px;
+		}
 	}
 
 	img {
