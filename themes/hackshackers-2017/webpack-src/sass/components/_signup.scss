@@ -29,6 +29,11 @@ form {
 			color: $color-white;
 			cursor: pointer;
 		}
+
+		@media #{$breakpoint-tablet} {
+			width: 50%;
+			height: auto;
+		}
 	}
 
 	.right-column-signup & {
@@ -65,5 +70,9 @@ form {
 
 	&:hover {
 		cursor: pointer;
+	}
+
+	@media #{$breakpoint-tablet} {
+		flex-wrap: nowrap;
 	}
 }
