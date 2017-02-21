@@ -14,25 +14,23 @@
       {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") }}
         {{ partial "meta-author.html" . }}
       {{ else }}
-        <h2 class="heading-section">{{ .Title }}</h2>
+        <h2 class="single-headline">{{ .Title }}</h2>
       {{ end }}
 
       {{ if eq .RelPermalink "/search/" }}
         <h3 id="search-query" class="search-query"></h3>
         {{ partial "search-form.html" }}
-      {{ end }}
-
-      <section
-        {{ if eq .RelPermalink "/search/" }}id="search-results"{{end}}
-        class="content-list"
-      >
-        {{/* .IsNode is false for single page, i.e. Search */}}
-        {{ if .IsNode }}
+        <section id="search-results" class="content-list">
+          <h4 class="search-preload">Loading search database...</h4>
+        </section>
+      {{ else if .IsNode }}
+        <section class="content-list">
           {{ range .Paginator.Pages }}
             {{ .Render "archive" }}
           {{ end }}
-        {{ end }}
-      </section>
+        </section>
+      {{ end }}
+
 
       {{ if .IsNode }}
         {{ partial "pagination.html" .Paginator }}
