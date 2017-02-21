@@ -82,6 +82,13 @@ export default function (mapId) {
     // Disable dragging to start
     map.dragging.disable();
 
+    // capture mousedown to enable mobile scrolling
+    const mousedownListener = function (evt) { // eslint-disable-line func-names
+      evt.originalEvent.stopPropagation();
+    };
+
+    map.on('mousedown', mousedownListener);
+
     // Create button to toggle dragging and insert it
     const toggle = document.createElement('a');
     toggle.href = '#';
@@ -94,8 +101,10 @@ export default function (mapId) {
       evt.preventDefault();
       if (map.dragging.enabled()) {
         map.dragging.disable();
+        map.on('mousedown', mousedownListener);
       } else {
         map.dragging.enable();
+        map.off('mousedown', mousedownListener);
       }
       toggle.classList.toggle('dragging-disabled');
     });
