@@ -70,24 +70,6 @@ export default function (mapId) {
   }
 
   /**
-   * Insert cover element to capture mousedown events on mobile and enable mobile scrolling
-   *
-   * @param HTMLElement mapPane
-   * @return HTMLElement cover
-   */
-  function insertMapCover(mapPane) {
-    const cover = document.createElement('div');
-    cover.className = 'map-cover map-cover--enable';
-    cover.addEventListener('mousedown', (evt) => {
-      console.log('mousedown on cover');
-      evt.stopPropagation();
-      evt.preventDefault();
-    });
-    mapPane.appendChild(cover);
-    return cover;
-  }
-
-  /**
    * Add button to controls to toggle map dragging
    *
    * @param Leaflet map
@@ -99,10 +81,7 @@ export default function (mapId) {
     }
     // Disable dragging to start
     map.dragging.disable();
-
-    const cover = insertMapCover(map.getContainer());
-
-    map.on('mousedown', () => 'map mousedown happened');
+    map.tap.disable();
 
     // Create button to toggle dragging and insert it
     const toggle = document.createElement('a');
@@ -116,10 +95,10 @@ export default function (mapId) {
       evt.preventDefault();
       if (map.dragging.enabled()) {
         map.dragging.disable();
-        cover.classList.add('map-cover--enable');
+        map.tap.disable();
       } else {
         map.dragging.enable();
-        cover.classList.remove('map-cover--enable');
+        map.tap.enable();
       }
       toggle.classList.toggle('dragging-disabled');
     });
