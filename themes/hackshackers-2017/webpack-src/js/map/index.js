@@ -79,8 +79,24 @@ export default function (mapId) {
     if (!zoomEl) {
       return;
     }
-    // Disable dragging to start
-    map.dragging.disable();
+
+    function _disableTouchEvents() {
+      map.dragging.disable();
+      if (map.tap) {
+        map.tap.disable();
+      }
+    }
+
+    function _enableTouchEvents() {
+      map.dragging.enable();
+      if (map.tap) {
+        map.tap.enable();
+      }
+    }
+
+    // Disable dragging and tapping to start off
+    // then toggle with control
+    _disableTouchEvents();
 
     // Create button to toggle dragging and insert it
     const toggle = document.createElement('a');
@@ -93,9 +109,9 @@ export default function (mapId) {
     toggle.addEventListener('click', (evt) => {
       evt.preventDefault();
       if (map.dragging.enabled()) {
-        map.dragging.disable();
+        _disableTouchEvents();
       } else {
-        map.dragging.enable();
+        _enableTouchEvents();
       }
       toggle.classList.toggle('dragging-disabled');
     });
