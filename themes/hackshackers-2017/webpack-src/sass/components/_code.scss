@@ -1,0 +1,44 @@
+//
+// Code (inline and block)
+// Adapted from Bootstrap
+// --------------------------------------------------
+
+// Inline and block code styles
+code,
+pre {
+  font-family: $font-family-monospace;
+}
+
+// Inline code
+code {
+  padding: 2px 4px;
+  font-size: .85rem;
+  color: $color-orange-dark;
+  background-color: $color-gray-light;
+  border: none;
+}
+
+// Blocks of code
+pre {
+  margin-bottom: $spacer-large;
+  display: block;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre;
+  overflow-y: scroll;
+  font-size: .85rem;
+  padding: .5rem;
+  color: $color-gray-dark;
+  background-color: $color-gray-light;
+  border: 1px solid $color-gray;
+  border-radius: 4px;
+
+  // Account for some code outputs that place code tags in pre tags
+  code {
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    background-color: transparent;
+    border-radius: 0;
+  }
+}
