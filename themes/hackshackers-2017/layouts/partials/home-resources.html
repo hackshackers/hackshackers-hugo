@@ -2,6 +2,6 @@
 	<h4 class="heading-section ruler-gray">Resources</h4>
 	<ul class="list-module">
     <li><a href="/resources/">Overview</a></li>
-    {{ partial "section-list.html" (dict "FrontOf" "_resources" "Content" .) }}
+    {{ partial "section-list.html" (dict "Subpages" (where . "Section" "_resources")) }}
 	</ul>
 </section>
