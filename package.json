@@ -8,6 +8,8 @@
   },
   "devDependencies": {
     "hugo-lunr": "joshkadis/hugo-lunr",
-    "entities": "1.1.1"
+    "entities": "1.1.1",
+    "glob": "7.1.1",
+    "gray-matter": "2.1.0"
   }
 }

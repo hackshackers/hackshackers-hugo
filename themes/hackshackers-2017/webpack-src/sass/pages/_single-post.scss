@@ -191,6 +191,8 @@
 	}
 
 	img {
+		max-width: 100%;
+
 		@media #{$breakpoint-tablet-max} {
 			width: 100%;
 		}
