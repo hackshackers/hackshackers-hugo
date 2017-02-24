@@ -23,12 +23,14 @@ menu:
       URL: "/about/"
     - Name: Find A Group
       URL: "/groups/"
-    - Name: Featured Events
-      URL: "/featured-events/"
+    # - Name: Events
+    #   URL: "/featured-events/"
     - Name: Resources
       URL: "/resources/"
     - Name: Blog
       URL: "/blog/"
+    - Name: Hack This Site
+      URL: "/hack-this-site/"
 
 params:
   twitter: HacksHackers
