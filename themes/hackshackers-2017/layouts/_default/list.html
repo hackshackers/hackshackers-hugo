@@ -13,6 +13,8 @@
 
       {{ if and (eq .Kind "taxonomy") (eq .Data.Singular "author") }}
         {{ partial "meta-author.html" . }}
+      {{ else if eq .Title "Blogs" }}
+        <h2 class="single-headline">Blog</h2>
       {{ else }}
         <h2 class="single-headline">{{ .Title }}</h2>
       {{ end }}
@@ -25,7 +27,7 @@
         </section>
       {{ else if .IsNode }}
         <section class="content-list">
-          {{ range .Paginator.Pages }}
+          {{ range (.Paginate (.Data.Pages.ByWeight)).Pages }}
             {{ .Render "archive" }}
           {{ end }}
         </section>
