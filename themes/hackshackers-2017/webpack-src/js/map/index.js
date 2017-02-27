@@ -37,8 +37,14 @@ export default function (mapId) {
     const popup = new Leaflet.Popup(config.popup);
     popup.setContent(groupLinkEl(group));
     marker.bindPopup(popup);
-    marker.on('mouseover', (evt) => {
+
+    function openPopup(evt) {
       evt.target.openPopup();
+    }
+
+    marker.on({
+      mouseover: openPopup,
+      click: openPopup,
     });
   }
 
