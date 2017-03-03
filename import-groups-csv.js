@@ -11,6 +11,11 @@ const contentDir = 'content/data/groups';
 const contentAbsDir = path.join(__dirname, contentDir);
 const geoApiToken = fs.readFileSync('geo-api-token.txt', 'utf8');
 
+if (!geoApiToken) {
+  console.log('MapBox API token is required in ./geo-api-token.txt');
+  process.exit();
+}
+
 /**
  * Get lat/lon for a location string
  *
