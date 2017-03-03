@@ -17,6 +17,10 @@ export default function (mapId) {
     const defaultMarker = new Leaflet.Icon(config.markerOpts);
 
     Object.keys(groups).forEach((group) => {
+      if (!groups[group] || !groups[group].coordinates) {
+        return;
+      }
+
       const latLng = Leaflet.latLng(groups[group].coordinates);
       const marker = Leaflet.marker(latLng, {
         icon: defaultMarker,
