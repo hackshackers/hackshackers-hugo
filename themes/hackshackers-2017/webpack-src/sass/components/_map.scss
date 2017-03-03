@@ -50,7 +50,7 @@
 		color: $color-white;
 		font: $font-widget-header;
 
-		&:after {
+		&.external:after {
 			content: "\F08E";
 			display: inline-block;
 			font: normal normal normal 14px/1 FontAwesome;
