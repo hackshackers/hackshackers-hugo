@@ -39,7 +39,7 @@ export default function (mapId) {
    */
   function addPopupToMarker(group, marker) {
     const popup = new Leaflet.Popup(config.popup);
-    popup.setContent(groupLinkEl(group));
+    popup.setContent(popupLabelEl(group));
     marker.bindPopup(popup);
 
     function openPopup(evt) {
@@ -53,30 +53,30 @@ export default function (mapId) {
   }
 
   /**
-   * Make a link element for the group popup
+   * Make a label element for the group popup
    *
    * @param obj group
-   * @return HTMLAnchorElement
+   * @return HTML element for label, <a> or <span>
    */
-  function groupLinkEl(group) {
-    const link = document.createElement('a');
-    link.innerText = group.label;
-    link.className = 'group-popup-link';
+  function popupLabelEl(group) {
+    const label = (group.externalUrl || group.groupPage) ?
+      document.createElement('a') :
+      document.createElement('span');
+
+    label.innerText = group.label;
+    label.className = 'group-popup-label';
 
     if (group.groupPage) {
       // Internal group page, e.g. hh.com/groups/atlanta
-      link.href = `/groups/${group.groupPage}`;
+      label.href = `/groups/${group.groupPage}`;
     } else if (group.externalUrl) {
       // External link, e.g. meetup.com/groups/HHAtlanta
-      link.href = group.externalUrl;
-      link.target = '_blank';
-      link.className += ' external';
-    } else {
-      // Fallback
-      link.href = '#0';
+      label.href = group.externalUrl;
+      label.target = '_blank';
+      label.className += ' external';
     }
 
-    return link;
+    return label;
   }
 
   /**
