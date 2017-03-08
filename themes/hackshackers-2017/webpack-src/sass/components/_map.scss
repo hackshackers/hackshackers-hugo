@@ -46,7 +46,7 @@
 		text-align: center;
 	}
 
-	.group-popup-link {
+	.group-popup-label {
 		color: $color-white;
 		font: $font-widget-header;
 
@@ -57,11 +57,11 @@
 			margin-left: 8px;
 			vertical-align: middle;
 		}
-
-		&:hover {
-			color: $color-black;
-			text-decoration: underline;
-		}
+	}
+	// no :hover needed if not a link
+	a.group-popup-label:hover {
+		color: $color-black;
+		text-decoration: underline;
 	}
   // width and height set in map/index.js to make sure they're available before initializing map
 }
