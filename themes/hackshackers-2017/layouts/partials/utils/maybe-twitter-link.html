@@ -1,1 +1,2 @@
- <a href="{{ . }}">{{ if (findRE "//twitter.com" .) }}<i class="fa fa-twitter"></i>{{ else }}<i class="fa fa-link"></i>{{ end }}</a>
+{{/* Takes a URL and creates either a linked Twitter icon or generic Link icon */}}
+<a href="{{ . }}">{{ if (findRE "//twitter.com" .) }}<i class="fa fa-twitter"></i>{{ else }}<i class="fa fa-link"></i>{{ end }}</a>
