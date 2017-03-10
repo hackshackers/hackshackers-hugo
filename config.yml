@@ -1,7 +1,7 @@
 # Repeat standard config options
 baseurl: "https://hackshackers.com/"
 enableEmoji: true
-ignoreFiles: [ "README\\.md$" ]
+ignoreFiles: [ "README\\.md$", "example-group.yml$" ]
 languageCode: "en-us"
 title: "Hacks/Hackers"
 theme: "hackshackers-2017"
