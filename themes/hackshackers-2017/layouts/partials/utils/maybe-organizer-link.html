@@ -1,0 +1,6 @@
+{{/* make a link or just a span for an organizer */}}
+{{ if .link }}
+  <a class="organizer organizer--link" href="{{ .link }}">{{ .name }}</a>
+{{ else }}
+  <span class="organizer">{{ .name }}</span>
+{{ end }}

@@ -3,7 +3,7 @@
 	<h4 class="group-widget-info-title">Organizers:</h4>
 	<ul>
     {{ range .organizers }}
-      <li><a href="{{ .link }}">{{ .name }}</a></li>
+      <li>{{ partial "utils/maybe-organizer-link.html" . }}</li>
     {{ end }}
 	</ul>
 </div>
