@@ -1,0 +1,38 @@
+//
+// Table styles
+// Adapted from Bootstrap
+// --------------------------------------------------
+
+// Customizes the `.table` component with basic values, each used across all table variations.
+
+$table-sm-cell-padding:         .3rem !default;
+$table-border-width:            1px !default;
+$table-border-color:            $color-gray-light !default;
+
+.single-article table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $spacer-large;
+
+
+  th,
+  td {
+    padding: $table-sm-cell-padding;
+    vertical-align: top;
+    border-top: $table-border-width solid $table-border-color;
+  }
+
+  thead th {
+    vertical-align: bottom;
+    border-bottom: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  tbody + tbody {
+    border-top: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  tr:last-of-type {
+    border-bottom: $table-border-width solid $table-border-color;
+  }
+
+}
