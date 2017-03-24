@@ -1,0 +1,1 @@
+{{ range $name, $value := .Site.Data.groups }}{{ dict "name" $name "externalUrl" $value.externalUrl "calendarUrl" $value.calendarUrl | jsonify }},{{ end }}
