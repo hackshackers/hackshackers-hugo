@@ -18,7 +18,7 @@
     {{ if $.organizers }}
       <h5 class="local-groups-city-organizer"><span class="group-header-small">Organized By:</span>
         {{ range $idx, $value := $.organizers }}
-          <span>{{ if ne 0 $idx }}, {{ end }}<a href="{{ $value.link }}">{{ $value.name }}</a></span>
+          <span>{{ if ne 0 $idx }}, {{ end }}{{ partial "utils/maybe-organizer-link.html" $value }}</span>
         {{ end }}
       </h5>
     {{ end }}
