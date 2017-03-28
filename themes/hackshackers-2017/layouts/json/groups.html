@@ -1,3 +1,4 @@
 [
 {{ trim (chomp (partial "utils/group-json-api.html" .)) "," | safeHTML }}
 ]
+{{/* This template generates a JSON API consumed by the events aggregator that runs on AWS Lambda */}}

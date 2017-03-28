@@ -1,1 +1,2 @@
 {{ range $name, $value := .Site.Data.groups }}{{ dict "name" $name "externalUrl" $value.externalUrl "calendarUrl" $value.calendarUrl | jsonify }},{{ end }}
+{{/* This template generates a JSON API consumed by the events aggregator that runs on AWS Lambda */}}
