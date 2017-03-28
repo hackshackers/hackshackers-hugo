@@ -5,7 +5,7 @@
 import 'whatwg-fetch';
 import lunr from 'lunr';
 import * as config from './config';
-import lodash from 'lodash';
+import template from 'lodash/template';
 import resultTemplate from 'raw!./search-partial.html';
 import fecha from 'fecha';
 import slug from 'slug';
@@ -137,30 +137,24 @@ function _displayResults(indexer, query, docs) {
   // clear resultsEl
   resultsEl.innerHTML = '';
 
+  const compiler = template(resultTemplate);
+
   const results = indexer.search(query);
-  console.log(`found ${results.length} results`);
   if (!results || !results.length) {
     _displayNoResults(resultsEl);
     return;
   }
 
-  // setup _.template compiler
-  const compiler = lodash.template(resultTemplate);
-  console.log(`compiler is a ${typeof compiler}`);
-
   results.slice(0, config.maxResults)
     .forEach((result, idx) => {
       if (!docs[result.ref]) {
-        console.log(`${idx} - could not find a document by ref: ${result.ref}`);
         return;
       }
       const doc = docs[result.ref];
       const _html = _singleResultHtml(doc, idx, compiler);
       if (!_html) {
-        console.log(`${idx} - empty _singleResultHtml()`);
         return;
       }
-      console.log(`${idx} - ${_html}`);
       const placeholder = document.createElement('div');
       // _html is escaped using <%- var %> template tags
       placeholder.innerHTML = _html;
