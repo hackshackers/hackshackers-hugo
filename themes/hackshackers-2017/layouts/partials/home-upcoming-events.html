@@ -2,6 +2,8 @@
   <div class="featured-events-wrapper section-padding">
     <h3 class="heading-section ruler-gray">Upcoming Events</h3>
     {{ partial "fetch-events.html" (dict "future" (int .homepage)) }}
-    <p class="featured-events--credit">{{ .credit | markdownify }}</p>
+    <p class="featured-events--credit">
+      <a href="/lib/hackshackers.ical">Subscribe to events feed</a>
+    </p>
   </div>
 </section>

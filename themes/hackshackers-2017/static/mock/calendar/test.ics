@@ -1,0 +1,696 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Hacks/Hackers aggregated global events calendar
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+TZID:UTC
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170403T190000
+DTEND;TZID=Europe/London:20170403T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, April 3 at 7:00 PM\n\nMore
+  info on speakers to come as soon as they are confirmed!\n\nhttps://www.
+ meetup.com/Hacks-Hackers-Canterbury/events/238643229/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/238643229/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywgbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170501T190000
+DTEND;TZID=Europe/London:20170501T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, May 1 at 7:00 PM\n\nMore i
+ nfo on speakers to come as soon as they are confirmed!\n\nhttps://www.me
+ etup.com/Hacks-Hackers-Canterbury/events/231918088/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/231918088/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywhbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170605T190000
+DTEND;TZID=Europe/London:20170605T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, June 5 at 7:00 PM\n\nMore
+ info on speakers to come as soon as they are confirmed!\n\nhttps://www.m
+ eetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywjbhb/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywjbhb/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywjbhb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170703T190000
+DTEND;TZID=Europe/London:20170703T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, July 3 at 7:00 PM\n\nMore
+ info on speakers to come as soon as they are confirmed!\n\nhttps://www.m
+ eetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywkbfb/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywkbfb/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywkbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170807T190000
+DTEND;TZID=Europe/London:20170807T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, August 7 at 7:00 PM\n\nMor
+ e info on speakers to come as soon as they are confirmed!\n\nhttps://www
+ .meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywlbkb/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywlbkb/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywlbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170904T190000
+DTEND;TZID=Europe/London:20170904T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Monthly Meetup
+DESCRIPTION:Hacks/Hackers Canterbury\nMonday\, September 4 at 7:00 PM\n\n
+ More info on speakers to come as soon as they are confirmed!\n\nhttps://
+ www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywmbgb/
+CLASS:PUBLIC
+CREATED:20120703T145810Z
+GEO:51.27;1.08
+URL:https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywmbgb/
+LAST-MODIFIED:20120703T145810Z
+UID:event_dgkjcdywmbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170328T180000
+DTEND;TZID=America/Chicago:20170328T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, March 28 at 6:00 PM\n\nCome hangout with journalists and developers i
+ nterested in the future...err\, present of journalism. It doesn't matter
+  if you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshack
+ ersIRE/events/238633617/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+LOCATION:Reynolds Journalism Institute (Reynolds Journalism Institute\, S
+ outh 9th Street\, Columbia\, MO 65201)
+URL:https://www.meetup.com/hackshackersIRE/events/238633617/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywfblc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170404T180000
+DTEND;TZID=America/Chicago:20170404T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, April 4 at 6:00 PM\n\nCome hangout with journalists and developers in
+ terested in the future...err\, present of journalism. It doesn't matter
+ if you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshacke
+ rsIRE/events/qlcfwgywgbgb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywgbgb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywgbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170411T180000
+DTEND;TZID=America/Chicago:20170411T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, April 11 at 6:00 PM\n\nCome hangout with journalists and developers i
+ nterested in the future...err\, present of journalism. It doesn't matter
+  if you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshack
+ ersIRE/events/qlcfwgywgbpb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywgbpb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywgbpb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170418T180000
+DTEND;TZID=America/Chicago:20170418T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, April 18 at 6:00 PM\n\nCome hangout with journalists and developers i
+ nterested in the future...err\, present of journalism. It doesn't matter
+  if you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshack
+ ersIRE/events/qlcfwgywgbxb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywgbxb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywgbxb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170425T180000
+DTEND;TZID=America/Chicago:20170425T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, April 25 at 6:00 PM\n\nCome hangout with journalists and developers i
+ nterested in the future...err\, present of journalism. It doesn't matter
+  if you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshack
+ ersIRE/events/qlcfwgywgbhc/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywgbhc/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywgbhc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170502T180000
+DTEND;TZID=America/Chicago:20170502T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, May 2 at 6:00 PM\n\nCome hangout with journalists and developers inte
+ rested in the future...err\, present of journalism. It doesn't matter if
+  you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshackers
+ IRE/events/qlcfwgywhbdb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywhbdb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywhbdb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170509T180000
+DTEND;TZID=America/Chicago:20170509T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, May 9 at 6:00 PM\n\nCome hangout with journalists and developers inte
+ rested in the future...err\, present of journalism. It doesn't matter if
+  you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshackers
+ IRE/events/qlcfwgywhbmb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywhbmb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywhbmb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170516T180000
+DTEND;TZID=America/Chicago:20170516T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, May 16 at 6:00 PM\n\nCome hangout with journalists and developers int
+ erested in the future...err\, present of journalism. It doesn't matter i
+ f you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshacker
+ sIRE/events/qlcfwgywhbvb/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywhbvb/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywhbvb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170523T180000
+DTEND;TZID=America/Chicago:20170523T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, May 23 at 6:00 PM\n\nCome hangout with journalists and developers int
+ erested in the future...err\, present of journalism. It doesn't matter i
+ f you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshacker
+ sIRE/events/qlcfwgywhbfc/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywhbfc/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywhbfc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Chicago:20170530T180000
+DTEND;TZID=America/Chicago:20170530T200000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Lab
+DESCRIPTION:Hacks/Hackers with Investigative Reporters & Editors\nTuesday
+ \, May 30 at 6:00 PM\n\nCome hangout with journalists and developers int
+ erested in the future...err\, present of journalism. It doesn't matter i
+ f you are a rockstar data analy...\n\nhttps://www.meetup.com/hackshacker
+ sIRE/events/qlcfwgywhbnc/
+CLASS:PUBLIC
+CREATED:20131002T215943Z
+GEO:38.93;-92.37
+URL:https://www.meetup.com/hackshackersIRE/events/qlcfwgywhbnc/
+LAST-MODIFIED:20160918T020224Z
+UID:event_qlcfwgywhbnc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/New_York:20170330T120000
+DTEND;TZID=America/New_York:20170330T150000
+STATUS:CONFIRMED
+SUMMARY:Distributed & remote workers lunch meetup
+DESCRIPTION:Hacks/Hackers Philly\nThursday\, March 30 at 12:00 PM\n\nIs y
+ our team distributed? Or do you happen to be a remote employee on a co-l
+ ocated team? Whichever it might be\, we invite you to join us for Hacks/
+ Hac...\n\nhttps://www.meetup.com/Hacks-Hackers-Philadelphia/events/23827
+ 0630/
+CLASS:PUBLIC
+CREATED:20170308T181531Z
+GEO:39.95;-75.16
+URL:https://www.meetup.com/Hacks-Hackers-Philadelphia/events/238270630/
+LAST-MODIFIED:20170308T181751Z
+UID:event_238270630@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/New_York:20170325T094500
+DTEND;TZID=America/New_York:20170325T170000
+STATUS:CONFIRMED
+SUMMARY:Baseball Hack Day 2017
+DESCRIPTION:Hacks/Hackers Boston\nSaturday\, March 25 at 9:45 AM\n\nPLEAS
+ E REGISTER FROM THIS LINK: (Meet up RSVP is not official registration) D
+ o you like creating stuff on your computer and LOVE baseball? Come hack
+ w...\n\nhttps://www.meetup.com/hackshackersboston/events/238464991/
+CLASS:PUBLIC
+CREATED:20170316T145840Z
+GEO:42.34;-71.09
+LOCATION:General Assembly (125 Summer Street\, Boston\, MA)
+URL:https://www.meetup.com/hackshackersboston/events/238464991/
+LAST-MODIFIED:20170316T150035Z
+UID:event_238464991@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/New_York:20170331T090000
+DTEND;TZID=America/New_York:20170331T170000
+STATUS:CONFIRMED
+SUMMARY:Conversations: new frameworks for public discourse
+DESCRIPTION:Hacks/Hackers Boston\nFriday\, March 31 at 9:00 AM\n\nConvers
+ ations: new frameworks for public discourse Exploring the role of media
+ innovation\, emerging modes of communication and digital storytelling in
+ ...\n\nhttps://www.meetup.com/hackshackersboston/events/238211056/
+CLASS:PUBLIC
+CREATED:20170306T134307Z
+GEO:42.34;-71.09
+LOCATION:Egan Engineering/Science Research Center and Raytheon Amphitheat
+ er (120 Forsyth Street\, Boston\, Boston\, MA)
+URL:https://www.meetup.com/hackshackersboston/events/238211056/
+LAST-MODIFIED:20170306T134557Z
+UID:event_238211056@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170328T183000
+DTEND;TZID=Europe/London:20170328T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: March meetup
+DESCRIPTION:Hacks/Hackers London\nTuesday\, March 28 at 6:30 PM\n\nHacks/
+ Hackers London no longer uses Meetup as the sign-up process for events.
+  To sign up to get notifications about events\, go to hhldn.co.uk and jo
+ i...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236897736/
+CLASS:PUBLIC
+CREATED:20170113T135142Z
+GEO:51.52;-0.11
+LOCATION:WeWork Moorgate (1 Fore St\, London EC2Y 9DT\, UK\, London\, Uni
+ ted Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236897736/
+LAST-MODIFIED:20170113T140318Z
+UID:event_236897736@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170426T183000
+DTEND;TZID=Europe/London:20170426T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: April meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, April 26 at 6:30 PM\n\nHack
+ s/Hackers London no longer uses Meetup as the sign-up process for events
+ .  To sign up to get notifications about events\, go to hhldn.co.uk and
+ joi...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236897848/
+CLASS:PUBLIC
+CREATED:20170113T135832Z
+GEO:51.52;-0.11
+URL:https://www.meetup.com/HacksHackersLondon/events/236897848/
+LAST-MODIFIED:20170113T140358Z
+UID:event_236897848@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170524T183000
+DTEND;TZID=Europe/London:20170524T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: May meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, May 24 at 6:30 PM\n\nHacks/
+ Hackers London no longer uses Meetup as the sign-up process for events.
+  To sign up to get notifications about events\, go to hhldn.co.uk and jo
+ i...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236897976/
+CLASS:PUBLIC
+CREATED:20170113T140517Z
+GEO:51.52;-0.11
+LOCATION:Twitter UK  (20 Air Street\, W1B 5AN\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236897976/
+LAST-MODIFIED:20170113T140615Z
+UID:event_236897976@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170628T183000
+DTEND;TZID=Europe/London:20170628T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: June meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, June 28 at 6:30 PM\n\nHacks
+ /Hackers London no longer uses Meetup as the sign-up process for events.
+   To sign up to get notifications about events\, go to hhldn.co.uk and j
+ oi...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236898013/
+CLASS:PUBLIC
+CREATED:20170113T140833Z
+GEO:51.52;-0.11
+LOCATION:Google  (King's Cross\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236898013/
+LAST-MODIFIED:20170113T140928Z
+UID:event_236898013@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170725T183000
+DTEND;TZID=Europe/London:20170725T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: July meetup
+DESCRIPTION:Hacks/Hackers London\nTuesday\, July 25 at 6:30 PM\n\nHacks/H
+ ackers London no longer uses Meetup as the sign-up process for events.
+  To sign up to get notifications about events\, go to hhldn.co.uk and jo
+ ...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236898029/
+CLASS:PUBLIC
+CREATED:20170113T141022Z
+GEO:51.52;-0.11
+LOCATION:Twitter UK  (20 Air Street\, W1B 5AN\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236898029/
+LAST-MODIFIED:20170113T141624Z
+UID:event_236898029@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170927T183000
+DTEND;TZID=Europe/London:20170927T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: September meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, September 27 at 6:30 PM\n\n
+ Hacks/Hackers London no longer uses Meetup as the sign-up process for ev
+ ents.   To sign up to get notifications about events\, go to hhldn.co.uk
+  and jo...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236898043
+ /
+CLASS:PUBLIC
+CREATED:20170113T141158Z
+GEO:51.52;-0.11
+LOCATION:Twitter UK  (20 Air Street\, W1B 5AN\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236898043/
+LAST-MODIFIED:20170113T141709Z
+UID:event_236898043@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20171025T183000
+DTEND;TZID=Europe/London:20171025T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: October meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, October 25 at 6:30 PM\n\nHa
+ cks/Hackers London no longer uses Meetup as the sign-up process for even
+ ts.   To sign up to get notifications about events\, go to hhldn.co.uk a
+ nd jo...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236898054/
+CLASS:PUBLIC
+CREATED:20170113T141312Z
+GEO:51.52;-0.11
+LOCATION:Twitter UK  (20 Air Street\, W1B 5AN\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236898054/
+LAST-MODIFIED:20170113T141831Z
+UID:event_236898054@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20171122T183000
+DTEND;TZID=Europe/London:20171122T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers: November meetup
+DESCRIPTION:Hacks/Hackers London\nWednesday\, November 22 at 6:30 PM\n\nH
+ acks/Hackers London no longer uses Meetup as the sign-up process for eve
+ nts.  To sign up to get notifications about events\, go to hhldn.co.uk a
+ nd joi...\n\nhttps://www.meetup.com/HacksHackersLondon/events/236898077/
+
+CLASS:PUBLIC
+CREATED:20170113T141428Z
+GEO:51.52;-0.11
+LOCATION:Twitter UK  (20 Air Street\, W1B 5AN\, London\, United Kingdom)
+URL:https://www.meetup.com/HacksHackersLondon/events/236898077/
+LAST-MODIFIED:20170113T141514Z
+UID:event_236898077@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/London:20170405T180000
+DTEND;TZID=Europe/London:20170405T200000
+STATUS:CONFIRMED
+SUMMARY:HH-SWxSW Bristol Meetup - with MySociety and The Bristol Cable
+DESCRIPTION:Hacks/Hackers South Wales x South West\nWednesday\, April 5 a
+ t 6:00 PM\n\nAfter a successful launch in Cardiff at the tail end of las
+ t year\, Hacks Hackers South Wales X South West ventures over the Severn
+  Bridge for our firs...\n\nhttps://www.meetup.com/Hacks-Hackers-South-Wa
+ les-x-South-West/events/238410109/
+CLASS:PUBLIC
+CREATED:20170314T141724Z
+GEO:51.47;-3.18
+LOCATION:The Oak Tree\, Desklodge Bristol (1 Temple Way\, BS2 0BY\, Brist
+ ol\, United Kingdom)
+URL:https://www.meetup.com/Hacks-Hackers-South-Wales-x-South-West/events/
+ 238410109/
+LAST-MODIFIED:20170314T141724Z
+UID:event_238410109@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/New_York:20170331T070000
+DTEND;TZID=America/New_York:20170401T220000
+STATUS:CONFIRMED
+SUMMARY:Journalism Unconference
+DESCRIPTION:Hacks/Hackers Miami\nFriday\, March 31 at 7:00 AM\n\nThis fir
+ st-ever international journalism unconference\, organized by Hacks/Hacke
+ rs Miami organizer Jeff Brown of Fourth Estate\, will be held on March 3
+ ...\n\nhttps://www.meetup.com/Hacks-Hackers-Miami/events/236053700/
+CLASS:PUBLIC
+CREATED:20161205T220041Z
+GEO:25.78;-80.19
+LOCATION:Wertheim Performing Arts Center\, FIU (10910 SW 17th Street\, Mi
+ ami\, FL 33199)
+URL:https://www.meetup.com/Hacks-Hackers-Miami/events/236053700/
+LAST-MODIFIED:20170227T182816Z
+UID:event_236053700@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/Warsaw:20170404T190000
+DTEND;TZID=Europe/Warsaw:20170404T220000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers Warsaw #5
+DESCRIPTION:Hacks/Hackers Warsaw\nTuesday\, April 4 at 7:00 PM\n\nWkrótce
+  więcej szczegółów \;)\n\nhttps://www.meetup.com/Hacks-Hackers-Warsaw/ev
+ ents/238435164/
+CLASS:PUBLIC
+CREATED:20170315T124124Z
+GEO:52.25;21.02
+LOCATION:PIES CZY SUKA (Szpitalna 8\, Warsaw\, Poland)
+URL:https://www.meetup.com/Hacks-Hackers-Warsaw/events/238435164/
+LAST-MODIFIED:20170315T124124Z
+UID:event_238435164@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/Zurich:20170420T173000
+DTEND;TZID=Europe/Zurich:20170420T203000
+STATUS:CONFIRMED
+SUMMARY:#18: Developing Project R
+DESCRIPTION:Hacks/Hackers Zürich\nThursday\, April 20 at 5:30 PM\n\nProje
+ ct R hat sich eine unbescheidene Aufgabe gegeben: ein digitales Magazin
+ für den Journalismus des 21. Jahrhunderts zu entwickeln: einen Salon für
+  ...\n\nhttps://www.meetup.com/Hacks-Hackers-Zurich/events/238582791/
+CLASS:PUBLIC
+CREATED:20170321T082045Z
+GEO:47.38;8.53
+LOCATION:Neue Zürcher Zeitung (Falkenstrasse 11\, Zürich\, Switzerland)
+URL:https://www.meetup.com/Hacks-Hackers-Zurich/events/238582791/
+LAST-MODIFIED:20170324T135431Z
+UID:event_238582791@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Europe/Dublin:20170331T140000
+DTEND;TZID=Europe/Dublin:20170331T170000
+STATUS:CONFIRMED
+SUMMARY:Information Visualisation and News
+DESCRIPTION:Hacks/Hackers Dublin\nFriday\, March 31 at 2:00 PM\n\nFor our
+  next event we are delighted to have Aleksandra Wisniewska from the Fina
+ ncial Times joining us in Dublin.   Alessandra will give a talk on info.
+ ..\n\nhttps://www.meetup.com/hacks-hackers-dublin/events/238461910/
+CLASS:PUBLIC
+CREATED:20170316T114651Z
+GEO:53.33;-6.25
+LOCATION:University College Dublin (Belfield\, Dublin 4\, Dublin\, Irelan
+ d)
+URL:https://www.meetup.com/hacks-hackers-dublin/events/238461910/
+LAST-MODIFIED:20170316T122118Z
+UID:event_238461910@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170330T180000
+DTEND;TZID=Australia/Brisbane:20170330T210000
+STATUS:CONFIRMED
+SUMMARY:This Algorithmic Life
+DESCRIPTION:Hacks/Hackers Brisbane\nThursday\, March 30 at 6:00 PM\n\nNot
+ e the change of date and location. The intrusion of algorithms into our
+ daily lives is much more pervasive than many of us realise. Examples lik
+ e F...\n\nhttps://www.meetup.com/Hacks-Hackers-Brisbane/events/238110208
+ /
+CLASS:PUBLIC
+CREATED:20170217T103951Z
+GEO:-27.45;153.02
+LOCATION:The Loft Upstairs from Archive (100 Boundary St\, West End\, Aus
+ tralia)
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/238110208/
+LAST-MODIFIED:20170319T232110Z
+UID:event_bsggqmywfblc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170426T180000
+DTEND;TZID=Australia/Brisbane:20170426T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers 2017
+DESCRIPTION:Hacks/Hackers Brisbane\nWednesday\, April 26 at 6:00 PM\n\nht
+ tps://www.meetup.com/Hacks-Hackers-Brisbane/events/238376763/
+CLASS:PUBLIC
+CREATED:20170313T044309Z
+GEO:-27.45;153.02
+LOCATION:ABC Brisbane Southbank (114 Grey St\, Brisbane\, Australia)
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/238376763/
+LAST-MODIFIED:20170313T044309Z
+UID:event_bsggqmywgbhc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170523T180000
+DTEND;TZID=Australia/Brisbane:20170523T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers 2017
+DESCRIPTION:Hacks/Hackers Brisbane\nTuesday\, May 23 at 6:00 PM\n\nhttps:
+ //www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywhbfc/
+CLASS:PUBLIC
+CREATED:20170217T103951Z
+GEO:-27.45;153.02
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywhbfc/
+LAST-MODIFIED:20170217T103951Z
+UID:event_bsggqmywhbfc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170627T180000
+DTEND;TZID=Australia/Brisbane:20170627T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers 2017
+DESCRIPTION:Hacks/Hackers Brisbane\nTuesday\, June 27 at 6:00 PM\n\nhttps
+ ://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywjbkc/
+CLASS:PUBLIC
+CREATED:20170217T103951Z
+GEO:-27.45;153.02
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywjbkc/
+LAST-MODIFIED:20170217T103951Z
+UID:event_bsggqmywjbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170725T180000
+DTEND;TZID=Australia/Brisbane:20170725T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers 2017
+DESCRIPTION:Hacks/Hackers Brisbane\nTuesday\, July 25 at 6:00 PM\n\nhttps
+ ://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywkbhc/
+CLASS:PUBLIC
+CREATED:20170217T103951Z
+GEO:-27.45;153.02
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywkbhc/
+LAST-MODIFIED:20170217T103951Z
+UID:event_bsggqmywkbhc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=Australia/Brisbane:20170822T180000
+DTEND;TZID=Australia/Brisbane:20170822T210000
+STATUS:CONFIRMED
+SUMMARY:Hacks/Hackers 2017
+DESCRIPTION:Hacks/Hackers Brisbane\nTuesday\, August 22 at 6:00 PM\n\nhtt
+ ps://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywlbdc/
+CLASS:PUBLIC
+CREATED:20170217T103951Z
+GEO:-27.45;153.02
+URL:https://www.meetup.com/Hacks-Hackers-Brisbane/events/bsggqmywlbdc/
+LAST-MODIFIED:20170217T103951Z
+UID:event_bsggqmywlbdc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170324T175807Z
+DTSTART;TZID=America/Los_Angeles:20170406T190000
+DTEND;TZID=America/Los_Angeles:20170406T203000
+STATUS:CONFIRMED
+SUMMARY:Information security for journalists (and anyone else!)
+DESCRIPTION:Hacks/Hackers Seattle\nThursday\, April 6 at 7:00 PM\n\nIt's
+ never been easier to communicate with anyone\, anywhere\, than it is in
+ 2017. As journalists\, this is a tremendous gift. It has also never been
+  eas...\n\nhttps://www.meetup.com/Hacks-Hackers-Seattle/events/237943153
+ /
+CLASS:PUBLIC
+CREATED:20170224T001637Z
+GEO:47.59;-122.33
+LOCATION:The Seattle Times Vancouver Room (1000 Denny Way\, Seattle\, WA)
+
+URL:https://www.meetup.com/Hacks-Hackers-Seattle/events/237943153/
+LAST-MODIFIED:20170324T134423Z
+UID:event_237943153@meetup.com
+END:VEVENT
+END:VCALENDAR
