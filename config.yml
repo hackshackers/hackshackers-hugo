@@ -44,5 +44,4 @@ params:
     height: 365
   og_desc: One or two sentences describing Hacks/Hackers. Those go here.
   events:
-    homepage: 5
-    credit: "Events feed courtesy of [Peter MacRobert](https://twitter.com/PeteM) / [Matchmaker](https://matchmaker.hhldn.co.uk/welcome)"
+    homepage: 6
