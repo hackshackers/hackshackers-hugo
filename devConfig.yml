@@ -41,6 +41,6 @@ params:
     url: "https://hackshackers.com/images/hh_logo_stacked.jpg"
     width: 920
     height: 365
-  og_desc: One or two sentences describing Hacks/Hackers. Those go here.
+  og_desc: Hacks/Hackers is creating a network of journalists and technologists who rethink the future of news and information.
   events:
     homepage: 6
