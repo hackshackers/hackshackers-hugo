@@ -3,8 +3,8 @@
  */
 
 export const calendarFeed = ('localhost' === window.location.hostname) ?
-  '/mock/calendar/global.ics' :
-  'https://matchmaker.hhldn.co.uk/calendars/global';
+  '/mock/calendar/test.ics' :
+  '/lib/hackshackers.ical';
 
 export const defaultOpts = {
   future: 0,
