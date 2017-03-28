@@ -56,13 +56,32 @@ function _renderAll(events, el, opts) {
  * @return string HTML markup for event
  */
 function _renderSingle(evt, evtTemplate, opts) {
-  const title = evt.summary;
+  const title = _getEventTitle(evt);
   const link = evt.url;
   const date = `${fecha.format(evt[opts.orderBy], 'MMM D')}`;
 
   // Uses <%- var %> in the template to escape strings
   const compiled = template(evtTemplate);
   return compiled({ title, link, date });
+}
+
+/**
+ * Build title from VEVENT format data
+ *
+ * @param obj evt JS object representing VEVENT format
+ * @return string Event title
+ */
+function _getEventTitle(evt) {
+  let title = '';
+
+  // For Meetup events, group name will be the first line of the description
+  if (0 === evt.url.indexOf('https://www.meetup.com')) {
+    title += evt.description.split("\n")[0]; // eslint-disable-line quotes
+    title += ': ';
+  }
+
+  // evt.summary will usually contain the event-specific info
+  return title + evt.summary;
 }
 
 /**
