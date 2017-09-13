@@ -1,0 +1,10 @@
+label: Zürich
+founded: January 2014
+externalUrl: 'http://www.meetup.com/Hacks-Hackers-Zurich/'
+coordinates:
+  - 47.377
+  - 8.540
+organizers:
+  - { name: "Benjamin Wiederkehr", link: "https://twitter.com/wiederkehr" }
+  - { name: "Christian Stettler", link: "https://twitter.com/stettlerch" }
+  - { name: "Timo Grossenbacher", link: "https://twitter.com/grssnbchr" }

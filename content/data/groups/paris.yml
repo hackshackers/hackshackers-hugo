@@ -1,0 +1,9 @@
+label: Paris
+externalUrl: 'https://www.meetup.com/Hacks-Hackers-Paris/'
+coordinates:
+  - 48.8592
+  - 2.3417
+founded: 2012
+organizers:
+  - { name: "Maël Inizan", link: "https://twitter.com/mael_i" }
+  - { name: "Alexandre Léchenet", link: "http://alphoenix.net" }
