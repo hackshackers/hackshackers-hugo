@@ -2,6 +2,7 @@ node_modules
 .DS_Store
 npm-debug.log
 public
+content
 .wercker
 lunr-index.json
 styles.js
