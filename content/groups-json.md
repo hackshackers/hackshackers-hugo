@@ -1,4 +1,0 @@
----
-type: json
-layout: groups
----
