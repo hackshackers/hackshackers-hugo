@@ -13,7 +13,7 @@ All of the site's content pages are generated from Markdown files in [hackshacke
 ### Install Hugo
 
 [Install](https://gohugo.io/overview/installing/) Hugo if you haven't already.
-The minimum required version is **0.18.1**.
+The minimum required version is **v0.34**.
 
 Use `$ hugo version` to see what's currently installed on your machine and then upgrade if needed.
 
@@ -32,7 +32,11 @@ $ git clone https://github.com/hackshackers/hackshackers-hugo-content.git conten
 $ hugo serve
 ```
 
-This command starts the local Go server. It will watch for changes and reload the page in your browser.
+This command starts the local Go server. It will watch for changes and reload the page in your browser. You'll see a message like:
+
+```
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+```
 
 ### Working with site assets
 
