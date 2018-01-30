@@ -5,8 +5,7 @@ ignoreFiles: [ "README\\.md$", "example-group.yml$" ]
 languageCode: "en-us"
 title: "Hacks/Hackers"
 theme: "hackshackers-2017"
-disableRSS: true
-disableSitemap: true
+disableKinds: ["RSS", "sitemap"]
 
 # Dev-specific config options
 # Revert for production use
