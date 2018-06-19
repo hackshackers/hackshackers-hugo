@@ -1,6 +1,8 @@
 <div class="meta_author">
   <h2 class="meta_author--title heading-section">{{ .Title }}</h2>
-  {{ if and ( .Site.Data.authorlinks ) (index .Site.Data.authorlinks (.Title | urlize)) }}
-    <div class="meta_author--link">{{ partial "utils/maybe-twitter-link" (index .Site.Data.authorlinks (.Title | urlize)) }}</div>
+  {{ if .Site.Data.authorlinks }}
+    {{ if (index .Site.Data.authorlinks (.Title | urlize)) }}
+      <div class="meta_author--link">{{ partial "utils/maybe-twitter-link" (index .Site.Data.authorlinks (.Title | urlize)) }}</div>
+    {{ end }}
   {{ end }}
 </div>
