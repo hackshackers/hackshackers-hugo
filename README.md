@@ -12,10 +12,9 @@ All of the site's content pages are generated from Markdown files in [hackshacke
 
 ### Install Hugo
 
-[Install](https://gohugo.io/overview/installing/) Hugo if you haven't already.
-The minimum required version is **v0.34**.
+[Install](https://gohugo.io/getting-started/installing/) Hugo if you haven't already.
 
-Use `$ hugo version` to see what's currently installed on your machine and then upgrade if needed.
+The current production build uses **v0.42.1**. If your local build fails, use `$ hugo version` to see what's currently installed on your machine and [upgrade](https://gohugo.io/getting-started/installing/#upgrade-hugo) if needed. If you can't get it to work, let us know!
 
 ### Download the content
 
