@@ -9,6 +9,7 @@
   "devDependencies": {
     "babyparse": "0.4.6",
     "entities": "1.1.1",
+    "glob": "7.1.1",
     "gray-matter": "2.1.0",
     "hugo-lunr": "joshkadis/hugo-lunr"
   }
