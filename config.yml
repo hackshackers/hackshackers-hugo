@@ -6,6 +6,7 @@ languageCode: "en-us"
 title: "Hacks/Hackers"
 theme: "hackshackers-2017"
 disableKinds: ["RSS", "sitemap"]
+pluralizelisttitles: "false"
 
 # Dev-specific config options
 # Revert for production use
@@ -20,13 +21,13 @@ taxonomies:
 menu:
   main:
     - Name: About
-      URL: "/about/"
+      URL: "/about/intro/"
     - Name: Find A Group
       URL: "/groups/"
     # - Name: Events
     #   URL: "/featured-events/"
     - Name: Resources
-      URL: "/resources/"
+      URL: "/resources/intro/"
     - Name: Blog
       URL: "/blog/"
     - Name: Hack This Site

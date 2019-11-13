@@ -1,3 +1,6 @@
 {{ range .Subpages }}
-  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  <!-- Link to section front prepended to list single.html -->
+  {{ if ne .Path .CurrentSection.Page.Section }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
 {{ end }}
