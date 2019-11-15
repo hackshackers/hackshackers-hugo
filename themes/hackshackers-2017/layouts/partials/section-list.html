@@ -1,3 +1,5 @@
 {{ range .Subpages }}
+{{ if ne .Path .CurrentSection.Page.Section }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{end}}
 {{ end }}
