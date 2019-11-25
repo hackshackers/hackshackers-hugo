@@ -1,0 +1,14 @@
+label: Taipei
+coordinates:
+  - 25.032969
+  - 121.565418
+founded: Oct 2016
+externalUrl: http://hackshackers.taipei/
+calendarUrl: https://calendar.google.com/calendar/ical/4f9ctnr08nmq02hfs7vbu8l9f0%40group.calendar.google.com/public/basic.ics
+organizers:
+  - { name: "Silva Shih", link: "https://twitter.com/silvashih" }
+  - { name: "Kirby Wu", link: "https://twitter.com/zbryikt" }
+  - { name: "Mimi Chen", link: "https://twitter.com/chenhuachen7" }
+  - { name: "Andy Lin", link: "https://twitter.com/imandylin2" }
+  - { name: "Ying-Shin Lee" }
+# groupPage: taipei
