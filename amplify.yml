@@ -9,7 +9,7 @@ frontend:
         - hugo
     postBuild:
       commands:
-        - npm index-prod
+        - npm run index-prod
   artifacts:
     baseDirectory: /public
     files:
