@@ -4,12 +4,10 @@ frontend:
     preBuild:
       commands:
         - npm install
+        - npm run index-prod
     build:
       commands:
         - hugo
-    postBuild:
-      commands:
-        - npm run index-prod
   artifacts:
     baseDirectory: /public
     files:
