@@ -1,0 +1,19 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm install
+    build:
+      commands:
+        - hugo
+    postBuild:
+      commands:
+        - npm index-prod
+  artifacts:
+    baseDirectory: /public
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*
