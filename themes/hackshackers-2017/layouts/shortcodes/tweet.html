@@ -1,0 +1,7 @@
+<div id="tweet-container-{{ .Get 0 }}"></div>
+<script>
+  twttr.widgets.createTweet(
+    '{{ .Get 0 }}',
+    document.getElementById('tweet-container-{{ .Get 0 }}'),
+  );
+</script>
