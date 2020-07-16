@@ -26,7 +26,7 @@ var readFileCallback = function (fileData) {
 const contentDir = 'content';
 
 indexer.setInput(path.join(contentDir, '**'));
-indexer.setOutput('themes/hackshackers-2017/static/lib/lunr-index.json');
+indexer.setOutput('themes/hackshackers-2017/static/lib/lunr-index-test.json');
 indexer.setExcludes([
   path.join(contentDir, 'data', '**'),
   path.join(contentDir, 'content-images', '**'),
