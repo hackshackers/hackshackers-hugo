@@ -12,3 +12,6 @@ frontend:
     baseDirectory: /public
     files:
       - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*
