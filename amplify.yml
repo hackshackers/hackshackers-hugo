@@ -4,7 +4,7 @@ frontend:
     preBuild:
       commands:
         - npm install
-        - npm run index-prod
+        - npm run index
     build:
       commands:
         - hugo
