@@ -3,7 +3,7 @@
  * Initialize Hugo-Lunr indexing
  */
 
-var hugolunr = require('hugo-lunr');
+var hugolunr = require('./hugoLunr');
 var path = require('path');
 var indexer = new hugolunr();
 var entities = require('entities');

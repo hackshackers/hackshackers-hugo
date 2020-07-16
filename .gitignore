@@ -3,7 +3,7 @@ node_modules
 npm-debug.log
 public
 .wercker
-lunr-index.json
+lunr-index*.json
 styles.js
 styles.js.map
 geo-api-token.txt
