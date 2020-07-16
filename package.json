@@ -10,6 +10,6 @@
     "entities": "1.1.1",
     "glob": "7.1.1",
     "gray-matter": "2.1.0",
-    "hugo-lunr": "github:joshkadis/hugo-lunr#4b0a95bda4aca552e5603c93d9013853a9b39428"
+    "hugo-lunr": "github:joshkadis/hugo-lunr"
   }
 }
