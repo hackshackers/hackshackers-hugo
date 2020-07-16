@@ -7,7 +7,7 @@ frontend:
         - npm run index
     build:
       commands:
-        - hugo
+        - hugo --cleanDestinationDir
   artifacts:
     baseDirectory: /public
     files:
