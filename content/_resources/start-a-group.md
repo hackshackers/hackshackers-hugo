@@ -22,7 +22,7 @@ Got all that? Good! Send us a note on the **[organizers email list][4]** and tel
  [1]: http://hackshackers.com/about/
  [2]: https://github.com/HacksHackersAfrica/wiki/wiki/Hacks-Hackers-Charter
  [3]: http://hackshackers.com/chapters/
- [4]: https://groups.google.com/forum/#!forum/hackshackersorganizers
+ [4]: https://groups.google.com/forum/#!forum/hackshackersorganizers/join
  [5]: https://hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&id=fb2bc6f10b
  [6]: https://newsnerdery.slack.com/messages/hacks-hackers/
  [7]: mailto:d@danielbachhuber.com

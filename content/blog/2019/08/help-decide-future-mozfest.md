@@ -1,6 +1,6 @@
 ---
 Title: Help decide the future of MozFest
-authors: 
+authors:
 - Samantha Sunne
 date: "2019-08-18"
 categories:
@@ -18,8 +18,6 @@ They're holding open calls this week and next month, or you can share your opini
 * Kuek Ser Kuang Keng, co-organizer of HH Kuala Lumpur, was interviewed in the [latest edition of Conversations With Data](https://datajournalism.com/read/newsletters/ama-with-kuek-ser-kuang-keng) to discuss the rise of data journalism in South East Asia (DataJournalism.com)
 * Point, a London-based investigative journalism outlet, created a Kickstarter to fund a video game they created to help audiences identify misinformation called [Misinformer](https://www.niemanlab.org/2019/08/investigative-journalism-youtube-outlet-point-is-raising-money-for-a-misinformation-themed-video-game-based-on-real-life-stories/) (NiemanLab)
 * TechRepublic interviewed Guido van Rossum, the creator of Python, to find out the history behind [how Python grew](https://www.techrepublic.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/) from a side project into one of (if not the) most popular programming languages in the world (TechRepublic)
-
-{{< tweet 1158469523319734273 >}}
 
 **Upcoming events:**
 

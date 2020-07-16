@@ -1,26 +1,25 @@
 ---
-Title: Managing is a function, leadership is a practice, plus more takeaways from SRCCONLEAD
+Title: Apply for the Stanford Knight fellowship
 authors: 
 - Samantha Sunne
-date: "2019-11-24"
+date: "2019-12-01"
 categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers! You may have seen [conversations](https://twitter.com/kimbui/status/1196799386094882816) from [#SRCCONLEAD](https://twitter.com/hashtag/SRCCONLEAD?src=hashtag_click) floating across your timeline, as there were a lot of media leaders there, and they had a lot to share.
+Get ready, hacks and hackers! The year is wrapping up and the year-end roundups are on their way. It's also your last week to apply for the [Stanford JSK Fellowship](https://jsk.stanford.edu/become-a-fellow/applying-for-a-fellowship/).
 
-You can find tons of leadership advice on the hashtag, or [read transcriptions](https://lead.srccon.org/transcription/) from the event itself.
+{{< tweet 1197597999762944007 >}}
 
-**The week ahead:**
-
-* Brisbane is discussing [digital journalism jobs](https://www.meetup.com/Hacks-Hackers-Brisbane/events/266060401/)
-* Lagos, Benin and Abuja are talking about [why data matters](https://docs.google.com/forms/d/e/1FAIpQLScOdugj-F9NEJ-S9dgffuAnledMokWguahscn1Xb9vBDuD_uQ/viewform)
+It also means the [Hacks/Hackers global call](https://hackshackers.com/resources/global-open-call/) is coming up. Don't miss your chance to join the last planning call of the twenty-teens.
 
 **Worth a read:**
 
-* NiemanLab compiled the results from several studies on [the neuroscience behind fake news](https://www.niemanlab.org/2019/11/galaxy-brain-the-neuroscience-of-how-fake-news-grabs-our-attention-produces-false-memories-and-appeals-to-our-emotions/) and found that humans are more likely to notice and remember new, outlandish claims over expected ones (NiemanLab)
-* In an interview about data journalism tools, an NYT economics reporter [said he still believes](https://www.nytimes.com/2019/11/13/technology/personaltech/data-journalism-economics.html) "the best stories almost always emerge from talking to people" (NYTimes)
-* A data reporter from NJ Advance Media [created a Github repo](https://github.com/sstirling/journo-salaries) documenting his process as he works on cleaning the data from [the media salaries spreadsheet](https://www.cjr.org/cjr_outbox/google-doc-journalism-media-pay.php) (CJR)
+* Thanksgiving travel, public transport and data viz beyond pie charts: check out GIJN's [Top 10 in Data Journalism](https://gijn.org/2019/11/28/gijns-data-journalism-top-10-thanksgiving-travel-visualization-art-bad-charts-dataharvest/) for the last week of November (GIJN)
+* Three digital media outlets in Venezuela are joining forces to create a consortium they're calling [Rebel Alliance Investigates](https://knightcenter.utexas.edu/blog/00-21419-digital-media-venezuela-launch-collaborative-journalism-platform-join-resources-invest) (Knight Center)
+* The founder of BuzzFeed says governments and social platforms alike are [making more of an effort](http://nymag.com/intelligencer/2019/11/buzzfeed-jonah-peretti-2010s.html) to control viral content (New York Magazine)
+
+{{< tweet 1199988057296064512 >}}
 
 **Upcoming events:**
 
@@ -43,21 +42,19 @@ June | 24-27 | Oslo | Norway | [Global Fact 7](https://www.poynter.org/fact-chec
 
 | Location | Employer | Opening |
 | -------- | -------- | ------- |
-Australia | News Corp Australia | [Editorial Designer](https://www.seek.com.au/job/40439488?savedSearchID=502937721)
-Nigeria | Code for Africa | [Project Manager](https://opportunities.codeforafrica.org/2019/11/19/regional-academy-community-project-manager-west-africa/)
-US | Kaiser Health News | [Data Journalist](https://www.ire.org/archives/jobs/job/data-journalist-6)
-US | The Marshall Project | [Several Jobs](https://www.themarshallproject.org/jobs)
-US | NYT | [Manager, InfoSec Operations & Engineering](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Manager--Information-Security-Operations---Engineering_REQ-006586-1)
-US | Sacramento Business Journal | [Lead Designer](https://www.snd.org/jobs/view/lead-designer-27/)
-US | Seattle Times | [Graphic Artist](https://careers.journalists.org/jobs/13086161/free-press-graphic-artist)
-US | Washington Business Journal | [Creative Director](https://www.snd.org/jobs/view/creative-director-7/)
-US | WSJ | [Full Stack Engineer](https://wsj.jobs/new-york-ny/full-stack-engineer-rd-lab/F7DEBBF570E449879D63DE4138EFDAA3/job/)
+Hong Kong | South China Morning Post | [Data engineer](https://www.cpjobs.com/hk/job/data-engineer-ref-da-3-3382490)
+UK | Evening Standard | [Video journalist](https://www.cisionjobs.co.uk/job/99531/evening-standard-video-journalist/?deviceType=Desktop&TrackID=1)
+US | WSJ | [Graphics Editor](https://wsj.jobs/new-york-ny/graphics-editor-corporate/64B7FECA986E426E927723B274EAA817/job/)
+US | WSJ | [Full-stack developer](https://dowjones.jobs/new-york-ny/full-stack-engineer-rd-lab/f7debbf570e449879d63de4138efdaa3/job/)
+US | Financial Times | [Elections data journalist](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/New-York-40-hours/US-Elections-Data-Journalist--Temporary-Role_JR004335)
+US | Hearst | [Newsroom developer](https://careers.hearst.com/jobs/newsroom-developer-7555)
+US | Politico | [Deputy tech editor](https://talkingbiznews.com/biz-news-help-wanted/politico-seeks-deputy-tech-editor-2/)
 
 **Other opportunities:**
 
 | Deadline | Fund |
 | -------- | ---- |
-December 4 | [Apply for Stanford fellowship to address journalism problems](https://jsk.stanford.edu/become-a-fellow/)
+December 4 | [Apply for Stanford journalism fellowship](https://jsk.stanford.edu/become-a-fellow/)
 December 13 | [Submit student data viz examples and get free conference entry](https://docs.google.com/forms/d/e/1FAIpQLSfit2_1akMwfRunfhLUY9jH_99aiQJxaOXPctG2pitJ8OhNiA/viewform)
 December 13 | [Apply for European Press Prize](https://www.europeanpressprize.com/)
 April 3-5 | [Information Ethics Roundtable in Boston](https://www.northeastern.edu/csshresearch/ethics/information-ethics-roundtable/)

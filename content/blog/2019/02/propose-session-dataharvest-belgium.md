@@ -1,15 +1,13 @@
 ---
 title: Propose a session for Dataharvest in Belgium
-authors: 
+authors:
 - Samantha Sunne
 date: "2019-02-10"
 categories:
 - Newsletter
 ---
 
-Hello, hacks and hackers! The [European Investigative Journalism Conference](https://dataharvest.eu/), aka Dataharvest, is coming up this May in Mechelen, Belgium. Their call for pitches ends this Friday:
-
-{{< tweet 1093093209163603968 >}}
+Hello, hacks and hackers! The [European Investigative Journalism Conference](https://dataharvest.eu/), aka Dataharvest, is coming up this May in Mechelen, Belgium. Their call for pitches ends this Friday.
 
 Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzb0F6Vwf1CBQrrrld9fBilh0rG9Mfll_BOeuu6hgshoT_Ew/viewform?fbclid=IwAR1A1J6nVhmFm0PJDhtoE7zbwoTFqItUcvz15wtC_M0GVGVllbiKKesbQ9A) to submit ideas for speakers, sessions, tools or talks, and represent Hacks/Hackers!
 
@@ -118,4 +116,3 @@ April | [Data Journalism Awards for free trip to Athens for GEN Summit ](https:/
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
-
