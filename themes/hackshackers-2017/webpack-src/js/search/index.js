@@ -112,6 +112,7 @@ function _initLunr(docs) {
 
   /**
    * @todo translate doc.date from YYYY-MM-DD to timestamp
+   * @todo Fix bug with Lunr 2, use this.add() above
    */
   docs.forEach((doc, idx) => {
     doc.idx = idx; // eslint-disable-line no-param-reassign

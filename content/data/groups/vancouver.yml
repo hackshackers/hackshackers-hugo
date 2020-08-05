@@ -1,0 +1,9 @@
+label: Vancouver
+externalUrl: 'https://twitter.com/HacksHackersYVR'
+coordinates:
+  - 49.2609
+  - -123.1139
+# List of {name, link} objects
+organizers:
+  - { name: "Alexandra Samur", link: "https://twitter.com/asamur" }
+# groupPage: vancouver

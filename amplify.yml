@@ -1,0 +1,17 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm install
+        - npm run index
+    build:
+      commands:
+        - hugo --cleanDestinationDir
+  artifacts:
+    baseDirectory: /public
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*

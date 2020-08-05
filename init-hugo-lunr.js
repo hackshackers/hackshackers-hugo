@@ -6,11 +6,10 @@
 var hugolunr = require('hugo-lunr');
 var path = require('path');
 var indexer = new hugolunr();
-var dir = process.argv[2];
 var entities = require('entities');
 
 // Process file content before adding to index JSON file
-var readFileCallback = function(fileData) {
+var readFileCallback = function (fileData) {
   if (!fileData.content) {
     return fileData;
   }
@@ -22,19 +21,20 @@ var readFileCallback = function(fileData) {
   fileData.content = entities.decodeHTML(fileData.content);
 
   return fileData;
-}
+};
 
-indexer.setInput(path.join(dir, '**'));
+const contentDir = 'content';
+
+indexer.setInput(path.join(contentDir, '**'));
 indexer.setOutput('themes/hackshackers-2017/static/lib/lunr-index.json');
 indexer.setExcludes([
-  path.join(dir, 'data', '**'),
-  path.join(dir, 'content-images', '**'),
-  path.join(dir, '**/README.md'),
-  path.join(dir, '**/_index.md'),
-  path.join(dir, 'wercker.yml')
+  path.join(contentDir, 'data', '**'),
+  path.join(contentDir, 'content-images', '**'),
+  path.join(contentDir, '**/README.md'),
+  path.join(contentDir, '_index.md'),
 ]);
 indexer.setFileOpts({
-  matter: {delims: '---', lang:'yaml'},
+  matter: { delims: '---', lang: 'yaml' },
   taxonomies: ['tags', 'categories', 'authors'],
   params: ['date'],
   callback: readFileCallback

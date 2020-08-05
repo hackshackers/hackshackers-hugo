@@ -3,14 +3,13 @@
   "version": "0.0.1",
   "description": "Build helpers for Hackshackers.com Hugo site",
   "scripts": {
-    "index-prod": "node init-hugo-lunr.js content",
-    "index-dev": "node init-hugo-lunr.js sample-content"
+    "index": "node init-hugo-lunr.js content"
   },
   "devDependencies": {
     "babyparse": "0.4.6",
     "entities": "1.1.1",
     "glob": "7.1.1",
     "gray-matter": "2.1.0",
-    "hugo-lunr": "joshkadis/hugo-lunr"
+    "hugo-lunr": "github:joshkadis/hugo-lunr"
   }
 }
