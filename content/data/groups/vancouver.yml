@@ -1,11 +1,9 @@
 label: Vancouver
-externalUrl: 'http://www.meetup.com/HacksHackersVancouver/'
+externalUrl: 'https://twitter.com/HacksHackersYVR'
 coordinates:
   - 49.2609
   - -123.1139
 # List of {name, link} objects
 organizers:
-  - { name: "Phillip Smith", link: "https://twitter.com/phillipadsmith" }
   - { name: "Alexandra Samur", link: "https://twitter.com/asamur" }
-  - { name: "Geoff D'Auria", link: "https://twitter.com/GeoffreyD123" }
 # groupPage: vancouver
