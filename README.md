@@ -4,9 +4,11 @@
 
 This site is built using [Hugo](https://gohugo.io), a static site generator written in [Go](http://golang.org/).
 
-This is the "main" repository, containing general site configuration, sample content, and the `hackshackers-2017` [theme](https://gohugo.io/themes/overview/). **The theme contains all of the templates, CSS, and JS files.**
+## Editing content
 
-All of the site's content pages are generated from Markdown files in [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content). **Think of that repository as the database.**
+Make updates to Markdown files in the `content/` directory. Be sure to follow the patterns for YAML "front matter".
+
+Make sure to use [Hugo shortcodes](https://gohugo.io/content-management/shortcodes/), especially our [custom shortcodes](themes/hackshackers-2017/layouts/shortcodes) for iframes and Tweet embeds.
 
 ## Setup
 
@@ -15,15 +17,6 @@ All of the site's content pages are generated from Markdown files in [hackshacke
 [Install](https://gohugo.io/getting-started/installing/) Hugo if you haven't already.
 
 The current production build uses **v0.42.1**. If your local build fails, use `$ hugo version` to see what's currently installed on your machine and [upgrade](https://gohugo.io/getting-started/installing/#upgrade-hugo) if needed. If you can't get it to work, let us know!
-
-### Download the content
-
-`cd` into the root of this repository and download the content into a directory called `content`:
-
-```
-$ cd hackshackers-hugo
-$ git clone https://github.com/hackshackers/hackshackers-hugo-content.git content
-```
 
 ### Run a local dev site
 
@@ -67,23 +60,14 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
 ## Branching and pull requests
 
 1. Fork the repository
-  1. Use [hackshackers-hugo](https://github.com/hackshackers/hackshackers-hugo) for updates to the Hugo site config and site theme.
-  1. Use [hackshackers-hugo-content](https://github.com/hackshackers/hackshackers-hugo-content) to edit the content of existing pages or add new pages to the site.
 1. `$ git checkout master && git pull origin master` (ensures you have the latest updates)
 1. `$ git checkout -b [my-feature-branch]` (creates and checks out a new branch)
 1. Make your changes and test them locally
 1. `$ git push origin [my-feature-branch]`
-1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo` or `hackshackers/hackshackers-hugo-content`
+1. Go to GitHub and make a pull request to merge your changes into the `master` branch of `hackshackers/hackshackers-hugo`
 
-## Deployments
+## Hosting and deployments
 
-We have two development tiers to which we deploy automatically when new commits are received in a corresponding Github branch in **hackshackers-hugo**:
+The site is hosted on AWS using [Amplify](https://aws.amazon.com/amplify/) to automate builds, S3 hosting, and CloudFront CDN.
 
-| Branch     | Tier          | Usage |
-|------------|---------------|-------|
-| `master` | [hh-production](http://hh-production.s3-website-us-west-2.amazonaws.com/)<br>(hackshackers.com) | Restricted branch for the live site; this branch should **only** receive commits via pull request. |
-| `sandbox`    | [hh-sandbox](http://hh-sandbox.s3-website-us-west-2.amazonaws.com/) | This branch is **never** merged to `master`; use for testing unfinished work. |
-
-### Deploying new/updated content
-
-New commits on the `master` branch of **hackshackers-hugo-content** are automatically pulled into both the `production` and `sandbox` branches of **hackshackers-hugo**, which then deploy automatically to the production and sandbox tiers, respectively.
+New commits on the `master` branch automatically trigger a rebuild and deployment.
