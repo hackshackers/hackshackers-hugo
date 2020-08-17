@@ -32,7 +32,9 @@ Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 
 ### Working with site assets
 
-We use [Webpack](https://webpack.github.io/) to "bundle" CSS and JavaScript files.
+#### JS 
+
+JS and CSS assets are part of the `hackshackers-2017` theme. Source files are in `themes/hackshackers-2017/webpack-src/` and compile to `themes/hackshackers-2017/static/js`. Note that the Webpack bundle is tracked in Git so you need to `npm run build` and commit it before it can be deployed.
 
 ```
 $ cd themes/hackshackers-2017
@@ -40,7 +42,7 @@ $ npm install
 $ npm start
 ```
 
-This will start Webpack and watch for changes in `themes/hackshackers-2017/webpack-src/`. Files in this directory should **not** be loaded directly; we use them only as to create the Webpack bundle.
+#### Other static asssets
 
 `themes/hackshackers-2017/static/` contains assets that **can** be referenced directly by HTML pages:
 
@@ -56,6 +58,10 @@ Each of these subdirectories of `themes/hackshackers-2017/static/` is copied to 
 ...
 <img src="/images/work.png">
 ```
+
+### Lunr.js search index
+
+`npm run indx` is used in the Amplify pre-build phase to generate a search index for Lunr.js. See `init-hugo-lunr.js`. 
 
 ## Branching and pull requests
 
