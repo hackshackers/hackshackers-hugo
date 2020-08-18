@@ -25,5 +25,5 @@ The group page works like a scratch pad and you can update it at any time with a
 [1]: /hack-this-site/edit-a-page/
 [2]: http://www.yaml.org/start.html
 [3]: /groups
-[4]: https://github.com/hackshackers/hackshackers-hugo-content/blob/master/data/groups/example-group.yml
-[5]: https://github.com/hackshackers/hackshackers-hugo-content/blob/master/groups/example-group.md
+[4]: https://github.com/hackshackers/hackshackers-hugo/blob/master/content/data/groups/example-group.yml
+[5]: https://github.com/hackshackers/hackshackers-hugo/blob/master/content/groups/example-group.md
