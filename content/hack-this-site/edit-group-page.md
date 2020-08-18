@@ -27,7 +27,7 @@ In the `/data/groups` directory, each group has a [YAML][2] file with metadata
  your city's name, just like the example mentioned above.
 
 You can do everything needed to launch a group with GitHub's text editor.
-Alternatively, you can also edit text files onyour machine. Finally,
+Alternatively, you can also edit text files on your machine. Finally,
 follow the pull request using the process described [here][1].
 
 ## The Group Content Page
@@ -39,11 +39,10 @@ case, specify an `externalUrl` parameter with a link to your site. This means
 that when someone clicks on your city's Hacks/Hackers page, the user will be
 directed to the external site.
 
-For example: 
+For example:
 ```
 externalUrl: 'https://www.meetup.com/HacksHackersBA/'
 ```
-
 
 Similarly, you can also host your site on the HacksHackers website. To follow
 this route, we'll need to create a markdown file with our city's name inside
@@ -51,6 +50,13 @@ of the file path `content/groups/your-city-name.md`.
 
 You can code your site using standard markdown information, as well as several
 shortcuts offered by Hugo: https://gohugo.io/content-management/shortcodes/
+
+The shortcuts allow you to include Tweets, Instagram posts, videos, etc.
+
+If you host your site on the HacksHackers page, be sure to add your organizer
+contact information in the metadata page, as well as founding information.
+This information is rendered in the group page, and helps to beef up the page
+with valuable information. 
 
 If you go this route, your group's metadata file mentioned above will need to
 contain a groupPage parameter that matches the name of the group page file.
