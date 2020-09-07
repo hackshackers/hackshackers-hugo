@@ -22,8 +22,8 @@ you feel is relevant.
 Finally, users can close with a table that includes past highlights:
 
 # Past Highlights
-| **Date**  | **Highlight** | **Location** |  
-|------|---------| ---------|
+| **Date**  | **Highlight** |  
+|------|---------|  
 | August 8, 2022  | <a href ="">  NICAR 2020, see photos in Instagram  </a>  |
 | August 21, 2022 |   <a href =""> Tim Smith awarded Pulitzer Prize  </a>   |   
 |  September 1, 2022   |  <a href =""> Media Party 2019 set new attendance record </a>   |  
