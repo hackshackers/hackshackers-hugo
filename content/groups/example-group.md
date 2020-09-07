@@ -24,9 +24,9 @@ Finally, users can close with a table that includes past highlights:
 # Past Highlights
 | **Date**  | **Highlight** |  
 |------|---------|  
-| August 8, 2022  | <a href ="">  NICAR 2020, see photos in Instagram  </a>  |
-| August 21, 2022 |   <a href =""> Tim Smith awarded Pulitzer Prize  </a>   |   
-|  September 1, 2022   |  <a href =""> Media Party 2019 set new attendance record </a>   |  
+| August 8, 2020  | <a href ="">  NICAR 2020 recognized for innovation</a>  |
+| May 18, 2019 |   <a href =""> Four members recognized in annual award  </a> |   
+|  Feb. 2, 2019   |  <a href =""> Media Party 2019 set new attendance record </a>   |  
 
 # --- End of page ----
 # References
