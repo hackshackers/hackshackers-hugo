@@ -21,7 +21,7 @@ you feel is relevant.
 It's also worth nothing that users can embed many types of multimedia,
 including images, tweets, youtube videos, and instagram tweets.
 
-# Embedding Multimedia
+# Embedding Multimedia (Remove this section, added just for reference)
 
 Images can be added using the following markdown code:
 `[Buenos Aires as seen during quarantine in the  the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)`
