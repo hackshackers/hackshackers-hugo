@@ -31,10 +31,10 @@ Finally, users can close with a table that includes past highlights:
 | August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
 |  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
 
-# # #
-
-References:
-# Embedding Multimedia
+# --- End of page ----
+# References 
+Below, you can find additional information included for reference on how to embed
+multimedia into your page
 
 Images can be added from any external source using the following markdown code:
 `![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  `
