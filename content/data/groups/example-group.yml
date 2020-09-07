@@ -17,8 +17,14 @@ organizers:
   - { name: "A. Person", link: "http://foo.bar/~aperson" }
   - { name: "Someone Else", link: "https://twitter.com/s_else" }
 
-# URL of external page, e.g. Meetup.com group
+# URL of external page, e.g. Meetup.com group. If this link is not present,
+# the site will revert to assuming you have a page hosted on the Hacks Hackers
+# site. 
 externalUrl: https://meetup.com/HHExampleGroup
+
+# Contact information for the group indicated
+contactInfo: organizers@gmail.com
+
 
 # (Optional) URL of group calendar (iCal/ics format) to include in aggregated H/H calendar
 # If externalUrl is a Meetup.com group, this is fetched automatically
