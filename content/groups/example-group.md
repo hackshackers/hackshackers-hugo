@@ -6,7 +6,7 @@ title: Example Group
 *This page is an example of the "scratch pad" that any H/H group can have.*
 
 *We commend putting an image up front that represents your group. Here is an example image for Buenos Aires.*
-![Buenos Aires as seen cuarentena during the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)  
+![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  
 
 # Upcoming Events
 | **Date**  | **Time** | **Location** |  
@@ -23,8 +23,8 @@ including images, tweets, youtube videos, and instagram tweets.
 
 # Embedding Multimedia (Remove this section, added just for reference)
 
-Images can be added using the following markdown code:
-`[Buenos Aires as seen during quarantine in the  the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)`
+Images can be added from any external source using the following markdown code:
+`![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  `
 
 Hugo provides things called shortcodes to make embedding easy.
 
