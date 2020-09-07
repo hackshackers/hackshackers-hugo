@@ -5,10 +5,8 @@ title: Example Group
 
 *This page is an example of the "scratch pad" that any H/H group can have.*
 
-
+*We commend putting an image up front that represents your group. Here is an example image for Buenos Aires.*
 ![Buenos Aires as seen cuarentena during the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)  
-
-Excepteur consequat dolore in est nisi veniam consequat quis exercitation ea Excepteur nostrud ex irure est commodo eiusmod esse consequat ad sit reprehenderit aliqua enim non ea adipisicing aute deserunt eu qui eu
 
 # Upcoming Events
 | **Date**  | **Time** | **Location** |  
@@ -17,9 +15,11 @@ Excepteur consequat dolore in est nisi veniam consequat quis exercitation ea Exc
 | August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
 |  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
 
-Add a few paragraphs explaining about your group here.
+Add a few paragraphs explaining about your group here, and any other Content
+you feel is relevant.
 
-Users can embed many types of multimedia, including images, tweets, youtube videos, and instagram tweets.
+It's also worth nothing that users can embed many types of multimedia,
+including images, tweets, youtube videos, and instagram tweets.
 
 # Embedding Multimedia
 
@@ -46,10 +46,8 @@ add the curley brackets without spaces in between:
 Same with Tweets - similarly, add the curley brackets without spaces in between both:
 
 `{ {< twitter 1285431839537213441 >} }`
-<br>  
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
-
+Finally, users can close with a table that includes past highlights:
 
 # Past Highlights
 | **Date**  | **Time** | **Location** |  
