@@ -54,6 +54,9 @@ Similarly, you can also host your site on the HacksHackers website. To follow
 this route, we'll need to create a markdown file with our city's name inside
 of the file path `content/groups/your-city-name.md`.
 
+You can see an example of what a .md file might look like, and see what kind
+of features it can have in the following file: `content/groups/example-group.md`
+
 If you go this route, your group's metadata file mentioned above will need to
 contain a groupPage parameter that matches the name of the group page file.
 
