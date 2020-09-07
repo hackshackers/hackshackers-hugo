@@ -18,6 +18,9 @@ title: Example Group
 Add a few paragraphs explaining about your group here, and any other Content
 you feel is relevant.
 
+We recommend updating content frequently. In this case, we are including lorem ipsum
+text to fill out space. Donec rutrum eleifend ligula non accumsan. Aenean sapien erat, bibendum a pulvinar vel, auctor at mauris. Fusce vulputate scelerisque dolor, a elementum lectus eleifend ac. Integer condimentum, tellus et sodales ultricies, arcu turpis pulvinar felis, semper imperdiet massa ipsum et nisl. Nullam non lacus diam. Etiam auctor pharetra arcu, tempus euismod lacus gravida eu. Donec volutpat at erat consequat posuere. Donec luctus nec ante at blandit. Aenean efficitur pharetra neque, mollis mattis dolor commodo a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin eget mauris aliquet diam volutpat venenatis ac nec odio. Curabitur viverra ultricies scelerisque. Donec mattis est arcu, nec ultricies massa gravida eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus at urna ac quam maximus bibendum. Maecenas dui sapien, porttitor tincidunt nunc sit amet, auctor fringilla tellus.
+
 
 Finally, users can close with a table that includes past highlights:
 
