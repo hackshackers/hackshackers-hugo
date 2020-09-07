@@ -5,8 +5,8 @@ title: Example Group
 
 *This page is an example of the "scratch pad" that any H/H group can have.*
 
-*We commend putting an image up front that represents your group. Here is an example image for Buenos Aires.*
-![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  
+*We commend putting an image up front that represents your group. Here is an example image for Minneapolis.*
+![The City of Minneapolis](https://live.staticflickr.com/800/39931062365_353d777027_b.jpg)  
 
 # Upcoming Events
 | **Date**  | **Time** | **Location** |  
