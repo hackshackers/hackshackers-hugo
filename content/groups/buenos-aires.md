@@ -2,27 +2,52 @@
 title: Buenos Aires
 ---
 
-![Buenos Aires as seen cuarentena during the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)
+![Buenos Aires as seen cuarentena during the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)  
 
-# Upcoming Meetings
+# Upcoming Events
 | **Date**  | **Time** | **Location** |  
 |------|---------| ---------|
-| August 8, 2022  | 19 hs         | Starbucks -  Cabildo 2594       |
-| August 21, 2022 | 19 hs |  Cafe Martinez - Corrientes 1702      |   
-|  September 1, 2022       | 19 hs    |  Starbucks - Callao 702 |  
+| August 8, 2022  | 19 hs         | La Nación -  Av. del Libertador 101, Vicente López       |
+| August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
+|  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
+
+Add a few paragraphs explaining about your group here.
+
+Users can embed many types of multimedia, including images, tweets, youtube videos, and instagram tweets.
+
+# Embedding Multimedia
+
+Images can be added using the following markdown code:
+`[Buenos Aires as seen during quarantine in the  the COVID-19 Pandemic ](https://fotos.perfil.com/2020/05/11/trim/1280/720/cuarentena-954460.jpg)`
+
+Hugo provides things called shortcodes to make embedding easy.
+
+To embed an Instagram post, first find the URL of the post you'd like to embed.
+It will look something like https://www.instagram.com/p/BnEY-fOnnPO/
+
+Then, take the hex code in the last part of the URL (In this case, BnEY-fOnnPO),
+and add a code like this -- except, add the curley brackets without spaces -
+`{{` and `}}`:
+
+`{ {< instagram BnEY-fOnnPO >} }`
 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Youtube Videos can also be embedded by using a similar format -- just like above,
+add the curley brackets without spaces in between:
 
-{{< youtube NCeKSpqvTxE >}}
-<br>  
+`{ {< youtube NCeKSpqvTxE >} }`
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+Same with Tweets - similarly, add the curley brackets without spaces in between both:
 
-{{< instagram BnEY-fOnnPO >}}
-<br>  
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-{{< twitter 1285431839537213441 >}}
+`{ {< twitter 1285431839537213441 >} }`
 <br>  
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+
+
+# Past Highlights
+| **Date**  | **Time** | **Location** |  
+|------|---------| ---------|
+| August 8, 2022  | 19 hs         | La Nación -  Av. del Libertador 101, Vicente López       |
+| August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
+|  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
