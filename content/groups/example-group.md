@@ -18,23 +18,22 @@ title: Example Group
 Add a few paragraphs explaining about your group here, and any other Content
 you feel is relevant.
 
-It's also worth nothing that users can embed many types of multimedia,
-including images, tweets, youtube videos, and instagram tweets.
-
 
 Finally, users can close with a table that includes past highlights:
 
 # Past Highlights
-| **Date**  | **Time** | **Location** |  
+| **Date**  | **Highlight** | **Location** |  
 |------|---------| ---------|
-| August 8, 2022  | 19 hs         | La Nación -  Av. del Libertador 101, Vicente López       |
-| August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
-|  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
+| August 8, 2022  | <a href ="">  NICAR 2020, see photos in Instagram  </a>  |
+| August 21, 2022 |   <a href =""> Tim Smith awarded Pulitzer Prize  </a>   |   
+|  September 1, 2022   |  <a href =""> Media Party 2019 set new attendance record </a>   |  
 
 # --- End of page ----
-# References 
+# References
 Below, you can find additional information included for reference on how to embed
 multimedia into your page
+
+Users can embed many types of multimedia, including images, tweets, youtube videos, and instagram tweets.
 
 Images can be added from any external source using the following markdown code:
 `![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  `
