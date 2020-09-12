@@ -11,8 +11,6 @@ Hello, hacks and hackers! Our partners at Misinfocon have [organized a panel](ht
 
 {{< tweet 1301898563644002304 >}}
 
-And don't forget, the [H/H Buenos Aires Media Party](https://www.mediaparty.info/english) is happening this week. Registration is free and the schedule is up!
-
 **The week ahead:**
 
 *   Uganda is [incorporating data in timely news stories](https://twitter.com/Code4Africa/status/1303725373671329792)
