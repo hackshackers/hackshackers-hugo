@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Hello, hacks and hackers! Our partners at Misinfocon have [organized a panel](https://misinfocon.com/join-the-misinfocon-webinar-on-police-misinformation-4433dfb3d89c) on how to report on crime without giving in to mis- and disinformation. [Register for the webinar](https://lu.ma/policemisinfo) happening on Monday:
+Hello, hacks and hackers! Our partners at Misinfocon have [organized a panel](https://misinfocon.com/join-the-misinfocon-webinar-on-police-misinformation-4433dfb3d89c) on how to report on crime without giving in to mis- and disinformation. [Register for the webinar](https://lu.ma/policemisinfo) on Monday:
 
 {{< tweet 1301898563644002304 >}}
 
