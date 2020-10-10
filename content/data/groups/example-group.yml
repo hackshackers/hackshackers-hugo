@@ -1,34 +1,39 @@
 # NOTE: This example group should be hidden on the production site.
 
-# Label for map popup and Groups listing page
-label: Example Group
+# Enter your group name
+# For example, Barcelona
+label: Example City
 
-# Lat/Lon pair
-# http://www.latlong.net/ can help if you need to find this
+# Enter the lat/long coordinates for your city
+# Use http://www.latlong.net/ if you don't know it
 coordinates:
-  - 0
-  - 0
+  - 35.244355
+  - -93.43820
 
-# Text string; doesn't have to be a "real" date
+# Enter the month and year your group was founded
 founded: January 2009
 
-# List of {name, link} objects
+# Enter a name and link for organizers
+# Twitter, LinkedIn, personal website or another social media is fine
 organizers:
   - { name: "A. Person", link: "http://foo.bar/~aperson" }
   - { name: "Someone Else", link: "https://twitter.com/s_else" }
 
-# URL of external page, e.g. Meetup.com group. If this link is not present,
-# the site will revert to assuming you have a page hosted on the Hacks Hackers
-# site. 
+# Enter the URL to your group's page, including the "https://"
+# If this entry is blank, the site will assume you have a page hosted on the Hacks/Hackers site
 externalUrl: https://meetup.com/HHExampleGroup
 
-# Contact information for the group indicated
+# Enter contact information for your group
+# This can be an email, website or social media
+# If you want a "group@hackshackers.com" alias, contact Hacks/Hackers
 contactInfo: organizers@gmail.com
 
 
-# (Optional) URL of group calendar (iCal/ics format) to include in aggregated H/H calendar
-# If externalUrl is a Meetup.com group, this is fetched automatically
+# (Optional) If you have a group calendar (iCal/ics format), enter the URL to include it in the aggregated H/H calendar.
+# Delete the "# " before "calendarUrl" to include it in your group page
+# If your group is on Meetup.com, this is fetched automatically
 # calendarUrl: https://foo.bar/my-hh-group/events
 
-# (Optional) Slug of internal group page, e.g. /content/groups/example-group.md
+# (Optional) If your group page is on HacksHackers.com, enter the permalink here
+# For example, /content/groups/example-group.md
 groupPage: example-group
