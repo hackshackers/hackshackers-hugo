@@ -1,63 +1,60 @@
 ---
+# Enter your group's name here
 title: Example Group
 # see /content/data/groups/example-group.yml for metadata source
 ---
 
-*This page is an example of the "scratch pad" that any H/H group can have.*
+Welcome to your group's home on HacksHackers.com! Using [Markdown](https://www.markdownguide.org/cheat-sheet/), you can design this page however you want. Here, you can see examples of the media and data types you can include. Contact Hacks/Hackers with any questions.
 
-*We commend putting an image up front that represents your group. Here is an example image for Buenos Aires.*
-![The City of Buenos Aires](https://live.staticflickr.com/901/27165035028_c4c78e6c14_b.jpg)  
+# Group Name
+
+Make sure your group name is listed in the "title:" field up above.
+
+
+# Image
+
+We recommend including an image at the top. This can be your logo, a photo from an event, or just a stock image.
+
+Images can be added from any external source using the following Markdown code:
+![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_image.jpeg)
+
+
+# Multimeda
+
+You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the [full list of Hugo shortcodes](https://gohugo.io/content-management/shortcodes/).
+
+{{< instagram BnEY-f0nnPO >}}
+
+{{< youtube l1mk2W3R9No >}}
+
+{{< twitter 1310628042188321794 >}}
+
 
 # Upcoming Events
-| **Date**  | **Time** | **Location** |  
-|------|---------| ---------|
-| August 8, 2022  | 19 hs         | La Nación -  Av. del Libertador 101, Vicente López       |
-| August 21, 2022 | 19 hs |  Clarin - Segurola 2059     |   
-|  September 1, 2022       | 19 hs    |  Cronica - Juan de Garay 140 |  
 
-Add a few paragraphs explaining about your group here, and any other Content
-you feel is relevant.
+Use this table to list events. You can use whatever date or location format you want, as long as they are between the pipes (|) shown below.
 
-We recommend updating content frequently. In this case, we are including lorem ipsum
-text to fill out space, which we don't recommend outside of the tutorial. Donec rutrum eleifend ligula non accumsan. Aenean sapien erat, bibendum a pulvinar vel, auctor at mauris. Fusce vulputate scelerisque dolor, a elementum lectus eleifend ac. Integer condimentum, tellus et sodales ultricies, arcu turpis pulvinar felis, semper imperdiet massa ipsum et nisl. Nullam non lacus diam. Etiam auctor pharetra arcu, tempus euismod lacus gravida eu. Donec volutpat at erat consequat posuere. Donec luctus nec ante at blandit. Aenean efficitur pharetra neque, mollis mattis dolor commodo a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin eget mauris aliquet diam volutpat venenatis ac nec odio. Curabitur viverra ultricies scelerisque. Donec mattis est arcu, nec ultricies massa gravida eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus at urna ac quam maximus bibendum. Maecenas dui sapien, porttitor tincidunt nunc sit amet, auctor fringilla tellus.
+| **Date** | **Time** | **Location** |  
+|----------|----------| -------------|
+| August 8, 2020  | 19 hs | La Nación, Buenos Aires |
+| 12/7/2018 | 5pm |  Twitter HQ, San Francisco |   
+| September 2019 | 20:00-21:00 | 132 Caldez St., Santiago |  
 
 
-Finally, users can close with a table that includes past highlights:
+# Description
+
+Add a few paragraphs explaining your group, and any other content you feel is relevant.
+
 
 # Past Highlights
+
+Finally, consider including a table of past events or highlights in a table.
+
 | **Date**  | **Highlight** |  
-|------|---------|  
-| August 8, 2020  | <a href ="">  NICAR 2020 recognized for innovation</a>  |
-| May 18, 2019 |   <a href =""> Four members recognized in annual award  </a> |   
-|  Feb. 2, 2019   |  <a href =""> Media Party 2019 set new attendance record </a>   |  
+|-----------|---------------|  
+| August 8, 2020 | <a href ="meetup.com/example_event">Our first Meetup event!</a> |
+| 6/5/19 | <a href ="eventbrite.com/example_event">Online panel on meeting online</a> |   
+| Feb. 2 | <a href ="facebook.com/event/example">Drinks at Twitter HQ</a> |  
+
 
 # --- End of page ----
-# References
-Below, you can find additional information included for reference on how to embed
-multimedia into your page
-
-Users can embed many types of multimedia, including images, tweets, youtube videos, and instagram tweets.
-
-Images can be added from any external source using the following markdown code:
-`![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_Capital_Agentina_Jpg_%28162064617%29.jpeg)  `
-
-Hugo provides things called shortcodes to make embedding easy.
-
-To embed an Instagram post, first find the URL of the post you'd like to embed.
-It will look something like https://www.instagram.com/p/BnEY-fOnnPO/
-
-Then, take the hex code in the last part of the URL (In this case, BnEY-fOnnPO),
-and add a code like this -- except, add the curley brackets without spaces -
-`{{` and `}}`:
-
-`{ {< instagram BnEY-fOnnPO >} }`
-
-
-Youtube Videos can also be embedded by using a similar format -- just like above,
-add the curley brackets without spaces in between:
-
-`{ {< youtube NCeKSpqvTxE >} }`
-
-Same with Tweets - similarly, add the curley brackets without spaces in between both:
-
-`{ {< twitter 1285431839537213441 >} }`
