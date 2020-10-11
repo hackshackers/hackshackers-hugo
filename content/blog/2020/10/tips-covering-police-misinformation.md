@@ -1,5 +1,5 @@
 ---
-Title: Download the tipsheet on police misinformation
+Title: Tips on covering police misinformation
 authors: 
 - Samantha Sunne
 date: "2020-10-11"
