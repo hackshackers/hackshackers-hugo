@@ -15,7 +15,7 @@ Welcome, hacks and hackers! ONA is dedicating $200,000 to this year's [Challenge
 
 {{< tweet 1314293252623867904 >}}
 
-Applications are open through the 28th. And don't forget that Hacks/Hackers lists grants and opportunities in this newsletter every weekm listed below.
+Applications are open through the 28th. And don't forget that Hacks/Hackers lists grants and opportunities in this newsletter every week, listed below.
 
 **The week ahead:**
 
