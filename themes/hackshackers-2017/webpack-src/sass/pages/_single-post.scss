@@ -141,6 +141,13 @@
 	margin-right: $spacer-large;
 }
 
+.group-page img {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
 .single-article {
 	font: $font-single-paragraph;
 	width: 100%;
