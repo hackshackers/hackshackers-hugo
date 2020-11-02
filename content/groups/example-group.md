@@ -23,13 +23,6 @@ Images can be added from any external source using the following Markdown code:
 
 You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the [full list of Hugo shortcodes](https://gohugo.io/content-management/shortcodes/).
 
-{{< instagram BnEY-f0nnPO >}}
-
-{{< youtube l1mk2W3R9No >}}
-
-{{< twitter 1310628042188321794 >}}
-
-
 # Upcoming Events
 
 Use this table to list events. You can use whatever date or location format you want, as long as they are between the pipes (|) shown below.

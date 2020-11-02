@@ -14,7 +14,7 @@ categories:
 
 It's time, hacks and hackers! It's election season not just in the US, but many regions of the world including India, Taiwan, Zimbabwe and the Philippines.
 
-{{< facebook 201977193212522 >}}
+<!-- shortcode for facebook 201977193212522 -->
 
 In response, many journalism orgs are sharing resources like [Polling fundamentals and concepts](https://journalistsresource.org/tip-sheets/reporting/polling-fundamentals-journalists/), [Election 2020 toolbox](https://www.journaliststoolbox.org/2020/10/31/election_2008/), and even a [Stress management program for journalists](https://theselfinvestigation.com).
 
