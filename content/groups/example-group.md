@@ -22,7 +22,23 @@ Images can be added from any external source using the following Markdown code:
 
 # Multimeda
 
-You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the [full list of Hugo shortcodes](https://gohugo.io/content-management/shortcodes/).
+You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the [full list of Hugo shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes).
+
+### Twitter
+
+Use the tweet ID in the URL of the tweet in the following code: `{{< tweet 877500564405444608 >}}`
+
+### YouTube
+
+Use the video ID in the URL of the video in the following code: `{{< youtube w7Ft2ymGmfc >}}`
+
+### Instagram
+
+Use the Instagram photo ID in the URL of the post in the following code: `{{< instagram BWNjjyYFxVx >}}`
+
+### Facebook
+
+Hugo does not offer Facebook embeds at this time. You can take a screenshot of a Facebook post and upload it.
 
 # Upcoming Events
 
