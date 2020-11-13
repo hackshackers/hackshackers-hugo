@@ -42,7 +42,7 @@ To embed an image from somewhere else on the web, copy and paste this code into 
 
 `![Alternative text describing the image here](https://example.com/url-of-your-image-here)`
 
-To upload your own image, click Upload a New File in the [group-images folder](/content-images/group-images/). Then copy the link to your file and use it in the code above.
+To upload your own image, click Upload a New File in the [group-images folder](https://github.com/hackshackers/hackshackers-hugo/tree/master/content/content-images/group-images). Then copy the link to your file and use it in the code above.
 
 When you're done, you'll need to create a Pull Request for your changes to go live. See above for how to file a pull request.
 
