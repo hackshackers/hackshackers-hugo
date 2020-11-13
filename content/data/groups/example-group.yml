@@ -1,3 +1,4 @@
+# Copy and paste from this example file into the YAML file for your group.
 # NOTE: This example group should be hidden on the production site.
 
 # Enter your group name
@@ -27,7 +28,6 @@ externalUrl: https://meetup.com/HHExampleGroup
 # This can be an email, website or social media
 # If you want a "group@hackshackers.com" alias, contact Hacks/Hackers
 contactInfo: organizers@gmail.com
-
 
 # (Optional) If you have a group calendar (iCal/ics format), enter the URL to include it in the aggregated H/H calendar.
 # Delete the "# " before "calendarUrl" to include it in your group page
