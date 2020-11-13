@@ -8,7 +8,7 @@ Thank you for contributing to the Hacks/Hackers website! If you are adding or up
 
 # Group Directory
 
-The map on our homepage uses YAML files that contain the group's name, location, organizers, and URL. If you are changing any of these things, find your file in the [/data/groups/ folder](/data/groups/).
+The map on our homepage uses YAML files that contain the group's name, location, organizers, and URL. If you are changing any of these things, find your file in the [/data/groups/ folder][3].
 
 Here is an [annotated example][4] of what the file should look like. You can copy and paste from this example file into your group's YAML file.
 
@@ -22,25 +22,25 @@ To submit the changes, file a Pull Request:
 
 This will send it to the Hacks/Hackers team for approval.
 
-If you're creating a new group, you will need to create a new YAML file. In the [/data/groups/ folder](/data/groups/), click Add File > Create New File, and enter all the information in the example above. Click Commit New File at the bottom to send your page to the team for approval.
+If you're creating a new group, you will need to create a new YAML file. In the [/data/groups/ folder][3], click Add File > Create New File, and enter all the information in the example above. Click Commit New File at the bottom to send your page to the team for approval.
 
 # Group Pages
 
 If your group is hosted on a site like Facebook or Meetup, the YAML file should include a link to that site. To update your group's URL, see the section above.
 
-A lot of groups are hosted on individual pages on this website. These are separate from the YAML files and are located in the [/groups/ folder](/groups/). To update your group's landing page, please find the correct file in the [/groups/ directory](/groups/).
+A lot of groups are hosted on individual pages on this website. These are separate from the YAML files and are located in the [/groups/ folder](https://github.com/hackshackers/hackshackers-hugo/tree/master/content/groups). To update your group's landing page, please find the correct file in that folder.
 
-Here is an [annotated example](/groups/example-group.md) of what the page should look like.
+Here is an [annotated example][5] of what the page should look like.
 
 You can make changes to it by filing a Pull Request. See above for instructions.
 
-To add a new group to the website, create a new Markdown file, using the [Example Group](/groups/example-group.md) as a template. Submit this page as a Pull Request, which will send it to the team for approval.
+To add a new group to the website, create a new Markdown file, using the [Example Group][5] as a template. Submit this page as a Pull Request, which will send it to the team for approval.
 
 # Images
 
-To embed an image from somewhere else on the web, copy and paste this code into your page, with no spaces:
+To embed an image from somewhere else on the web, copy and paste this code into your page, without quotes:
 
-![Alternative text describing the image here] (https://example.com/url-of-your-image-here)
+`![Alternative text describing the image here](https://example.com/url-of-your-image-here)`
 
 To upload your own image, click Upload a New File in the [group-images folder](/content-images/group-images/). Then copy the link to your file and use it in the code above.
 
@@ -48,6 +48,6 @@ When you're done, you'll need to create a Pull Request for your changes to go li
 
 [1]: /hack-this-site/edit-a-page/
 [2]: http://www.yaml.org/start.html
-[3]: /groups
+[3]: https://github.com/hackshackers/hackshackers-hugo/tree/master/content/data/groups
 [4]: https://github.com/hackshackers/hackshackers-hugo/blob/master/content/data/groups/example-group.yml
 [5]: https://github.com/hackshackers/hackshackers-hugo/blob/master/content/groups/example-group.md
