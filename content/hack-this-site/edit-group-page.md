@@ -1,18 +1,18 @@
 ---
-title: Edit this website
+title: Edit a group page
 description: Here's how to add or update your group on this site.
 weight: 2
 ---
 
 Thank you for contributing to the Hacks/Hackers website! If you are adding or updating information for your group, you have come to the right place. Please contact Hacks/Hackers with any questions.
 
-## Group Name, Location, Site and Organizers
+# Group Directory
 
-Each group has a YAML file with the group's name, location, URL and organizers, that we use to generate the map on the homepage. If you are updating any of these things, please find the correct file in the [/data/groups/ folder](/data/groups/).
+The map on our homepage uses YAML files that contain the group's name, location, organizers, and URL. If you are changing any of these things, find your file in the [/data/groups/ folder](/data/groups/).
 
-Here is an [annotated example][4] of what the file should look like.
+Here is an [annotated example][4] of what the file should look like. You can copy and paste from this example file into your group's YAML file.
 
-You can make changes to it by filing a Pull Request:
+To submit the changes, file a Pull Request:
 
 1. Create and sign in to a Github account
 2. Click on the pencil icon on the file, which prompts "Fork this project and edit this file"
@@ -20,15 +20,15 @@ You can make changes to it by filing a Pull Request:
 4. Click "Propose Changes"
 5. On the next page, click "Create Pull Request"
 
-This will send it to the Hacks/Hackers team, who will need to approve the changes before they appear on the site.
+This will send it to the Hacks/Hackers team for approval.
 
-To add a new group, you will need to create a YAML file. In the [/data/groups/ folder](/data/groups/), click Add File > Create New File, and enter all the information in the example above. Click Commit New File at the bottom, which will send your page to the team for approval.
+If you're creating a new group, you will need to create a new YAML file. In the [/data/groups/ folder](/data/groups/), click Add File > Create New File, and enter all the information in the example above. Click Commit New File at the bottom to send your page to the team for approval.
 
-# Group Landing Pages
+# Group Pages
 
 If your group is hosted on a site like Facebook or Meetup, the YAML file should include a link to that site. To update your group's URL, see the section above.
 
-You can also use HacksHackers.com to host a landing page for your group. These are separate from the YAML files and are located in the [/groups/ folder](/groups/). To update your group's landing page, please find the correct file in the [/groups/ directory](/groups/).
+A lot of groups are hosted on individual pages on this website. These are separate from the YAML files and are located in the [/groups/ folder](/groups/). To update your group's landing page, please find the correct file in the [/groups/ directory](/groups/).
 
 Here is an [annotated example](/groups/example-group.md) of what the page should look like.
 
