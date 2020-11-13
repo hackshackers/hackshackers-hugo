@@ -18,6 +18,10 @@ The year is almost over, hacks and hackers! [NICAR](https://ire.org/archives/439
 
 MozFest is soliciting [session proposals](https://www.mozillafestival.org/en/get-involved/proposals/) until November 24th, and NICAR until [December 6th](https://ire.org/archives/43978). If you've never been to these conferences before, 2021 is your year to get involved!
 
+**The week ahead:**
+
+* Nairobi is discussing [geo journalism](https://www.facebook.com/events/2729630220593125)
+
 **Worth a read:**
 
 
