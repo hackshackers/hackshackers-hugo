@@ -19,6 +19,8 @@ Images can be added from any external source using the following Markdown code:
 
 `![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_image.jpeg)`
 
+To upload your own image, add it to the [group-images folder](https://github.com/hackshackers/hackshackers-hugo/tree/master/content/content-images/group-images), and then link to it using the code above.
+
 
 # Multimeda
 
