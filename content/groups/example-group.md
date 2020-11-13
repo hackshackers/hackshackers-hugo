@@ -16,7 +16,8 @@ Make sure your group name is listed in the "title:" field up above.
 We recommend including an image at the top. This can be your logo, a photo from an event, or just a stock image.
 
 Images can be added from any external source using the following Markdown code:
-![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_image.jpeg)
+
+`![The center of Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/aa/Buenos_Aires_image.jpeg)`
 
 
 # Multimeda
