@@ -28,15 +28,18 @@ You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the
 
 ### Twitter
 
-Use the tweet ID in the URL of the tweet in the following code: `{{< tweet 877500564405444608 >}}`
+Use the tweet ID in the URL of the tweet in the following code:  
+&#x7B;&#x7B;< tweet 877500564405444608 >&#x7D;&#x7D;
 
 ### YouTube
 
-Use the video ID in the URL of the video in the following code: `{{< youtube w7Ft2ymGmfc >}}`
+Use the video ID in the URL of the video in the following code:  
+&#x7B;&#x7B;< youtube w7Ft2ymGmfc >&#x7D;&#x7D;
 
 ### Instagram
 
-Use the Instagram photo ID in the URL of the post in the following code: `{{< instagram BWNjjyYFxVx >}}`
+Use the Instagram photo ID in the URL of the post in the following code:  
+&#x7B;&#x7B;< instagram BWNjjyYFxVx >&#x7D;&#x7D;
 
 ### Facebook
 
