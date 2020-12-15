@@ -4,7 +4,7 @@ title: New Orleans
 # see /content/data/groups/example-group.yml for metadata source
 ---
 
-![HacksHackers New Orleans logo](content-images/group-images/New-Orleans.png)
+![HacksHackers New Orleans logo](../content-images/group-images/New-Orleans.png)
 
 # New Orleans
 
