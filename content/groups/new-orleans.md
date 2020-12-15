@@ -5,7 +5,9 @@ url: groups/new-orleans
 
 ![HacksHackers New Orleans logo](/../content-images/group-images/New-Orleans.png)
 
-We bring together "hacks" (journalists) and "hackers" (technologists) in the Crescent City. Join us on [Meetup.com](https://www.meetup.com/Hacks-Hackers-New-Orleans/)! We also share our events on [Twitter](https://twitter.com/HacksHackersNOL) and [Facebook](https://www.facebook.com/hackshackersnola/).
+We bring together "hacks" (journalists) and "hackers" (technologists) in the Crescent City!
+
+Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-New-Orleans/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersNOL) and [Facebook](https://www.facebook.com/hackshackersnola/).
 
 {{< tweet 852195727094804483 >}}
 
