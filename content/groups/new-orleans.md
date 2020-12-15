@@ -17,6 +17,6 @@ We bring together "hacks" (journalists) and "hackers" (technologists) in the Cre
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
-| March 2020 | <a href ="https://www.meetup.com/Hacks-Hackers-New-Orleans/events/269012606/">Jazz, Beignets and Data Journalism Party</a> |
-| October 2019 | <a href ="https://www.meetup.com/Hacks-Hackers-New-Orleans/events/265687299/">Coffee hour with Antigravity Magazine</a> |   
-| September 2019 | <a href ="https://www.meetup.com/Hacks-Hackers-New-Orleans/events/264346287/">Building diversity in journalism and tech: an ONA add-on</a> |
+| March 2020 | [Jazz, Beignets and Data Journalism Party](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/269012606/) |
+| October 2019 | [Coffee hour with Antigravity Magazine](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/265687299/) |   
+| September 2019 | [Building diversity in journalism and tech: an ONA add-on](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/264346287/) |
