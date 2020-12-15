@@ -11,8 +11,7 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-New-Orleans/)**. 
 
 {{< tweet 852195727094804483 >}}
 
-<br />
-<br />
+   
 
 # Past Highlights
 
