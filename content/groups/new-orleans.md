@@ -3,7 +3,7 @@ title: New Orleans
 url: groups/new-orleans
 ---
 
-![HacksHackers New Orleans logo](/../content-images/group-images/New-Orleans.png)
+![HacksHackers New Orleans logo](/../content-images/group-images/new-orleans-logo.jpeg)
 
 We bring together "hacks" (journalists) and "hackers" (technologists) in the Crescent City!
 
