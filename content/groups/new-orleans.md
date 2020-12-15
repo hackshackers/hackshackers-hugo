@@ -9,7 +9,7 @@ We bring together "hacks" (journalists) and "hackers" (technologists) in the Cre
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-New-Orleans/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersNOL) and [Facebook](https://www.facebook.com/hackshackersnola/).
 
-{{< tweet 852195727094804483 >}}
+{{< tweet id="852195727094804483" width=80% >}}
 
 # Past Highlights
 
