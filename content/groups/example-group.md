@@ -22,7 +22,7 @@ Images can be added from any external source using the following Markdown code:
 To upload your own image, add it to the [group-images folder](https://github.com/hackshackers/hackshackers-hugo/tree/master/content/content-images/group-images), and then link to it using the code above.
 
 
-# Multimeda
+# Multimedia
 
 You can also embed Twitter, YouTube or Instagram posts using shortcodes. See the [full list of Hugo shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes).
 
