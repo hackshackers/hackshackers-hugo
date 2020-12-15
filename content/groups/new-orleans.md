@@ -1,6 +1,7 @@
 ---
 # Enter your group's name here
 title: New Orleans
+url: groups/new-orleans
 # see /content/data/groups/example-group.yml for metadata source
 ---
 
