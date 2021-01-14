@@ -32,6 +32,8 @@ url: about/organizers
 
 [Chrys Wu](http://chryswu.com) consults on systems thinking, product development, and people leadership and management. People turn to her for help with thinking through the interplay of peoples’ lives and the larger systems in which we exist. She also speaks and mentors at technology, design and media festivals. She has founded/co-founded and led the growth of several cross-disciplinary organizations, including [Write/Speak/Code](http://writespeakcode.com/), [Hacks/Hackers](http://hackshackers.com/), [NYC Ruby Women](http://www.meetup.com/NYC-Ruby-Women) and the [Robot Film Festival](http://robotfilmfestival.com/). She is also an [Awesome Foundation NYC](https://www.awesomefoundation.org/en/chapters/nyc) trustee emeritus. Chrys has spent many years in journalism and “on the business side” as a freelancer and as staff of organizations such as The New York Times, The Los Angeles Times, NPR and its affiliates, National Geographic Magazine, and what is now CBS Local. She has experienced the hard work and joy-by-proxy of working on a Pulitzer Prize winning story.
 
+---
+
 ## Communications Director
 
 {{< figure src="/content-images/about/sunne.jpg" >}}
