@@ -12,7 +12,7 @@ categories:
 
 ---
 
-We have news, hacks and hackers! Mariano Blejman is joining the Hacks/Hackers board of directors.
+We have news, hacks and hackers! Mariano Blejman is joining the Hacks/Hackers [Board of Directors](https://www.hackshackers.com/about/organizers/).
 
 {{< tweet 1349757637148241931 >}}
 
