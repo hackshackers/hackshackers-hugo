@@ -14,7 +14,7 @@ categories:
 
 Good news, hacks and hackers! There has been a burst of new journalism jobs in the last few weeks, and we have you covered.
 
-{{< tweet 1351508138676137984 >}}
+{{< tweet 1348679072931487747 >}}
 
 Check out the Job Postings section of this newsletter, where we share new positions every week.
 
