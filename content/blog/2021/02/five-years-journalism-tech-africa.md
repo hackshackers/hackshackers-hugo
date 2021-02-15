@@ -32,7 +32,7 @@ If you'd like to learn more about your African colleagues, the leaders recently 
 *   This GIJN writeup from a webinar on [thinking visually in investigative reporting](https://gijn.org/2021/01/26/henk-van-ess-on-visual-thinking-for-online-investigations/) gives tips on finding images from Instagram using only a date and place, searching for instances of a logo across sites, and more.
 *   U.S. journalists [are still experimenting with counteracting ‘fake news’ claims](https://rq1.substack.com/p/how-journalists-respond-to-fake-news), such as increasing the amount of transparency in their reporting process and limiting the use of anonymous sources.
 
-{{< 1357683810155040770 >}}
+{{< tweet 1357683810155040770 >}}
 
 **Job postings:**
 
