@@ -17,7 +17,7 @@ groups:
 
 [Este post también está en español][1]
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hhba2-2/" src="/content-images/blog/2011/06/hhba21.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hhba2-2/" src="/content-images/news/2011/06/hhba21.jpg" >}}
 
 Hacks/Hackers Buenos Aires held a super &#8220;Demo Day&#8221; in Buenos Aires, followed by sending a team to a hackathon in Rosario, located 300 km from the capital of Argentina. The meeting also drew investors and entrepreneurs in the tech world.
 
@@ -31,13 +31,13 @@ Francis Petty from [GroovinAds][11] explained how technology can be used to impr
 
 The second # hhba was made possible through the support of the [Mozilla Foundation][12], [Area Tres][13], [Globant][14], [La Nación][15] and [Fundación Heinrich Böll Stiftung][16].
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton2/" src="/content-images/blog/2011/06/hackaton2.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton2/" src="/content-images/news/2011/06/hackaton2.jpg" >}}
 
 A week later, Hacks/Hackers Buenos Aires was invited to attend the [4th International Forum on Digital Journalism in Rosario][17], 200 miles from Buenos Aires city. The Forum was attended by about 200 editors and journalists who specialized in digital media in Latin America. Hacks/Hackers Buenos Aires sent a team of eight people (Guillermo Movia, Felipe Lerena, David Lima Cohen, Ezequiel Clerici, Anahí Lobato, Dardo Ceballos, Candelaria Vidal Valls and Mariano Blejman) who worked on creating an application in HTML5 to view and provide contextual information.
 
 [][18]
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton/" src="/content-images/blog/2011/06/hackaton-300x235.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton/" src="/content-images/news/2011/06/hackaton-300x235.jpg" >}}
 
 The tools used were CSS3, JavaScript, Popcorn.js, video converters such as Miro, Ffmpeg and Firefox&#8217;s tools. The result was an application that &#8220;edits&#8221; and plays the video presentation, offers background information, provides access to reference material and other aggregates, and also shows effects on Twitter. The code was released with a  [GPLv3 license][19]. We must have impressed them well enough, because  the Hacks/Hackers Buenos Aires team received invitations to participate in conferences in other cities in Argentina, and also Panama and Colombia.
 

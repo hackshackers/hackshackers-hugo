@@ -15,7 +15,7 @@ groups:
 - Washington DC
 ---
 
-{{< figure link="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM.png" src="/content-images/blog/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM-300x79.png" >}}
+{{< figure link="/content-images/news/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM.png" src="/content-images/news/2010/09/Screen-shot-2010-09-23-at-2.29.56-PM-300x79.png" >}}
 
 Hacks/Hackers is hosting a hackathon in conjunction with the annual Online News Association conference that is being held Oct. 28-30 this year in Washington DC. We&#8217;re calling it Hacks/Hackers/Hacking.
 

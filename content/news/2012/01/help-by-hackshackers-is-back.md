@@ -10,7 +10,7 @@ categories:
 - Announcements
 ---
 
-{{< figure link="http://help.hackshackers.com" src="/content-images/blog/2012/01/Screen-Shot-2012-01-02-at-11.59.25-AM.png" alt="Help by Hacks/Hackers" >}}
+{{< figure link="http://help.hackshackers.com" src="/content-images/news/2012/01/Screen-Shot-2012-01-02-at-11.59.25-AM.png" alt="Help by Hacks/Hackers" >}}
 
 Since the start of Hacks/Hackers in 2009, we&#8217;ve heard from lots of people interested in the ways journalists and developers can help each other push what&#8217;s possible at the intersection of news and technology.
 

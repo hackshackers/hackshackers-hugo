@@ -27,7 +27,7 @@ News last week was dominated by fallouts of the [Brexit vote][1], attempted [Tur
 
 Attendee [Prestone Adie][13] posted [an update][14] on the [H/H blog][15], taking a look at Kenya&#8217;s 6-year-old public information law and well it has been implemented so far.
 
-{{< figure link="https://www.facebook.com/HacksHackersAfrica/photos/a.1123828944322163.1073741838.201581223213611/1123831567655234/?type=3&theater" src="/content-images/blog/2016/07/Screen-Shot-2016-07-25-at-2.39.41-PM.png" alt="Screen Shot 2016-07-25 at 2.39.41 PM" >}}
+{{< figure link="https://www.facebook.com/HacksHackersAfrica/photos/a.1123828944322163.1073741838.201581223213611/1123831567655234/?type=3&theater" src="/content-images/news/2016/07/Screen-Shot-2016-07-25-at-2.39.41-PM.png" alt="Screen Shot 2016-07-25 at 2.39.41 PM" >}}
 
 **Worth a read:**
 

@@ -17,7 +17,7 @@ groups:
 
 [This post is also in english][1]
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hhba2-2/" src="/content-images/blog/2011/06/hhba21.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hhba2-2/" src="/content-images/news/2011/06/hhba21.jpg" >}}
 
 De pronto, sucedieron dos eventos con apenas una semana de diferencia: un super “Demo Day” en Buenos Aires, y un mini-hackatón en Rosario, a 300 kilómetros de la capital argentina. El alemán [Malte Spitz][2] fue la figura central del segundo [Hacks/Hackers Buenos Aires][3], encuentro entre periodistas y programadores que reunió más de 150 personas, en [Areatres – Palermo Hollywood][4]. Su presencia estuvo amenazada por las [cenizas volcánicas][5] que se esparcieron por Argentina, pero finalmente pudo llegar a contar su increíble historia de periodismo de datos. Con los datos de georeferencia de la compañía telefónica alemana sobre su propia persona, Spitz creó junto al diario alemán [Zeit On Line][6] una aplicación que permite ver seis meses de su vida, segundo por segundo. Es una clara muestra de las implicancias de la “retención de datos” y de los riesgo que las empresas guarden estos datos. También participaron otras empresas que mostraron sus productos.
 
@@ -25,11 +25,11 @@ Junto a [Martín Sarsale][7] se avanzo en el mapeo automático de los testimonio
 
 El segundo #hhba se hizo posible gracias al apoyo de la [Fundación Mozilla][12], [Area Tres][13], [Globant][14], [La Nación][15] y la [Fundación Heinrich Böll Stiftung][16].
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton2/" src="/content-images/blog/2011/06/hackaton2.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton2/" src="/content-images/news/2011/06/hackaton2.jpg" >}}
 
 Una semana después, Hacks/Hackers Buenos Aires fue invitado a participar del [4° Foro Internacional de Periodismo Digital en Rosario][17], a 300 kilómetros de la ciudad de Buenos Aires. El objetivo fue realizar una cobertura durante el Foro –que contó con la presencia de unos 200 editores y periodistas especializados en medios digitales de América latina- y se trabajó sobre la exposición de Carlos Serrano, de la [Fundación Nuevo Periodismo Iberoamericano][18] (dirigida por Gabriel García Márquez). Un equipo de ocho personas (Guillermo Movia, Felipe Lerena, David Lima Cohen, Ezequiel Clerici, Anahí Lobato, Dardo Ceballos, Candelaria Vidal Valls y Mariano Blejman) trabajó sobre la conferencia para crear una aplicación en HTML5 para visualizarla y ofrecer información contextual.
 
-{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton/" src="/content-images/blog/2011/06/hackaton-300x235.jpg" >}}
+{{< figure link="http://hackshackers.com/chapters/buenos-aires/retencion-de-datos-en-el-demo-day-visualizacion-en-html5-en-el-hackaton/hackaton/" src="/content-images/news/2011/06/hackaton-300x235.jpg" >}}
 
 Se utilizaron además herramientas de CSS3, JavaScript, Popcorn.js, conversores de video como Miro, Ffmpeg y herramientas de Firefox. El resultado fue una aplicación que “edita” e interpreta el video de la presentación, ofrece información contextual, da acceso a material de referencia y a otros agregados, y también muestra repercusiones en Twitter mientras se daba la charla. [El código fue liberado con licencia GPLv3][19]. Por el impacto del trabajo, el equipo de Hacks/Hackers Buenos Aires recibió invitaciones para participar de congresos en el interior de Argentina, Panamá y Colombia.
 

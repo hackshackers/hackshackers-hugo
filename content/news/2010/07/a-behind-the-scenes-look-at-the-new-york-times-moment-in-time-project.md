@@ -13,7 +13,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2010/07/moment-in-time.png" src="/content-images/blog/2010/07/moment-in-time.png" alt="New York Times Moment in Time" >}}
+{{< figure link="/content-images/news/2010/07/moment-in-time.png" src="/content-images/news/2010/07/moment-in-time.png" alt="New York Times Moment in Time" >}}
 
 The latest [Hacks/Hackers NYC][1] gathering was all about photojournalism, hosted in the breathtaking [Open Plans][2] [penthouse][3] (with a wraparound balcony and a fantastic view) on July 27. Jonathan Tepper, co-founder of [Demotix][4], talked about his crowdsourced photo wire based in London, and the team behind The New York Times&#8217; &#8220;Moment in Time&#8221; discussed their project that mapped 14,000 user-submitted images onto an interactive globe.
 
@@ -23,7 +23,7 @@ Around 70 people attended with a good mix of programmers and content folk. There
 
 ### Moment in Time
 
-{{< figure link="/content-images/blog/2010/07/nytmomentintime2.jpg" src="/content-images/blog/2010/07/nytmomentintime2-300x204.jpg" alt="Jacqui Maher, Jim Estrin and Zach Wise of The New York Times discuss their Moment in Time project at the Hacks/Hackers NYC Meetup on July 27, 2010" >}}
+{{< figure link="/content-images/news/2010/07/nytmomentintime2.jpg" src="/content-images/news/2010/07/nytmomentintime2-300x204.jpg" alt="Jacqui Maher, Jim Estrin and Zach Wise of The New York Times discuss their Moment in Time project at the Hacks/Hackers NYC Meetup on July 27, 2010" >}}
 
 **Genesis**
 
@@ -87,7 +87,7 @@ You never know how people are going to surprise you. The team was thrown a loop 
 
 In the end, because the three-piece photo mosaic was assembled at Cornell University, [they mapped the photo to Ithaca, New York][28] — which they admit was a bit of a cop out.
 
-{{< figure link="/content-images/blog/2010/07/Screen-shot-2010-07-28-at-9.00.36-AM.png" src="/content-images/blog/2010/07/Screen-shot-2010-07-28-at-9.00.36-AM.png" >}}
+{{< figure link="/content-images/news/2010/07/Screen-shot-2010-07-28-at-9.00.36-AM.png" src="/content-images/news/2010/07/Screen-shot-2010-07-28-at-9.00.36-AM.png" >}}
 
 ### Demotix
 

@@ -67,31 +67,31 @@ In addition to layers and layers of NYC data, the map now features historic land
 
 _Photos by Danny Chong and Joshua Winata_
 
- [1]: /content-images/blog/2011/04/HHDD2-check-in-e1302188737292.jpeg "HHDD2-check-in"
+ [1]: /content-images/news/2011/04/HHDD2-check-in-e1302188737292.jpeg "HHDD2-check-in"
  [2]: http://meetupnyc.hackshackers.com/events/16882913/
  [3]: http://nwc.co
- [4]: /content-images/blog/2011/04/HHDD2-saying-hi-e1302188856616.jpeg "HHDD2-saying-hi"
+ [4]: /content-images/news/2011/04/HHDD2-saying-hi-e1302188856616.jpeg "HHDD2-saying-hi"
  [5]: http://4food.com/
- [6]: /content-images/blog/2011/04/HHNYCDD2-kapost-e1302189604357.jpeg "HHNYCDD2-kapost"
+ [6]: /content-images/news/2011/04/HHNYCDD2-kapost-e1302189604357.jpeg "HHNYCDD2-kapost"
  [7]: http://meetupnyc.hackshackers.com/photos/1334895/22514101/
  [8]: http://kapost.com
- [9]: /content-images/blog/2011/04/HHNYDD2-localeaks-e1302191963600.jpeg "HHNYDD2-localeaks"
+ [9]: /content-images/news/2011/04/HHNYDD2-localeaks-e1302191963600.jpeg "HHNYDD2-localeaks"
  [10]: http://meetupnyc.hackshackers.com/photos/1334895/22514151/
  [11]: http://localeaks.com/
  [12]: http://codeigniter.com
  [13]: http://sensecast.com/
- [14]: /content-images/blog/2011/04/HHNYCDD2-sensecast-e1302190169858.jpeg "HHNYCDD2-sensecast"
+ [14]: /content-images/news/2011/04/HHNYCDD2-sensecast-e1302190169858.jpeg "HHNYCDD2-sensecast"
  [15]: http://meetupnyc.hackshackers.com/photos/1334895/22514167/
- [16]: /content-images/blog/2011/04/HHNYCDD2-Guardian-Project-e1302190381306.jpeg "HHNYCDD2-Guardian-Project"
+ [16]: /content-images/news/2011/04/HHNYCDD2-Guardian-Project-e1302190381306.jpeg "HHNYCDD2-Guardian-Project"
  [17]: http://meetupnyc.hackshackers.com/photos/1334895/22513686/
  [18]: http://guardianproject.info
  [19]: https://blog.torproject.org/blog/tor-android
  [20]: http://narrativescience.com
- [21]: /content-images/blog/2011/04/HHNYCDD2-narsci-e1302190578750.jpeg "HHNYCDD2-narsci"
- [22]: /content-images/blog/2011/04/HHNYCDD2-narsci.jpeg
- [23]: /content-images/blog/2011/04/HHNYCDD2-oasisnyc-e1302190913780.jpeg "HHNYCDD2-oasisnyc"
+ [21]: /content-images/news/2011/04/HHNYCDD2-narsci-e1302190578750.jpeg "HHNYCDD2-narsci"
+ [22]: /content-images/news/2011/04/HHNYCDD2-narsci.jpeg
+ [23]: /content-images/news/2011/04/HHNYCDD2-oasisnyc-e1302190913780.jpeg "HHNYCDD2-oasisnyc"
  [24]: http://meetupnyc.hackshackers.com/photos/1334895/22514242/
  [25]: http://oasisnyc.net
  [26]: http://http://www.oasisnyc.net/map.aspx
- [27]: /content-images/blog/2011/04/HHNYCDD2-frank-e1302191570148.jpeg "HHNYCDD2-frank"
+ [27]: /content-images/news/2011/04/HHNYCDD2-frank-e1302191570148.jpeg "HHNYCDD2-frank"
  [28]: http://meetupnyc.hackshackers.com/photos/1334895/22514047/

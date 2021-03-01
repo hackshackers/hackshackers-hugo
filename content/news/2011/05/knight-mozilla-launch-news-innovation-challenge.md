@@ -21,7 +21,7 @@ groups:
 - Bay Area
 ---
 
-{{< figure link="/content-images/blog/2011/05/Mozilla-HH1.jpg" src="/content-images/blog/2011/05/Mozilla-HH1-224x300.jpg" >}}
+{{< figure link="/content-images/news/2011/05/Mozilla-HH1.jpg" src="/content-images/news/2011/05/Mozilla-HH1-224x300.jpg" >}}
 
 How can you not love a meeting that starts with: &#8220;There&#8217;s the pizza, beer and colored markers, go for it.&#8221;
 

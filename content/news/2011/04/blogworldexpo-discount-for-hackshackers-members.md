@@ -23,7 +23,7 @@ Industry leaders will be at BlogWorld to present 120 cutting-edge sessions on bl
 
 [Register for BlogWorldExpo][2] with discount code **HHVIP20** to get 20% off [**all** registration rates][3]. Register by April 14 to get the lowest price.
 
- [1]: /content-images/blog/2011/04/blogworldexpo2.png "blogworldexpo"
+ [1]: /content-images/news/2011/04/blogworldexpo2.png "blogworldexpo"
  [2]: http://cwu.me/bwxhhreg
  [3]: http://cwu.me/bwxearlyrates
  [4]: http://cwu.me/bwxfullinfo

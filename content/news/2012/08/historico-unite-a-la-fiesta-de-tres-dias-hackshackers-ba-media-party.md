@@ -10,7 +10,7 @@ groups:
 - Buenos Aires
 ---
 
-{{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/blog/2012/08/historia2.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/news/2012/08/historia2.jpg" >}}
 
 ¡Se alinearon los planetas! ¡Se viene el Media Party! Llegan tres días de charlas, workshops y un hackatón en Buenos Aires, Argentina, en un evento que promete hacer historia. [**Hacks/Hackers Buenos Aires**][1] convoca a periodistas, editores, programadores de software, diseñadores y emprendedores a tres días intensivos para trabajar en la construcción del futuro de los medios. El capítulo de [Buenos Aires de Hacks/Hackers][1] acaba de pasar los 960 miembros, y esperamos 300 personas por día en el evento, que terminará en un gran hackatón, es decir una jornada de trabajo entre programadores,  periodistas y diseñadores interactivos. Del 30 de agosto al 1 de setiembre en la Ciudad Cultural Konex, Sarmiento 3131, Buenos Aires, Argentina.
 

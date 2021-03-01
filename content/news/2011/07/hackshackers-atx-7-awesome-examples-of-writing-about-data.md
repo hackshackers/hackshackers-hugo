@@ -10,11 +10,11 @@ groups:
 - Austin
 ---
 
-{{< figure link="http://hackshackers.com/blog/2011/07/10/hackshackers-atx-7-awesome-examples-of-writing-about-data/kristen/" src="/content-images/blog/2011/07/kristen.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/07/10/hackshackers-atx-7-awesome-examples-of-writing-about-data/kristen/" src="/content-images/news/2011/07/kristen.jpg" >}}
 
 For the July meeting of Hacks/Hackers Austin, [Kristen Carney][1] of [Cubit Planning][2] discussed 7 Awesome Examples of Writing About Data That Will Drive Eyeballs To Your Site. Covering a variety of tools, Carney demonstrated the value of seven examples: landing pages, data disproving an accepted truth, analysis of social media, tweets about data, infographics, data about everyday stuff and data about making money.
 
-{{< figure link="http://hackshackers.com/blog/2011/07/10/hackshackers-atx-7-awesome-examples-of-writing-about-data/gregory/" src="/content-images/blog/2011/07/gregory.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/07/10/hackshackers-atx-7-awesome-examples-of-writing-about-data/gregory/" src="/content-images/news/2011/07/gregory.jpg" >}}
 
 And [Gregory Foster][3] of [Consumers Union][4], recently returned from the 2011 Civic Media Conference at MIT, covered some of the winners of the [Knight News Challenge][5]. Watch video of both presentations.
 

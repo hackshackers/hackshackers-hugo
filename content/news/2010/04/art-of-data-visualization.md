@@ -14,7 +14,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/04/DSC\_0077.jpg" src="/content-images/blog/2010/04/DSC\_0077-300x229.jpg" alt="Eric Rodenbeck, Stamen Design" >}}
+{{< figure link="/content-images/news/2010/04/DSC\_0077.jpg" src="/content-images/news/2010/04/DSC\_0077-300x229.jpg" alt="Eric Rodenbeck, Stamen Design" >}}
 
 The art of making sense of data &#8212; and it is truly an art &#8212; is a key element in building the future of journalism. Interactive presentations created from data can be personalized by the reader, giving a more engaging news experience. Data-based applications can also lead to new business models, through paid or subscription-based applications that give extra value to readers by providing a new dimension on news coverage.
 

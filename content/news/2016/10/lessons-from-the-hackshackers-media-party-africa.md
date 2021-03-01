@@ -82,8 +82,8 @@ Not every Hacks/Hackers chapter needs or wants a formalized system like this. Bu
  [7]: https://www.meetup.com/HacksHackersLondon/
  [8]: https://www.eventbrite.co.uk/e/hackshackers-london-october-meetup-tickets-28388663256#
  [9]: https://twitter.com/guardianjoanna
- [10]: /content-images/blog/2016/10/HacksHackersLondonMeetupRolesResponsibilities-Template.docx
- [11]: /content-images/blog/2016/10/Hacks2FHackers-London-Workback-Document-Template.xlsx
+ [10]: /content-images/news/2016/10/HacksHackersLondonMeetupRolesResponsibilities-Template.docx
+ [11]: /content-images/news/2016/10/Hacks2FHackers-London-Workback-Document-Template.xlsx
  [12]: https://docs.google.com/spreadsheets/d/1Xmkhz4kGlwYMcljqwRNH4aiPYoDwigdgaHpSrPouuCI/edit#gid=0
  [13]: https://www.wired.com/2016/10/internet-outage-ddos-dns-dyn/?mbid=social_twitter
  [14]: http://bloombergmediaforum.tumblr.com/post/152256960590/creating-a-safer-more-secure-web?utm_source=Daily+Lab+email+list&utm_campaign=a7727d3396-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-a7727d3396-396065225

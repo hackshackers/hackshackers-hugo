@@ -18,7 +18,7 @@ groups:
 
 [Lea este post en español][1]
 
-{{< figure link="http://hackshackers.com/blog/2011/06/01/%c2%a1demo-day-en-buenos-aires-y-hackaton-en-rosario/600\_23039235/" src="/content-images/blog/2011/06/600\_230392351-300x225.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/06/01/%c2%a1demo-day-en-buenos-aires-y-hackaton-en-rosario/600\_23039235/" src="/content-images/news/2011/06/600\_230392351-300x225.jpg" >}}
 
 The second meeting of [Hacks/Hackers Buenos Aires &#8211; Demo Day][2] will take place on June 8, and will be followed a week later on June 15 and 16 by our first [hackathon in Rosario][3], which is located 300 kilometers from Buenos Aires, as part ofthe [4th International Forum on Digital Journalism Rosario][4].
 

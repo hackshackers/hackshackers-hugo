@@ -10,7 +10,7 @@ description: Hacks/Hackers has surpassed the 10,000 member mark just two and hal
   years after its start as a Meetup group in the Bay Area.
 ---
 
-{{< figure link="http://hackshackers.com/blog/2012/04/19/hackshackers-passes-10k-members-worldwide/screen-shot-2012-04-19-at-8-54-44-am/" src="/content-images/blog/2012/04/Screen-Shot-2012-04-19-at-8.54.44-AM-300x200.png" >}}
+{{< figure link="http://hackshackers.com/blog/2012/04/19/hackshackers-passes-10k-members-worldwide/screen-shot-2012-04-19-at-8-54-44-am/" src="/content-images/news/2012/04/Screen-Shot-2012-04-19-at-8.54.44-AM-300x200.png" >}}
 
 Hacks/Hackers has surpassed the 10,000 member mark just two and half years after its start as a Meetup group in the Bay Area. Due to the passion of journalists and technologists like you, we now have groups holding regular events on four continents. And the >10,000 members on meetup.com don&#8217;t even reflect the new chapters being created in parts of the world that aren&#8217;t using Meetup.com for organization, such as in Africa and the Middle East.
 

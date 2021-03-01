@@ -13,7 +13,7 @@ groups:
 - Atlanta
 ---
 
-{{< figure link="/content-images/blog/2010/10/atlanta\_twitter.gif" src="/content-images/blog/2010/10/atlanta\_twitter.gif" alt="Hacks/Hackers Atlanta Twitter Logo" >}}
+{{< figure link="/content-images/news/2010/10/atlanta\_twitter.gif" src="/content-images/news/2010/10/atlanta\_twitter.gif" alt="Hacks/Hackers Atlanta Twitter Logo" >}}
 
 For [Hacks/Hackers Atlanta][1]&#8216;s inaugural event and [ONA Atlanta][2]&#8216;s second event, come learn about the **[Knight News Challenge][3]**, a grant competition for open-source news and information projects in geographic communities that gives away up to $5 million a year and has helped launch startups like Adrian Holovaty&#8217;s [Everyblock][4] and David Cohn&#8217;s[Spot.us][5]. In last year&#8217;s awards, the News Challenge received over 2,300 applications and gave out 12 grants totaling $2.74 million. Anyone can apply &#8212; domestic, international, individuals, companies, for-profit, non-profit. This also doubles as a social/networking event, with doors opening at 6:00 p.m. and casual presentation/info session starting at 6:45ish p.m.
 

@@ -15,7 +15,7 @@ That&#8217;s right, we now have a [Hacks/Hackers store][1]. If you&#8217;re look
 
 All proceeds go to Hacks/Hackers.
 
-{{< figure link="/content-images/blog/2010/11/hh\_gear\_400.jpg" src="/content-images/blog/2010/11/hh\_gear\_400.jpg" >}}
+{{< figure link="/content-images/news/2010/11/hh\_gear\_400.jpg" src="/content-images/news/2010/11/hh\_gear\_400.jpg" >}}
 
  [1]: http://www.cafepress.com/hackshackers
  [2]: https://www.theguardian.com/fashion/2015/nov/28/beauty-mens-christmas-gifts-grooming

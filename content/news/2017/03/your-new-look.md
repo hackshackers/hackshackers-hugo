@@ -19,7 +19,7 @@ The site now includes:
 * A style guide with the new design and logos
 
 ![screenshot of homepage]
-(https://hackshackers.com/content-images/blog/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png)
+(https://hackshackers.com/content-images/news/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png)
 
 Nearly 100 local groups making up Hacks/Hackers have inspired change and jumpstarted media innovation over the last seven years, but the website has been outdated for a while. When we asked community members what they would like to see in a new site, several responded that they didn't know we had one to begin with.
 
@@ -30,7 +30,7 @@ So back in 2015, the intrepid volunteers of the [Website Action Group](https://g
 * Easier and quicker routes to the content users want. This [turned out to be](https://github.com/hackshackers/action-group-website/blob/master/meeting-notes/2015-10-19.md), for example, guides on how to find new members, run a chapter or start a new one.
 
 ![screenshot of resources page]
-(/content-images/blog/2017/Screen Shot 2017-03-10 at 12.32.41 PM.png)
+(/content-images/news/2017/Screen Shot 2017-03-10 at 12.32.41 PM.png)
 
 We got dozens of replies to a [survey back in 2015](https://docs.google.com/spreadsheets/d/1TwBPhjRVXI1HbgQU9L62MSz02YOPDYWhW8pbzyBllkE/edit#gid=232438511), indicating that more than a few of us were interested in overhauling hackshackers.com. The committee debated ways to take action, including migrating the site to Github, incorporating etherpad or organizing via a Google group.
 
@@ -41,4 +41,4 @@ Over the course of half a year, Alley drilled down to the group's essence: openn
 Special thanks go out to the Alley Interactive team, Josh Kadis, Matt Nadolny, Christa Field and Jaimie Olmstead; the Website Action Group, Phillip Smith, Misha Vinokur, Matt Carroll, Michael Pereira and Thomas Wilburn; the calendar designer, Peter MacRobert; the editors, Burt Herman and Samantha Sunne; and the valued hacks and hackers who offered their input.
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="https://hackshackers.com/content-images/blog/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/news/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png">

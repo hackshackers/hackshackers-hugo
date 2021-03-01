@@ -15,7 +15,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" src="/content-images/blog/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" >}}
+{{< figure link="/content-images/news/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" src="/content-images/news/2010/03/Screen-shot-2010-03-03-at-7.42.47-PM.png" >}}
 
 For the next Hacks/Hackers event, we&#8217;ll be heading to Google headquarters in Mountain View to talk about [Wave][1] and potential applications for journalism. I&#8217;ll be writing more about what people have done so far in a future post and are happy to hear about ways you think it could be useful.
 

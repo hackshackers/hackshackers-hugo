@@ -35,7 +35,7 @@ Thanks to [Knight-Mozilla OpenNews][11] and [The New York Times][12] for support
 
 (_Cross-posted at [The Noun Project blog][13]_)
 
- [1]: /content-images/blog/2013/04/HHNYC-iconathon-drone-icon-450.png
+ [1]: /content-images/news/2013/04/HHNYC-iconathon-drone-icon-450.png
  [2]: http://thenounproject.com/noun/drone/#icon-No15208
  [3]: http://meetupnyc.hackshackers.com
  [4]: http://thenounproject.com

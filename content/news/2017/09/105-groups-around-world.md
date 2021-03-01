@@ -9,7 +9,7 @@ categories:
 
 Welcome, hacks and hackers! We now have 105 groups [listed on the website](https://hackshackers.com/groups/), thanks to our newest, [Havana](https://www.meetup.com/en-AU/Periodistas-y-programadores-Habana/):
 
-![groups page](/content-images/blog/2017/groups_page.png)
+![groups page](/content-images/news/2017/groups_page.png)
 
 Plus we have renewed interest in starting chapters in the eastern and southern parts of Europe. Do you know any journos or hackers in Athens, Dusseldorf, or Belgrade? Let them know we're looking for co-organizers.
 

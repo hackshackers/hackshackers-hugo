@@ -28,7 +28,7 @@ Happy Friday, hacks and hackers. After a winter hibernation (or summer nap, for 
 
 Earlier this week, [Rio de Janeiro][8] invited Nick Denton, the founder of Gawker Media, to come [speak to the group][9]. This was organizer [Gabriela Mafort][10]&#8216;s first time putting together a Hacks/Hackers event, and she said having a well-known speaker helped get the word out. &#8220;Having Nick Denton as our first speaker was a great incentive to move forward!&#8221;
 
-{{< figure src="/content-images/blog/2017/01/IMG-20170118-WA0009.jpg" alt="IMG-20170118-WA0009" >}}
+{{< figure src="/content-images/news/2017/01/IMG-20170118-WA0009.jpg" alt="IMG-20170118-WA0009" >}}
 
 **Worth a read:**
 

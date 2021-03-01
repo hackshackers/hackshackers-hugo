@@ -16,7 +16,7 @@ groups:
 - New Delhi
 ---
 
-{{< figure src="/content-images/blog/2013/02/HHDEL-1302-big-data-welcome.jpg" alt="Hacks/Hackers New Delhi gathers for their first hackathon." >}}
+{{< figure src="/content-images/news/2013/02/HHDEL-1302-big-data-welcome.jpg" alt="Hacks/Hackers New Delhi gathers for their first hackathon." >}}
 
 How to curate and present big data sets in India? A group of about 70 coders and journalists met for the first Hacks/Hackers New Delhi hackathon in order to answer that question.
 
@@ -40,7 +40,7 @@ Many groups faced challenges gathering the data they needed, either because such
 
 The event was co-organized by Hacks/Hackers New Delhi and the 9.9 [School of Convergence,][4] a media academy, and partly sponsored by the School of Convergence and [Knight-Mozilla OpenNews][5].
 
- [1]: /content-images/blog/2013/02/HHDEL-1302-big-data-hacking.jpg
+ [1]: /content-images/news/2013/02/HHDEL-1302-big-data-hacking.jpg
  [2]: http://kumbhmelaallahabad.gov.in/english/index.html
  [3]: http://www.pierrefitter.com/2013/02/rapes-and-indian-justice-system.html
  [4]: http://www.schoolofconvergence.com/

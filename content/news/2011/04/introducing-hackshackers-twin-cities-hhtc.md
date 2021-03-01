@@ -14,7 +14,7 @@ groups:
 
 [Public Radio International][1] and [Minne*][2] are joining forces to launch the [Twin Cities Chapter of Hacks/Hackers][3].  We are excited to have our fledgling chapter join the good company of chapters spreading from the [Bay Area][4] to [NYC][5], to [Buenos Aires][6].
 
-{{< figure link="/content-images/blog/2011/04/twin\_cities\_side1.gif" src="/content-images/blog/2011/04/twin\_cities\_side1.gif" >}}
+{{< figure link="/content-images/news/2011/04/twin\_cities\_side1.gif" src="/content-images/news/2011/04/twin\_cities\_side1.gif" >}}
 
 We’ll have a kick-off happy hour at PRI’s new headquarters on Friday, April 22 at 5:30 p.m. and we’ve invited Matt Thompson, formerly of the [Star Tribune][7] and now at [NPR][8], to talk about data overload, the twilight of news brands and more.
 

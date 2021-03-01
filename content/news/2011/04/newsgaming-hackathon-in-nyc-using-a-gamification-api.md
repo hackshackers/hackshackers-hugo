@@ -12,7 +12,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2011/04/BDI7606.jpg" src="/content-images/blog/2011/04/BDI7606-1024x709.jpg" >}}
+{{< figure link="/content-images/news/2011/04/BDI7606.jpg" src="/content-images/news/2011/04/BDI7606-1024x709.jpg" >}}
 
 At the [Hacks/Hackers NYC News+Gaming Hackathon][1], [BigDoor][2] introduced the basic concepts of gaming economy and their [gamification Application Programming Interface (API)][3].
 

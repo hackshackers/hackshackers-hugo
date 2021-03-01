@@ -13,7 +13,7 @@ categories:
 
 **This is your last update until 2016 — the newsletter will be on hiatus until the new year. Happy holidays and may the rest of your 2015 be full of good cheer.**
 
-{{< figure link="/content-images/blog/2015/12/HappyNewYear.gif" src="/content-images/blog/2015/12/HappyNewYear.gif" alt="HappyNewYear" >}}
+{{< figure link="/content-images/news/2015/12/HappyNewYear.gif" src="/content-images/news/2015/12/HappyNewYear.gif" alt="HappyNewYear" >}}
 
 **The week(s) ahead:**
 
@@ -38,11 +38,11 @@ _(Have a job opening to share? Let us know.)_
 
 **Last night, hacks and hackers gathered in snowy Denver to hear from several great speakers, including a reporter who covered the shooting at the Planned Parenthood clinic in Colorado Springs.**
 
-{{< figure link="/content-images/blog/2015/12/Screen-Shot-2015-12-09-at-9.40.03-AM.jpg" src="/content-images/blog/2015/12/Screen-Shot-2015-12-09-at-9.40.03-AM-300x87.jpg" alt="Screen Shot 2015-12-09 at 9.40.03 AM" >}}
+{{< figure link="/content-images/news/2015/12/Screen-Shot-2015-12-09-at-9.40.03-AM.jpg" src="/content-images/news/2015/12/Screen-Shot-2015-12-09-at-9.40.03-AM-300x87.jpg" alt="Screen Shot 2015-12-09 at 9.40.03 AM" >}}
 
 Another notable speaker was Open Media Foundation’s Leo Kacenjar who spoke about a tool he built for searching videos of public meetings. Check out [the tool][14] and [other tweets from the event][15].  
 
-{{< figure link="/content-images/blog/2015/12/HacksHackersColorado.jpg" src="/content-images/blog/2015/12/HacksHackersColorado.jpg" alt="HacksHackersColorado" >}}
+{{< figure link="/content-images/news/2015/12/HacksHackersColorado.jpg" src="/content-images/news/2015/12/HacksHackersColorado.jpg" alt="HacksHackersColorado" >}}
 
 Leo Kacenjar speaks at Hacks/Hackers Colorado’s meetup on Dec. 8.
 

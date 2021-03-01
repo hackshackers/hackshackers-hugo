@@ -19,7 +19,7 @@ groups:
 
 
 
-{{< figure link="/content-images/blog/2015/11/ConnectMap1-e1447951513569.png" src="/content-images/blog/2015/11/ConnectMap1-e1447951513569.png" alt="ConnectMap" >}}
+{{< figure link="/content-images/news/2015/11/ConnectMap1-e1447951513569.png" src="/content-images/news/2015/11/ConnectMap1-e1447951513569.png" alt="ConnectMap" >}}
 
 After a few months spent toiling in the Hacks/Hackers laboratory, we’re back and happy to announce the details for Connect events in San Francisco, London, and NYC.
 
@@ -39,7 +39,7 @@ Hacks/Hackers is also working with chapters to expand the program to new locatio
 
 Thanks for reading & stay tuned for registration details!
 
-{{< figure link="http://connect.hackshackers.com/" src="/content-images/blog/2015/11/ConnectLogoHorizontal-300x61.png" alt="ConnectLogoHorizontal" >}}
+{{< figure link="http://connect.hackshackers.com/" src="/content-images/news/2015/11/ConnectLogoHorizontal-300x61.png" alt="ConnectLogoHorizontal" >}}
 
  [1]: http://hackshackers.us1.list-manage.com/track/click?u=c56f2e53d5ed6ef87f8aaa75c&id=ff0ffafb02&e=8fe604ecc7
  [2]: http://hackshackers.us1.list-manage.com/track/click?u=c56f2e53d5ed6ef87f8aaa75c&id=0fcfb7e6fb&e=8fe604ecc7

@@ -65,7 +65,7 @@ Laurian also shared his interesting career path. While studying medicine he co-f
  [6]: http://twitter.com/gridinoc "Laurian Gridinoc on Twitter"
  [7]: http://www.journalism.co.uk/news/knight-mozilla-names-news-technology-fellowship-winners/s2/a546633/ "Journalism.co.uk"
  [8]: http://blog.mozilla.com/blog/2011/11/04/journalism-in-the-open-the-201112-knight-mozilla-fellows-announced/
- [9]: /content-images/blog/2011/11/laurian-gridinoc-hacks-hackers-brighton.jpg "laurian-gridinoc-hacks-hackers-brighton"
+ [9]: /content-images/news/2011/11/laurian-gridinoc-hacks-hackers-brighton.jpg "laurian-gridinoc-hacks-hackers-brighton"
  [10]: http://hackshackers.com/blog/2011/11/29/hackshackers-brighton-chrys-wu-laurian-gridinoc-nov-22-2011/laurian-gridinoc-hacks-hackers-brighton/
  [11]: http://worrydream.com/Tangle/download.html "Tangle.js"
  [12]: http://worrydream.com/Tangle/TangleTemplate.html "Tangle template"

@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-{{< figure src="/content-images/blog/2010/12/hh\_holiday\_logo.png" alt="hh\_holiday\_logo" >}}
+{{< figure src="/content-images/news/2010/12/hh\_holiday\_logo.png" alt="hh\_holiday\_logo" >}}
 
 Happy holidays, hacks and hackers, to those of you celebrating. To everyone else, I hope you are staying warm (or cool, depending on your hemisphere). Many chapters are either celebrating or hibernating right about now, but job postings are up in other parts of the world &#8211; check out the list below:
 

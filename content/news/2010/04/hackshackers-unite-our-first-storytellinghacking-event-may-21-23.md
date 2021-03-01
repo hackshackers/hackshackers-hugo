@@ -15,7 +15,7 @@ categories:
 
 Hacks/Hackers began as a meetup, but the vision for the group is about more than social gatherings. There&#8217;s already been so much talk about the future of journalism. We wanted to create a community of people leading the charge and building that future.
 
-{{< figure link="http://unite.hackshackers.com" src="/content-images/blog/2010/04/Screen-shot-2010-04-20-at-10.37.36-AM-300x57.png" >}}
+{{< figure link="http://unite.hackshackers.com" src="/content-images/news/2010/04/Screen-shot-2010-04-20-at-10.37.36-AM-300x57.png" >}}
 
 We&#8217;re moving ahead with more of that plan. Hacks/Hackers is partnering with KQED, the leading public radio station in the country, to host its first workshop event May 21-23. [Hacks/Hackers Unite will be a hands-on gathering][1] to build storytelling applications for tablet devices, such as the iPad. We&#8217;re still working on the full program, and guests will include KQED and NPR developers and on-air personalities.
 

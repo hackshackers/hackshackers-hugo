@@ -31,7 +31,7 @@ Organizer Jakub Górnicki said they focused mostly on the tech possibilities for
 
 **
 
-{{< figure src="/content-images/blog/2016/04/IMG\_20160420\_001409-300x300.jpg" alt="IMG\_20160420\_001409" >}}</p>
+{{< figure src="/content-images/news/2016/04/IMG\_20160420\_001409-300x300.jpg" alt="IMG\_20160420\_001409" >}}</p>
 
 </strong>
 

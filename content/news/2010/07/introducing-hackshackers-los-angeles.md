@@ -16,7 +16,7 @@ groups:
 - Los Angeles
 ---
 
-{{< figure link="/content-images/blog/2010/07/Picture-4.png" src="/content-images/blog/2010/07/Picture-4.png" >}}
+{{< figure link="/content-images/news/2010/07/Picture-4.png" src="/content-images/news/2010/07/Picture-4.png" >}}
 
 We’re proud to announce the addition of a Los Angeles branch to the ever-growing Hacks/Hackers nationwide network.
 
@@ -41,11 +41,11 @@ Most of the conversations throughout the night were in small, circulating circle
 
 ### What the Twitterverse said
 
-{{< figure link="/content-images/blog/2010/07/Picture-1.png" src="/content-images/blog/2010/07/Picture-1.png" >}}
+{{< figure link="/content-images/news/2010/07/Picture-1.png" src="/content-images/news/2010/07/Picture-1.png" >}}
 
-{{< figure link="/content-images/blog/2010/07/Picture-2.png" src="/content-images/blog/2010/07/Picture-2.png" >}}
+{{< figure link="/content-images/news/2010/07/Picture-2.png" src="/content-images/news/2010/07/Picture-2.png" >}}
 
-{{< figure link="/content-images/blog/2010/07/Picture-3.png" src="/content-images/blog/2010/07/Picture-3.png" >}}
+{{< figure link="/content-images/news/2010/07/Picture-3.png" src="/content-images/news/2010/07/Picture-3.png" >}}
 
 Now that we’ve all had the chance to meet and talk, future meetups will be more structured and thematic with speakers, panels, presentations &#8212; you name it. We&#8217;re [open to ideas][3] from everyone.
 

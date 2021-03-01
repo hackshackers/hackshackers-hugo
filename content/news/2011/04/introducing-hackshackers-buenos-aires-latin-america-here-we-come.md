@@ -20,13 +20,13 @@ groups:
 
 _You can [also read this post in Spanish.][1] (We&#8217;ve gone bilingual!)_ 
 
-{{< figure link="/content-images/blog/2011/04/buenosaireshackshackers.jpg" src="/content-images/blog/2011/04/buenosaireshackshackers.jpg" >}}
+{{< figure link="/content-images/news/2011/04/buenosaireshackshackers.jpg" src="/content-images/news/2011/04/buenosaireshackshackers.jpg" >}}
 
 The [first meeting][2] of [Hacks/Hackers Buenos Aires][3], Argentina will be on April 28, 2011 at 6.30 p.m. at [AreaTres Workplace][4], Humboldt 2036 Buenos Aires.
 
 The meeting will serve as an introduction to Hacks/Hackers, whose mission is to bring together journalists and technologists. It was originally founded in late 2009 by [Burt Herman][5] of [Storify][6] (and formerly the Associated Press), Rich Gordon of Northwestern, [Aron Pilhofer][7] of [The New York Times][8]. We will exchange information on digital tools for journalists and study the vision of developers and their contributions in their ability to handle large volumes of data.
 
-{{< figure link="/content-images/blog/2011/04/buenosaires.jpg" src="/content-images/blog/2011/04/buenosaires-300x225.jpg" >}}
+{{< figure link="/content-images/news/2011/04/buenosaires.jpg" src="/content-images/news/2011/04/buenosaires-300x225.jpg" >}}
 
 In addition, our group plans to look at ambitious examples of digital journalism from [The New York Times][8], [ProPublica][9], [][10]The Guardian, among others. It will also discuss the tools available for journalists and programmers to work together, such as [Storify][6], [AudioBoo][11], [Stroome][12], Google tools. We will also be showing some local examples, and give exclusive access to innovative services in digital communications. We will also be announcing new meetups during the year and will be calling companies and organizations that wish to join us.
 

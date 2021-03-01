@@ -20,7 +20,7 @@ You can also [read this post in English][1].
 
 _
 
-{{< figure link="/content-images/blog/2011/04/img\_277712.jpg" src="/content-images/blog/2011/04/img\_277712-300x225.jpg" >}}</p> 
+{{< figure link="/content-images/news/2011/04/img\_277712.jpg" src="/content-images/news/2011/04/img\_277712-300x225.jpg" >}}</p> 
 
 ¿No es simbólico?</em>
 
@@ -48,7 +48,7 @@ El desarrollador [Martín Sarsale][19] ([CTO Sumavisos][20]) contó su mirada co
 
 **WikiLeaks @ Argentina**
 
-{{< figure link="/content-images/blog/2011/04/santi.jpg" src="/content-images/blog/2011/04/santi-300x225.jpg" >}}
+{{< figure link="/content-images/news/2011/04/santi.jpg" src="/content-images/news/2011/04/santi-300x225.jpg" >}}
 
 El periodista argentino [Santiago O&#8217;Donnell][23] contó su experiencia en el trabajo con los cables de [Wikileaks para Argentina][24], ya que fue el primer periodista de este país en acceder a ese material. Contó pormenores de las negociaciones con Julian Assange, y describió técnicamente la metodología para comunicarse con el sitio. Además, mostró el software desarrollado en Argentina para filtrar los documentos y poder organizarlos. Y anunció su intención de crear un Wikileaks en Argentina. &#8220;Pueden bajar a Wikileaks, pero no pueden matar la idea detrás de Wikileaks&#8221;, dijo.
 
@@ -108,7 +108,7 @@ PS: Realizamos un post sobre [Hacks/Hackers Buenos Aires en @Storify][34]
  [26]: http://www.twitter.com/burtherman
  [27]: http://www.mozilla-ar.org/
  [28]: http://blog.mozilla.com/blog/2011/02/07/knight-mozilla-news-technology-partnership-announced/
- [29]: /content-images/blog/2011/04/286733428.jpg
+ [29]: /content-images/news/2011/04/286733428.jpg
  [30]: http://hackshackers.com/www.mozilla.org/foundation/
  [31]: http://www.open-mesh.org/
  [32]: http://www.therealtime.com.ar/

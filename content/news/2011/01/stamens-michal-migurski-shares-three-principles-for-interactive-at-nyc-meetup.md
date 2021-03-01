@@ -19,7 +19,7 @@ groups:
 
 Much to the enjoyment of the map junkies of the group, Hacks/Hackers NYC welcomed [Michal Migurski][1], partner and resident cartography guru of interactive agency [Stamen Design][2], to the [Jan. 11 meetup][3]. He showcased two of his “civic-oriented” projects, Oakland Crimespotting and This Tract, each aiming to make government data interactive and accessible for the public good.
 
-{{< figure link="/content-images/blog/2011/01/Screen-shot-2011-01-13-at-11.50.08-PM.png" src="/content-images/blog/2011/01/Screen-shot-2011-01-13-at-11.50.08-PM-224x300.png" >}}
+{{< figure link="/content-images/news/2011/01/Screen-shot-2011-01-13-at-11.50.08-PM.png" src="/content-images/news/2011/01/Screen-shot-2011-01-13-at-11.50.08-PM-224x300.png" >}}
 
 Migurski introduced his company and shared some of Stamen&#8217;s [past work][4], including [Digg Swarm][5], which represented online buzz following the reported death of Saddam Hussein.
 
@@ -55,7 +55,7 @@ He concluded his presentation with a reminder of his three guiding contexts: Her
 
 **</p> 
 
-{{< figure link="http://www.slideshare.net/kennedyelliott/michal-migurski-data-in-context" src="/content-images/blog/2011/01/MMSlides1-300x264.png" alt="Michal Migurski's slideshow: Data in Context" >}}
+{{< figure link="http://www.slideshare.net/kennedyelliott/michal-migurski-data-in-context" src="/content-images/news/2011/01/MMSlides1-300x264.png" alt="Michal Migurski's slideshow: Data in Context" >}}
 
 </strong>
 

@@ -18,7 +18,7 @@ groups:
 
 [This post also in english][1]
 
-{{< figure link="http://hackshackers.com/blog/2011/06/01/%c2%a1demo-day-en-buenos-aires-y-hackaton-en-rosario/600\_23039235/" src="/content-images/blog/2011/06/600\_230392351-300x225.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/06/01/%c2%a1demo-day-en-buenos-aires-y-hackaton-en-rosario/600\_23039235/" src="/content-images/news/2011/06/600\_230392351-300x225.jpg" >}}
 
 Llega el segundo encuentro de [Hacks/Hackers Buenos Aires – Demo Day,][2] y una semana después, el primer [Hackatón en Rosario][3], a 300 kilómetros de Buenos Aires, en el marco del [4° Foro Internacional de Periodismo Digital de Rosario][4]. En el primer encuentro de Hacks/Hackers Buenos Aires se reunieron cerca de 140 profesionales, entre editores, periodistas e importantes desarrolladores y se dispararon proyectos y propuestas.
 

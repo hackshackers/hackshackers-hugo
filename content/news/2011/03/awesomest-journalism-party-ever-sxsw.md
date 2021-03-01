@@ -15,7 +15,7 @@ groups:
 - Austin
 ---
 
-{{< figure link="http://awesomest.journalismparty.com/ever/" src="/content-images/blog/2011/02/title.jpg" >}}
+{{< figure link="http://awesomest.journalismparty.com/ever/" src="/content-images/news/2011/02/title.jpg" >}}
 
 Please join [Hacks/Hackers][1], [Online News Association][2], [Poynter Institute][3], [Association of Alternative Newsweeklies][4] [Vision Cloud][5], [Scribd][6], [Tableau Software][7] and more for a rockin&#8217; party during SXSW. It&#8217;s the [Awesomest Journalism Party. Ever.][8] Really. And you&#8217;re invited for music and fun with some of the most innovative journalists and developers in the country.
 
@@ -25,7 +25,7 @@ When: Sunday, March 13, 4-7pm
 
 Please visit the [Awesomest Journalism Party. Ever][8] site for more details and to RSVP.
 
-{{< figure link="/content-images/blog/2011/02/qcpromo1.jpg" src="/content-images/blog/2011/02/qcpromo1.jpg" >}}
+{{< figure link="/content-images/news/2011/02/qcpromo1.jpg" src="/content-images/news/2011/02/qcpromo1.jpg" >}}
 
 Live music will be provided by the very popular Austin band [Quiet Company][10] (a recent winner of Best Album by an Austin Band at the [Roaries][11]).
 

@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2010/10/hackathon-0261.jpg" src="/content-images/blog/2010/10/hackathon-0261.jpg" >}}
+{{< figure link="/content-images/news/2010/10/hackathon-0261.jpg" src="/content-images/news/2010/10/hackathon-0261.jpg" >}}
 
 Hi from the inaugural Hacks/Hackers NYC Hackathon, where the caffeine has been replenished and the coders are getting down to geekery.
 

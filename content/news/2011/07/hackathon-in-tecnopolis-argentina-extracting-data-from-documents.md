@@ -17,7 +17,7 @@ groups:
 
 [Post en español][1]
 
-{{< figure link="http://hackshackers.com/blog/2011/07/29/hackaton-en-tecnopolis-extraccion-automatica-de-datos-desde-documentos/17-de-julio-de-2011-tomas-aereas-de-tecnopolis/" src="/content-images/blog/2011/07/tecnopolis.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/07/29/hackaton-en-tecnopolis-extraccion-automatica-de-datos-desde-documentos/17-de-julio-de-2011-tomas-aereas-de-tecnopolis/" src="/content-images/news/2011/07/tecnopolis.jpg" >}}
 
 [Hacks/Hackers Buenos Aires][2] is announcing a hackathon (a day of programming between journalists and software developers) in order to work on [Mapa76.Info][3], an Internet software for the automatic extraction and visualization of data from text documents. The hackathon will take place on Saturday, August 13, in the pressroom of the mega-exhibition [Tecnopolis][4] Argentina (photo) and will focus on the trials of the last military dictatorship, which are currently in progress. ([How to get to Technopolis in Google Maps][5])
 

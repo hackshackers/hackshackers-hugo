@@ -20,19 +20,19 @@ So on to it.
 
 Nick Diakopoulos, a post-doc research associate at Rutgers University, talked about his work on turning data into information graphics games. One example is [Salubrious Nation][1], which challenges players to guess the public health of a communities nationwide based on county demographics.
 
-{{< figure link="http://salubriousnation.com" src="/content-images/blog/2010/07/salubrious-nation-400.jpg" alt="Salubrious Nation data game by Nick Diakopoulos" >}}
+{{< figure link="http://salubriousnation.com" src="/content-images/news/2010/07/salubrious-nation-400.jpg" alt="Salubrious Nation data game by Nick Diakopoulos" >}}
 
 Another is [Vox Civitas][2], which analyzed Twitter messages posted during President Obama&#8217;s State of the Union address. Graphing keywords on a chart showing time and message volume and adding a tweet window revealed interesting patterns. For instance, Nick and his colleagues noticed a spike about 28 minutes into the president&#8217;s speech. Turns out air force bases issued a burst of tweets as he spoke about funding for military family support. Search on the keyword &#8220;military&#8221; to see for yourself.
 
 <!--more-->Nick mentioned he worked with other researchers to develop their own semantic analysis algorithm, which he said is about 65 percent accurate.
 
-{{< figure link="http://sm.rutgers.edu/voxcivitas/voxcivitas.html" src="/content-images/blog/2010/07/vox-civitas-400.jpg" alt="Vox Civitas by Nick Diakopoulos" >}}
+{{< figure link="http://sm.rutgers.edu/voxcivitas/voxcivitas.html" src="/content-images/news/2010/07/vox-civitas-400.jpg" alt="Vox Civitas by Nick Diakopoulos" >}}
 
-{{< figure link="http://hackshackers.com/2010/07/15/daylife-you-create-it-well-sell-it-you-keep-70-of-the-proceeds/" src="/content-images/blog/2010/07/vineet-gupta-daylife.jpg" alt="Vineet Gupta of Daylife" >}}
+{{< figure link="http://hackshackers.com/2010/07/15/daylife-you-create-it-well-sell-it-you-keep-70-of-the-proceeds/" src="/content-images/news/2010/07/vineet-gupta-daylife.jpg" alt="Vineet Gupta of Daylife" >}}
 
 Vineet Gupta of Daylife proposed a Hacks & Hackers API challenge. Make an application using the Daylife API and Daylife will pitch it to its clients, which include major outlets and popular blogs. If they buy your app, Daylife splits the proceeds — you get 70 percent, they get 30 percent. [Get the details][3] and get cracking. Vineet Gupta will answer questions at <vineet@daylife.com>.
 
-{{< figure link="/content-images/blog/2010/07/brad-flora-nowspots.jpg" src="/content-images/blog/2010/07/brad-flora-nowspots.jpg" alt="Brad Flora introduces NowSpots" >}}
+{{< figure link="/content-images/news/2010/07/brad-flora-nowspots.jpg" src="/content-images/news/2010/07/brad-flora-nowspots.jpg" alt="Brad Flora introduces NowSpots" >}}
 
 Brad Flora flew in from Chicago to talk about his real-time local online ad network, [NowSpots][4]. The service recently won a $250,000 grant from the Knight News Challenge, and Nieman Labs wrote that the service is expected to &#8220;[bring order and intelligence to online advertising][5]&#8221; by delivering current, relevant promotions and tracking performance.
 

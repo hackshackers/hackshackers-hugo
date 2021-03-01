@@ -29,7 +29,7 @@ Happy Wednesday! Watch for news soon from Hacks/Hackers about the next [Connect]
 
 **Hacks/Hackers Buenos Aires has more than 5000 members on Meetup, and held its 50th event this past week. The chapter held its first event [way back in April 2011][8]. More recently, you might’ve heard about the awesome (and well-attended) Media Party that the chapter hosted in August:**
 
-{{< figure link="/content-images/blog/2015/11/MediaPartyMeetupPhoto.jpeg" src="/content-images/blog/2015/11/MediaPartyMeetupPhoto-300x200.jpeg" alt="MediaPartyMeetupPhoto" >}}
+{{< figure link="/content-images/news/2015/11/MediaPartyMeetupPhoto.jpeg" src="/content-images/news/2015/11/MediaPartyMeetupPhoto-300x200.jpeg" alt="MediaPartyMeetupPhoto" >}}
 
 You can see videos from the Media Party on the Hacks/HackersBA’s [YouTube channel][9].
 

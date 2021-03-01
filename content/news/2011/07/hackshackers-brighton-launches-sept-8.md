@@ -14,7 +14,7 @@ groups:
 - Brighton
 ---
 
-{{< figure link="http://hackshackers.com/blog/2011/07/26/hackshackers-brighton-launches-sept-8/brighton-dome-resized/" src="/content-images/blog/2011/07/Brighton-Dome-resized1-300x198.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/07/26/hackshackers-brighton-launches-sept-8/brighton-dome-resized/" src="/content-images/news/2011/07/Brighton-Dome-resized1-300x198.jpg" >}}
 
 A new chapter of Hacks/Hackers is launching in Brighton, a city on the south coast of the UK, home to a wealth of developer and journalistic talent.
 

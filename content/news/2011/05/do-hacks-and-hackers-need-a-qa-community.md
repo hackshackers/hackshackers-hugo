@@ -14,7 +14,7 @@ categories:
 
 Almost two years ago, a couple of people interested in computer programming in journalism brainstormed an idea for a website where software developers working in journalism and media could go to get solutions to their programming problems from their peers.
 
-{{< figure link="http://help.hackshackers.com/" src="/content-images/blog/2011/05/Help.HacksHackers.Com-logo.jpeg" >}}
+{{< figure link="http://help.hackshackers.com/" src="/content-images/news/2011/05/Help.HacksHackers.Com-logo.jpeg" >}}
 
 The site &#8212; at [help.hackshackers.com][1] &#8212; <del>has been running since</del> **launched in **April 2010, attracting more than 200 registered users, 145 questions and more than 500,000 page views.
 

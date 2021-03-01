@@ -16,7 +16,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/07/Corey\_Pic\_AAJAconvention.jpg" src="/content-images/blog/2010/07/Corey\_Pic\_AAJAconvention.jpg" >}}
+{{< figure link="/content-images/news/2010/07/Corey\_Pic\_AAJAconvention.jpg" src="/content-images/news/2010/07/Corey\_Pic\_AAJAconvention.jpg" >}}
 
 We&#8217;re delighted to announce that freelance journalist [Corey Takahashi][1] is the winner of the Hacks/Hackers scholarship to Poynter&#8217;s [workshop on programming for journalists / journalism for programming][2].
 

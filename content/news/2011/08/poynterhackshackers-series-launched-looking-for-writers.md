@@ -17,7 +17,7 @@ Today we’re launching a [new Hacks/Hackers series on Poynter][1].  Each week 
 
 The first in the series is Katharine Jarmul, [@kjam][3], on finding and using good APIs for data. You can check it out [here][1].
 
-{{< figure src="/content-images/blog/2010/07/PoynterLogo.gif" alt="Poynter Institute logo" >}}
+{{< figure src="/content-images/news/2010/07/PoynterLogo.gif" alt="Poynter Institute logo" >}}
 
 Robert Hernandez, [@webjournalist,][4] and I, [@bethdavidz][5], are putting together the series with the help Poynter’s Mallary Tenore, [@mallarytenore][6], our incredible editor.
 

@@ -10,7 +10,7 @@ groups:
 - Austin
 ---
 
-{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh2-ona/" src="/content-images/blog/2012/01/hh2-ona.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh2-ona/" src="/content-images/news/2012/01/hh2-ona.jpg" >}}
 
 Happy New Year! Exciting changes are in the works for Hacks/Hackers ATX in 2012, joining up with a newly formed [Online News Association][1] local group. The two organizations hosted a debut meetup at [Opal Divine&#8217;s Penn Field][2] on January 5 to kick off the collaboration. The plan is to broaden the scope that was originated by Hacks/Hackers ATX since September 2010, but adding content that addresses general online news issues, while retaining the Hacks/Hackers presence in data, programming and user experiences.
 
@@ -18,13 +18,13 @@ The organizing group includes people from Texas State University, The University
 
 With more than 60 people attending the debut meetup, the joint group is off to a great start!
 
-{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh1-ona/" src="/content-images/blog/2012/01/hh1-ona.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh1-ona/" src="/content-images/news/2012/01/hh1-ona.jpg" >}}
 
-{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/ona\_hh/" src="/content-images/blog/2012/01/ona\_hh.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/ona\_hh/" src="/content-images/news/2012/01/ona\_hh.jpg" >}}
 
 In other news, Hacks/Hackers ATX enjoyed co-hosting the Austin [Holiday Web Bash][9], along with 18 other local meetup groups, at Buffalo Billiards on Dec. 13. The event, which collected food and donations for the [Capital Area Food Bank][10], was attended by more than 500 area programmers, developers, designers, instructors and overall Web enthusiasts. It was a great time and a great success.
 
-{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh\_webdev/" src="/content-images/blog/2012/01/hh\_webdev.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/01/06/hackshackers-atx-teams-up-with-ona-local/hh\_webdev/" src="/content-images/news/2012/01/hh\_webdev.jpg" >}}
 
 Holiday Web Bash Photo by Damon Clinkscales
 

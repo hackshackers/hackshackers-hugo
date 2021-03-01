@@ -52,7 +52,7 @@ The developer [Martin Sarsale (CTO Sumavisos)][18] gave [an example of  data in
 
 **WikiLeaks @ Argentina**
 
-{{< figure link="/content-images/blog/2011/04/santi.jpg" src="/content-images/blog/2011/04/santi-300x225.jpg" >}}
+{{< figure link="/content-images/news/2011/04/santi.jpg" src="/content-images/news/2011/04/santi-300x225.jpg" >}}
 
 Argentine journalist [Santiago O&#8217;Donnell][21] recounted his experience in working with [WikiLeaks cables for Argentina at Página/12][22], as he was the first journalist in this country to have access to this material. He detailed the negotiations within Julian Assange and technically described the methodology to communicate with the site. Also, showed off all the software developed in Argentina to filter the documents and to organize it. He announced his intention to create a WikiLeaks in Argentina. &#8220;They can go down to WikiLeaks, but can not kill the idea behind WikiLeaks&#8221;, he said. ****
 

@@ -26,6 +26,6 @@ We&#8217;ll have notes from the meetup in a bit&#8230;
  [1]: http://meetupnyc.hackshackers.com/
  [2]: http://openplans.org/
  [3]: http://www.flickr.com/photos/zokuga/5035323672/
- [4]: /content-images/blog/2010/10/5035323672_b973e4ed27.jpg "Hacks/Hackers NYC at OpenPlans"
+ [4]: /content-images/news/2010/10/5035323672_b973e4ed27.jpg "Hacks/Hackers NYC at OpenPlans"
  [5]: http://bit.ly/d8uDdO
  [6]: http://www.scribd.com/doc/38417113/Working-Together-to-Build-Social-News "View Working Together to Build Social News on Scribd"

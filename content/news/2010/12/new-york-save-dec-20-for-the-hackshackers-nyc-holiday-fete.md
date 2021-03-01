@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2010/12/hh\_holiday\_logo.png" src="/content-images/blog/2010/12/hh\_holiday\_logo-300x192.png" >}}
+{{< figure link="/content-images/news/2010/12/hh\_holiday\_logo.png" src="/content-images/news/2010/12/hh\_holiday\_logo-300x192.png" >}}
 
 **Update:** RSVP now for the [Hacks/Hackers Holiday Fête][1] on Dec. 20 at [Galapagos Art Space][2] in DUMBO! Doors will open at 7 p.m. [Crave][3] will be catering the evening.
 

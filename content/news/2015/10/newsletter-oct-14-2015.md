@@ -24,7 +24,7 @@ Welcome to the fourth edition of this newsletter. What have you enjoyed about th
 
 [Hacks/Hackers Delhi][11] brought together [more than a half-dozen speakers][12] to discuss different approaches for reaching a mobile news audience. [Check out the Storify][13] by Aayush Soni for a great recap, or search the hashtag [#mobilexnews][14] to see tons of live-tweets from the event.
 
-{{< figure link="/content-images/blog/2015/10/HacksHackersDehli.jpg" src="/content-images/blog/2015/10/HacksHackersDehli-300x150.jpg" alt="HacksHackersDehli" >}}
+{{< figure link="/content-images/news/2015/10/HacksHackersDehli.jpg" src="/content-images/news/2015/10/HacksHackersDehli-300x150.jpg" alt="HacksHackersDehli" >}}
 
 These photos and more on [the event’s Facebook page][15].
 

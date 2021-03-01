@@ -12,7 +12,7 @@ categories:
 
 It&#8217;s finally here, hacks and hackers: the new [HacksHackers.com][1]!
 
-{{< figure link="http://hackshackers.com" src="/content-images/blog/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png" alt="Screen Shot 2017-03-07 at 5.02.54 PM" >}}
+{{< figure link="http://hackshackers.com" src="/content-images/news/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png" alt="Screen Shot 2017-03-07 at 5.02.54 PM" >}}
 
 We&#8217;ll be sharing some behind-the-scenes insights later on about our vision for the site, its development and the people who contributed. But for now, check out the updated directory of groups and the snazzy interactive layout.
 
@@ -129,7 +129,6 @@ We&#8217;re launching it just in time for the [Awesomest Journalism Party Ever][
  [41]: http://opensourcebridge.org/
  [42]: http://www.ire.org/conferences/ire2017/
  [43]: https://www.alleyinteractive.com/
- 
+
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
- 

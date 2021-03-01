@@ -22,7 +22,7 @@ Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as
 
 **Chapter spotlight:**
 
-{{< figure src="/content-images/blog/2015/11/ConnectLogoHorizontal-300x61.png" alt="ConnectLogoHorizontal" >}}
+{{< figure src="/content-images/news/2015/11/ConnectLogoHorizontal-300x61.png" alt="ConnectLogoHorizontal" >}}
 
 [Connect Brussels][12] brought 60 aspiring media entrepreneurs to Europe&#8217;s capital. Check out the photo gallery, courtesy of a professional photographer, [on Facebook here][13].
 

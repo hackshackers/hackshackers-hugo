@@ -12,7 +12,7 @@ categories:
 
 All around the world last week, Hacks/Hackers chapters met on topics as varied as web scraping in Python to net neutrality to new storytelling techniques at Zeit Online. In New York City, a panel of four professor/journalists talked about the joys and challenges of teaching data + journalism. A couple of photos:
 
-{{< figure link="/content-images/blog/2015/10/HacksHackersNYCOct.png" src="/content-images/blog/2015/10/HacksHackersNYCOct-300x131.png" alt="HacksHackersNYCOct" >}}
+{{< figure link="/content-images/news/2015/10/HacksHackersNYCOct.png" src="/content-images/news/2015/10/HacksHackersNYCOct-300x131.png" alt="HacksHackersNYCOct" >}}
 
 **The week ahead for Hacks/Hackers**:
 

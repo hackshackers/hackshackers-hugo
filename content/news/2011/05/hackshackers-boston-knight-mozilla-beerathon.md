@@ -29,7 +29,7 @@ Stitching together multiple realtime video feeds, syncing questions and and answ
 
 {{< figure link="http://posterous.com/getfile/files.posterous.com/hackshackers/rfSAMYN7YNAsInpt1gFq7jUEiYO7XmHAyssxDvYA0UqhhBSElPnWLntNeOVA/IMAG0015.jpg.scaled.1000.jpg" src="http://posterous.com/getfile/files.posterous.com/hackshackers/Z79jO9GXseNJE1YfLxCBVySJNexyoBsGBHoTftvznlYGXeD6XXbom5DEGq6Z/IMAG0015.jpg.scaled.500.jpg" alt="Imag0015" >}}
 
-{{< figure link="http://j8.ly/drawings-from-hackshackers-knightmozilla-chal" src="/content-images/blog/2011/05/knight-mozilla1.jpg" alt="Knight Mozilla Hacks/Hackers meetup" >}}
+{{< figure link="http://j8.ly/drawings-from-hackshackers-knightmozilla-chal" src="/content-images/news/2011/05/knight-mozilla1.jpg" alt="Knight Mozilla Hacks/Hackers meetup" >}}
 
 The crowd of “hackers, reporters, editors, students, interested oddballs, etc.” (as described by Globe Creative Technologist [Chris Marstall][3]) met up at MIT’s Medial Lab to tackle the topic of [“Unlocking video”][4], the first of three [Knight Mozilla][5] Innovation Challenges (the others are reinventing discussions and general ‘blow our minds’ killer news apps).
 

@@ -17,7 +17,7 @@ categories:
 
 _The following is a guest post by [Corey Takahashi][1], who attended a Poynter seminar for journalists and programming through a scholarship provided with Hacks/Hackers._
 
-{{< figure link="/content-images/blog/2010/09/HH\_Globe\_Wordpress\_smallfile1.jpg" src="/content-images/blog/2010/09/HH\_Globe\_Wordpress\_smallfile1-300x200.jpg" >}}
+{{< figure link="/content-images/news/2010/09/HH\_Globe\_Wordpress\_smallfile1.jpg" src="/content-images/news/2010/09/HH\_Globe\_Wordpress\_smallfile1-300x200.jpg" >}}
 
 The key lesson I learned at [Poynter’s first seminar on programming and journalism][2] is how much overlap there already is between these two worlds, and the extent to which old-school reporting is at the heart of some of the industry’s most successful and innovative news apps and online features. [PolitiFact’s][3] Matt Waite told attendees that the [“Truth-O-Meter,”][4] a Web-based gauge of truth-telling by politicians, gets some of the most rigorous fact-checking at the _St. Petersburg Times_, precisely because the feature is designed to bluntly call out dissembling in a more direct way than a newspaper article.
 

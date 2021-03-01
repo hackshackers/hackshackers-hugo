@@ -33,7 +33,7 @@ Point at a Web page full of PDFs and see if the content within the PDFs has chan
 **Arab Spring Data Visualizations** by Andy Carvin, Melanie Coulson, David Karger, Seth Lewis, David Myers, Geneva Overholser, Sisi Wei and team  
 &nbsp;&nbsp;<a href="http://dl.dropbox.com/u/13504438/egypt.html" alt="Jan. 2: The battle for Tahrir Square">Visualizations</a> of the Arab Spring tweets collected by Andy Carvin of NPR.![][9]
 
- [1]: /content-images/blog/2011/06/register.jpeg ""
+ [1]: /content-images/news/2011/06/register.jpeg ""
  [2]: http://www.niemanlab.org/labitude/fuego-trends/
  [3]: http://www.chryswu.com/hhh/images/fuego-trends-screenshot.png
  [4]: http://j.mp/interactivecharts

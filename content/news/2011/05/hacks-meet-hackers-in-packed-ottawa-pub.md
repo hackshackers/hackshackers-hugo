@@ -32,7 +32,7 @@ The event couldn’t have happened without the support of the [Ottawa Citizen][8
 
 _Nick Taylor-Vaisey and Alex Lougheed are a Hack and Hacker, respectively, who helped get Hacks and Hackers Ottawa off the ground. They can be reached through the group’s meetup page at [hackshackers.com/chapter/ottawa][11]._
 
- [1]: /content-images/blog/2011/05/ottawa_side.gif "Hacks/Hackers Ottawa"
+ [1]: /content-images/news/2011/05/ottawa_side.gif "Hacks/Hackers Ottawa"
  [2]: http://www.meetup.com/HacksHackersOttawa/
  [3]: http://ottawacitizen.com/
  [4]: http://punditsguide.ca/

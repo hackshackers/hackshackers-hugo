@@ -23,7 +23,7 @@ Happy Wednesday. Starting next week, we’ll include job postings as a section o
 
 ****Spotlight:**** Hacks/Hackers event at Stanford
 
-{{< figure link="/content-images/blog/2015/10/hhstanford.jpg" src="/content-images/blog/2015/10/hhstanford-300x225.jpg" alt="hhstanford" >}}
+{{< figure link="/content-images/news/2015/10/hhstanford.jpg" src="/content-images/news/2015/10/hhstanford-300x225.jpg" alt="hhstanford" >}}
 
 **Bay Area** Hacks/Hackers [met up at Stanford][8] on Tuesday to hear from folks from CIR, Vocativ and SmartNews. Gerald Rich talked about GIS and online mapping tools for data visualizations (notes are here: [bit.ly/hhstanford-maps][9]), Naoki Orii from SmartNews discussed the difference between exploration and exploitation in algorithmic recommendations, and Allison McCartney explained her work on the interface for Reveal’s [The Lost and Found][10] project to crowdsource connecting missing persons and unidentified bodies in cold cases. For tweets and photos from the event, [here’s a Storify][11].
 

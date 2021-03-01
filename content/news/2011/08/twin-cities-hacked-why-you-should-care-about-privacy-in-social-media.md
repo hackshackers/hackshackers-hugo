@@ -16,7 +16,7 @@ A review of “Hacked! – Why You Should Care About Privacy in Social Media” 
 
 ( Disclaimer: I was one of the discussion panelists during this event )
 
-{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-010/" src="/content-images/blog/2011/07/hhtc2-010-300x225.png" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-010/" src="/content-images/news/2011/07/hhtc2-010-300x225.png" >}}
 
 Are Journalists (&#8220;Hacks&#8221;) and the digital literati of the computer culture (&#8220;Hackers&#8221;) so different from one another when it comes to (what? Pursuing Freedom of information? Transparency?)?
 
@@ -30,7 +30,7 @@ Geeks (I wear the title proudly) are the creators, developers, and also the user
 
 Hackers create it, journalists write about it. Hackers and Hacks rely on each other because both need the other&#8217;s technologies and skills for their own work. In short, people within these given areas often must communicate with others who are outside of their area, thus social interaction takes place and some communication issues may arise. Over the past few decades the tools have changed significantly. And even within the last five years we have social media emerge full force into our society. As such, these tools change how we interact and communicate with each other.
 
-{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-017/" src="/content-images/blog/2011/07/hhtc2-017-300x225.png" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-017/" src="/content-images/news/2011/07/hhtc2-017-300x225.png" >}}
 
 Enter &#8220;Hacks and Hackers Twin Cities &#8211; Hacked! &#8211; Why You Should Care about Privacy in Social Media,&#8221; which was the second Hacks and Hackers Twin Cities meeting to take place, on July 21st, 2011 at Public Radio International (PRI). (I wish to thank PRI for its support of the local Hacks and Hackers Twin Cities chapter.)
 
@@ -38,7 +38,7 @@ Hacked! &#8211; Why You Should Care about Privacy in Social Media&#8221; (or als
 
 “Hacked! &#8211; Why You Should Care about Privacy in Social Media&#8221; is really not just about social media and personal safety online and off; but also about how each of us figures out what this change means for us as individuals and as a society.
 
-{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-020/" src="/content-images/blog/2011/07/hhtc2-020-300x225.png" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/11/twin-cities-hacked-why-you-should-care-about-privacy-in-social-media/hhtc2-020/" src="/content-images/news/2011/07/hhtc2-020-300x225.png" >}}
 
 How does this all affect us?
 
@@ -58,7 +58,7 @@ Questions like these and more were discussed in lively conversations in which in
 
 <a>
 
-{{< figure src="/content-images/blog/2011/07/hhtc2-003-300x225.png" >}}</p> 
+{{< figure src="/content-images/news/2011/07/hhtc2-003-300x225.png" >}}</p> 
 
 <p>
   When I first presented the idea of a Security/Social Media-based forum, the response from people on the Hacks and Hackers Twin Cities form was indeed lukewarm at best. Even in the beginning of the actual event, response was slow at first as people tread into tepid waters, unsure of what we were about to do. But then the discussion blossomed into this beautiful thing which took on a life of its own &#8212; as dynamic as social media and life itself is. This event wasn’t about the panelists; it was about the average person. It wasabout being social not only in media, but with each other, face to face and getting different groups to communicate with each other through both analog and digital means, while trying to not lose too much privacy and security while doing it. It’s about communication, , security, people, and so much more.

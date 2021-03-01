@@ -20,7 +20,7 @@ Hacks/Hackers [New Orleans][2] held its first hackathon this week, digging into
 
 The event drew about 30 people, congregating around topics like public safety and real estate data. The final projects were:
 
-{{< figure link="http://precycle.jonathanhooper.net/" src="/content-images/blog/2017/02/Screen-Shot-2017-02-06-at-7.22.48-AM.png" alt="Screen Shot 2017-02-06 at 7.22.48 AM" >}}
+{{< figure link="http://precycle.jonathanhooper.net/" src="/content-images/news/2017/02/Screen-Shot-2017-02-06-at-7.22.48-AM.png" alt="Screen Shot 2017-02-06 at 7.22.48 AM" >}}
 
 [**Precycle**][5]
 
@@ -30,7 +30,7 @@ You&#8217;d think a town famous for drinking would know how to recycle, but no. 
 
 The [Gulf Restoration Network][7], an environmental nonprofit, has been trying to analyze wetlands use permits, but struggling to wrangle with some data stored in levelDB. One attendee [wrote a parser][8], and over the course of the day they managed to get the data into a usable format. Next, the group will use it to populate [a map of wetlands uses][9] in the Gulf area. Users can see who owns the permit, as well as links to the document itself and deadlines for adding public comment. The current map, seen [here][6], will be expanded by end of 2018 to include Texas and Florida.
 
-{{< figure link="https://gulfwetlandsmap.carto.com/viz/d36aa682-1d07-11e6-bc20-0ef7f98ade21/public_map" src="/content-images/blog/2017/02/Screen-Shot-2017-02-09-at-1.23.44-PM.png" alt="Screen Shot 2017-02-09 at 1.23.44 PM" >}}
+{{< figure link="https://gulfwetlandsmap.carto.com/viz/d36aa682-1d07-11e6-bc20-0ef7f98ade21/public_map" src="/content-images/news/2017/02/Screen-Shot-2017-02-09-at-1.23.44-PM.png" alt="Screen Shot 2017-02-09 at 1.23.44 PM" >}}
 
 [**Nola guns**][10]
 
@@ -40,7 +40,7 @@ Another map produced at the hackathon was of &#8220;firearm discharge&#8221; inc
 
 Crime data is always some of the most popular data around, for nerds and average citizens alike. Somewhat similar to the guns team, the 911 team put together a [visualization dashboard][11], including a map of calls for service. The tool uses an API to automatically pull data from the [New Orleans open data portal][12]. It can be downloaded as HTML and reused for other projects &#8211; just replace the data source!
 
-{{< figure link="http://nolacfs.com/" src="/content-images/blog/2017/02/Screen-Shot-2017-02-09-at-1.26.02-PM.png" alt="Screen Shot 2017-02-09 at 1.26.02 PM" >}}
+{{< figure link="http://nolacfs.com/" src="/content-images/news/2017/02/Screen-Shot-2017-02-09-at-1.26.02-PM.png" alt="Screen Shot 2017-02-09 at 1.26.02 PM" >}}
 
 [**311 app**][13]
 

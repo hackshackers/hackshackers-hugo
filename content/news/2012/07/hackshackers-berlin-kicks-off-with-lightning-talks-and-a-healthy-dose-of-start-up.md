@@ -29,7 +29,7 @@ Lessons learnt? For next time, we&#8217;d like to see more journalists, more ins
 
 _This report was written by the evening&#8217;s moderator and facilitator, [Adam Thomas][15]._
 
- [1]: /content-images/blog/2012/07/HackHackerBerlin.jpg "Hacks/Hackers Berlin stickers"
+ [1]: /content-images/news/2012/07/HackHackerBerlin.jpg "Hacks/Hackers Berlin stickers"
  [2]: http://co-up.de/ "co.up coworking"
  [3]: https://twitter.com/thecole/
  [4]: http://twitter.com/tjoechler

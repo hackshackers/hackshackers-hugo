@@ -14,7 +14,7 @@ groups:
 
 _
 
-{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/hackshackerssep12-2/" src="/content-images/blog/2012/09/HacksHackersSep121.jpg" >}}</p> 
+{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/hackshackerssep12-2/" src="/content-images/news/2012/09/HacksHackersSep121.jpg" >}}</p> 
 
 </em>
 
@@ -28,7 +28,7 @@ _The meet-up was part of the [Brighton Digital Festival][3], a month-long celebr
 
 **Identity, privacy and App.net**
 
-{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/aral-balkan/" src="/content-images/blog/2012/09/Aral-Balkan-150x150.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/aral-balkan/" src="/content-images/news/2012/09/Aral-Balkan-150x150.jpg" >}}
 
 [Aral Balkan][5] talked about how a lot of free platforms depend on gathering data from their users in order to make them sustainable through advertising.
 
@@ -66,7 +66,7 @@ An alternative to Twitter is App.net, which users must pay to use. But it is wor
 
 **That online community stuff … it&#8217;s all sortied now, right?**
 
-{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/joanna-geary/" src="/content-images/blog/2012/09/Joanna-Geary-150x150.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/joanna-geary/" src="/content-images/news/2012/09/Joanna-Geary-150x150.jpg" >}}
 
 Joanna Geary, who is leading the Guardian&#8217;s digital-first strategy (and who also runs [Hacks/Hackers London)][8], proposed five questions to ask your editor – and maybe yourself – before starting any online community project.
 
@@ -102,7 +102,7 @@ Geary said that there&#8217;s a need to constantly repeat and reinforce the mess
 
 > You need to repeat as people forget and new people come in.
 
-{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/pop-up/" src="/content-images/blog/2012/09/Pop-up.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/09/13/hackshackers-brighton-open-communities/pop-up/" src="/content-images/news/2012/09/Pop-up.jpg" >}}
 
 **Pop-up digital newsroom**
 

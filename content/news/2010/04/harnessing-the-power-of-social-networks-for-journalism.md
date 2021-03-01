@@ -59,7 +59,7 @@ We could have uncovered that story by a more traditional approach to networking 
 <address>
   <strong>
 
-{{< figure link="/content-images/blog/2010/04/Screen-shot-2010-04-02-at-1.14.14-PM.png" src="/content-images/blog/2010/04/Screen-shot-2010-04-02-at-1.14.14-PM.png" >}}</p> 
+{{< figure link="/content-images/news/2010/04/Screen-shot-2010-04-02-at-1.14.14-PM.png" src="/content-images/news/2010/04/Screen-shot-2010-04-02-at-1.14.14-PM.png" >}}</p> 
 
   <p>
     </strong><a href="http://twitter.com/andrewhaeg">Andrew Haeg</a> is Public Insight Editor at American Public Media and was a 2008-2009 a Knight Fellow at Stanford University. In 2003, Haeg co-founded Public Insight Journalism, an online initiative which systematically incorporates the knowledge and insights of the audience into daily public radio journalism.</address>

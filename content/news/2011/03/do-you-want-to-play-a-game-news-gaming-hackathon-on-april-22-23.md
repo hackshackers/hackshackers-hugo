@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2011/03/wargames.jpg" src="/content-images/blog/2011/03/wargames.jpg" >}}
+{{< figure link="/content-images/news/2011/03/wargames.jpg" src="/content-images/news/2011/03/wargames.jpg" >}}
 
 We&#8217;re hosting a News+Gaming hackathon on April 22 and 23, at [CUNY Graduate School of Journalism][1], sponsored by Seattle-based BigDoor, which offers a gamification API. To participate, register on our [Meetup.com page][2]. We will have great food.
 

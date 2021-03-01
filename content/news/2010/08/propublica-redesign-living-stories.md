@@ -43,8 +43,8 @@ Incidentally we’re planning to open source the code we wrote to power some of 
 
 If you’ve tried any of the Living Stories ideas on your site, let’s compare notes in the comments.
 
- [1]: /content-images/blog/2010/08/ProPublica-logo.jpg "ProPublica-logo"
- [2]: /content-images/blog/2010/08/ProPublica-logo.jpg
+ [1]: /content-images/news/2010/08/ProPublica-logo.jpg "ProPublica-logo"
+ [2]: /content-images/news/2010/08/ProPublica-logo.jpg
  [3]: http://propublica.org
  [4]: http://www.propublica.org/article/reporting-recipe-how-you-can-investigate-your-states-oversight-of-its-nurse
  [5]: http://www.propublica.org/about/steal-our-stories
@@ -52,11 +52,11 @@ If you’ve tried any of the Living Stories ideas on your site, let’s compare 
  [7]: http://bailout.propublica.org/loan_mods/list
  [8]: http://livingstories.googlelabs.com/
  [9]: http://www.propublica.org/article/gas-drilling-the-story-so-far
- [10]: /content-images/blog/2010/08/ProPublica-timeline-clip1.jpg "ProPublica-timeline-clip"
+ [10]: /content-images/news/2010/08/ProPublica-timeline-clip1.jpg "ProPublica-timeline-clip"
  [11]: http://propublica.org/nola
  [12]: http://www.propublica.org/nola/
  [13]: http://www.propublica.org/nola/case/topic/case-one
- [14]: /content-images/blog/2010/08/ProPublica-series-page-filter.jpg "ProPublica-series-page-filter"
+ [14]: /content-images/news/2010/08/ProPublica-series-page-filter.jpg "ProPublica-series-page-filter"
  [15]: http://www.propublica.org/series/buried-secrets-gas-drillings-environmental-threat
  [16]: http://www.spokesman.com/topics/morning-star-boys-ranch/
  [17]: http://github.com/propublica

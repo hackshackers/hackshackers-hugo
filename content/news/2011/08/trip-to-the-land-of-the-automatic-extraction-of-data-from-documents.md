@@ -15,13 +15,13 @@ groups:
 
 [Post en español acá!][1]
 
-{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/img\_1971\_c/" src="/content-images/blog/2011/08/IMG\_1971\_c-300x224.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/img\_1971\_c/" src="/content-images/news/2011/08/IMG\_1971\_c-300x224.jpg" >}}
 
 **We finally did it!** About 40 people (including journalists, software programmers, and militants from Argentine human rights organizations) disembarked last August 13th at the [Hacks/Hackers Buenos Aires][2] hackathon, which took place within the mega-exhibition [Tecnópolis][3]. The idea was to work all day on [Mapa76.info][4], a software project for the automatic extraction and visualization of data from text documents.  The software is focused on analyzing the trials of Argentina´s last military dictatorship, which ruled between 1976 and 1983.  Journalists and programmers came not only from Buenos Aires but from Rosario and Córdoba, as well, and were helped by the creators of [Junar.com][5], a data streaming api for dashboards, who came all the way from Chile to participate in the event and demonstrate their technology.
 
 **The problem to solve:** At this moment in Argentina there is a great quantity of judicial cases linked to the repressions of the last military dictatorship: more than 200 convicted persons, dozens of trials in process, hundreds of witnesses testifying every day, and possibly more than a thousand accused persons implicated in acts of State terrorism between 1976 and 1983. The question is: Can we develop a software that finds relationships that people cannot see?  It is necessary for journalists, for the courts, and for investigators to define such relationships between persons, organizations, and places, and to visualize these relationships in timelines and maps.
 
-{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/hackaton3/" src="/content-images/blog/2011/08/hackaton3-300x200.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/hackaton3/" src="/content-images/news/2011/08/hackaton3-300x200.jpg" >}}
 
 **What the journalists worked on: ** The engine of [Mapa76.info][4] – still in its alpha stage – extracts names, places, and dates.  At first, the journalists “combed” documents for sentences and allegations establishing relationships between dates and special events such as sequestrations, tortures, transfers, etc., in order to visualize those events in a timeline.  **Later they thought up possible use cases:**
 
@@ -34,7 +34,7 @@ groups:
   * Incorporate other sources, such as foreign newspapers;
   * Compare two testimonies given by the same person at different times.
 
-{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/event\_48373981/" src="/content-images/blog/2011/08/event\_48373981-300x199.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2011/08/21/viaje-al-mundo-de-la-extraccion-automatica-de-datos/event\_48373981/" src="/content-images/news/2011/08/event\_48373981-300x199.jpg" >}}
 
 Led by [Martín Sarsale][6], the programmers worked on improving the interface for loading documents and extracting data, as well the interface for data display (timelines, maps, visualization of documents) (Ruby / jQuery).  They also worked on improving data “loading” and on converting PDFs into easy-to-use text documents.
 

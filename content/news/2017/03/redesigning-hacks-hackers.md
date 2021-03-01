@@ -15,7 +15,7 @@ We started with an internal design studio to kick off a six-week design process.
 
 Once we had general project information compiled and formatted into our design studio template, we began a timeboxed brainstorming exercise using video conference, Slack, and collaboratively editing a Google Slides document. The exercise alternates between independent sketching and periods of peer review to merge the best ideas from the group into a unified vision. What we accomplished in a regimented three-hour design studio saved us potentially weeks of back-and-forth among team members.
 
-{{< figure src="/content-images/blog/2017/03/hh_design_studio.jpg" caption="A sketch from the design studio" >}}
+{{< figure src="/content-images/news/2017/03/hh_design_studio.jpg" caption="A sketch from the design studio" >}}
 
 We orient our design studios around a specific user flow or page. Our design studio for the Hacks/Hackers homepage aimed to balance the primary user objective of providing a way to discover groups from around the world with the organizational goal of encouraging peer-to-peer interactions. After gauging level-of-effort vs. impact, we landed on an interactive map that provides curious visitors with a bird's eye view of the larger Hacks/Hackers network along with a way to drill deeper into an individual group.
 
@@ -50,4 +50,4 @@ _Christa Field is the Creative Director for [Alley Interactive][4]. Alley is pro
 [4]: https://www.alleyinteractive.com
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="https://hackshackers.com/content-images/blog/2017/03/hh_design_studio.jpg">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/news/2017/03/hh_design_studio.jpg">

@@ -13,9 +13,9 @@ categories:
 
 **Ten events in the next seven days! And in the past week, we’ve also had several great events, including Hacks/Hackers Vancouver powering through their meetup by [only candlelight][1]:**
 
-{{< figure link="/content-images/blog/2015/12/VancouverCandle01.jpeg" src="/content-images/blog/2015/12/VancouverCandle01-300x225.jpeg" alt="VancouverCandle01" >}}
+{{< figure link="/content-images/news/2015/12/VancouverCandle01.jpeg" src="/content-images/news/2015/12/VancouverCandle01-300x225.jpeg" alt="VancouverCandle01" >}}
 
-{{< figure link="/content-images/blog/2015/12/VancouverCandle02.jpeg" src="/content-images/blog/2015/12/VancouverCandle02-300x200.jpeg" alt="VancouverCandle02" >}}
+{{< figure link="/content-images/news/2015/12/VancouverCandle02.jpeg" src="/content-images/news/2015/12/VancouverCandle02-300x200.jpeg" alt="VancouverCandle02" >}}
 
 **The week ahead:**
 

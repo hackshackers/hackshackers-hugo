@@ -16,7 +16,7 @@ categories:
 
 For months now, [Aron Pilhofer][1] and I have been talking about a Web site where people doing computer programming in journalism could ask and answer questions, solve each other&#8217;s problems and, in general, build a supportive community. Somewhere along the way, someone said to me, &#8220;You mean, like [Stack Overflow][2]?&#8221; I went to visit the site &#8212; a thriving support community for software developers &#8212; and it looked very much like what we had in mind.
 
-{{< figure link="/content-images/blog/2010/04/theme.logo\_.5573282.png" src="/content-images/blog/2010/04/theme.logo\_.5573282.png" alt="Help.Hackshackers.com" >}}
+{{< figure link="/content-images/news/2010/04/theme.logo\_.5573282.png" src="/content-images/news/2010/04/theme.logo\_.5573282.png" alt="Help.Hackshackers.com" >}}
 
 Though our original idea was to build a custom site, we learned that the team behind Stack Overflow had set up [a hosted service][3] for other groups interested in similar functionality. Having joined forces with [Burt Herman][4] to form [Hacks and Hackers][5], the three of us decided &#8212; with a nudge from our friends on the Chicago Tribune&#8217;s [news application team][6] &#8212; to set up a site based on the Stack Overflow software.
 

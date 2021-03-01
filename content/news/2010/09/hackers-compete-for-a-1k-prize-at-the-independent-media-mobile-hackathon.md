@@ -59,7 +59,7 @@ The hackathon&#8217;s call to action centers on the frame of “News + Fun + Com
 
 {{< figure link="http://chicagoandroid.com/" src="http://www.themediaconsortium.org/wp-content/uploads/2009/08/Screen-shot-2010-09-20-at-12.37.42-PM.png" >}}
 
-{{< figure link="/content-images/blog/2010/09/kflogo-4000px.png" src="/content-images/blog/2010/09/kflogo-4000px-300x71.png" alt="Knight Foundation Logo" >}}
+{{< figure link="/content-images/news/2010/09/kflogo-4000px.png" src="/content-images/news/2010/09/kflogo-4000px-300x71.png" alt="Knight Foundation Logo" >}}
 
  [1]: http://www.themediaconsortium.org
  [2]: http://bit.ly/mobilehack

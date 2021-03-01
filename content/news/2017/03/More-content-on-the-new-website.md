@@ -105,5 +105,5 @@ June | 22-25 | Phoenix | USA | Investigative Reporters & Editors [IRE Conference
 <!--End mc_embed_signup-->
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="https://hackshackers.com/content-images/blog/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/news/2017/03/Screen-Shot-2017-03-07-at-5.02.54-PM.png">
 

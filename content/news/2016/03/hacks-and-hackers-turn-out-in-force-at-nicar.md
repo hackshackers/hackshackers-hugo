@@ -24,7 +24,7 @@ Happy [NICAR][1] to the lucky hacks and hackers here in Denver, and happy Friday
 
 A huge round of applause for [Pete MacRobert][9], co-organizer of H/H London, who created a calendar for ALL the Hacks/Hackers events around the world. Go [here][10] to add it to your calendar.
 
-{{< figure src="/content-images/blog/2016/03/Screen-Shot-2016-03-11-at-10.49.00-AM-300x194.png" alt="Screen Shot 2016-03-11 at 10.49.00 AM" >}}
+{{< figure src="/content-images/news/2016/03/Screen-Shot-2016-03-11-at-10.49.00-AM-300x194.png" alt="Screen Shot 2016-03-11 at 10.49.00 AM" >}}
 
 **Chapter spotlight:**
 

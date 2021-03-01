@@ -38,7 +38,7 @@ Several large, ambitious, Net-centric projects are currently in development:
 
 The new [Public Media Platform][10] is, right now, more announcement than accomplishment. But it promises big things for where and how public media content gets stored, accessed, found, and shared. The project&#8217;s first-year goal is a &#8220;proof of concept prototype&#8221; (see chart below). NPR&#8217;s CEO Vivian Schiller does an admirable job of explaining PMP&#8217;s possibilities:
 
-{{< figure link="/content-images/blog/2010/10/pubsters1\_0801.jpg" src="/content-images/blog/2010/10/pubsters1\_0801-300x212.jpg" >}}
+{{< figure link="/content-images/news/2010/10/pubsters1\_0801.jpg" src="/content-images/news/2010/10/pubsters1\_0801-300x212.jpg" >}}
 
 _More information about the Public Media Platform can be found at: [Public Radio, TV Think &#8216;New Media,&#8217; by Randy J. Stine][11]_
 

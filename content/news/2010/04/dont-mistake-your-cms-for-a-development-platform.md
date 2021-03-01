@@ -55,7 +55,7 @@ Are you creating news applications in your newsroom? Please share your setups an
 
 _
 
-{{< figure link="/content-images/blog/2010/04/kleinmug.png" src="/content-images/blog/2010/04/kleinmug-150x150.png" >}}</p> 
+{{< figure link="/content-images/news/2010/04/kleinmug.png" src="/content-images/news/2010/04/kleinmug-150x150.png" >}}</p> 
 
 Scott Klein is the Editor of News Applications at </em>[_ProPublica_][9]_, directing news application development and production. He also moonlights as co-founder of_ [_DocumentCloud_][10]_, an independent non-profit organization that helps newsrooms organize and publish their source documents online._
 

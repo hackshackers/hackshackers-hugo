@@ -13,7 +13,7 @@ groups:
 - Boston
 ---
 
-{{< figure link="/content-images/blog/2010/07/martin-and-fernanda.jpg" src="/content-images/blog/2010/07/martin-and-fernanda.jpg" alt="Martin Wattenberg and Fernanda Viegas" >}}
+{{< figure link="/content-images/news/2010/07/martin-and-fernanda.jpg" src="/content-images/news/2010/07/martin-and-fernanda.jpg" alt="Martin Wattenberg and Fernanda Viegas" >}}
 
 The Boston chapter  is having its first speaker Meetup at the [Microsoft NERD Center][1], 1 Memorial Drive, on Tuesday, July 20, organized by Matt Carroll et al. Munchies are sponsored by Microsoft and The Boston Globe/Boston.com.
 

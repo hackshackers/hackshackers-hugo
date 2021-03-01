@@ -30,5 +30,5 @@ We hope more opportunities to collaborate will arise from our 20 October hackath
  [2]: http://www.meetup.com/Hacks-Hackers-Sao-Paulo/
  [3]: http://twitter.com/wseidel
  [4]: http://www.emquemeuvoto.com.br/
- [5]: /content-images/blog/2012/10/Screen-Shot-2012-10-01-at-11.14.47-AM.png "Screenshot of Em Quem Eu Voto"
+ [5]: /content-images/news/2012/10/Screen-Shot-2012-10-01-at-11.14.47-AM.png "Screenshot of Em Quem Eu Voto"
  [6]: http://www.emquemeuvoto.com.br

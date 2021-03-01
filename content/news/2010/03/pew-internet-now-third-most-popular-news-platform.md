@@ -14,7 +14,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" src="/content-images/blog/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" >}}
+{{< figure link="/content-images/news/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" src="/content-images/news/2010/03/Screen-shot-2010-03-01-at-6.13.17-PM.png" >}}
 
 The Pew Internet and American Life Project is out with their [latest report on how Americans consume news][1].
 

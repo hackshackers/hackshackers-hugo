@@ -30,7 +30,7 @@ Interested parties should [read the RFI][3] and submit their proposals to <info@
 
 And last but not least, the [Hacks/Hackers global open call][13] will take place next Tuesday, April 5, at 1600 UTC. There are options for joining online, dialing in from outside the U.S., and simply following along on [the notepad][14]. Tune in!
 
-{{< figure link="http://hackshackers.com/resources/global-open-call/" src="/content-images/blog/2016/04/Screen-Shot-2016-04-01-at-8.52.51-PM.png" alt="Screen Shot 2016-04-01 at 8.52.51 PM" >}}
+{{< figure link="http://hackshackers.com/resources/global-open-call/" src="/content-images/news/2016/04/Screen-Shot-2016-04-01-at-8.52.51-PM.png" alt="Screen Shot 2016-04-01 at 8.52.51 PM" >}}
 
 **Chapter spotlight:**
 

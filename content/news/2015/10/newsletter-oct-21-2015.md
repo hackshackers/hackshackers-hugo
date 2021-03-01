@@ -12,7 +12,7 @@ categories:
 
 Happy Wednesday. Hacks/Hackers Austin [celebrated its 5th birthday last night][1] with cake, tacos and an [event on media innovation][2]. Cheers to another 5 years!
 
-{{< figure link="/content-images/blog/2015/10/AustinCake.jpg" src="/content-images/blog/2015/10/AustinCake-300x207.jpg" alt="AustinCake" >}}
+{{< figure link="/content-images/news/2015/10/AustinCake.jpg" src="/content-images/news/2015/10/AustinCake-300x207.jpg" alt="AustinCake" >}}
 
 ****The week ahead for Hacks/Hackers:****
 
@@ -27,7 +27,7 @@ Happy Wednesday. Hacks/Hackers Austin [celebrated its 5th birthday last night][1
 
 ****Chapter spotlight: Hacks/Hackers Dublin****
 
-{{< figure link="/content-images/blog/2015/10/Dublin.jpg" src="/content-images/blog/2015/10/Dublin-300x243.jpg" alt="Dublin" >}}
+{{< figure link="/content-images/news/2015/10/Dublin.jpg" src="/content-images/news/2015/10/Dublin-300x243.jpg" alt="Dublin" >}}
 
 Last night, the Dublin chapter packed a room at RTE to hear about data-driven investigations. Discussion ranged from FOI data quality to using D3 to how data stories can drive traffic and lead the front page. Two very different projects highlighted during the event: [Seeking Asylum in Ireland][12] (RTE Investigations Unit) and [Ireland’s Cheapest Pints][13] (Irish Mirror). For more from the event, [here’s a Storify][14].
 

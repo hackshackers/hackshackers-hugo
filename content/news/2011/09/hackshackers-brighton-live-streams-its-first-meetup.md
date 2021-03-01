@@ -25,7 +25,7 @@ Scheduled speakers include:
   * Erik Hersman, Ushahidi co-founder, who will give some more examples of how the Ushahidi platform has been used.
   * Andy Hume from ClearLeft, who&#8217;ll be talking about mapping and guiding attendees in something a little more hands on.
 
- [1]: /content-images/blog/2011/07/Brighton-Dome-resized1.jpg "Brighton Dome"
+ [1]: /content-images/news/2011/07/Brighton-Dome-resized1.jpg "Brighton Dome"
  [2]: http://hackshackers.com/blog/2011/07/26/hackshackers-brighton-launches-sept-8/brighton-dome-resized/
  [3]: http://j.mp/p2hMMT
  [4]: http://www.worldtimebuddy.com/?lid=2654710,6167865,5128581,4887398,5419384,5391959&h=2654710

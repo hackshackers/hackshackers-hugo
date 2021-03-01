@@ -14,7 +14,7 @@ groups:
 - Buenos Aires
 ---
 
-{{< figure link="http://hackshackers.com/blog/2012/05/11/storify-in-buenos-aires-applications-to-tell-stories-pre-and-post-hacks/tumblr\_m0h769pqny1r8u1sp/" src="/content-images/blog/2012/05/tumblr\_m0h769pQnY1r8u1sp-300x164.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/05/11/storify-in-buenos-aires-applications-to-tell-stories-pre-and-post-hacks/tumblr\_m0h769pqny1r8u1sp/" src="/content-images/news/2012/05/tumblr\_m0h769pQnY1r8u1sp-300x164.jpg" >}}
 
 At the [upcoming meeting][1] of [Hacks/Hackers of Buenos Aires][2], we will be joined by Xavier Damman, the co-founder of [Storify.com][3], a site that is changing the way we tell stories in the media and through social networks. Damman is an entrepreneur based in San Francisco, passionate about new media and democracy, and the founder of [HackDemocracy.org][4]. At the meeting, we will also announce two upcoming meetings, one on Big Data and the other on Google Fusion Tables. There will also be time for journalists, programmers and entrepreneurs interesting in developing new ideas to showcase their projects and proposals.
 

@@ -13,7 +13,7 @@ categories:
 
 ****A cute tweet-length story to start off your newsletter:****
 
-{{< figure link="/content-images/blog/2015/11/NewsNerdLoveTweet.jpg" src="/content-images/blog/2015/11/NewsNerdLoveTweet-1024x532.jpg" alt="NewsNerdLoveTweet" >}}
+{{< figure link="/content-images/news/2015/11/NewsNerdLoveTweet.jpg" src="/content-images/news/2015/11/NewsNerdLoveTweet-1024x532.jpg" alt="NewsNerdLoveTweet" >}}
 
 Awww. Have your own Hacks/Hackers love story? [Send it my way.][1]
 
@@ -28,7 +28,7 @@ Awww. Have your own Hacks/Hackers love story? [Send it my way.][1]
 
 **The Islamabad chapter held its first meetup on Monday. A good group of more than a dozen people came out to discuss using earthquake data. Check out photos on [Hacks/Hackers Pakistan’s Facebook page][9] and [tweets from the event][10].**
 
-{{< figure link="/content-images/blog/2015/11/IslamabadLaunchTweet1.jpg" src="/content-images/blog/2015/11/IslamabadLaunchTweet1-1024x827.jpg" alt="IslamabadLaunchTweet" >}}
+{{< figure link="/content-images/news/2015/11/IslamabadLaunchTweet1.jpg" src="/content-images/news/2015/11/IslamabadLaunchTweet1-1024x827.jpg" alt="IslamabadLaunchTweet" >}}
 
 **Job openings:**
 

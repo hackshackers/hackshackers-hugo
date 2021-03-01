@@ -12,7 +12,7 @@ groups:
 - Buenos Aires
 ---
 
-{{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/blog/2012/08/historia2.jpg" >}}
+{{< figure link="http://hackshackers.com/blog/2012/08/08/historico-unite-a-la-fiesta-de-tres-dias-hackshackers-ba-media-party/historia-3/" src="/content-images/news/2012/08/historia2.jpg" >}}
 
 The planets aligned! The Media Party is coming Aug. 30-Sept. 1! Three days of keynotes, workshops and a giant hackathon in Buenos Aires. It&#8217;s an event bound to make history. [**Hacks/Hackers Buenos Aires**][1] invites journalists, publishers, software developers, designers and entrepreneurs to three days of keynotes, workshops, and a super hackathon to work towards building the future of media.
 

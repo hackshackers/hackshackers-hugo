@@ -12,7 +12,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/07/mozilla-foundation-logo.png" src="/content-images/blog/2010/07/mozilla-foundation-logo.png" alt="Mozilla Foundation" >}}
+{{< figure link="/content-images/news/2010/07/mozilla-foundation-logo.png" src="/content-images/news/2010/07/mozilla-foundation-logo.png" alt="Mozilla Foundation" >}}
 
 [Hacks/Hackers][1] is teaming up with [Mozilla][2], the [open-source-oriented][3] nonprofit, to creating a course through [Peer-to-Peer University][4], with the aim of collective eduction: the hackers teaching the journos, and vice versa.
 

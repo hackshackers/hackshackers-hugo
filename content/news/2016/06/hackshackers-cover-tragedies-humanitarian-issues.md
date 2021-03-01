@@ -12,7 +12,7 @@ categories:
 
 Welcome to the weekend, hacks and hackers. The media world, and the rest of the world, was rocked by news of the largest mass shooting in U.S. history. Poynter [wrote an article][1] on how the Orlando Sentinel, which has had two-thirds of its staff cut over the years, covered one of the most intense and devastating events in its history. The New York Times [made an animated presentation][2] of how its design and publication of the news changed as the story evolved.
 
-{{< figure src="/content-images/blog/2016/06/nyt.gif" alt="nyt" >}}
+{{< figure src="/content-images/news/2016/06/nyt.gif" alt="nyt" >}}
 
 Conference season is firing along, with many journos and news hackers at the IRE conference in hot and humid New Orleans. (If you&#8217;re there, please [say hi to our newsletter writer][3]!)
 

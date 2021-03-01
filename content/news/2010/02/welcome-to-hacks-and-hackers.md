@@ -35,6 +35,6 @@ News has always fundamentally been about &#8220;social media,&#8221; giving peop
 
 I look forward to following this journey with all of you and fostering a community of people deeply engaged in not only talking about the future of media, but also actively experimenting to push things forward. There will be stumbles and failures along the way, all of which will help us figure out where we&#8217;re going.
 
-{{< figure link="/content-images/blog/2010/02/meetuppic1.jpeg" src="/content-images/blog/2010/02/meetuppic1.jpeg" >}}
+{{< figure link="/content-images/news/2010/02/meetuppic1.jpeg" src="/content-images/news/2010/02/meetuppic1.jpeg" >}}
 
  [1]: http://www.meetup.com/hacksandhackers

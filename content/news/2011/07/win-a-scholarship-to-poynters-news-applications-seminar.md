@@ -15,7 +15,7 @@ categories:
 - Opportunities
 ---
 
-{{< figure src="/content-images/blog/2010/07/PoynterLogo.gif" alt="Poynter Institute logo" >}}
+{{< figure src="/content-images/news/2010/07/PoynterLogo.gif" alt="Poynter Institute logo" >}}
 
 For the second year in a row, Hacks/Hackers and The Poynter Institute are [offering one full scholarship][1] (a $895 value!) to attend [Building News Applications With Data][2], a three-day seminar in St. Petersburg, Fla.
 

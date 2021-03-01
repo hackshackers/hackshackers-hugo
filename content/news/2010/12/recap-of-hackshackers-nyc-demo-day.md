@@ -38,11 +38,11 @@ description: "The New York City chapter of Hacks/Hackers  met last Wednesday, De
 
 The New York City chapter of Hacks/Hackers metWednesday, December 1 for [Demo Day][1] at the generously donated space, New Work City.
 
-{{< figure link="http://twitter.com/#!/hackshackers" src="/content-images/blog/2010/12/600_19992295-300x200.jpg" >}}
+{{< figure link="http://twitter.com/#!/hackshackers" src="/content-images/news/2010/12/600_19992295-300x200.jpg" >}}
 
 The pizza, from Lombardi&#8217;s, was delicious and the place was packed. (Sorry to those on the waitlist)
 
-{{< figure link="http://twitter.com/#!/hackshackers" src="/content-images/blog/2010/12/crowd-from-front-300x196.jpg" >}}
+{{< figure link="http://twitter.com/#!/hackshackers" src="/content-images/news/2010/12/crowd-from-front-300x196.jpg" >}}
 
 **Here’s a quick review of each of the  speakers and their demos:**
 
@@ -67,15 +67,15 @@ Kushal demo’d the yet-to-be released Foursquare API, which had been his baby f
 
  ****[Wheredoyougo.net][11], visualization of where you visit based on Foursquare check-ins.
 
-{{< figure link="http://www.wheredoyougo.net/" src="/content-images/blog/2010/12/foursqaure-heatmap-300x157.png" >}}
+{{< figure link="http://www.wheredoyougo.net/" src="/content-images/news/2010/12/foursqaure-heatmap-300x157.png" >}}
 
 [Beerby.com][12], for the microbrewery fans, you can record what beers you drank where.
 
-{{< figure link="/Users/loriwhite/Desktop/hacks/beerby.png" src="/content-images/blog/2010/12/beerby-300x159.png" >}}
+{{< figure link="/Users/loriwhite/Desktop/hacks/beerby.png" src="/content-images/news/2010/12/beerby-300x159.png" >}}
 
 [Momento][13], keeping track of things you need to do once you get into a neighborhood.
 
-{{< figure link="http://www.momentoapp.com/" src="/content-images/blog/2010/12/momento-208x300.jpg" >}}
+{{< figure link="http://www.momentoapp.com/" src="/content-images/news/2010/12/momento-208x300.jpg" >}}
 
 **Some notes from Q&A with Kushal:**
 
@@ -91,17 +91,17 @@ Kushal demo’d the yet-to-be released Foursquare API, which had been his baby f
 
 ### Next up is [**David “Gonna Liberate the Data No Matter What“ Moore**][15] of the [Participatory Politics Foundation][16]
 
-{{< figure link="http://www.participatorypolitics.org/" src="/content-images/blog/2010/12/ppf-300x128.png" >}}
+{{< figure link="http://www.participatorypolitics.org/" src="/content-images/news/2010/12/ppf-300x128.png" >}}
 
 His demo was [OpenGovernment.org][3], a state (and local) version of [OpenCongress.org][4], that combines official legislation + blogs + news + campaign donation info into an elegant and easy to use website. Eventually it could extend to large institutions like the UN and the World Bank.
 
 This is all very is all appreciated because a lot of institutional websites are unfortunate:
 
-{{< figure link="http://www.house.mo.gov/billcentral.aspx" src="/content-images/blog/2010/12/missouri-300x164.png" >}}
+{{< figure link="http://www.house.mo.gov/billcentral.aspx" src="/content-images/news/2010/12/missouri-300x164.png" >}}
 
 This brings us to [OpenGovernment.org][17].
 
-{{< figure link="http://www.opencongress.org/bill/111-s3798/show" src="/content-images/blog/2010/12/bills-open-congress-300x168.png" >}}
+{{< figure link="http://www.opencongress.org/bill/111-s3798/show" src="/content-images/news/2010/12/bills-open-congress-300x168.png" >}}
 
 It’s just getting ready to launch with data from in five state legislatures —  California, Louisiana, Texas, Maryland, and Wisconsin — which were selected in part because their data was easy to gather.  On [OpenCongress][4], the bills and legislation are what get the most traffic. The design encourages entry points through issues, and each bill connects constituents directly to their representatives. Users can also sort bills by most viewed, key votes, and there are RSS feeds. The API is open, it’s all open source.
 
@@ -137,13 +137,13 @@ Jeremy’s favorite song right now? &#8220;[Diamonds on the Soles of Her Shoes][
 
 This is a  realtime inline editorial curation tool, with aggregated news and full-text premium content.
 
-{{< figure link="http://platform.newscred.com/" src="/content-images/blog/2010/12/newscred2-300x161.png" >}}
+{{< figure link="http://platform.newscred.com/" src="/content-images/news/2010/12/newscred2-300x161.png" >}}
 
 They were originally based in Europe, out of Switzerland, but now they’re in New York City. Originaly, their main product was topic pages, but they went on to dive deeper into helping news sites manage content, keep it relevant and timely. The advantage is that it gives editing teams full control.
 
 A screenshot of the live demo:
 
-{{< figure link="/content-images/blog/2010/12/NEWSCRED.png" src="/content-images/blog/2010/12/NEWSCRED-300x130.png" >}}
+{{< figure link="/content-images/news/2010/12/NEWSCRED.png" src="/content-images/news/2010/12/NEWSCRED-300x130.png" >}}
 
 Shesha’s favorite song right now is the [Eddie Vedder and Nusrat Fateh Ali Khan&#8217;s song The Long Road.][27]
 
@@ -155,11 +155,11 @@ Jeff [did a longer post][30] on how he did the presentation on the Pro Publica b
 
 Behind the scenes the whole thing is made with JavaScript and a SVG abstraction layer called [Raphael][32], which makes drawing fast and easy on HTML web pages. The data itself came from a company called Thetica systems.
 
-{{< figure link="/content-images/blog/2010/12/pointing.jpeg" src="/content-images/blog/2010/12/pointing-300x200.jpg" >}}
+{{< figure link="/content-images/news/2010/12/pointing.jpeg" src="/content-images/news/2010/12/pointing-300x200.jpg" >}}
 
 [Merrill Lynch sold portions of its CDOs to itself over and over and over again][33] &#8211; it&#8217;s &#8220;the inside story of one company, one small group of people, who made hundreds of millions of dollars for themselves while worsening the financial crisis for the rest of us.&#8221;
 
-{{< figure src="/content-images/blog/2010/12/cdo-ownership-300x284.png" >}}
+{{< figure src="/content-images/news/2010/12/cdo-ownership-300x284.png" >}}
 
 After the world ended in 2009, the CDO market petered off. And because of this graph you can see why. The data came from a private company, and it also
 
@@ -167,7 +167,7 @@ After the world ended in 2009, the CDO market petered off. And because of this g
 
 The crux of this data’s online exposure project is this: doctors get paid by pharmaceutical companies – to speak, to consult —  and this project lets you see that data. Over 30,000 payment records (that had been public – but in a cabinet ) weren’t even in a format that was more accessible than a PDF – until now. Also noteworthy,  the project [was mentioned in a review about “Love and Other Drugs” – the Jake Gyllenhall movie –][35] as _“the subject of a major Pro Publica News expose just this fall.__”_
 
-{{< figure link="/Users/loriwhite/Desktop/hacks/dollarsdocs.png" src="/content-images/blog/2010/12/dollarsdocs-300x173.png" >}}
+{{< figure link="/Users/loriwhite/Desktop/hacks/dollarsdocs.png" src="/content-images/news/2010/12/dollarsdocs-300x173.png" >}}
 
 The highest paid doctors are either very good or totally questionable. After the release, they’ve had investigators, academics contact us for their data, which had technically been available before. It’s evidence that when you take that little extra step to prepare data yourself, and make it accessible, it makes it that much more valuable to many people.
 
@@ -195,7 +195,7 @@ His favorite song right now is [the Patsy Cline classic, Crazy][39]
 
 **
 
-{{< figure link="http://www.editflow.org/" src="/content-images/blog/2010/12/editflowwp-dashboard-300x179.png" >}}</p> 
+{{< figure link="http://www.editflow.org/" src="/content-images/news/2010/12/editflowwp-dashboard-300x179.png" >}}</p> 
 
 </strong>
 
@@ -224,15 +224,15 @@ This is a [WordPress plugin that lets you control the whole editing process,][41
 
 This site, which [you can still visit][44], received 2 million pageviews. At its peak on election night, 5,000 people were on the site simultaneously.
 
-{{< figure link="http://election2010.talkingpointsmemo.com" src="/content-images/blog/2010/12/2dudes-300x200.jpg" >}}
+{{< figure link="http://election2010.talkingpointsmemo.com" src="/content-images/news/2010/12/2dudes-300x200.jpg" >}}
 
 The unfortunate thing initially with the project was that the AP data they wanted is stored in a giant zip file on an ftp server (dramatization below)
 
-{{< figure link="/content-images/blog/2010/12/fallout3\_computer\_screen.jpg" src="/content-images/blog/2010/12/fallout3\_computer\_screen-300x237.jpg" >}}
+{{< figure link="/content-images/news/2010/12/fallout3\_computer\_screen.jpg" src="/content-images/news/2010/12/fallout3\_computer\_screen-300x237.jpg" >}}
 
 So they had to hack a bit. They parsed out file names to create their own IDs every 3 minutes. The project was done with Ruby, [Sinatra][47] and [Raphael][32] Javascript library.
 
-{{< figure link="http://election2010.talkingpointsmemo.com/all#/House/IN" src="/content-images/blog/2010/12/tpm-indiana-300x156.png" >}}
+{{< figure link="http://election2010.talkingpointsmemo.com/all#/House/IN" src="/content-images/news/2010/12/tpm-indiana-300x156.png" >}}
 
 Illinois. Lookin good.
 

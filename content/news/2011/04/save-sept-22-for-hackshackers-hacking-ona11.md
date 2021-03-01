@@ -26,6 +26,6 @@ If you’d like to be notified when registration opens, send your name and email
 
 We&#8217;re looking forward to hacking with you!
 
- [1]: /content-images/blog/2011/04/ONA11-logo1.jpg "ONA11-logo"
+ [1]: /content-images/news/2011/04/ONA11-logo1.jpg "ONA11-logo"
  [2]: http://ona11.journalists.org/
  [3]: mailto:&#072;&#097;&#099;&#107;&#068;&#097;&#121;&#064;&#072;&#097;&#099;&#107;&#115;&#072;&#097;&#099;&#107;&#101;&#114;&#115;&#046;&#099;&#111;&#109;&#063;&#115;&#117;&#098;&#106;&#101;&#099;&#116;&#061;&#073;&#032;&#119;&#097;&#110;&#116;&#032;&#116;&#111;&#032;&#104;&#097;&#099;&#107;&#032;&#064;&#032;&#079;&#078;&#065;&#049;&#049;

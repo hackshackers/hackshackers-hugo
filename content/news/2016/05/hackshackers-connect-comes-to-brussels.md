@@ -12,7 +12,7 @@ categories:
 
 Happy Friday, hacks and hackers! We&#8217;re excited to bring the [Connect series][1] to Brussels in just two weeks. [Connect Brussels][2] is a pan-European event with participants attending from across the EU. Like all Connect events the focus is on building a vibrant media entrepreneurship community &#8212; only a few spots remain, so [register today][3] and spread the word to your colleagues in the region.
 
-{{< figure src="/content-images/blog/2015/11/ConnectLogoHorizontal-1024x209.png" alt="ConnectLogoHorizontal" >}}
+{{< figure src="/content-images/news/2015/11/ConnectLogoHorizontal-1024x209.png" alt="ConnectLogoHorizontal" >}}
 
 {{< tweet 732496904357957633 >}}
 

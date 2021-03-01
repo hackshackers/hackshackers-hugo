@@ -12,7 +12,7 @@ groups:
 - Rabat
 ---
 
-{{< figure src="/content-images/blog/2013/01/HHRAB-meetup.jpg" alt="The first meetup of Hacks/Hackers Rabat in Morocco." caption="_At the first meetup of Hacks/Hackers Rabat in Morocco._" >}}
+{{< figure src="/content-images/news/2013/01/HHRAB-meetup.jpg" alt="The first meetup of Hacks/Hackers Rabat in Morocco." caption="_At the first meetup of Hacks/Hackers Rabat in Morocco._" >}}
 
 For the first time in Morocco, Hacks/Hackers was organized in November 2012, in Rabat, the capital, but the story did not start from that date. It started in February 2012, when some friends and I founded the first think tank in Morocco working on using media for development.
 
@@ -32,7 +32,7 @@ Our first meetup, “To E or Not To Be,&#8221; was very attractive for our targe
 
 For the first time, senior journalists, junior journalists, bloggers, journalism students, NGO leaders, even politicians and delegates of the ministry of communication were in the same workshop to talk &#8220;Hacks/Hackers.&#8221;
 
-{{< figure src="/content-images/blog/2013/01/HHRAB-ayman-salah.jpg" caption="_Ayman Salah welcomes attendees to Hacks/Hackers Rabat._" >}}
+{{< figure src="/content-images/news/2013/01/HHRAB-ayman-salah.jpg" caption="_Ayman Salah welcomes attendees to Hacks/Hackers Rabat._" >}}
 
 I could not forget the positive reactions of our attendees, so I asked Ayman Salah to come again to organize another meetup. This time we selected Casablanca, the economic capital of Morocco. We chose different subjects from those selected for Rabat. “Spread your content, and “Show me the money” were our themes for Hacks/Hackers Casablanca.
 

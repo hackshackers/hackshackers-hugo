@@ -17,7 +17,7 @@ categories:
   * [London][3]: Feb. 5-7,
   * [New York City][4]: Feb. 26-27
 
-{{< figure link="/content-images/blog/2015/11/ConnectMap1-e1447951513569.png" src="/content-images/blog/2015/11/ConnectMap1-e1447951513569.png" alt="ConnectMap" >}}
+{{< figure link="/content-images/news/2015/11/ConnectMap1-e1447951513569.png" src="/content-images/news/2015/11/ConnectMap1-e1447951513569.png" alt="ConnectMap" >}}
 
 **Until then…**
 

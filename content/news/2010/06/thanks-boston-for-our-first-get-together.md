@@ -17,7 +17,7 @@ Thank you everyone who turned out for the first Hacks/Hackers gathering in Bosto
 
 A photo is below, and check out more at the Boston meetup page: <http://meetupbos.hackshackers.com>
 
-{{< figure link="/content-images/blog/2010/06/IMG\_0583.jpg" src="/content-images/blog/2010/06/IMG\_0583-300x225.jpg" >}}
+{{< figure link="/content-images/news/2010/06/IMG\_0583.jpg" src="/content-images/news/2010/06/IMG\_0583-300x225.jpg" >}}
 
  [1]: http://boston.com
  [2]: http://niemanlab.org

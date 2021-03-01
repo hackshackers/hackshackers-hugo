@@ -14,7 +14,7 @@ groups:
 - Austin
 ---
 
-{{< figure link="/content-images/blog/2010/10/meetupaustin.gif" src="/content-images/blog/2010/10/meetupaustin.gif" >}}
+{{< figure link="/content-images/news/2010/10/meetupaustin.gif" src="/content-images/news/2010/10/meetupaustin.gif" >}}
 
 On October 16, Hacks/Hackers ATX presents a day-long Hackathon bringing journalists, news bloggers, and government employees together with technology developers to create data-driven news applications, seeking and making sense of open data available from the State of Texas and other sources. The day will start with examples of data-driven news presented by Matt Stiles and Niran Babalola from the [Texas Tribune][1]. Then communicators and developers will form groups to define and build applications from sources such as <http://www.texastransparency.org/opendata>.
 

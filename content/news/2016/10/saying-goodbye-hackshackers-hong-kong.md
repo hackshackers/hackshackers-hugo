@@ -14,7 +14,7 @@ categories:
 
 Hello hacks and hackers! I&#8217;ve had a grand time organizing Hacks/Hackers Hong Kong with my co-organizers [Jane][2], [Olivia][3], and [Darcy][4], since we founded the chapter in 2013.
 
-{{< figure link="https://twitter.com/HacksHackersHK/status/661144313292681216/photo/1?ref_src=twsrc%5Etfw" src="/content-images/blog/2016/10/hk2-300x225.jpg" >}}
+{{< figure link="https://twitter.com/HacksHackersHK/status/661144313292681216/photo/1?ref_src=twsrc%5Etfw" src="/content-images/news/2016/10/hk2-300x225.jpg" >}}
 
 (Shout-out to [Yolanda][5], who first got in touch with the organization, and all of our participants throughout the years, including super-dedicated [Isao][6], who flew in three times from Nagoya to attend!)
 
@@ -24,7 +24,7 @@ Hong Kong is Asia’s biggest financial center and the regional hub for many int
 
 ## Marc Lajoie, China Daily Asia
 
-{{< figure link="https://projects.asiaweekly.com/bhumika-can-speak-for-herself/" src="/content-images/blog/2016/10/cedric1-1024x563.png" alt="bhumika" >}}
+{{< figure link="https://projects.asiaweekly.com/bhumika-can-speak-for-herself/" src="/content-images/news/2016/10/cedric1-1024x563.png" alt="bhumika" >}}
 
 When I met [Marc][14] in a Hacks/Hackers event in Montreal, around three years ago, he was just back from China with a master’s degree in [multimedia journalism][15]. Since then, he went on to work with a budding team of coder-journos at the WSJ in Hong Kong, and in early 2016, he joined China Daily Asia as senior multimedia reporter, in charge of building special projects branded [“Red-Letter Projects”][16].
 
@@ -34,7 +34,7 @@ In July, Marc travelled to Nepal to meet with Bhumika, shooting interviews with 
 
 # Daniel Moss, South China Morning Post
 
-{{< figure link="http://multimedia.scmp.com/chungking-mansions/index.html" src="/content-images/blog/2016/10/dan-1024x540.png" alt="chungking" >}}
+{{< figure link="http://multimedia.scmp.com/chungking-mansions/index.html" src="/content-images/news/2016/10/dan-1024x540.png" alt="chungking" >}}
 
 [Dan][19] is a Digital Producer in the interactive team at [South China Morning Post][20] (SCMP). We overlapped for a few months at the SCMP when he had just moved from Australia, working in news for Fairfax Media and start-up news organizations.
 
@@ -46,7 +46,7 @@ He also talked about [Legco Widgets][22], a project made for one of Hong Kong’
 
 # Muyueh Lee, a builder of data visualisations
 
-{{< figure link="http://muyueh.com/" src="/content-images/blog/2016/10/muyeh-1024x396.png" alt="muyueh" >}}
+{{< figure link="http://muyueh.com/" src="/content-images/news/2016/10/muyeh-1024x396.png" alt="muyueh" >}}
 
 I met [Muyueh][23] around two years ago, when he was travelling to Hong Kong from his native Taiwan. Muyueh comes from a business administration background, but he is definitely one of the most talented creative coders in the region. One of his most well-known pieces of work is [Green Honey][24], a scrolly visual comparison of how colours are named in the English and Chinese languages.
 
@@ -60,7 +60,7 @@ After talking about Muyueh’s tremendous work, we segued into open data and the
 
 # Robin Kwong, Financial Times
 
-{{< figure link="http://ig.ft.com/sites/business-jets/" src="/content-images/blog/2016/10/jets-1024x748.png" alt="jets" >}}
+{{< figure link="http://ig.ft.com/sites/business-jets/" src="/content-images/news/2016/10/jets-1024x748.png" alt="jets" >}}
 
 [Robin][30] now runs special projects at the FT in London. But who would have thought, for someone who started off as a political reporter at the South China Morning Post in the mid-2000s? Somehow, one thing led to another and he relocated to Taiwan with the FT, eventually became the FT’s tech editor, and became an interactive data journalist in 2014-16. He coordinated some projects, and even [coded his own][31].
 

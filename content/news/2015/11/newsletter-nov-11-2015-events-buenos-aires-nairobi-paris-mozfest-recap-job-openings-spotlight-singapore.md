@@ -13,7 +13,7 @@ categories:
 
 **A wonderful moment happened last week: Hacks/Hackers folks from all over the world met up in London at MozFest to brainstorm the future of Hacks/Hackers. They chatted about how they what Hacks/Hackers mission, structure and activities could look like in 2017. For more about the group talked about, notes are here: [bit.ly/hhroots][1] Check out all their smiling faces:**
 
-{{< figure link="/content-images/blog/2015/11/MozFest.jpg" src="/content-images/blog/2015/11/MozFest-300x174.jpg" alt="MozFest" >}}
+{{< figure link="/content-images/news/2015/11/MozFest.jpg" src="/content-images/news/2015/11/MozFest-300x174.jpg" alt="MozFest" >}}
 
 Photo by Phillip Smith.
 

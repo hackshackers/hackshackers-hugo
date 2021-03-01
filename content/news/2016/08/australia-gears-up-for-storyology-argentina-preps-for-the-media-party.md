@@ -28,7 +28,7 @@ The [Hacks/Hackers Africa][12] chapter in Kenya has been consistently collaborat
 
 > &#8220;We planned for meetup dates well in advance (at the beginning of the year) and booked the space for all these dates then. In case there&#8217;s need to push the meetup date, as sometimes happens due to unavoidable circumstances, we let them know at least a week or two in advance.&#8221;
 
-{{< figure link="https://www.theguardian.com/world/2016/aug/05/africa-most-innovative-controversial-tech-hacks-hackers" src="/content-images/blog/2016/08/africa.jpg" alt="africa" caption="[The Guardian][15] showcased #‎HacksHackers‬ Johannesburg&#8217;s ‪#‎HackTheConstitution‬ project as one of the most innovative civic tech projects in Africa." >}}
+{{< figure link="https://www.theguardian.com/world/2016/aug/05/africa-most-innovative-controversial-tech-hacks-hackers" src="/content-images/news/2016/08/africa.jpg" alt="africa" caption="[The Guardian][15] showcased #‎HacksHackers‬ Johannesburg&#8217;s ‪#‎HackTheConstitution‬ project as one of the most innovative civic tech projects in Africa." >}}
 
 **Worth a read:**
 

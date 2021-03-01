@@ -17,7 +17,7 @@ categories:
 - News
 ---
 
-{{< figure link="/content-images/blog/2010/02/DSC\_0018.jpg" src="/content-images/blog/2010/02/DSC\_0018-1024x679.jpg" >}}
+{{< figure link="/content-images/news/2010/02/DSC\_0018.jpg" src="/content-images/news/2010/02/DSC\_0018-1024x679.jpg" >}}
 
 [][1]Things got a little heated at the Hacks/Hackers [event on the Future of Personalized News][2].
 
@@ -41,11 +41,11 @@ One thought that comes to mind from the panel is whether there would be a way to
 
 Audiences are also increasingly going to partisan information sources whose positions they already agree with. That could lead to more polarization and extremism in society, a phenomenon known as &#8220;group polarization&#8221; that is discussed in this [New Yorker article][11].
 
-**What do you think?** 
+**What do you think?**
 
  ****I hope we&#8217;ll continue the dialogue in the comments below &#8212; I&#8217;m sure the panel could have gone on for hours last week.
 
- [1]: /content-images/blog/2010/02/DSC_0018.jpg
+ [1]: /content-images/news/2010/02/DSC_0018.jpg
  [2]: http://hackshackers.com/2010/02/19/video-of-panel-on-future-of-personalized-news/
  [3]: http://twitter.com/danolsen
  [4]: http://yourversion.com

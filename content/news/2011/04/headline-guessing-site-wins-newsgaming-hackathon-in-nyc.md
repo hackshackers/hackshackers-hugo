@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" src="/content-images/blog/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" >}}
+{{< figure link="/content-images/news/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" src="/content-images/news/2011/04/Screen-shot-2011-04-24-at-11.17.51-PM.png" >}}
 
 [Julian Burgess][1]&#8216;s game, [Whose Headline][2], won the [News+Gaming Hackathon][3] held at CUNY Journalism school over April 22 and 23 in New York City. The game presents headlines drawn from various publications, using RSS feeds, and asks the players to identify which publication it comes from. The original publications included [The New York Times][4], [ESPN][5], [Al Jazeera][6], [The Guardian][7], [The New York Daily News][8], [Mashable][9], and [Forbes][10]. Cody Brown also won a prize for suggesting that [The Onion][11]&#8216;s satirical headlines be added to the list.
 

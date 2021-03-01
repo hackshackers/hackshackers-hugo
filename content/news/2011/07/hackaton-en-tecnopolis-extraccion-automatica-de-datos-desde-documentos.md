@@ -21,7 +21,7 @@ groups:
 
 **
 
-{{< figure link="http://hackshackers.com/blog/2011/07/29/hackaton-en-tecnopolis-extraccion-automatica-de-datos-desde-documentos/17-de-julio-de-2011-tomas-aereas-de-tecnopolis/" src="/content-images/blog/2011/07/tecnopolis.jpg" >}}</p> 
+{{< figure link="http://hackshackers.com/blog/2011/07/29/hackaton-en-tecnopolis-extraccion-automatica-de-datos-desde-documentos/17-de-julio-de-2011-tomas-aereas-de-tecnopolis/" src="/content-images/news/2011/07/tecnopolis.jpg" >}}</p> 
 
 </strong>
 

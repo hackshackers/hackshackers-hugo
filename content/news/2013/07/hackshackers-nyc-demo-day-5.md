@@ -15,7 +15,7 @@ groups:
 - New York
 ---
 
-{{< figure link="/content-images/blog/2013/07/hhnyc-demo-day-5.jpg" src="/content-images/blog/2013/07/hhnyc-demo-day-5.jpg" alt="Hacks/Hackers NYC Demo Day 5" >}}
+{{< figure link="/content-images/news/2013/07/hhnyc-demo-day-5.jpg" src="/content-images/news/2013/07/hhnyc-demo-day-5.jpg" alt="Hacks/Hackers NYC Demo Day 5" >}}
 
 [Hacks/Hackers NYC][1] gathered for Demo Day 5 at [Pivotal Labs][2] for another inspiring mashup of startups hacking the future of content. The Summer 2013 demos by the Hacks/Hackers NYC community explored technology to better visualize information and tell compelling stories. They ranged from editorial visualizations and video interactives, to query searches, to building transparency in health costs. Each presentation was limited to 5 minutes followed by a 5 minute Q&A by the audience. Here is a brief rundown of each demo presenter. Video of the meetup is at the end of this post. Hacks/Hackers NYC community, feel free to clarify, ask questions or comment below.
 

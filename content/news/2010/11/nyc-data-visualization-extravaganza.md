@@ -23,7 +23,7 @@ Marc kicked off the presentations by talking about Tableau&#8217;s mission to de
 
 Matt Ericson, the Deputy Graphics Director at the New York Times, then took the stage to talk about how the NYT designed their election graphics for the just completed election season. There are a lot of challenges to doing real-time data driven graphics for election night, among them is thinking about the visual design for _dynamic_ results and providing insight into undecided races as new information is released. Among the visuals that Matt talked about was a new tool they developed expressly for helping people _compare_ results from past elections, which really gives a sense of how voting patterns have changed (see below).
 
-{{< figure link="/content-images/blog/2010/11/Screen-shot-2010-11-10-at-3.54.49-PM.png" src="/content-images/blog/2010/11/Screen-shot-2010-11-10-at-3.54.49-PM.png" >}}
+{{< figure link="/content-images/news/2010/11/Screen-shot-2010-11-10-at-3.54.49-PM.png" src="/content-images/news/2010/11/Screen-shot-2010-11-10-at-3.54.49-PM.png" >}}
 
 All of the NYT election graphics are still online [here][9]. The platform is implemented with data from the AP, an in-house flash library for the mapping, Ruby on Rails to bake pages to .html (for faster loading) and everything is hosted on EC2 for mass scalability.
 

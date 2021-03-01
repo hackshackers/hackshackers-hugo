@@ -19,7 +19,7 @@ groups:
 
 **
 
-{{< figure link="/content-images/blog/2010/11/great-urban-hack-logo.jpg" src="/content-images/blog/2010/11/great-urban-hack-logo-300x213.jpg" >}}</p> 
+{{< figure link="/content-images/news/2010/11/great-urban-hack-logo.jpg" src="/content-images/news/2010/11/great-urban-hack-logo-300x213.jpg" >}}</p>
 
 Who</strong> is my landlord?
 
@@ -47,7 +47,7 @@ Bare bulbs, concrete floors and brick walls at the [cavernous][19] [Eyebeam][4] 
 
 **
 
-{{< figure link="/content-images/blog/2010/11/whosmylandlord.jpg" src="/content-images/blog/2010/11/whosmylandlord.jpg" >}}</p> 
+{{< figure link="/content-images/news/2010/11/whosmylandlord.jpg" src="/content-images/news/2010/11/whosmylandlord.jpg" >}}</p>
 
 </strong>
 
@@ -57,7 +57,7 @@ The [result is an interface][23], built on MediaWiki, that mines information fro
 
 ### **New York Schmoozer**
 
-{{< figure link="/content-images/blog/2010/11/schmooze.jpg" src="/content-images/blog/2010/11/schmooze.jpg" >}}
+{{< figure link="/content-images/news/2010/11/schmooze.jpg" src="/content-images/news/2010/11/schmooze.jpg" >}}
 
 In this chat room, you can talk like a New Yorker. Only. And a famous one at that. Pick a character, from Jerry to Joey to Carrie, and start typing. As you do, you&#8217;re presented a list of related phrases that character has said on stage or screen — and you pick the most appropriate (or inappropriate).
 
@@ -69,7 +69,7 @@ Want to pick your restaurants by their political leanings? This will be your ans
 
 ### **Social Collage**
 
-{{< figure link="/content-images/blog/2010/11/socialcollage.jpg" src="/content-images/blog/2010/11/socialcollage.jpg" >}}
+{{< figure link="/content-images/news/2010/11/socialcollage.jpg" src="/content-images/news/2010/11/socialcollage.jpg" >}}
 
 This team started by walking through the hackspace asking people about their favorite works of art, their favorite places in New York and a piece of clothing that defines them. They then set out to [build thumbnail set of images][25] to represent people. With those collages they hope to use social media to connect others with similar interests.
 
@@ -79,7 +79,7 @@ This is a utility for generating thumbnails quickly with node.js to help coders 
 
 ### **Amalgamated Taxi Service**
 
-{{< figure link="/content-images/blog/2010/11/taxi-viz-detal.jpg" src="/content-images/blog/2010/11/taxi-viz-detal.jpg" >}}
+{{< figure link="/content-images/news/2010/11/taxi-viz-detal.jpg" src="/content-images/news/2010/11/taxi-viz-detal.jpg" >}}
 
 This team played with a pile of NYC taxi fare data to find new ways to look at how, when and why New Yorkers use taxis. They came up with a few [fascinating visualizations][27] and dreamed up possibilities for new tools. Their biggest challenge: how to play with 16 million records (and that&#8217;s just one month of trips).
 
@@ -91,7 +91,7 @@ This team is creating a community map of Harlem and Washington Heights, highligh
 
 ### **Which Hood?**
 
-{{< figure link="/content-images/blog/2010/11/whichnabe.jpg" src="/content-images/blog/2010/11/whichnabe.jpg" >}}
+{{< figure link="/content-images/news/2010/11/whichnabe.jpg" src="/content-images/news/2010/11/whichnabe.jpg" >}}
 
 Defining boundaries of New York City&#8217;s neighborhoods can be an inexact science — which doesn&#8217;t make computer programs happy. This project attempts to crowdsource the city&#8217;s neighborhood definitions [first with a quiz][28], and then by highlighting spots where people disagree. The end result would be an organic dataset programmers can use to feed their hyperlocal apps. Wondering if [StreetEasy&#8217;s new API][29] — released for The Great Urban Hack — could also be helpful here.
 
@@ -99,7 +99,7 @@ Defining boundaries of New York City&#8217;s neighborhoods can be an inexact sci
 
 **
 
-{{< figure link="/content-images/blog/2010/11/street-pac-man.jpg" src="/content-images/blog/2010/11/street-pac-man.jpg" >}}</p> 
+{{< figure link="/content-images/news/2010/11/street-pac-man.jpg" src="/content-images/news/2010/11/street-pac-man.jpg" >}}</p>
 
 </strong>
 
@@ -111,7 +111,7 @@ The team said the civic purpose is exercise and community. And fun. It&#8217;s n
 
 ### **Roachmap**
 
-{{< figure link="/content-images/blog/2010/11/Screen-shot-2010-11-07-at-11.19.38-PM.jpg" src="/content-images/blog/2010/11/Screen-shot-2010-11-07-at-11.19.38-PM.jpg" >}}
+{{< figure link="/content-images/news/2010/11/Screen-shot-2010-11-07-at-11.19.38-PM.jpg" src="/content-images/news/2010/11/Screen-shot-2010-11-07-at-11.19.38-PM.jpg" >}}
 
 There&#8217;s no way to track roach infestations everywhere in New York City, but [Roachmap][31] takes a swat at the problem by mapping reports of roaches from the city&#8217;s restaurant inspection data. (Eew.)
 
@@ -119,7 +119,7 @@ There&#8217;s no way to track roach infestations everywhere in New York City, bu
 
 **
 
-{{< figure link="/content-images/blog/2010/11/nyc-world.jpg" src="/content-images/blog/2010/11/nyc-world.jpg" >}}</p> 
+{{< figure link="/content-images/news/2010/11/nyc-world.jpg" src="/content-images/news/2010/11/nyc-world.jpg" >}}</p>
 
 </strong>
 
@@ -127,7 +127,7 @@ Turns out Sutton Place and the East 50s are a lot like Belgium &#8230; when you 
 
 ### **5W Dashboard**
 
-{{< figure link="/content-images/blog/2010/11/5w.jpg" src="/content-images/blog/2010/11/5w.jpg" >}}
+{{< figure link="/content-images/news/2010/11/5w.jpg" src="/content-images/news/2010/11/5w.jpg" >}}
 
 This is a concept/design for a tool that would help journalists present visual information in their stories, including photos, timelines and data. It was developed by a group of non-coders who wanted to bridge the journalist-technologist gap. Next step is getting it built, and they&#8217;re looking for folks who are interested (contact [me][33] or [Chrys Wu][34] via Twitter if you are).
 

@@ -16,7 +16,7 @@ A couple dozen folks have already RSVPed, with a good mix of backgrounds represe
 
 For more info, [join the Philly Meetup page][5], [follow HacksHackersPHL on Twitter][6], or follow [#hhphl][7].
 
- [1]: /content-images/blog/2011/04/philadelphia.gif
+ [1]: /content-images/news/2011/04/philadelphia.gif
  [2]: http://www.meetup.com/HacksHackersPhilly/events/34955492/
  [3]: http://technicallyphill.com
  [4]: http://www.j-lab.org/publications/exploring-a-networked-journalism-collaborative-in-philadelphia

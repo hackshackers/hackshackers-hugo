@@ -9,7 +9,7 @@ categories:
 
 Welcome back, hacks and hackers! this week we're excited to welcome [Benin City, Nigeria](https://groups.google.com/forum/#!forum/hackshackers-lagos), as the [112th Hacks/Hackers](https://hackshackers.com/groups/) chapter.
 
-![img alt text](/content-images/blog/2018/Screen%20Shot%202018-08-31%20at%2010.03.46%20AM.png)
+![img alt text](/content-images/news/2018/Screen%20Shot%202018-08-31%20at%2010.03.46%20AM.png)
 
 If you're feeling left out and want to start a chapter in your area - or breathe new life into an existing one - feel free to check out t[he guide on our website](https://hackshackers.com/resources/start-a-group/).
 

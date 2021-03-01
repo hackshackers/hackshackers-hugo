@@ -58,11 +58,11 @@ But even though our first hackathon is over, the work goes on through our Google
 
 With the commitment of hackathon participants and the growing interest of other chapter members who want to get on board, we expect Mi Bogota Verde, to be up and running before the end of the month. For now, you can also follow us on Twitter at [#BogmapaAmbiental][8].
 
- [1]: /content-images/blog/2012/08/GrupoDeHackaton.jpg "Group photo!"
- [2]: /content-images/blog/2012/08/Screen-shot-2012-08-13-at-2.28.56-PM.png "A screenshot of the map in development"
+ [1]: /content-images/news/2012/08/GrupoDeHackaton.jpg "Group photo!"
+ [2]: /content-images/news/2012/08/Screen-shot-2012-08-13-at-2.28.56-PM.png "A screenshot of the map in development"
  [3]: http://ushahidi.com/
- [4]: /content-images/blog/2012/08/StrategyTeam.jpg "Brainstorming a strategic plan"
+ [4]: /content-images/news/2012/08/StrategyTeam.jpg "Brainstorming a strategic plan"
  [5]: http://hubbog.com/
- [6]: /content-images/blog/2012/08/TechnologyTeam.jpg "Technology team"
+ [6]: /content-images/news/2012/08/TechnologyTeam.jpg "Technology team"
  [7]: https://twitter.com/#!/search/%23hacklatam
  [8]: https://twitter.com/#!/search/%23BogmapaAmbiental

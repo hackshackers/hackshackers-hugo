@@ -15,7 +15,7 @@ groups:
 
 _
 
-{{< figure link="http://hackshackers.com/blog/2012/07/05/hackshackers-brighton-kickstarters-most-successful-journalism-project-taking-unseen-snoopers/hackshackers-brighton\_side/" src="/content-images/blog/2012/07/hackshackers-brighton\_side.jpg" >}}</p> 
+{{< figure link="http://hackshackers.com/blog/2012/07/05/hackshackers-brighton-kickstarters-most-successful-journalism-project-taking-unseen-snoopers/hackshackers-brighton\_side/" src="/content-images/news/2012/07/hackshackers-brighton\_side.jpg" >}}</p> 
 
 Hacks/Hackers Brighton met on Tuesday evening (3 July) and heard from two fascinating speakers. You can find full details of the talks as liveblogged by Adam Tinworth on [&#8220;One man and his blog&#8221;][1]. Here is a summary that is [cross-posted from Journalism.co.uk][2].
 

@@ -45,7 +45,7 @@ For those of you who scored tickets to this [Tuesday&#8217;s demo][4] at Tableau
 
 Follow us on Twitter at [@HackHackersSEA][10] for the latest. Event hashtag: #hhSEA
 
-{{< figure link="/content-images/blog/2011/03/photo3.jpg" src="/content-images/blog/2011/03/photo3-1024x768.jpg" >}}
+{{< figure link="/content-images/news/2011/03/photo3.jpg" src="/content-images/news/2011/03/photo3-1024x768.jpg" >}}
 
  [1]: http://www.ustream.tv/channel/hacks-hackers-seattle
  [2]: http://www.ustream.tv/
