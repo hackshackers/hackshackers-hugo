@@ -1,6 +1,6 @@
 <div class="widget widget-wrapper widget-latest">
 	<ul class="widget-latest--list">
-		{{ range first .Len (where .Content "Section" "news") }}
+		{{ range first .Len (where .Content "Section" "news").ByPublishDate.Reverse }}
 			<li>
 				<a href="{{ .RelPermalink }}" class="widget-latest--post">
 					<div class="widget-latest--title">
