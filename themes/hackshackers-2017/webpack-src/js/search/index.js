@@ -108,16 +108,16 @@ function _initLunr(docs) {
     this.field('tags', { boost: 4 });
     this.field('content');
     this.ref('idx');
+
+    /**
+     * @todo translate doc.date from YYYY-MM-DD to timestamp
+     **/
+    docs.forEach((doc, idx) => {
+      doc.idx = idx; // eslint-disable-line no-param-reassign
+      this.add(doc);
+    });
   });
 
-  /**
-   * @todo translate doc.date from YYYY-MM-DD to timestamp
-   * @todo Fix bug with Lunr 2, use this.add() above
-   */
-  docs.forEach((doc, idx) => {
-    doc.idx = idx; // eslint-disable-line no-param-reassign
-    _indexer.add(doc);
-  });
   return _indexer;
 }
 
