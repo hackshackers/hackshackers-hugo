@@ -22,16 +22,21 @@ menu:
   main:
     - Name: About
       URL: "/about/"
+      Weight: 1
     - Name: Find A Group
       URL: "/groups/"
+      Weight: 3
     # - Name: Events
     #   URL: "/featured-events/"
     - Name: Resources
       URL: "/resources/"
-    - Name: Blog
-      URL: "/blog/"
+      Weight: 5
+    - Name: News
+      URL: "/news/"
+      Weight: 2
     - Name: Hack This Site
       URL: "/hack-this-site/"
+      Weight: 4
 
 params:
   twitter: HacksHackers

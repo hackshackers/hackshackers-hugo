@@ -41,6 +41,6 @@ Do you want to start a new chapter, join an existing group, or just get more inv
  [8]: https://hackshackers.slack.com
  [9]: https://github.com/HacksHackersAfrica/wiki/wiki/Organising-Meetings
  [10]: http://erikaowens.com/blog/some-tips-local-hackshackers-organizers
- [11]: /content-images/blog/2016/10/HacksHackersLondonMeetupRolesResponsibilities-Template.docx
- [12]: /content-images/blog/2016/10/Hacks2FHackers-London-Workback-Document-Template.xlsx
+ [11]: /content-images/news/2016/10/HacksHackersLondonMeetupRolesResponsibilities-Template.docx
+ [12]: /content-images/news/2016/10/Hacks2FHackers-London-Workback-Document-Template.xlsx
  [13]: https://hackshackersslackers.herokuapp.com/
