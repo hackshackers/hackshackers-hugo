@@ -32,7 +32,7 @@ Its organizer, OpenNews, is also [offering scholarships](https://opennews.org/wh
 *   When brainstorming about how to visualize a set of data, it can be limiting to only work within code or third party viz platforms; [sketching can help journalists understand their data better](https://medium.com/nightingale/how-and-why-we-sketch-when-visualizing-data-d843e0ce8c74) and think of innovative ways to represent it.
 *   It’s not just radical media sites and social media echochambers that are spreading disinformation, [it can come straight from search engines](https://www.niemanlab.org/2021/03/its-not-just-a-social-media-problem-how-search-engines-can-spread-misinformation/) like Google too.
 
-[https://twitter.com/gijn/status/1369952211606896642](https://twitter.com/gijn/status/1369952211606896642)
+{{< tweet 1369952211606896642 >}}
 
 **Job postings:**
 
