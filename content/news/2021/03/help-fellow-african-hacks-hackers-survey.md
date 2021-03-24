@@ -13,6 +13,10 @@ Hello, hacks and hackers! Code for Africa developed a [Massive Open Online Cours
 
 They’re looking for users to provide feedback on the site so it can better serve journalists’ needs, so please help them out by filling out [their form here](https://docs.google.com/forms/d/e/1FAIpQLSdd8GKVQcI36modzvDeZ932Ie6ZRVL5zSt-bJ5MaWJVGxnyqw/viewform?gxids=7628).
 
+**The week ahead:**
+
+*   Brisbane is talking about the power of [natural language generation](https://www.meetup.com/Hacks-Hackers-Brisbane/events/276979999/)
+
 **Worth a read:**
 
 
