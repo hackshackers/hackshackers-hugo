@@ -24,7 +24,7 @@ Infographics will be among the facets of culture that will take years to adapt a
 *   The front-end apps and tools for creating data visualizations are constantly changing, and this blogpost gives [an updated rundown of what the data viz tools ecosystem of 2021](https://cube.dev/blog/dataviz-ecosystem-2021/) looks like for maps, charts, tables, timelines and more.
 *   After [scraping article headlines from the NYT’s online front page](https://blog.tjcx.me/p/tracking-front-page-new-york-times) every five minutes since mid-February, this blogger found that less than half of the articles were news, while about a third were feature articles and a fifth were opinion.
 
-{{< tweet 1370833018651254784 >}}
+{{< tweet 1362392186130755586 >}}
 
 **Job postings:**
 
