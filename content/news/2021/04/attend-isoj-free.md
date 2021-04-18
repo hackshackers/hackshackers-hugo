@@ -2,12 +2,12 @@
 
 Title: Attend ISOJ for free
 
-authors: 
+authors:
 
 - Samantha Sunne
 
-date: "2021-04-18" 
-categories: 
+date: "2021-04-18"
+categories:
 - Newsletter
 
 ---
@@ -32,7 +32,7 @@ Also, a short correction: last week we shared [H/H London's upcoming April meetu
 *   With data being generated more and more frequently, and on a larger scale every year, some scientists have started emphasizing [data-driven storytelling](https://techcrunch.com/2021/04/16/data-scientists-bring-the-narrative-to-the-forefront/), a method that has been popular in journalism for years.
 *   The Guardian, which has been a financial success story in many ways, is leaning more and more on [philanthropic funding sources](https://www.niemanlab.org/2021/04/philanthropic-support-is-a-small-but-growing-revenue-stream-for-the-guardian-reaching-a-record-breaking-9m-last-year/).
 
-{{< 1383160536360235009 >}}
+{{< tweet 1383160536360235009 >}}
 
 **Job postings:**
 
@@ -51,9 +51,9 @@ Also, a short correction: last week we shared [H/H London's upcoming April meetu
 
 
 
-*   April 26-30, Online, [International Symposium on Online Journalism](https://latamjournalismreview.org/articles/mark-your-calendars-for-isoj-online-2021-the-premier-global-journalism-conference-will-be-held-from-april-26-30/) 
+*   April 26-30, Online, [International Symposium on Online Journalism](https://latamjournalismreview.org/articles/mark-your-calendars-for-isoj-online-2021-the-premier-global-journalism-conference-will-be-held-from-april-26-30/)
 *   May 1-3, Namibia, [World Press Freedom Day Conference](https://en.unesco.org/news/world-press-freedom-day-coming-home-namibia-host-wpfd-2021-conference)
-*   May 18-21, France, [Assises Internationales du Journalisme de Tours](https://www.journalisme.com/les-assises-2020/14e-assises-internationales-du-journalisme-de-tours/) 
+*   May 18-21, France, [Assises Internationales du Journalisme de Tours](https://www.journalisme.com/les-assises-2020/14e-assises-internationales-du-journalisme-de-tours/)
 *   June 7-11, Online, [RightsCon](https://www.rightscon.org)
 *   June 14-15, Germany, [Global Media Forum](https://www.dw.com/en/about-dw/gmf/s-43101535)
 *   June 14-18, Online, [Investigative Reporters & Editors Conference](https://www.ire.org/training/conferences/ire-2021/)
