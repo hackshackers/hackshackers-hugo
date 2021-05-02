@@ -3,7 +3,6 @@ export default function () {
   const searchOverlay = document.querySelector('.search-overlay');
   const searchInput = document.getElementById('input-search-desktop');
   const fullBleed = document.querySelector('.full-bleed');
-  // const mobileNavSearch = document.querySelector('.mobile-nav-search');
   if (searchBtn) {
     searchBtn.addEventListener('click', (evt) => {
       evt.preventDefault();
@@ -23,6 +22,7 @@ export default function () {
       // MOBILE: Close side bar if either enter pressed, or sidebar clicked.
       fullBleed.classList.toggle('active');
     };
+
     document.addEventListener('click', () => {
       if (searchOverlay.contains(event.target) &&
       !searchInput.contains(event.target)) {
