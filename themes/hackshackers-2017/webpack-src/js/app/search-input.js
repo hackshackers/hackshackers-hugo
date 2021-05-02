@@ -26,7 +26,7 @@ export default function () {
     document.addEventListener('click', () => {
       if (searchOverlay.contains(event.target) &&
       !searchInput.contains(event.target)) {
-        // Close the search toggle if clicking anywhere besides the
+        // DESKTOP: Close the search toggle if clicking anywhere besides the
         // text box
         searchOverlay.classList.toggle('show');
       }
