@@ -1,4 +1,4 @@
-import * as LeafletStyles from 'style!raw!leaflet/dist/leaflet.css'; // eslint-disable-line no-unused-vars
+import * as LeafletStyles from 'style-loader!raw-loader!leaflet/dist/leaflet.css'; // eslint-disable-line no-unused-vars
 import Leaflet from 'leaflet';
 import config from './config';
 

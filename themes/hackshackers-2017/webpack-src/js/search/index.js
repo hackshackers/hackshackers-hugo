@@ -6,7 +6,7 @@ import 'whatwg-fetch';
 import lunr from 'lunr';
 import * as config from './config';
 import template from 'lodash/template';
-import resultTemplate from 'raw!./search-partial.html';
+import resultTemplate from 'raw-loader!./search-partial.html';
 import fecha from 'fecha';
 import slug from 'slug';
 

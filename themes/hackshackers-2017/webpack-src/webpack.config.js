@@ -16,42 +16,68 @@ var webpackConfig = {
     jsonpFunction: 'hackshackersJsonp'
   },
   plugins: [
-    new ExtractTextPlugin('[name].css'),
+    new ExtractTextPlugin({filename:'[name].css'}),
   ],
   module: {
-    preLoaders: [
-      { test: /\.js$/, loader: 'eslint', exclude: /node_modules/ },
-    ],
-    loaders: [
+
+    rules: [
+      { test: /\.js$/, use: 'eslint-loader', enforce: "pre", exclude: /node_modules/ },
       {
-        loader: 'babel',
+        test: /\.css$/i,
+        use: ["style-loader", "css-loader", "postcss-loader"],
+      },
+      {
+        use: 'babel-loader',
         test: /\.js$/,
         include: path.resolve(__dirname, 'js'),
       },
       {
-        loader: ExtractTextPlugin.extract('style-loader', 'css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap'),
-        test: /\.scss$/
+        test: /\.scss$/,
+        use: ExtractTextPlugin.extract({
+          fallback: 'style-loader',
+          // use: [{
+        //     loader: 'css-loader',
+        //     options: {autoprefixer: false, sourceMap: false}
+        //   },
+        //   {
+        //     loader: 'postcss?parser=postcss-scss',
+        //     options: {sourceMap: true, scss: false}
+        //   }
+        // ]
+          use: "css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap"
+        })
+
       },
       {
         test: /\.png$/,
-        loader: 'url',
-        query: {
-          limit: 10000,
-          mimetype: 'image/png'
+        use: [{
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            mimetype: 'image/png'
+          }
         }
+
+        ]
       },
       {
         test: /\.jpg$/,
-        loader: 'url',
-        query: {
-          limit: 10000,
-          mimetype: 'image/jpg'
+        use:
+        [ {
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            mimetype: 'image/jpg'
+          }
         }
+
+        ]
       },
-      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader" }
-    ]
+      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, use: 'url-loader?limit=100000' },
+
+    ],
+
   },
-  postcss: [ autoprefixer({ browsers: ['last 4 versions'] }) ]
 };
 
 module.exports = webpackConfig;
