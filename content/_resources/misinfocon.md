@@ -17,13 +17,12 @@ Since then, we've had more gatherings at [Mozfest in London](http://london.misin
 Members of the community in Scotland and Cambridge held their own [MisinfoConX](https://misinfocon.com/misinfoconx-debut-making-waves-in-the-fight-against-misinformation-b1913810193) and [CredConX](https://twitter.com/credcoalition/status/1121411668871995394), local versions of the larger summits. MisinfoCon always wants to hear from community members about ideas for new events.
 
 # Publishing
-==========
 
 We host essays, blog posts, and updates on the [MisinfoCon website](https://misinfocon.com/). If you are working on a project, have done some research, or feel that you could contribute in another way, [send us a pitch](https://docs.google.com/forms/d/e/1FAIpQLSfYC27JfyoLT4UkdneXWxtx6mLNHFKzpqdanYxlSxPefArgcA/viewform?c=0&w=1).
 
 # Community
 
-Join the [MisinfoCon mailing list](http://eepurl.com/cBO3UX) for regular updates on the MisinfoCon community. For real-timerealtime updates, we have a Slack & [Twitter](https://twitter.com/misinfocon). For Slack, you'll need an invitation - to get one, just shoot an email to misinfocon at gmail dot com with "Slack" in the subject line.
+Join the [MisinfoCon mailing list](http://eepurl.com/cBO3UX) for regular updates on the MisinfoCon community. For realtime updates, we have a Slack & [Twitter](https://twitter.com/misinfocon). For Slack, you'll need an invitation - to get one, just shoot an email to misinfocon at gmail dot com with "Slack" in the subject line.
 
 <!--This is dead
 
