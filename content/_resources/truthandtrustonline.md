@@ -2,7 +2,7 @@
 title: Truth and Trust Online
 url: resources/truthandtrustonline
 ---
-<-- Add logo --->
+![](https://i1.wp.com/truthandtrustonline.com/wp-content/uploads/2019/06/tto-colour-e1565295551864.png?fit=638%2C287&ssl=1)
 
 [Truth and Trust Online](http://truthandtrustonline.com) started as a series of private meetings in London in 2019 between a number of researchers and other policy professionals, to discuss the trustworthiness of online information and digital spaces on the internet.
 
