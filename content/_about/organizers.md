@@ -40,6 +40,18 @@ url: about/organizers
 
 [Samantha Sunne][22] leads communications at Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana. She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
 
+--- 
+
+## Contact Us
+
+We can be reached by email at contact at hackshackers dot com, or the following mailing address:
+
+Hacks/Hackers
+
+700 12th St N.W Suite 700 PMB 96681
+
+Washington, DC 20005
+
 
  [1]: http://www.linkedin.com/in/richgordon
  [2]: http://www.medill.northwestern.edu/
