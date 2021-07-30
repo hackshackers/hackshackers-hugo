@@ -33,7 +33,7 @@ If you missed it, registration is still open, and you can follow the conference 
 *   GIJN created [a short quiz to test investigative journalists’ knowledge](https://gijn.org/2021/06/10/think-you-know-your-data-visualization-take-gijns-quiz-to-find-out/) of statistics, analysis and data visualization.
 *   The Knight Center’s “How to report safely: Strategies for women journalists & their allies” massive open online course is now available as [a free, self-paced online course](https://journalismcourses.org/course/how-to-report-safely-strategies-for-women-journalists-their-allies_self/), along with [over 30 other courses on their site](https://journalismcourses.org/coursecat/self-directed-courses/).
 
-{{< 1405342128901918722 >}}
+{{< tweet 1405342128901918722 >}}
 
 **Jobs:**
 
