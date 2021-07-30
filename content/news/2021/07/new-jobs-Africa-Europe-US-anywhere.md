@@ -31,7 +31,7 @@ Good news, hacks and hackers! We have lots of job openings this week, including 
 * Using Facebook’s data analytics tool CrowdTangle, an NYT tech columnist started tweeting [sources for the 10 link posts with the most engagement every day](https://www.niemanlab.org/2021/07/at-first-facebook-was-happy-that-i-and-other-journalists-were-finding-its-tool-useful-but-the-mood-shifted/), and found that the sources are usually right-wing outlets and commentators rather than mainstream news. 
 * If you’re looking for a data visualization engineer job, the Data Viz Society tells you [what kind of questions and topics you’re usually expected to know](https://twitter.com/DataVizSociety/status/1416103602003845123) about in the interview and how you’ll be tested on them.
 
-{{< 1416103602003845123 >}}
+{{< tweet 1416103602003845123 >}}
 
 **Jobs:**
 
