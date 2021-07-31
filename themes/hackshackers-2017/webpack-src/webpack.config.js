@@ -44,7 +44,8 @@ var webpackConfig = {
         //     options: {sourceMap: true, scss: false}
         //   }
         // ]
-          use: "css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap"
+          //use: "css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap"
+          use: [require.resolve('css-loader'), require.resolve('sass-loader')] 
         })
 
       },
