@@ -44,8 +44,21 @@ var webpackConfig = {
         //     options: {sourceMap: true, scss: false}
         //   }
         // ]
-          //use: "css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap"
-          use: [require.resolve('css-loader'), require.resolve('sass-loader')] 
+        // todo: it works with just css-loader, but the page is messed up. when i add the string of css?-autoprefix.... it breaks because of missing dependency. i suspect that if i can find what is the missing dependency it will work. could there be some sort of a dependency that i am missing and didnt declare earlier in the file? 
+          //use: "css?-autoprefixer&sourceMap!postcss-loader?parser=postcss-scss!sass-loader?sourceMap"
+        use: [require.resolve('css-loader'), require.resolve('sass-loader')]
+
+       //use: [require.resolve('css-loader?-autoprefixer&sourceMap!postcss-loader?parser=postcss-scss!sass-loader?sourceMap'), require.resolve('sass-loader')]
+//          use: [
+//             {
+//             loader: 'css-loader',
+//             options :{
+//                 sourceMap: false,
+//                  }
+//            }, {
+//               loader: 'sass-loader',
+//
+//}],
         })
 
       },
