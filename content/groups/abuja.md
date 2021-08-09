@@ -5,7 +5,7 @@ url: groups/abuja
 
 ![Abuja Skyline](https://upload.wikimedia.org/wikipedia/commons/9/9b/Abuja_Nightlife.jpg)
 
-The worlds of hackers and journalists and activists are coming together in Nigeria!
+The worlds of hackers and journalists and activists are coming together in Nigeria! Abuja is part of the [Hacks/Hackers Nigeria](https://groups.google.com/g/hackshackers-lagos) umbrella group with Lagos and Benin.
 
 Join us on **[Google Groups](https://groups.google.com/u/0/g/hackshackers-lagos)** and follow [#HHABJ](https://twitter.com/hashtag/HHABJ) for updates.
 
