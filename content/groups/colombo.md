@@ -17,4 +17,4 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Colombo/)**. We a
 |-----------|---------------|  
 | July 2020 | [Facing the future: How can journalists use tech to take on challenges?](https://www.meetup.com/Hacks-Hackers-Colombo/events/272213098/) |
 
-###### Photo from [WikiCommons](wikicommons.org).
+##### Photo from [WikiCommons](wikicommons.org).
