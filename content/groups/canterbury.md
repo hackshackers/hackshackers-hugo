@@ -3,7 +3,7 @@ title: Canterbury
 url: groups/canterbury
 ---
 
-![Butchery Lane](https://upload.wikimedia.org/wikipedia/commons/2/29/Butchery_Lane_Canterbury_Cathedral_7545.jpg)
+![canterbury](https://a.cdn-hotels.com/gdcs/production132/d1495/1b3743a9-5890-4d5c-a087-bc814dc5014f.jpg)
 
 Bringing journalists and technologists together!
 
