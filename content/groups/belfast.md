@@ -3,7 +3,7 @@ title: Belfast
 url: groups/belfast
 ---
 
-![Belfast](/content/content-images/group-images/belfast.jpg)
+![Belfast](../content/content-images/group-images/belfast.jpg)
 
 A band of merry geeks that love news!
 
