@@ -16,4 +16,4 @@ Join us on **[Meetup.com](https://www.meetup.com/Periodistas-y-programadores-Hab
 | June 2017 | [Introducción a Briar: inter-conectarse sin internet](https://www.meetup.com/Periodistas-y-programadores-Habana/events/240920077/) |
 | May 2017 | [Hacks/Hackers a lo cubano: ¿qué es? ¿qué hace?](https://www.meetup.com/Periodistas-y-programadores-Habana/events/240211416/) |   
 
-###### Photo from [WikiCommons](wikicommons.org).
+##### Photo from [WikiCommons](wikicommons.org).
