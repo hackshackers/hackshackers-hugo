@@ -17,4 +17,4 @@ Join us on **[Meetup.com](https://www.meetup.com/HacksHackersMontreal/)**. We al
 |-----------|---------------|  
 | November 2019 | [Hacks/Hackers Pub Meetup](https://www.meetup.com/HacksHackersMontreal/events/czbwkryzpbpb/) |
 | September 2019 | [Hacks/Hackers Pub Meetup](https://www.meetup.com/HacksHackersMontreal/events/wfdvhryzmbpb/) |   
-| September 2019 | [Hacks/Hackers Pub Meetup](https://www.meetup.com/HacksHackersMontreal/events/wfdvhryzmbvb/) |
+| Feb 2019 | [Démystifier les algorithmes](https://www.meetup.com/HacksHackersMontreal/events/258147431/) |
