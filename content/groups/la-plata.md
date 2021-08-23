@@ -7,4 +7,4 @@ url: groups/la-plata
 
 Capítulo local de Hacks And Hackers en la Ciudad de La Plata, Argentina. Follow us on [Twitter](https://twitter.com/HacksHackersLP)!
 
-###### Photo from [WikiCommons](wikicommons.org).
+##### Photo from [WikiCommons](wikicommons.org).
