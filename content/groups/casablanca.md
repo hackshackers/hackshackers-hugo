@@ -5,8 +5,8 @@ url: groups/casablanca
 
 ![Casablanca metropolis](https://upload.wikimedia.org/wikipedia/commons/4/44/Casablanca_Metropolis.jpg)
 
-Help us build the future of media!
+Help us build the future of media in Morocco!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Casablanca/)**.
 
-##### Photo from [WikiCommons](wikicommons.org).
+[Caption Photo from [WikiCommons](wikicommons.org)].
