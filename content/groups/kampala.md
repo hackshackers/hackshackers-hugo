@@ -3,7 +3,7 @@ title: Kampala
 url: groups/kampala
 ---
 
-![HacksHackers Kampala](https://github.com/hackshackers/hackshackers-hugo/blob/249c9f1828ba4f2a95ccbe6b518878e8dc20042c/content/content-images/group-images/kampala.jpeg)
+![HacksHackers Kampala](/content-images/group-images/kampala.jpeg)
 
 A network of journalists (“hacks”) and technologists (“hackers”) who rethink the future of news, information, web/digital application development and technology.
 
