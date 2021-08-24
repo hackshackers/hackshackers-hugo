@@ -3,7 +3,7 @@ title: Dar es Salaam
 url: groups/dar-es-salaam
 ---
 
-![HacksHackers dar es salaam](https://github.com/hackshackers/hackshackers-hugo/blob/0153e240e97cb99ee53cbc61b13aa3ec0a224281/content/content-images/group-images/dar%20es%20salaam.jpeg)
+![HacksHackers dar es salaam](/content-images/group-images/dar%20es%20salaam.jpeg)
 
 Dar es Salaam is part of the Hacks/Hackers Africa community on [Facebook](https://www.facebook.com/HacksHackersAfrica/) and [Twitter](https://twitter.com/hhafrica). You can also find us at #HacksHackersDar.
 
