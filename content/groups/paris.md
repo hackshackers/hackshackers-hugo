@@ -9,7 +9,7 @@ Bringing journalists and technologists together!
 
 Follow us on [Twitter](https://twitter.com/HacksHackersPAR).
 
-{{< tweet id="824582567546548228" width=80% >}}
+{{< tweet 824582567546548228 >}}
 
 # Past Highlights
 
