@@ -9,4 +9,4 @@ Help us build the future of media in Morocco!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Casablanca/)**.
 
-[Caption Photo from [WikiCommons](wikicommons.org)].
+##### Photo from [WikiCommons](wikicommons.org).
