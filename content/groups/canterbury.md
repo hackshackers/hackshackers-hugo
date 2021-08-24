@@ -19,4 +19,4 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Canterbury/)**. W
 | October 2017 | [Hacks/Hackers Monthly Meetup](https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywnbdb/) |   
 | September 2017 | [Hacks/Hackers Monthly Meetup](https://www.meetup.com/Hacks-Hackers-Canterbury/events/dgkjcdywmbgb/) |
 
-###### Photo from [WikiCommons](wikicommons.org).
+##### Photo from [WikiCommons](wikicommons.org).
