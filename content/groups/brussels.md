@@ -3,7 +3,7 @@ title: Brussels
 url: groups/brussels
 ---
 
-![HacksHackers Brussels Event](/content/content-images/group-images/brussels_connect_2017.jpeg)
+![HacksHackers Brussels Event](/content-images/group-images/brussels_connect_2017.jpeg)
 
 Rebooting journalism in Brussels!
 
