@@ -3,7 +3,7 @@ title: Stirling
 url: groups/stirling
 ---
 
-![HacksHackers Scotland](https://upload.wikimedia.org/wikipedia/commons/2/23/River_Clyde_2021.jpg)
+![HacksHackers Scotland](https://secure.meetupstatic.com/photos/event/c/a/9/e/600_478431870.jpeg)
 
 Journalism x technology! Hacks/Hackers Scotland convenes events in Glasgow, Stirling and Edinburgh. Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Scotland)**. We also share our events on [Twitter](https://twitter.com/HacksHackersSCO).
 
