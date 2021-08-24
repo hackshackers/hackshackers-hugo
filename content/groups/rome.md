@@ -3,7 +3,7 @@ title: Rome
 url: groups/rome
 ---
 
-![Rome Skyline](https://upload.wikimedia.org/wikipedia/commons/f/f5/Rome_Skyline_%288012016319%29.jpg)
+![Rome banner](https://secure.meetupstatic.com/photos/event/1/3/8/8/clean_468665000.jpeg)
 
 Help us build the future of media!
 
