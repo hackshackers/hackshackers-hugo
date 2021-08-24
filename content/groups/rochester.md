@@ -9,7 +9,7 @@ Journalists + technologists + designers + entrepreneurs =  the Rochester NY chap
 
 Follow us on [Twitter](https://twitter.com/HacksHackersROC):
 
-{{< tweet id="357147588388061185" width=80% >}}
+{{< tweet 357147588388061185 >}}
 
 # Past Highlights
 
