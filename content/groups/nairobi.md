@@ -3,7 +3,7 @@ title: Nairobi
 url: groups/nairobi
 ---
 
-![HacksHackers Nairobi Event](https://github.com/hackshackers/hackshackers-hugo/blob/6ef5f50591be3ad54f4a939acf4152dd49e59e21/content/content-images/group-images/nairobi.jpeg)
+![HacksHackers Nairobi Event](/content-images/group-images/nairobi.jpeg)
 
 Please join us as we reboot Journalism in Kenya!
 
