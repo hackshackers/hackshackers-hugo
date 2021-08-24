@@ -3,7 +3,7 @@ title: Lagos
 url: groups/lagos
 ---
 
-![Lagos Skyline](https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg)
+![Lagos](/content-images/group-images/hacks-hackers-nigeria.jpeg)
 
 The worlds of hackers and journalists and activists are coming together in Nigeria!
 
