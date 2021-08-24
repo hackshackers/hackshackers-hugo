@@ -9,7 +9,7 @@ Bringing journalists and technologists together!
 
 Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Philadelphia/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersPHL).
 
-{{< tweet id="1134109599647391745" width=80% >}}
+{{< tweet 1134109599647391745 >}}
 
 # Past Highlights
 
