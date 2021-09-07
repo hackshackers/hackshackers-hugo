@@ -14,5 +14,3 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Rome/)**.
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
 | February 2018 | [Hacker civici e giornalisti per coprire le elezioni 2018](https://www.meetup.com/Hacks-Hackers-Rome/events/247929241/) |
-
-##### Photo from [WikiCommons](wikicommons.org).
