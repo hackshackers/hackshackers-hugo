@@ -34,7 +34,7 @@ url: about/organizers
 
 ---
 
-## Communications Director
+## Community Director
 
 {{< figure src="/content-images/about/sunne.jpg" >}}
 
