@@ -10,9 +10,9 @@ Hacks/Hackers is committed to being transparent and accountable regarding the re
 
 View our disclosures by year:
 
-[2019](/content/content-images/about/Hacks_Hackers 2019 990.pdf)  
-[2018](/content/content-images/about/Hacks Hackers 2018 990.pdf)  
-[2017](/content/content-images/about/Hacks Hackers 2017 990.pdf) 
+[2019](https://www.hackshackers.com/content-images/about/Hacks%20Hackers%202019%20990.pdf)  
+[2018](https://www.hackshackers.com/content-images/about/Hacks%20Hackers%202018%20990.pdf)  
+[2017](https://www.hackshackers.com/content-images/about/Hacks%20Hackers%202017%20990.pdf) 
 
 ## Donate to the Hacks/Hackers Unrestricted Fund Via PayPal
 
