@@ -18,7 +18,7 @@ View our disclosures by year:
 
 You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hacks/Hackers needs it the most. If you would like to give to a specific project, please contact donate at hackshackers dot com.
 
-{{ iframe https://www.paypal.com/donate/?hosted_button_id=M27TQJ3753SR6 >}}
+<iframe src="https://www.paypal.com/donate/?hosted_button_id=M27TQJ3753SR6">
 
 ## Mail a Check
 
