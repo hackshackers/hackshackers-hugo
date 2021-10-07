@@ -6,19 +6,19 @@ published: true
 
 # Financials
 
-Hacks/Hackers is committed to being transparent and accountable regarding the resources we receive and use. All of our Form 990 (annual tax forms) are available for [viewing or downloading](https://apps.irs.gov/app/eos/detailsPage?ein=455351484&name=Hacks%20Hackers&city=Washington&state=DC&countryAbbr=US&type=returnsSearch).
+Hacks/Hackers is committed to being transparent and accountable regarding the resources we receive and use. All of our Form 990 (annual tax forms) are available for viewing or downloading.
 
 View our disclosures by year:
 
-2019  
-2018  
-2017  
+[2019](/content/content-images/about/Hacks_Hackers 2019 990.pdf)  
+[2018](/content/content-images/about/Hacks Hackers 2018 990.pdf)  
+[2017](/content/content-images/about/Hacks Hackers 2017 990.pdf) 
 
 ## Donate to the Hacks/Hackers Unrestricted Fund Via PayPal
 
 You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hacks/Hackers needs it the most. If you would like to give to a specific project, please contact donate at hackshackers dot com.
 
-<iframe src="https://www.paypal.com/donate/?hosted_button_id=M27TQJ3753SR6">
+[Donate on PayPal](https://www.paypal.com/donate/?hosted_button_id=M27TQJ3753SR6)
 
 ## Mail a Check
 
