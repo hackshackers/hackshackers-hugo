@@ -1,7 +1,7 @@
 ---
 title: How to Donate
 url: about/donate
-published: false
+published: true
 ---
 
 # Financials
