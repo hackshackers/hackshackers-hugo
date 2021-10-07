@@ -14,8 +14,6 @@ View our disclosures by year:
 2018  
 2017  
 
-# Donate
-
 ## Donate to the Hacks/Hackers Unrestricted Fund Via PayPal
 
 You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hacks/Hackers needs it the most. If you would like to give to a specific project, please contact donate at hackshackers dot com.
