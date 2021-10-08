@@ -12,7 +12,7 @@ Despite being a new conference, TTO 2019 was attended by around 300 participants
 
 These include Jerome Pesenti (VP of AI at Facebook), Cristian Canton Ferrer (Head of Facebook's AI Red Team), Rasmus Nielsen (Director at Reuters Institute), Claire Wardle (Director at First Draft News), Judy King (Director at BBC Monitoring), Will Moy (CEO at Full Fact) and a number of distinguished panelists from organizations such as the WHO; Wikimedia Foundation; US National Academies of Sciences, Engineering and Medicine; and the Harvard Medical School.
 
-# Become a Sonsor
+# Become a Sponsor
 
 Our conferences offer our sponsor, and supporters space and opportunities to connect with the credibility community on a virtual platform, with additional offerings such as:
 
