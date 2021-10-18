@@ -12,7 +12,7 @@ categories:
 
 ---
 
-Welcome back, hacks and hackers! If you're interested in the burgeoning area of engagement reporting, there is a long list of jobs currently open:
+Welcome back, hacks and hackers! If you're interested in the burgeoning area of engagement reporting, there is a [long list](https://twitter.com/riogringa/status/1448722536796082187?s=12) of jobs currently open:
 
 {{< tweet 1448722536796082187 >}}
 
