@@ -20,7 +20,7 @@ Hacks/Hackers is a registered 501(c)(3) non-profit corporation. Our EIN is 45-53
 
 You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hacks/Hackers needs it the most. If you would like to give to a specific project, please contact [donate@hackshackers.com](mailto:donate@hackshackers.com).
 
-[Donate on PayPal](https://www.paypal.com/donate/?hosted_button_id=M27TQJ3753SR6)
+{{< paypal >}}
 
 ## Mail a Check
 
