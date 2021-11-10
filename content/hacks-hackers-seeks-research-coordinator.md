@@ -25,7 +25,7 @@ And other related tasks as directed.
 
 ### Qualifications and Requirements
 
-Successful applicants will have at least a Bachelor's Degree and three years of professional work experience. Very strong organizational and interpersonal skills, diligence and creativity is a strong need in this position in combination with experience in a field related to data analysis and/or architecture in addition to multidisciplinary research.  Previous study, work experience, or skills in journalism, content moderation, psychology or medical science (i.e. vaccines) is strongly preferred. Excellent academic credentials, research, and/or writing background are desired.
+Successful applicants will have at least a Bachelor's Degree and three years of professional work experience. Very strong organizational and interpersonal skills, diligence and creativity is a strong need in this position in combination with experience in a field related to data analysis and/or architecture in connection with multidisciplinary research.  Previous study, work experience, or skills in journalism, content moderation, psychology or medical science (i.e. vaccines) is strongly preferred. Excellent academic credentials, research, and/or writing background are desired.
 
 
 Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. 
