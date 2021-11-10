@@ -1,4 +1,4 @@
-Hacks/Hackers is looking for a Project Area Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations around vaccine efficacy. A little bit about the project can be found <a href="https://newsq.net/2021/09/22/hacks-hackers-partners-awarded-funding-to-participate-in-the-2021-national-science-foundations-convergence-accelerator/">here</a>. 
+Hacks/Hackers is looking for a Project Area Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations around vaccine efficacy. A little bit about the project can be found [here](https://newsq.net/2021/09/22/hacks-hackers-partners-awarded-funding-to-participate-in-the-2021-national-science-foundations-convergence-accelerator/). 
 
 
 This is a temporary full-time, remote role for six months, which may be extended should the project gain additional funding. Applications will be reviewed starting November 22, 2021 on a rolling basis until the position is filled. The position start date is January 10, 2022. 
@@ -31,7 +31,7 @@ Successful applicants will have at least a Bachelor's Degree and three years of 
 Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. 
 
 
-<a href="https://www.hackshackers.com/">Hacks/Hackers</a> is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
+[Hacks/Hackers](https://www.hackshackers.com/) is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
 
 
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to:
