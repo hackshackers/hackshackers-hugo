@@ -33,7 +33,7 @@ And other related tasks as directed.
 Successful applicants will have at least a Bachelor's Degree and three years of professional work experience. Very strong organizational and interpersonal skills, diligence and creativity is a strong need in this position in combination with experience in a field related to data analysis and/or architecture in connection with multidisciplinary research.  Previous study, work experience, or skills in journalism, content moderation, psychology or medical science (i.e. vaccines) is strongly preferred. Excellent academic credentials, research, and/or writing background are desired.
 
 
-Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. 
+Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. Position also requires the ability to work according to US Time Zone schedules.
 
 
 <a href="https://www.hackshackers.com/">Hacks/Hackers</a> is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
