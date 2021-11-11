@@ -1,3 +1,5 @@
+# Hacks/Hackers seeks research coordinator
+
 Hacks/Hackers is looking for a Project Area Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations around vaccine efficacy. A little bit about the project can be found <a href="https://newsq.net/2021/09/22/hacks-hackers-partners-awarded-funding-to-participate-in-the-2021-national-science-foundations-convergence-accelerator/">here</a>. 
 
 
