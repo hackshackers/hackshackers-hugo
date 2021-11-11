@@ -42,4 +42,8 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to:
 jobs[at] hackshackers [dot] com.
 
-
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hackshackers">
+<meta name="twitter:title" content="Hacks/Hackers seeks research coordinator">
+<meta name="twitter:description" content="Hacks/Hackers is looking for a Project Area Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations around vaccine efficacy.">
+<meta name="twitter:image" content="/content/content-images/about/hackshackers_logotype-stacked_small.png">
