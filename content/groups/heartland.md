@@ -3,7 +3,7 @@ title: Heartland
 url: groups/heartland
 ---
 
-![Omaha Skyline](content/content-images/group-images/omaha.jpg)
+![Omaha Skyline](/content/content-images/group-images/omaha.jpg)
 
 We bring together "hacks" (journalists) and "hackers" (technologists) in Omaha! Find us on Twitter with the hashtag #HHhld.
 
