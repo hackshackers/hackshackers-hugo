@@ -7,7 +7,8 @@ url: groups/hawaii
 
 [Our mission](https://www.hawaiiweblog.com/2012/07/13/hackshackers-hawaii) is to create a network of journalists (“hacks”) and technologists (“hackers”) who rethink the future of news and information!
 
-{{< youtube LxxNc09P-ac >}}
+{{< youtube LxxNc09P-ac >}}  
+
 
 # Past Highlights
 
