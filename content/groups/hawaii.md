@@ -9,8 +9,6 @@ url: groups/hawaii
 
 {{< youtube LxxNc09P-ac >}}
 
-{{< tweet 852195727094804483 >}}
-
 # Past Highlights
 
 | **Date**  | **Highlight** |  
