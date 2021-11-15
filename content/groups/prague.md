@@ -13,6 +13,6 @@ Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Praha/)**. We als
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
+| October 2021 | [Hacks/Hackers Prague meetup](https://www.meetup.com/Hacks-Hackers-Praha/events/281631292/)
 | August 2014 | [Hacks/Hackers Prague #3, use of drones in journalism](https://www.meetup.com/Hacks-Hackers-Praha/events/196564372/) |
-| June 2014 | [Hacks/Hackers Prague #2, lightning talks and networking](https://www.meetup.com/Hacks-Hackers-Praha/events/179186722/) |   
-| April 2014 | [Hacks/Hackers Prague #1, lightning talks and networking](https://www.meetup.com/Hacks-Hackers-Praha/events/172338762/) |
+| June 2014 | [Hacks/Hackers Prague #2, lightning talks and networking](https://www.meetup.com/Hacks-Hackers-Praha/events/179186722/) |
