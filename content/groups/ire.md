@@ -3,7 +3,7 @@ title: IRE
 url: groups/ire
 ---
 
-![HacksHackers IRE logo](https://twitter.com/hackshackersIRE/photo)
+![HacksHackers IRE logo](https://pbs.twimg.com/profile_images/1552249156/ire_twitter_reasonably_small.gif)
 
 The Investigative Reporters & Editors chapter of Hacks/Hackers is bringing journalists and technologists together at the University of Missouri in Columbia, Missouri!
 
