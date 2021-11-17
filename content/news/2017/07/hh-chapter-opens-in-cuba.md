@@ -1,5 +1,5 @@
 ---
-title: Hacks/Hackers opens chapter in Cuba
+title: Hacks/Hackers opens group in Cuba
 authors:
 - Samantha Sunne
 date: "2017-07-02"
@@ -11,7 +11,7 @@ Hi, hacks and hackers. Let's give a friendly welcome to [Hacks/Hackers Havana](h
 
 {{< figure src="https://secure.meetupstatic.com/photos/event/1/8/3/9/highres_461526201.jpeg" >}}
 
-If you or anyone you know is interested in starting a chapter where you are, check out the [Start a Group guide](https://hackshackers.com/resources/start-a-group/) on the website.
+If you or anyone you know is interested in starting a group where you are, check out the [Start a Group guide](https://hackshackers.com/resources/start-a-group/) on the website.
 
 Also, the [global planning call](https://hackshackers.com/resources/global-open-call/), which is usually held the first Wednesday of the month, is postponed, for those celebrating the U.S. independence day. July's call will be held Wednesday the 12th.
 
