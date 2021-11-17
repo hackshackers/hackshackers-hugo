@@ -12,7 +12,7 @@ categories:
 
 ---
 
-Welcome to March, hacks and hackers! HH London [recently announced](https://medium.com/hacks-hackers-london/hacks-hackers-london-embraces-the-opennews-rider-for-meaningfully-inclusive-events-3dc1b12753ed) its goals for adopting the [OpenNews speaker rider](https://opennews.org/projects/speaker-rider/).
+Welcome to March, hacks and hackers! H/H London [recently announced](https://medium.com/hacks-hackers-london/hacks-hackers-london-embraces-the-opennews-rider-for-meaningfully-inclusive-events-3dc1b12753ed) its goals for adopting the [OpenNews speaker rider](https://opennews.org/projects/speaker-rider/).
 
 {{< tweet 1367175297112694796 >}}
 
