@@ -14,15 +14,14 @@ Do you want to start a new chapter, join an existing group, or just get more inv
   * Download and customize [official logos](https://hackshackers.com/resources/logos/) for your group
   * Pose a question on the [Google Group for organizers][2]
   * Try holding intermittent or quarterly events (quality over quantity!)
-  * Instead of planning a chapter-wide event, plan a dinner or outing for you and your co-organizers.
-  * [Email us](mailto:samantha@hackshackers.com) if you have any questions, or just want to brainstorm.
+  * Instead of planning a chapter-wide event, plan a dinner or outing for you and your co-organizers
+  * [Email us](mailto:contact@hackshackers.com) if you have any questions, or just want to brainstorm
   * If you need some startup money, let us know. We might have some money (not much) we can funnel to startup chapters, but $50 can go a long way in a bar toward appetizers
 
 **If you want to get more involved…**
 
   * Subscribe to [the weekly newsletter][6]
   * Join our [open call][5] the first Wednesday of every month
-  * Check out the [calendar of all Hacks/Hackers meetups][7] worldwide
   * Join the [Slack channel][8]
 
 **If you want to grow your chapter&#8230;**
