@@ -2,10 +2,17 @@
 title: Resources
 sectionFront: _resources
 ---
-Hacks/Hackers aims to bring together journalists and technologies. As such, it is compiling or creating resources to help.
+Hacks/Hackers aims to bring together journalists and technologists! As such, we have created or compiled existing resources to help.
 
-**The [Hacks/Hackers Survival Glossary][1]** is a crowdsourced explanation of terms that help us understand the technologies involved in modern content distribution. Don&#8217;t know Drupal from Django, API from Ajax, mashup from metadata? This is the list for you. It&#8217;s written for intelligent nontechies in (mostly) plain English. Feel free to distribute or contribute. Since being [put up on Poynter Online][2], it has proved so popular that it accounts for several percentage points of traffic every day. The list is currently being translated into French and Arabic.
+If you want to start a new local Hacks/Hackers group, please [start here](https://www.hackshackers.com/resources/start-a-group/). If you would like to join a group as a member or organizer, you can find find your group in the [Group Directory](https://www.hackshackers.com/groups/).
 
- [1]: http://hackshackers.com/hackshackers-survival-glossary/
- [2]: http://www.poynter.org/content/content_view.asp?id=185861
- 
+If you are an existing organizer, you may benefit from the following:
+
+* [Tools and Tips for Organizers](https://www.hackshackers.com/resources/tools-tips-organizers/)
+* [Suggested Meetups](https://www.hackshackers.com/resources/suggested-meetups/)
+* [Hackathon Tips](https://www.hackshackers.com/resources/hackathon-tips/)
+* [Logos and Style Guide](https://www.hackshackers.com/resources/logos/)
+
+Everyone, including organizers, members, friends and strangers, are welcome to join our [Global Planning Call](https://www.hackshackers.com/resources/global-open-call/) on the first Wednesday of every month.
+
+Hacks/Hackers helps to organize subsidiary organizations including [MisinfoCon](https://www.hackshackers.com/resources/misinfocon/) and [Truth and Trust Online](https://www.hackshackers.com/resources/truthandtrustonline/). For questions, please contact us on the [About Us](https://www.hackshackers.com/about/) page.
