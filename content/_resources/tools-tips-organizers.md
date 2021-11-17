@@ -35,7 +35,7 @@ Do you want to start a new chapter, join an existing group, or just get more inv
  [3]: http://connect.hackshackers.com
  [4]: http://meetupnyc.hackshackers.com/
  [5]: https://hackshackers.com/resources/global-open-call/
- [6]: http://hackshackers.com/blog/tag/newsletter-2/
+ [6]: https://hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&id=fb2bc6f10b
  [7]: https://hackshackers.com/
  [8]: https://hackshackers.slack.com
  [9]: https://github.com/HacksHackersAfrica/wiki/wiki/Organising-Meetings
