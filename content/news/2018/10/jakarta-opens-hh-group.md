@@ -1,5 +1,5 @@
 ---
-title: Jakarta opens H/H chapter
+title: Jakarta opens H/H group
 authors:
 - Samantha Sunne
 date: "2018-10-07"
