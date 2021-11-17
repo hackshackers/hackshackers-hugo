@@ -1,5 +1,5 @@
 ---
-title: How Hacks/Hackers Buenos Aires became the world’s biggest HH chapter, or the
+title: How Hacks/Hackers Buenos Aires became the world’s biggest H/H chapter, or the
   role of the “Maradona theory” applied to community-building
 authors:
 - Mariano Blejman
