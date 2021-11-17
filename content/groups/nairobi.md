@@ -15,6 +15,6 @@ Join us on **[Facebook](https://www.facebook.com/HacksHackersAfrica/)** and **[G
 
 | **Date**  | **Highlight** |  
 |-----------|---------------|  
-| November 2020 | [HH NBO November Meetup: Geo-Journalism & Mapping](https://groups.google.com/g/hackshackers-nairobi/c/uWzCrVN3TtA) |
-| October 2020 | [HH NBO October Meetup: Investigative Reporting During COVID 19](https://groups.google.com/g/hackshackers-nairobi/c/81_CG5ll02M) |   
+| November 2020 | [H/H NBO November Meetup: Geo-Journalism & Mapping](https://groups.google.com/g/hackshackers-nairobi/c/uWzCrVN3TtA) |
+| October 2020 | [H/H NBO October Meetup: Investigative Reporting During COVID 19](https://groups.google.com/g/hackshackers-nairobi/c/81_CG5ll02M) |   
 | September 2020 | [Hacks Hackers Nairobi Relaunch](https://groups.google.com/g/hackshackers-nairobi/c/MAkkkgnllLU) |
