@@ -1,6 +1,6 @@
 ---
 
-Title: HH joins NSF Convergence Accelerator
+Title: H/H joins NSF Convergence Accelerator
 
 Authors: 
 
