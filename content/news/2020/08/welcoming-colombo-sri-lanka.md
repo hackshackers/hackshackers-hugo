@@ -1,5 +1,5 @@
 ---
-Title: Welcoming HH Colombo, Sri Lanka
+Title: Welcoming H/H Colombo, Sri Lanka
 authors: 
 - Samantha Sunne
 date: "2020-08-02"
