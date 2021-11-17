@@ -1,6 +1,6 @@
 ---
 
-Title: A lunchtime lecture with HH London
+Title: A lunchtime lecture with H/H London
 
 authors: 
 
