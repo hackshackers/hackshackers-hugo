@@ -16,13 +16,13 @@ groups:
 - Rosario
 ---
 
-[Hacks/Hackers Rosario][1] (HHROS) is already a reality. On Thursday, April 25, the second Argentine chapter of Hacks/Hackers (HH) had its first meetup in [ClubdeFun Bar][2], with more than 60 attendees.
+[Hacks/Hackers Rosario][1] (HHROS) is already a reality. On Thursday, April 25, the second Argentine chapter of Hacks/Hackers (H/H) had its first meetup in [ClubdeFun Bar][2], with more than 60 attendees.
 
 {{< figure src="https://lh4.googleusercontent.com/lanq99WiiV3Lhbu2qIqwtGMYVcZ988A5YZNPoeQt4VspLKWdjqcyKmFc9CD76Xa4-EFTNgaPBBJabbyCeArQ9H094a0Z3i0t7rCA4x6WZC6cQYNH_yfNYMAsrA" >}}
 
 Programmers, journalists, designers, entrepreneurs, technologists and IT professionals gathered at the venue to attend the talks offered by Ezequiel Clerici (Journalist and co-organizer of Hacks/Hackers Buenos Aires and HHROS), Pablo Cuadrado (Mozilla Argentina ), Dart Ceballos (Bachelor of Social Communication, digital reporter and co-organizer of HHROS) and Mariano Blejman (Knight International Journalism Fellow at International Center For Journalists and co-founder of Hacks/Hackers Buenos Aires).
 
-The opening talk, by Ezequiel Clerici, focused on the objectives of HH as global organization, noting that is an ideal space for networking where professionals of multiple areas can approach and assist in the development of the future of media, as well as technology projects related to civic information at large.
+The opening talk, by Ezequiel Clerici, focused on the objectives of H/H as global organization, noting that is an ideal space for networking where professionals of multiple areas can approach and assist in the development of the future of media, as well as technology projects related to civic information at large.
 
 HHROS discussed the new space occupied by programmers, journalists and designers in media at outlets like ProPublica (USA), The New York Times (USA) and The Guardian (UK).
 
