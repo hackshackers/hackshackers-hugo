@@ -28,9 +28,9 @@ https://www.instagram.com/p/BEZfDVxIY8p/
 
 [Hacks/Hackers Munich][11] (München in German) invited local startup founders to [intro and demo their apps][12] &#8211; one for searching government requests and one for linking segments of data in the form of text. Co-organizer [Bernd Oswald][13] said diversity in both speakers and organizers has helped their chapter appeal to a large number of attendees.
 
-> “We are three organizers and discuss in a slack channel about speakers and locations. We usually try to offer three speakers, one from journalism, one from coding and one from design, to make the HH meetups appealing for people from all of these branches.
+> “We are three organizers and discuss in a slack channel about speakers and locations. We usually try to offer three speakers, one from journalism, one from coding and one from design, to make the H/H meetups appealing for people from all of these branches.
 >
-> From time to time we are trying to invite big names from famous media in Munich, maybe this will work in our next meeting. One of the speakers &#8211; Maxi from kleineanfragen &#8211; approached us and asked, whether he could give a speech at the next HH meeting.”
+> From time to time we are trying to invite big names from famous media in Munich, maybe this will work in our next meeting. One of the speakers &#8211; Maxi from kleineanfragen &#8211; approached us and asked, whether he could give a speech at the next H/H meeting.”
 
 {{< tweet 717767448880148480 >}}
 
