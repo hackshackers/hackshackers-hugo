@@ -1,5 +1,5 @@
 ---
-title: Starting the year with 115 chapters and more to come
+title: Starting the year with 115 groups and more to come
 authors: 
 - Samantha Sunne
 date: "2019-01-07"
@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Welcome to 2019, hacks and hackers! In 2018, Hacks/Hackers grew by seven chapters on four continents, bringing us up to [115 chapters around the world](hackshackers.com/groups), and more in the works. Local groups held more than 100 events, from fake news in Dar es Salaam to crowdsourcing in Berlin.
+Welcome to 2019, hacks and hackers! In 2018, Hacks/Hackers grew by seven groups on four continents, bringing us up to [115 groups around the world](hackshackers.com/groups), and more in the works. Local groups held more than 100 events, from fake news in Dar es Salaam to crowdsourcing in Berlin.
 
 {{< tweet 1076060032251289600 >}}
 
