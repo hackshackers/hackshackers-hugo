@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers! There&#8217;s been significant interest in starting new Hacks/Hackers chapters from North America to Latin America to Asia over the past few months. One of the newest members of the family, [Caracas][1], held their first event last weekend: [#DataYTequeños][2] (cheesy sticks):
+Greetings, hacks and hackers! There&#8217;s been significant interest in starting new Hacks/Hackers groups from North America to Latin America to Asia over the past few months. One of the newest members of the family, [Caracas][1], held their first event last weekend: [#DataYTequeños][2] (cheesy sticks):
 
 {{< tweet 784937027116695553 >}}
 
@@ -25,9 +25,9 @@ The next to get started is [Taipei][3], so if you know anyone in Taiwan, spread 
   * [Miami][6] is holding its regular OpenHack Miami
   * [IRE][7] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The [brand new chapter in Caracas][1], Venezuela, got off to a booming start last weekend. More than 40 people showed up to [a casual celebration of data and tequeños][8] &#8211; Venezuelan cheesy bread sticks. Organizer [Katherine Pennacchio][9] had a hard time estimating how many people would attend, and said picking a venue to fit the crowd was important.
+The [brand new group in Caracas][1], Venezuela, got off to a booming start last weekend. More than 40 people showed up to [a casual celebration of data and tequeños][8] &#8211; Venezuelan cheesy bread sticks. Organizer [Katherine Pennacchio][9] had a hard time estimating how many people would attend, and said picking a venue to fit the crowd was important.
 
 > &#8220;And try to find an sponsor to be able to get free drinks or snacks. If not, give the option to buy drinks or food. Informality sometimes is good.&#8221;
 
