@@ -1,5 +1,5 @@
 ---
-title: 2018 begins with new chapters, new job opps
+title: 2018 begins with new groups, new job opps
 authors:
 - Samantha Sunne
 date: "2018-01-07"
@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Welcome to 2018, hacks and hackers. We've updated the [Groups page](https://hackshackers.com/groups/) with a few new chapters: [Yaounde, Cameroon](https://groups.google.com/forum/#!forum/hacks-hackers-yaounde), and [Abuja, Nigeria](https://groups.google.com/forum/#!forum/hackshackers-lagos), and have a few more in the works. Welcome!
+Welcome to 2018, hacks and hackers. We've updated the [Groups page](https://hackshackers.com/groups/) with a few new groups: [Yaounde, Cameroon](https://groups.google.com/forum/#!forum/hacks-hackers-yaounde), and [Abuja, Nigeria](https://groups.google.com/forum/#!forum/hackshackers-lagos), and have a few more in the works. Welcome!
 
 **Worth a read:**
 
