@@ -1,5 +1,5 @@
 ---
-Title: A packed week for local chapters, and a burst of job postings
+Title: A packed week for local groups, and a burst of job postings
 authors: 
 - Samantha Sunne
 date: "2019-04-21"
@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Happy early Earth day, hacks and hackers! Chapters on four different continents are holding meetups this week, covering topics like open data, space technology and the IoT.
+Happy early Earth day, hacks and hackers! Groups on four different continents are holding meetups this week, covering topics like open data, space technology and the IoT.
 
 {{< tweet 1116511058888232965 >}}
 
