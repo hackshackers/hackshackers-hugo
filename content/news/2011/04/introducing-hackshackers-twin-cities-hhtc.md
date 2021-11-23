@@ -12,7 +12,7 @@ groups:
 - Twin Cities
 ---
 
-[Public Radio International][1] and [Minne*][2] are joining forces to launch the [Twin Cities Chapter of Hacks/Hackers][3].  We are excited to have our fledgling chapter join the good company of chapters spreading from the [Bay Area][4] to [NYC][5], to [Buenos Aires][6].
+[Public Radio International][1] and [Minne*][2] are joining forces to launch the [Twin Cities group of Hacks/Hackers][3].  We are excited to have our fledgling group join the good company of groups spreading from the [Bay Area][4] to [NYC][5], to [Buenos Aires][6].
 
 {{< figure link="/content-images/news/2011/04/twin\_cities\_side1.gif" src="/content-images/news/2011/04/twin\_cities\_side1.gif" >}}
 
