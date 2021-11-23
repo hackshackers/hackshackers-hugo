@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Happy Monday, hacks and hackers. Quite a few chapters are taking a break this week after a [whirlwind of activity last week][1], and Buenos Aires just wrapped up the [Media Party][2] yesterday. Check out the Chapter Spotlight for some of the highlights of that conference.
+Happy Monday, hacks and hackers. Quite a few groups are taking a break this week after a [whirlwind of activity last week][1], and Buenos Aires just wrapped up the [Media Party][2] yesterday. Check out the Group Spotlight for some of the highlights of that conference.
 
 In other news, registration has officially opened for [Connect Toronto][3]! Go [here][4] to reserve your spot today.
 
@@ -22,9 +22,9 @@ In other news, registration has officially opened for [Connect Toronto][3]! Go [
   * [Miami][6] is holding its regular OpenHack Miami
   * [IRE][7] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-As you probably already know, [Buenos Aires][8] held the world&#8217;s reigning Hacks/Hackers event last week: the [Media Party][8]. Thousands of media and tech enthusiasts attended, and the Buenos Aires chapter summited 7,000 members in its Meetup group.
+As you probably already know, [Buenos Aires][8] held the world&#8217;s reigning Hacks/Hackers event last week: the [Media Party][8]. Thousands of media and tech enthusiasts attended, and the Buenos Aires group summited 7,000 members in its Meetup group.
 
 {{< tweet 769618612453797888 >}}
 
