@@ -1,5 +1,5 @@
 ---
-title: New year, new chapters
+title: New year, new groups
 authors:
 - Samantha Sunne
 date: "2018-01-14"
@@ -9,7 +9,7 @@ categories:
 
 Hope your 2018 is getting off to a good start, hacks and hackers. Last year saw the addition of seven new groups to the Hacks/Hackers family: [Casablanca](https://www.meetup.com/Hacks-Hackers-Casablanca/), [Yaounde](https://groups.google.com/forum/#!forum/hacks-hackers-yaounde), [Abuja](https://groups.google.com/forum/#!forum/hackshackers-lagos), [Havana](https://www.meetup.com/Periodistas-y-programadores-Habana/events/past/), [Kuala Lumpur](https://www.meetup.com/Hacks-Hackers-Kuala-Lumpur), [Quito](https://www.meetup.com/Hacks-Hackers-Quito) and [South Wales x South West](https://www.meetup.com/Hacks-Hackers-South-Wales-x-South-West).
 
-We want to see even more new chapters next year. If you're interested in being an organizer, or know someone who is, let us know! We may even already have a co-organizer for you.
+We want to see even more new groups next year. If you're interested in being an organizer, or know someone who is, let us know! We may even already have a co-organizer for you.
 
 **The week ahead:**
 
