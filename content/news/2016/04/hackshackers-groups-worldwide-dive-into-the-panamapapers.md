@@ -1,5 +1,5 @@
 ---
-title: 'Hacks/Hackers chapters worldwide dive into the #PanamaPapers'
+title: 'Hacks/Hackers groups worldwide dive into the #PanamaPapers'
 authors:
 - Samantha Sunne
 date: "2016-04-24"
@@ -24,9 +24,9 @@ https://www.instagram.com/p/BEZfDVxIY8p/
   * Vienna is hosting speakers from [Google News Lab and OpenDataCity][9]
   * Barcelona is teaching [R for Dummies][10]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Hacks/Hackers Munich][11] (München in German) invited local startup founders to [intro and demo their apps][12] &#8211; one for searching government requests and one for linking segments of data in the form of text. Co-organizer [Bernd Oswald][13] said diversity in both speakers and organizers has helped their chapter appeal to a large number of attendees.
+[Hacks/Hackers Munich][11] (München in German) invited local startup founders to [intro and demo their apps][12] &#8211; one for searching government requests and one for linking segments of data in the form of text. Co-organizer [Bernd Oswald][13] said diversity in both speakers and organizers has helped their group appeal to a large number of attendees.
 
 > “We are three organizers and discuss in a slack channel about speakers and locations. We usually try to offer three speakers, one from journalism, one from coding and one from design, to make the H/H meetups appealing for people from all of these branches.
 >
