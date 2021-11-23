@@ -1,5 +1,5 @@
 ---
-title: 'Inaugural Meetup for Atlanta Chapter: Knight News Challenge Info Session'
+title: 'Inaugural Meetup for Atlanta Group: Knight News Challenge Info Session'
 authors:
 - Sergio Goldenberg
 date: "2010-11-12"
