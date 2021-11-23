@@ -10,20 +10,20 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers. Storyology swept Australia&#8217;s media scene last week, and the [Hacks/Hackers Media Party][1] is already coming up next week! This week, [New Orleans][2] is opening a new chapter, with [drinks to celebrate][3]. Spread the word if you know any journos or techies in the Big Easy.
+Greetings, hacks and hackers. Storyology swept Australia&#8217;s media scene last week, and the [Hacks/Hackers Media Party][1] is already coming up next week! This week, [New Orleans][2] is opening a new group, with [drinks to celebrate][3]. Spread the word if you know any journos or techies in the Big Easy.
 
 {{< tweet 763403052283928576 >}}
 
 **The week ahead:**
 
   * Hong Kong is talking about [gamifying the news][4]
-  * New Orleans is hosting a [welcome party][2] to celebrate its new chapter
+  * New Orleans is hosting a [welcome party][2] to celebrate its new group
   * [Miami][5] is holding its regular OpenHack Miami
   * [IRE][6] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Berlin][7] featured a couple cool speakers [last week][8], including Hacks/Hackers&#8217; own [Sarah Marshall][9] from the London chapter. She talked about how to create products that make users want to use them again and again.
+[Berlin][7] featured a couple cool speakers [last week][8], including Hacks/Hackers&#8217; own [Sarah Marshall][9] from the London group. She talked about how to create products that make users want to use them again and again.
 
 {{< tweet 763445051880009728 >}}
 
@@ -63,7 +63,6 @@ Greetings, hacks and hackers. Storyology swept Australia&#8217;s media scene las
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][28] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][29] (GFMD)
       * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][30], for executives, academics and startups to convene around future of media
-          * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][31]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][32]
       * Sept 28-29 &#8211; Chicago, USA &#8211; INN workshop on [Tech and Product Design for News Leaders][33]
