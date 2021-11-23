@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Last week Hacks/Hackers chapters around the world tackled a ton of great topics: developer newsroom culture, chat apps, experimental video approaches, interactive news web apps in Angular and so much more.
+Last week Hacks/Hackers groups around the world tackled a ton of great topics: developer newsroom culture, chat apps, experimental video approaches, interactive news web apps in Angular and so much more.
 
 {{< figure src="https://gallery.mailchimp.com/c56f2e53d5ed6ef87f8aaa75c/images/4393ac23-592f-47af-a589-90b8b1052772.png" >}}
 
@@ -20,13 +20,13 @@ This next week is shaping up to be another great one for Hacks/Hackers, so let�
 
 **The week ahead for Hacks/Hackers:**
 
-  * The **Portland, Ore.**, chapter meets with two members of [The Coral Project][1] team to discuss &#8220;[Rethinking the Conversation][2]&#8221; around online commenting. 
+  * The **Portland, Ore.**, group meets with two members of [The Coral Project][1] team to discuss &#8220;[Rethinking the Conversation][2]&#8221; around online commenting. 
   * In **Columbia, Mo.**, Hacks/Hackers-IRE will be talking about [web-scraping in Python][3]. 
   * Hacks/Hackers **Nairobi** meets to discuss [net neutrality and its importance in the emerging and developing world][4]. 
   * Four college instructors in **New York City** will talk about what it&#8217;s like to [teach data + journalism][5]while also working as a journalist. 
   * In **Berlin**, the Hacks/Hackers crowd will meet at [Zeit Online&#8217;s newsroom][6] to hear from [Tran Ha][7],[Anh Hoà Truong][8] and [Martin Kotynek][9] about the work each of them did while at Stanford. 
 
-**Chapter spotlight:** **Hacks/Hackers London**
+**Group spotlight:** **Hacks/Hackers London**
 
 On Thursday, a sold-out crowd of hacks and hackers gathered at Twitter&#8217;s UK offices. [Read the tweets from the event][10] to learn more about timesXtwo (a video collaboration from BBC and ABC), see how attendees played around with Firechat (a chat tool that has proven useful in protest situations &#8211; or when you want a backchannel to chatter in during a Hacks/Hackers event), and several intriguing lightning pitches. Another option: [Check out these live notes][11] taken by Sarah Marshall.
 
