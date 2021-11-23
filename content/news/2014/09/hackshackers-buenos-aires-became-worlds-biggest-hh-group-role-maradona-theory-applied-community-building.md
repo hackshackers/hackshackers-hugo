@@ -1,5 +1,5 @@
 ---
-title: How Hacks/Hackers Buenos Aires became the world’s biggest H/H chapter, or the
+title: How Hacks/Hackers Buenos Aires became the world’s biggest H/H group, or the
   role of the “Maradona theory” applied to community-building
 authors:
 - Mariano Blejman
@@ -13,7 +13,7 @@ _migration:
 
 {{< figure src="https://d262ilb51hltx0.cloudfront.net/max/800/1*92advq8zSd18Y9qqKIgJUg.jpeg" >}}</p> </figure> 
 
-While we were organizing the latest [Media Party][1], the media gathering that we created three years ago, [Hacks/Hackers Buenos Aires][2] became the world’s largest chapter of the [Hacks/Hackers][3] network. With over 3800 members, about 40 events in three years and a strong community of volunteers, we beat New York, London, San Francisco, and many other chapters. #Hhba has had a big impact on media, civil society organizations, the government, the startup and the developer community. How did we do it? There is a number of possible explanations, but the most interesting one is the “Maradona theory.”
+While we were organizing the latest [Media Party][1], the media gathering that we created three years ago, [Hacks/Hackers Buenos Aires][2] became the world’s largest group of the [Hacks/Hackers][3] network. With over 3800 members, about 40 events in three years and a strong community of volunteers, we beat New York, London, San Francisco, and many other groups. #Hhba has had a big impact on media, civil society organizations, the government, the startup and the developer community. How did we do it? There is a number of possible explanations, but the most interesting one is the “Maradona theory.”
 
 During the ‘86 [World Cup][4], Diego Maradona made -against England- the two most memorable goals in the history of soccer, at least for Argentina. Let’s start with the perfect goal, the second one: Maradona faces five players from the center of the soccer field, and instead of going sideways, he ran in a straight line. How can someone get rid of five opponents if he runs toward them? Simply: Maradona played keeping in mind other people’s expectations. As his rivals expected him to move to the left or the right, he could keep moving directly toward the opponents’ goal post. Of course, he was Maradona.
 
