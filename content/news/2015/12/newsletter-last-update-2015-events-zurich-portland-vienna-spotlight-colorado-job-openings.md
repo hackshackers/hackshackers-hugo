@@ -17,13 +17,13 @@ categories:
 
 **The week(s) ahead:**
 
-  * In **D.C.**, the chapter has its [holiday mixer][1] with DC Media Innovations and The DC MUG. 
+  * In **D.C.**, the group has its [holiday mixer][1] with DC Media Innovations and The DC MUG. 
   * Hacks/Hackers **Portland** hears from KBOO News Research Club about [how and why to access public records][2]. 
-  * In **Miami**, the chapter will be taking part in the [Massive Journalism Holiday Extravaganza][3]. 
-  * In **Birmingham, UK**, the chapter hears from Paul Bradshaw about [how to use the Freedom of Information Act][4] for stories and data. 
+  * In **Miami**, the group will be taking part in the [Massive Journalism Holiday Extravaganza][3]. 
+  * In **Birmingham, UK**, the group hears from Paul Bradshaw about [how to use the Freedom of Information Act][4] for stories and data. 
   * Hacks/Hackers **Toronto** continues its [Pub Night][5] series. 
   * Hacks/Hackers **NYC** and GeoNYC pair up for an [end of the year holiday party][6]. 
-  * In **Vienna**, the chapter meets about “[#GuteDaten][7]” (good deeds for good data), holds lightning talks, and then gathers for holiday drinks. 
+  * In **Vienna**, the group meets about “[#GuteDaten][7]” (good deeds for good data), holds lightning talks, and then gathers for holiday drinks. 
   * In the **San Francisco** hacks and hackers with gather at the [All Media Holiday Party][8].
   * Hacks/Hackers **Zürich** hosts an event about [data journalism in the newsrooms of Switzerland&#8217;s largest publisher, Tamedia][9].
 
@@ -34,7 +34,7 @@ categories:
 
 _(Have a job opening to share? Let us know.)_
 
-**Chapter spotlight: Hacks/Hackers Colorado**
+**Group spotlight: Hacks/Hackers Colorado**
 
 **Last night, hacks and hackers gathered in snowy Denver to hear from several great speakers, including a reporter who covered the shooting at the Planned Parenthood clinic in Colorado Springs.**
 
