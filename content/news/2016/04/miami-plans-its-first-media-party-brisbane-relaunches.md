@@ -12,7 +12,7 @@ categories:
 
 Happy Friday, hacks and hackers! I thought about putting an April Fool’s joke in here, but don’t worry. I wouldn’t do that to you.
 
-Before we see what the chapters are up to, I want to bring your attention to the [Website Action Group][1]’s Request for Interest for developing and designing a brand new website for [www.hackshackers.com][2].
+Before we see what the groups are up to, I want to bring your attention to the [Website Action Group][1]’s Request for Interest for developing and designing a brand new website for [www.hackshackers.com][2].
 
 Interested parties should [read the RFI][3] and submit their proposals to <info@hackshackers.com> by April 11, 2016. Questions and comments regarding the RFP can be addressed to the Website Action Committee via [GitHub][4].
 
@@ -32,9 +32,9 @@ And last but not least, the [Hacks/Hackers global open call][13] will take place
 
 {{< figure link="http://hackshackers.com/resources/global-open-call/" src="/content-images/news/2016/04/Screen-Shot-2016-04-01-at-8.52.51-PM.png" alt="Screen Shot 2016-04-01 at 8.52.51 PM" >}}
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Brisbane, Australia][15], held [a showcase last week][16] featuring work by not just a graphics designer, but also its own members. Co-organizer [Simon Elvery][17] said committing to a monthly meetup schedule has helped the chapter re-launch this year.
+[Brisbane, Australia][15], held [a showcase last week][16] featuring work by not just a graphics designer, but also its own members. Co-organizer [Simon Elvery][17] said committing to a monthly meetup schedule has helped the group re-launch this year.
 
 > ”It&#8217;s really helpful to have shared responsibility for organising them and also that one organiser is an academic at one of Brisbane&#8217;s biggest journalism schools (Daniel Angus) while the other (me) works for the News Digital division of the national broadcaster (the ABC).”
 
