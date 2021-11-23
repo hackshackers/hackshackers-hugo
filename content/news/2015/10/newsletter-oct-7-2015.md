@@ -10,25 +10,25 @@ categories:
 - Newsletter
 ---
 
-All around the world last week, Hacks/Hackers chapters met on topics as varied as web scraping in Python to net neutrality to new storytelling techniques at Zeit Online. In New York City, a panel of four professor/journalists talked about the joys and challenges of teaching data + journalism. A couple of photos:
+All around the world last week, Hacks/Hackers groups met on topics as varied as web scraping in Python to net neutrality to new storytelling techniques at Zeit Online. In New York City, a panel of four professor/journalists talked about the joys and challenges of teaching data + journalism. A couple of photos:
 
 {{< figure link="/content-images/news/2015/10/HacksHackersNYCOct.png" src="/content-images/news/2015/10/HacksHackersNYCOct-300x131.png" alt="HacksHackersNYCOct" >}}
 
 **The week ahead for Hacks/Hackers**:
 
   * Hacks/Hackers-IRE in **Columbia, Mo.**, will be talking about [how to create custom map styles with TileMill][1]. 
-  * In **Los Angeles**, a group is gathering to discuss [rebooting][2] the local Hacks/Hackers chapter. 
+  * In **Los Angeles**, a group is gathering to discuss [rebooting][2] the local Hacks/Hackers group. 
   * In **Lima, Peru**, Hacks/Hackers and [Hiperderecho][3] hold [a discussion][4] about Internet governance with the head of external relations the Internet Address Registry for Latin America and the Caribbean. 
-  * Members of the **Johannesburg­, South Africa,** chapter will help judge a [Data Quest hackathon][5] focused on data from the Global Change and Sustainability Institute. 
-  * In **Bogotá, Colombia**, the chapter is holding [a workshop][6] on data visualization and structured data. This is the first in a series of workshops this chapter is hosting about working with data. 
+  * Members of the **Johannesburg, South Africa,** group will help judge a [Data Quest hackathon][5] focused on data from the Global Change and Sustainability Institute. 
+  * In **Bogotá, Colombia**, the group is holding [a workshop][6] on data visualization and structured data. This is the first in a series of workshops this group is hosting about working with data. 
   * In **Venice, Italy**, member Carlo Felice Dalla Pasqua [shares what he learned][7] while at the Online News Association conference. 
-  * In **Singapore**, [the Hacks/Hackers chapter][8] is one of the organizers of a “[hackathon to beat the haze][9].” It aims to bring together “developers, bloggers, environmental organizations and media associations in an unprecedented civic hack to enhance our media reporting and response to the haze through the use of data.” 
+  * In **Singapore**, [the Hacks/Hackers group][8] is one of the organizers of a “[hackathon to beat the haze][9].” It aims to bring together “developers, bloggers, environmental organizations and media associations in an unprecedented civic hack to enhance our media reporting and response to the haze through the use of data.” 
 
-**Chapter spotlight: Hacks/Hackers Nairobi**
+**Group spotlight: Hacks/Hackers Nairobi**
 
 Hacks/Hackers Nairobi (Kenya) recently had [a great discussion][10] of the pros and cons to the Facebook-led initiative to bring Internet to the world’s unconnected population, and how that could affect net neutrality.
 
-_Have a chapter or organizer who deserves some kudos? Send suggestions for who should be in the spotlight by replying to this email._
+_Have a group or organizer who deserves some kudos? Send suggestions for who should be in the spotlight by replying to this email._
 
 **Worth a read:**
 
@@ -40,7 +40,7 @@ _Have a chapter or organizer who deserves some kudos? Send suggestions for who s
   * [Reddit gets more directly into the publishing business with Upvoted][18] (Justin Ellis, Nieman Lab) 
   * [How robo-writers will change the future of publishing, and your job description][19] (Steffen Konrath, FIPP) 
   * [Gallup isn&#8217;t planning any polls for the presidential primary this cycle][20] (Politico) 
-  * [Recap of Hacks/Hackers Birmingham meetup about Angular][21] (Chapter co-organizer Agustín Palacio) 
+  * [Recap of Hacks/Hackers Birmingham meetup about Angular][21] (Group co-organizer Agustín Palacio) 
 
 **Call to action:**
 
