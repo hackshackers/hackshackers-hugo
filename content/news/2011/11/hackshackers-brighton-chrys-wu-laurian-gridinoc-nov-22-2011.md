@@ -15,7 +15,7 @@ groups:
 - Brighton
 ---
 
-Hacks/Hackers global coordinator and New York co-organiser **Chrys Wu** ([@MacDiva][1] on Twitter) spent an evening with **[Hacks/Hackers Brighton][2]** on Tuesday, 22 November to report on what chapters around the world have been doing.
+Hacks/Hackers global coordinator and New York co-organiser **Chrys Wu** ([@MacDiva][1] on Twitter) spent an evening with **[Hacks/Hackers Brighton][2]** on Tuesday, 22 November to report on what groups around the world have been doing.
 
 She explained Hacks/Hackers started just 18 months ago, with an idea originating in mid-2009.
 
@@ -23,7 +23,7 @@ She explained Hacks/Hackers started just 18 months ago, with an idea originating
 
 The groups work to &#8220;improve the practice of journalism through tools and technologies&#8221;.
 
-She explained that there are now many chapters around the world, including about 20 in Africa, with one launching in Cairo soon.
+She explained that there are now many groups around the world, including about 20 in Africa, with one launching in Cairo soon.
 
 A group has also started in Yerevan, Armenia, and has [announced a hackathon][3] with help from Microsoft.
 
@@ -35,7 +35,7 @@ A journalist from La Nacion in Argentina also tasked a group with developing a w
 
 Chrys, a coder as well as a journalist, has spent time at The Los Angeles Times, where she worked on the Pulitzer prize-winning series, [Altered Oceans][5]; CBS and The Washington Post, having been recruited to help develop content distribution strategy.
 
-She works with Hacks/Hackers chapters worldwide to help them launch and sustain local communities interested in journalism and technology.
+She works with Hacks/Hackers groups worldwide to help them launch and sustain local communities interested in journalism and technology.
 
 Developer **Laurian Gridinoc** ([@gridinoc][6] on Twitter) is one of the first [five winners of a Knight-Mozilla fellowship][7] and will spend 10 months embedded within the BBC newsroom to generate ideas, train colleagues and bridge the gap between technology and the news.
 
