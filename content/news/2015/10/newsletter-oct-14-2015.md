@@ -15,12 +15,12 @@ Welcome to the fourth edition of this newsletter. What have you enjoyed about th
 ****The week ahead for Hacks/Hackers:****
 
   * Hacks/Hackers-IRE in ****Columbia, Mo.****, gathers to discuss CSS preprocessors LESS & SASS.
-  * Hacks/Hackers ****Austin**** is celebrating its 5th birthday with an [event on media innovation][2], with speakers [Burt Herman][3], [Trei Brundrett][4] and [Anna Tauzin][5]. Happy birthday, Austin chapter!
-  * In ****Dublin****, the chapter meets up to talk about [how ‘data’ is used][6] as a tool for investigative journalism in Ireland.
-  * The ****Miami**** Hacks/Hackers chapter is getting together for [a Q&A][7] with the founders of the media startup [The New Tropic][8].
+  * Hacks/Hackers ****Austin**** is celebrating its 5th birthday with an [event on media innovation][2], with speakers [Burt Herman][3], [Trei Brundrett][4] and [Anna Tauzin][5]. Happy birthday, Austin group!
+  * In ****Dublin****, the group meets up to talk about [how ‘data’ is used][6] as a tool for investigative journalism in Ireland.
+  * The ****Miami**** Hacks/Hackers group is getting together for [a Q&A][7] with the founders of the media startup [The New Tropic][8].
   * Two notable events more than a week ahead: [MozFest][9] in **London** and [I-Con leadership event][10] in **Miami**.
 
-****Chapter Spotlight:**** @HacksHackersDEL
+****Group Spotlight:**** @HacksHackersDEL
 
 [Hacks/Hackers Delhi][11] brought together [more than a half-dozen speakers][12] to discuss different approaches for reaching a mobile news audience. [Check out the Storify][13] by Aayush Soni for a great recap, or search the hashtag [#mobilexnews][14] to see tons of live-tweets from the event.
 
@@ -38,7 +38,7 @@ These photos and more on [the event’s Facebook page][15].
   * [Society for News Design to expand its training for journalists and technologists with $130,000 from Knight Foundation][21] (Knight Foundation)
   * [The New York Times strategy memo][22] (CNN Money)
   * [Google Launches Cloud Datalab, an interactive tool for exploring and visualizing data][23] (TechCrunch)
-  * Two resource guides on data journalism recently shared by Hacks/Hackers chapters: [7 free resources for data journalism][24] (Carolina Cristanchi, in Spanish), [Intro to Data and Code][25] (Lena Groeger)
+  * Two resource guides on data journalism recently shared by Hacks/Hackers groups: [7 free resources for data journalism][24] (Carolina Cristanchi, in Spanish), [Intro to Data and Code][25] (Lena Groeger)
   * [Data Viz: Humanitarian buzzword explorer][26] [and bingo][27] (Ben Parker, IRIN News)
   * [Fusion and Univision start “The 19 Million Project” about migration crisis][28] (spearheaded by Mariana Santos, who is now Director of Interactive Projects at Fusion, and with several other longtime Hacks/Hackers organizers taking part, including Hacks/Hackers Miami organizer Rachel Schallom)
 
