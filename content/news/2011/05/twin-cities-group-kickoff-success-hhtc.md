@@ -1,5 +1,5 @@
 ---
-title: Hacks/Hackers Twin Cities chapter kickoff draws Hundred-Person crowd.
+title: Hacks/Hackers Twin Cities group kickoff draws Hundred-Person crowd
 authors:
 - pedstrom
 date: "2011-05-02"
