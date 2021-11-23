@@ -26,9 +26,9 @@ A huge round of applause for [Pete MacRobert][9], co-organizer of H/H London, wh
 
 {{< figure src="/content-images/news/2016/03/Screen-Shot-2016-03-11-at-10.49.00-AM-300x194.png" alt="Screen Shot 2016-03-11 at 10.49.00 AM" >}}
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The [Hacks/Hackers][11] chapter in Colorado hosted a [welcoming party][12] for those in Denver. [Abigail Edge][13], who recently rebooted the chapter, said she wanted to use NICAR to introduce people to Hacks/Hackers and other journalists in a fun environment.
+The [Hacks/Hackers][11] group in Colorado hosted a [welcoming party][12] for those in Denver. [Abigail Edge][13], who recently rebooted the chapter, said she wanted to use NICAR to introduce people to Hacks/Hackers and other journalists in a fun environment.
 
 > “With regards to the sponsors, [Tableau][14] actually reached out to me. I’d also posted at the end of (an earlier) meetup event that I was looking for sponsors, and [Knight Lab][15] got in touch and said that they would like to sponsor. So two weeks before the event, we actually didn’t have a sponsor, but we were still going to do it anyway. And then within the last two weeks, Knight Lab and Tableau both came forward and offered to sponsor some drinks. It’s nice to see so many people enjoying one of my favorite breweries in Denver, just having a really good night and getting to know each other.” 
 
