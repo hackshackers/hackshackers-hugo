@@ -1,5 +1,5 @@
 ---
-title: Hacks/Hackers Africa grows to more than a dozen chapters
+title: Hacks/Hackers Africa grows to more than a dozen groups
 authors:
 - Samantha Sunne
 date: "2017-08-20"
