@@ -15,7 +15,7 @@ groups:
 
 ![][1]
 
-The gang from the Hacks Hackers Austin chapter got together with the Online News Association local on March 31 to discuss trends that emerged from the [National Institute for Computer-Assisted Reporting][2] (NICAR) and [SXSW Interactive][3] conferences. And, it was just a great excuse to get everyone together for some social interaction. Meeting at the Butterfly Bar at the Vortex, the conversation included talk of data, sensors and wearables and technology skills needed to succeed in journalism.
+The gang from the Hacks Hackers Austin group got together with the Online News Association local on March 31 to discuss trends that emerged from the [National Institute for Computer-Assisted Reporting][2] (NICAR) and [SXSW Interactive][3] conferences. And, it was just a great excuse to get everyone together for some social interaction. Meeting at the Butterfly Bar at the Vortex, the conversation included talk of data, sensors and wearables and technology skills needed to succeed in journalism.
 
 ![][4]
 
