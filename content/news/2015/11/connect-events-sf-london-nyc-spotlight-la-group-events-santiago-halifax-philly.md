@@ -1,5 +1,5 @@
 ---
-title: Connect events SF, London, NYC | Spotlight on LA | Chapter events in Santiago,
+title: Connect events SF, London, NYC | Spotlight on LA | Group events in Santiago,
   Halifax, Philly
 authors:
 - Julia Haslanger
@@ -24,20 +24,20 @@ categories:
 The week ahead:
 
   * Hacks/Hackers **Vancouver** holds its [inaugural media startup showcase][5].
-  * The **São Paulo** chapter [discusses infographics][6] with Beatriz Blanco at its next gathering.  
+  * The **São Paulo** group [discusses infographics][6] with Beatriz Blanco at its next gathering.  
   * Hacks/Hackers **Santiago** hosts [a day-long event][7] about using public government spending data. 
-  * In **New York**, the chapter holds [lightning talks and panel discussion][8] on “the challenges of encouraging civil discourse: the product decisions, the engineering challenges and the whole crazy ball of wax that is human conversation.”
+  * In **New York**, the group holds [lightning talks and panel discussion][8] on “the challenges of encouraging civil discourse: the product decisions, the engineering challenges and the whole crazy ball of wax that is human conversation.”
   * Hacks/Hackers **London**’s [November meetup][9] includes hearing from Buzzfeed UK editor-in-chief Janine Gibson. 
   * As part of the WordCamp US Community Summit, Hacks/Hackers **Philly **is [co-hosting a meetup][10] about the intersections of WordPress and media. 
-  * Another new chapter launching (woohoo!) &#8211; this one in [Halifax, Nova Scotia][11]. (Now try saying “Hacks/Hackers **Halifax”** five times fast.)
+  * Another new group launching (woohoo!) &#8211; this one in [Halifax, Nova Scotia][11]. (Now try saying “Hacks/Hackers **Halifax”** five times fast.)
 
 **Job openings:**
 
 None to report this week. If you have an open position, send it our way!
 
-**Chapter spotlight: Hacks/Hackers Los Angeles**
+**Group spotlight: Hacks/Hackers Los Angeles**
 
-The LA chapter began its reboot just a few weeks ago, and already held a great event where people from the L.A. Times data desk talked through their process for a few projects. You can see the slides or watch a few videos from the event (thanks to Ben Welsh for sharing). 
+The LA group began its reboot just a few weeks ago, and already held a great event where people from the L.A. Times data desk talked through their process for a few projects. You can see the slides or watch a few videos from the event (thanks to Ben Welsh for sharing). 
 
   * Slides: [bit.ly/hh_latdatadesk][12]
   * Video: [Nicole Santa Cruz on &#8220;The Homicide Report&#8221;][13]
