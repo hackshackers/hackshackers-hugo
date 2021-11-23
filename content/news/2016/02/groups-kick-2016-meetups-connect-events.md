@@ -1,5 +1,5 @@
 ---
-title: Chapters kick off 2016 with meetups and Connect events
+title: Groups kick off 2016 with meetups and Connect events
 authors:
 - Samantha Sunne
 date: "2016-02-01"
@@ -10,18 +10,18 @@ categories:
 - Newsletter
 ---
 
-Welcome to 2016, hacks and hackers! It’s been six weeks since our last newsletter and several chapters have been keeping the fires burning, including San Francisco, which had its first Connect event last weekend. Here’s what’s coming up next:
+Welcome to 2016, hacks and hackers! It’s been six weeks since our last newsletter and several groups have been keeping the fires burning, including San Francisco, which had its first Connect event last weekend. Here’s what’s coming up next:
 
 ****The week ahead****:
 
   * Amsterdam stages a [hackathon for refugees][1] on Friday and Saturday, aiming to find solutions to the current migrant and refugee crisis in the Netherlands.
-  * The Missouri chapter holds its [weekly lab][2] in Columbia, Missouri, on Wednesday.
+  * The Missouri group holds its [weekly lab][2] in Columbia, Missouri, on Wednesday.
   * Miami gathers for their weekly [OpenHack][3] on Monday to work on individual projects.
   * Berlin [hosts scientists][4] on Tuesday to talk about what they and journalists can learn from each other.
   * Halifax is having its [first full session][5] on Wednesday, featuring social media journalists from local outlets.
   * London comes together for a [Connect event][6] on Friday and Saturday. Keep reading for more on the Connect series.
 
-****Chapter spotlight****:
+****Group spotlight****:
 
 San Francisco held its [Connect][7] event last weekend, a two-day media entrepreneurship extravaganza, aimed at planting seeds for new media ventures. Check out some of the lessons learned at [#hhconnect][8] and [#hhcxn][9].
 
