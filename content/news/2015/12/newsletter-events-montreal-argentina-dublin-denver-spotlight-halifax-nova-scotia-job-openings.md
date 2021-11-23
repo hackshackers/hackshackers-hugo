@@ -23,12 +23,12 @@ categories:
   * As part of the WordCamp US Community Summit, Hacks/Hackers **Philly** is [co-hosting a meetup][3] about the intersections of WordPress and media. 
   * In **Montreal**, tonight’s event is [all about maps][4]: how to use map templates, satellite imagery, gather and distribute geographic data, and more. 
   * Hacks/Hackers IRE in **Columbia, Mo.**, will be [building a news quiz app][5] using Django.
-  * In **Rosario, Argentina**, the chapter holds its [year-end event][6] with speakers talking about data viz, open data, and government projects. 
-  * **Dublin**’s chapter is partnering up to host a [data journalism hackathon][7] this weekend using data collected around “attitudes to work”. 
+  * In **Rosario, Argentina**, the group holds its [year-end event][6] with speakers talking about data viz, open data, and government projects. 
+  * **Dublin**’s group is partnering up to host a [data journalism hackathon][7] this weekend using data collected around “attitudes to work”. 
   * Hacks/Hackers **Singapore** holds “[Micro Hack Mondays][8]” on the first Monday of the month. 
-  * In **Austin**, the chapter is joining up with the Austin Web community for the [Holiday Web Bash][9].
+  * In **Austin**, the group is joining up with the Austin Web community for the [Holiday Web Bash][9].
   * Hacks/Hackers **Colorado** [meets up in Denver][10] to hear from speakers from the Open Media Foundation, Riddle, and a reporter for USA Today who covered the Planned Parenthood shooting in Colorado Springs. 
-  * In **D.C.**, the chapter has its [holiday mixer][11] with DC Media Innovations and The DC MUG.
+  * In **D.C.**, the group has its [holiday mixer][11] with DC Media Innovations and The DC MUG.
 
 So many end-of-year and holiday parties coming up. Hope you have your party hat ready!
 
@@ -39,9 +39,9 @@ So many end-of-year and holiday parties coming up. Hope you have your party hat 
 
 _(Have a job opening to share? Let us know.)_
 
-**Chapter spotlight: Hacks/Hackers Halifax**
+**Group spotlight: Hacks/Hackers Halifax**
 
-Doing something a little different today and highlighting a chapter that’s just about to come into existence (tonight!). From brand-new chapter organizer Rachel Ward:
+Doing something a little different today and highlighting a group that’s just about to come into existence (tonight!). From brand-new group organizer Rachel Ward:
 
 > _“Here in Nova Scotia, we&#8217;re hosting our first Hacks/Hackers meeting Wednesday evening! We&#8217;re hoping to fully launch in January with monthly events. Please send us well wishes. We&#8217;re super excited.“_
 
