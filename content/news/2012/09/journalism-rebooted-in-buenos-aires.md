@@ -1,5 +1,5 @@
 ---
-title: 'Journalism rebooted in Buenos Aires! #Hhba becomes 2nd largest chapter in
+title: 'Journalism rebooted in Buenos Aires! #Hhba becomes 2nd largest group in
   the world'
 authors:
 - Mariano Blejman
@@ -19,7 +19,7 @@ Among participants were members of the interactive news team at [The Guardian 
 
 Projects that were conceived of or developed during the hackathon, a collaborative working day between journalists and programmers, will be specially considered by the [Knight Prototype Fund][8] program, which provides grants of up to $50,000 for media innovation.
 
-The [Media Party][6] was organized by [Hacks/Hackers Buenos Aires][6], the largest **Hacks/Hackers** community in South America and the second largest in the world after New York (in quantity of members) The BA chapter surpasses chapters in San Francisco, London and Boston. [**Hacks/Hackers**][6] is a space for exchange between journalists and programmers to collaborate on constructing the future of news. It is the best meeting place in the world to build relationships and collaborate on products, services and ideals between journalists and technologists. It was created by Burt Herman (Storify), Rich Gordon  (Stanford) and Aron Pilhofer of The New York Times.
+The [Media Party][6] was organized by [Hacks/Hackers Buenos Aires][6], the largest **Hacks/Hackers** community in South America and the second largest in the world after New York (in quantity of members) The BA group surpasses groups in San Francisco, London and Boston. [**Hacks/Hackers**][6] is a space for exchange between journalists and programmers to collaborate on constructing the future of news. It is the best meeting place in the world to build relationships and collaborate on products, services and ideals between journalists and technologists. It was created by Burt Herman (Storify), Rich Gordon  (Stanford) and Aron Pilhofer of The New York Times.
 
 The event also included a visit by the [LibreBus ][6]ConoSur, a project being run in collaboration with[ Creative Commons][6] and[ Mozilla][6], which involves a bus of activists traveling through Latin America to share ideas surrounding free culture and free software.
 
