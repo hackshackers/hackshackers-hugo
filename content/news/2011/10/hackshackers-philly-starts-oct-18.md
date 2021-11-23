@@ -10,7 +10,7 @@ groups:
 - Philadelphia
 ---
 
-![][1]The [first meetup of the Philadelphia chapter][2] is taking place on Tuesday. Philadelphia is home to vibrant [technology][3] and [journalism][4] communities.
+![][1]The [first meetup of the Philadelphia group][2] is taking place on Tuesday. Philadelphia is home to vibrant [technology][3] and [journalism][4] communities.
 
 A couple dozen folks have already RSVPed, with a good mix of backgrounds representing both groups. This first meetup will be focused on getting to know each other, giving a little background on why it is important for these communities to connect, and planning next steps as a group.
 
