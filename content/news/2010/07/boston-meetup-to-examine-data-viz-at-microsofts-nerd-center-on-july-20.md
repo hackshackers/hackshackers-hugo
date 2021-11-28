@@ -15,7 +15,7 @@ groups:
 
 {{< figure link="/content-images/news/2010/07/martin-and-fernanda.jpg" src="/content-images/news/2010/07/martin-and-fernanda.jpg" alt="Martin Wattenberg and Fernanda Viegas" >}}
 
-The Boston chapter  is having its first speaker Meetup at the [Microsoft NERD Center][1], 1 Memorial Drive, on Tuesday, July 20, organized by Matt Carroll et al. Munchies are sponsored by Microsoft and The Boston Globe/Boston.com.
+The Boston group is having its first speaker Meetup at the [Microsoft NERD Center][1], 1 Memorial Drive, on Tuesday, July 20, organized by Matt Carroll et al. Munchies are sponsored by Microsoft and The Boston Globe/Boston.com.
 
 Interested in learning more about the cutting-edge world of data visualization? Want to know how to turn lifeless data into game-changing charts, maps, and visuals? [Martin Wattenberg and Fernanda Viégas][2], world-recognized leaders in data visualization, will be the main speakers. Their pioneering work has reinvented visualization as a mass medium. They will present new tools for helping reporters create timelines.
 
