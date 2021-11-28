@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Welcome to July, hacks and hackers! In the first half of 2016, H/H chapters held nearly 100 meetups in dozens of cities. We also held seven [Connect events][1] from San Francisco to London, with another coming up in [Toronto in a couple months][2].
+Welcome to July, hacks and hackers! In the first half of 2016, H/H groups held nearly 100 meetups in dozens of cities. We also held seven [Connect events][1] from San Francisco to London, with another coming up in [Toronto in a couple months][2].
 
 {{< youtube zKfececCLhk >}}
 
@@ -24,7 +24,7 @@ Tomorrow, we&#8217;re holding our [monthly global call][3], so please join in!
   * [IRE][5] is meeting for its regular open lab
   * Hacks/Hackers is holding its [global monthly call][3]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [London][6] held its [June meetup last week][7], looking at polling data just before the Europe-shaking Brexit vote. The London meetups draw huge crowds of up to 200 people a month, so the organizers built a list of tasks ahead of time.
 
