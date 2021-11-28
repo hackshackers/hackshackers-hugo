@@ -21,7 +21,7 @@ Greetings hacks and hackers, [the Connect series][1] is rolling onward like a be
   * HacksHackersIRE is holding its regular [Wednesday Lab][6]
   * Miami is hosting [a discussion on digital media][7] in south Florida on Thursday
 
-**Chapter spotlight**:
+**Group spotlight**:
 
 London hosted [an enormous Connect event][8] last weekend. More than 100 entrepreneurs and mentors gathered to kickstart media startups. Nick Duxbury wrote up his observations [on Medium][9], expressing his surprise at how entrepreneurial journalists were.
 
