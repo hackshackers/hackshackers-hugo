@@ -17,7 +17,7 @@ Take 15 million books and 4 billion words, use a simple interface to search for 
 
 Ngram creates charts that show how often words or phrases have occurred in books since 1800. It can be used to trace to rise and decline of certain words, giving clues to researchers. Or it can be used for simple fun – (Red Sox, Yankees).
 
-Jon Orwant, leader of the Google’s Digital Humanities effort and one of three co-creators of the Ngram, spoke to about 75 people at a meeting of the Boston chapter of Hacks/Hackers at Google in Cambridge on Feb. 9.
+Jon Orwant, leader of the Google’s Digital Humanities effort and one of three co-creators of the Ngram, spoke to about 75 people at a meeting of the Boston group of Hacks/Hackers at Google in Cambridge on Feb. 9.
 
 Orwant, a former publisher, described the Google Books project and how Ngram can be use. The Book project now has scanned in about 15 million books, or more than 10 percent of the estimated 129 million books “printed since Gutenberg,” he said.
 
