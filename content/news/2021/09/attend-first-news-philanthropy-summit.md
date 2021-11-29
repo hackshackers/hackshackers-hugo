@@ -26,7 +26,7 @@ The conference will take place from November 3-4 this year, is free to attend, a
 
 * Storytelling With Data compiled their top data visualization articles from the past few years, including posts on the [difference between histograms and bar charts](https://www.storytellingwithdata.com/blog/2021/1/28/histograms-and-bar-charts), [what a line chart is](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph) and [how to create a shaded range chart in Excel](https://www.storytellingwithdata.com/blog/2019/10/8/how-to-do-it-in-excel-a-shaded-range).
 * [Pass the Mic](https://passthemicrophone.live/) is a new Google News Initiative funded project by Gannett that aims to connect journalists with expert sources from underrepresented communities, and are currently accepting source nominations to build its database.
-* GIJN is creating a 10 chapter guide to investigating organized crime around the world, and their latest chapter explores how to [investigate mafia states and kleptocracies](https://gijn.org/2021/09/06/investigating-mafia-states-and-kleptocracies-a-qa-with-occrps-drew-sullivan/) with the [Organized Crime and Corruption Reporting Project’s](https://www.occrp.org/) publisher.
+* GIJN is creating a 10 group guide to investigating organized crime around the world, and their latest group explores how to [investigate mafia states and kleptocracies](https://gijn.org/2021/09/06/investigating-mafia-states-and-kleptocracies-a-qa-with-occrps-drew-sullivan/) with the [Organized Crime and Corruption Reporting Project’s](https://www.occrp.org/) publisher.
 
 {{< tweet 1436023422954377219 >}}
 
