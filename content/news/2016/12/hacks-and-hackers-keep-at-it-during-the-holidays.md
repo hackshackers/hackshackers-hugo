@@ -17,12 +17,12 @@ Season&#8217;s greetings, hacks and hackers! The holidays are closing in on us &
 **The week ahead:**
 
   * Dublin is having a merry [Christmas gathering][1]
-  * San Francisco is [meeting][2] Solutions Journalism Network&#8217;s Bay Area chapter for a drink
+  * San Francisco is [meeting][2] Solutions Journalism Network&#8217;s Bay Area group for a drink
   * [Miami][3] is holding its regular OpenHack Miami
   * [IRE][4] in Missouri is holding its weekly open lab
   * Nairobi is [discussing how][5] governments can be held more accountable
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Munich][6] met this week to [have a discussion][7] many of us are having: Facebook bots, prediction models and how they influenced the Trump election. Check out [#hhmuc][8] if you&#8217;d like to see more slides from the presentations and notes from attendees:
 
