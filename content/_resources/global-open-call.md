@@ -12,6 +12,8 @@ We hold these calls on the first Wednesday of every month. You can subscribe to
 
 **Add to the call notes:** [Google Doc](https://docs.google.com/document/d/1KtsWrrStnimnM7_h43Vk3CgTff6d7TipDuTmSG_KDWQ/edit?usp=sharing)
 
+{{< iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" width="600px" height="400px" >}}
+
 <iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 
  [1]: https://twitter.com/HacksHackers
