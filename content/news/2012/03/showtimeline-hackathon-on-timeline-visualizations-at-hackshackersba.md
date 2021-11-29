@@ -21,7 +21,7 @@ We believe that software can be used to tell stories in ways unthinkable for tra
 
 _Saturday 14th april 2012, from 10 am to 8 pm at Areatres, Malabia 1720 11B: in Fuentes de Malabia behind Starbucks, Buenos Aires, Argentina._
 
-In April 2011, we opened the local chapter of [Hacks/Hackers in Buenos Aires][1]. Our meetings were attended by journalists, software programmers and designers. There are currently 560 members in the local chapter. We have already held four meetups, four hackathons, a conference, and a webinar with Fundación Nuevo Periodismo Iberoamericano (FNPI), and we are proud to have the support of [Knight-Mozilla Open News][3], a program to build a new ecosystem for the open web.
+In April 2011, we opened the local group of [Hacks/Hackers in Buenos Aires][1]. Our meetings were attended by journalists, software programmers and designers. There are currently 560 members in the local group. We have already held four meetups, four hackathons, a conference, and a webinar with Fundación Nuevo Periodismo Iberoamericano (FNPI), and we are proud to have the support of [Knight-Mozilla Open News][3], a program to build a new ecosystem for the open web.
 
 **[Hacks/Hackers Buenos Aires][4] is currently involved on three DataJ projects:**
 
