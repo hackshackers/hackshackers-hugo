@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers! It was a packed week last week for Hacks/Hackers chapters, with Caracas launching its own two-day [Data Party][1], Singapore building tools together and Philadelphia taking a peep at some awesome National Geographic projects.
+Greetings, hacks and hackers! It was a packed week last week for Hacks/Hackers groups, with Caracas launching its own two-day [Data Party][1], Singapore building tools together and Philadelphia taking a peep at some awesome National Geographic projects.
 
 Plus, [New Orleans][2]&#8216; first hackathon generated so much interest among journos, coders and others in the area it looks like the beginning of a beautiful series of hackathons in the Gulf region. Organizer [Samantha Sunne][3] wrote about the hackathon and the cool projects it brought into the world for the [Hacks/Hackers website][4]. [Check it out][5]:
 
@@ -21,7 +21,7 @@ Plus, [New Orleans][2]&#8216; first hackathon generated so much interest among j
   * Boston is hosting [lightning talks][6]
   * [IRE][7] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [New Orleans][2], which launched six months ago, cut straight to chase and held a hackathon last weekend. Organizer [Troy Thibodeaux][8] said the event was great fun and a great success. &#8220;We were fortunate to have so many talented participants whose interests converged around issues important to our community: housing, recycling, safety, public services and wetlands preservation,&#8221; he said.
 
