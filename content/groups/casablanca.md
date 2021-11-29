@@ -3,7 +3,7 @@ title: Casablanca
 url: groups/casablanca
 ---
 
-![Casablanca metropolis](https://upload.wikimedia.org/wikipedia/commons/4/44/Casablanca_Metropolis.jpg)
+![Casablanca metropolis](https://upload.wikimedia.org/wikipedia/commons/e/e1/Casablanca_aerial_photograph_1.jpg)
 
 Help us build the future of media in Morocco!
 
