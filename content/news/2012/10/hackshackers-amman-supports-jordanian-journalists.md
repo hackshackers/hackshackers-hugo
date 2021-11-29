@@ -19,7 +19,7 @@ groups:
 - Amman
 ---
 
-UNESCO’s Amman office was home to the technical day organized by Hacks/Hackers Amman Chapter with the objective to provide technology solution to different issues Jordanian journalists face.
+UNESCO’s Amman office was home to the technical day organized by Hacks/Hackers Amman Group with the objective to provide technology solution to different issues Jordanian journalists face.
 
 Participants included a wide range of ‘hackers’, organizations and figures in the Ammani vibrant and dynamic tech scene, including Hacks/Hackers members, the [Jordan Open Source Association][1] and different prominent local IT companies and programmers. On the other hand, journalists and professionals from media organizations like [ARIJ][2], [Alghad][3] daily and the Amman-based private TV station [Roya][4], fully participated at the day by expressing some of the IT-related challenges they face and by understanding how technology can be an important, even critical, part of any media strategy to be taken into account.
 
@@ -45,7 +45,7 @@ The Jordan Open Source Association, according to Khamash, used [Drupal][8], an o
 
 Other open source CMSs, specifically [WordPress][9], was seen to be well-known and of interest by the journalists participating in the day. IT professional, [Zamil Safwan][10], suggested JOSA to hold training sessions about WordPress and basic programming, a suggestion well appreciated by JOSA’s vice president and Hacks/Hackers member, Mahmoud Aldwairi, who expressed intention to organize these sessions the sooner.
 
-Khamash also mentioned a Citizen Journalism mobile app, developed by JOSA under Hacks/Hackers Amman Chapter, to allow smartphone holders to take and upload photos and videos taken by their handsets. Additionally, the app allows the transmission of text-based reports and is currently open to include new functionalities, like geo-tagging and better management by media organizations using the tool. A customized version of the app is going to be deployed at Community Media Network soon.
+Khamash also mentioned a Citizen Journalism mobile app, developed by JOSA under Hacks/Hackers Amman Group, to allow smartphone holders to take and upload photos and videos taken by their handsets. Additionally, the app allows the transmission of text-based reports and is currently open to include new functionalities, like geo-tagging and better management by media organizations using the tool. A customized version of the app is going to be deployed at Community Media Network soon.
 
 {{< figure src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/580859\_446989065321969\_485725923_n.jpg" >}}
 
