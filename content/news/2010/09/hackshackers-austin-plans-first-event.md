@@ -16,7 +16,7 @@ Hacks/Hackers Austin will hold its first meetup Thursday, September 30 from 6-8 
 
 Please [RSVP][2] for this event!
 
-The Austin chapter is the seventh group, after San Francisco, New York, Los Angeles, London, Boston and Chicago. We feel our fair city offers a great combination of communicators and technologists that will result in some amazing projects and opportunities.
+The Austin group is the seventh group, after San Francisco, New York, Los Angeles, London, Boston and Chicago. We feel our fair city offers a great combination of communicators and technologists that will result in some amazing projects and opportunities.
 
 Hacks/Hackers Austin is organized by [Cindy Royal][3], an assistant professor at [Texas State University &#8211; San Marcos][4], Matt Stiles and Niran Babalola of [Texas Tribune][5], Christian McDonald of the [Austin American-Statesman][6] and [Jon Lebkowsky][7], Web consultant and strategist. We plan to have monthly meetings, so let us know your ideas for future events.
 
