@@ -27,9 +27,9 @@ Hacks/Hackers Buenos Aires also announced the dates for this year&#8217;s [#HHBA
   * Brussels is hosting the [seventh Hacks/Hackers Connect][10]
   * Buenos Aires is discussing [journalism in the era of leaks][11]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-It&#8217;s been more than a month since ICIJ released the #PanamaPapers, but Hacks/Hackers chapters from France to Poland to Kenya have been dissecting the story and massive data leak. Last week, Munich and Berlin took the plunge.
+It&#8217;s been more than a month since ICIJ released the #PanamaPapers, but Hacks/Hackers groups from France to Poland to Kenya have been dissecting the story and massive data leak. Last week, Munich and Berlin took the plunge.
 
 {{< tweet 732992179354886144 >}}
 
