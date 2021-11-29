@@ -13,7 +13,7 @@ groups:
 - London
 ---
 
-We&#8217;re delighted to announce that the first international chapter of Hacks/Hackers got off to a fantastic start yesterday.
+We&#8217;re delighted to announce that the first international group of Hacks/Hackers got off to a fantastic start yesterday.
 
 {{< figure src="https://secure.meetupstatic.com/photos/event/5/6/3/2/event_17302066.jpeg" alt="London Hacks/Hackers" >}}
 
