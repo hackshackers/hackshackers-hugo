@@ -3,7 +3,7 @@ title: Africa
 url: groups/africa
 ---
 
-![HacksHackers Africa logo](/content/content-images/group-images/africa.jpeg)
+![HacksHackers Africa logo](/content-images/group-images/africa.jpeg)
 
 Hacks/Hackers Africa is the umbrella group for more than a dozen African groups in the Hacks/Hackers community, where news pioneers experiment with ways to rewire the media.
 
