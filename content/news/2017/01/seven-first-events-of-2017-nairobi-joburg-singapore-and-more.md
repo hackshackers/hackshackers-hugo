@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Happy Friday, hacks and hackers. After a winter hibernation (or summer nap, for those in the southern hemisphere), seven Hacks/Hackers chapters are holding their first events of 2017, including in Asia, Europe, North America and Africa.
+Happy Friday, hacks and hackers. After a winter hibernation (or summer nap, for those in the southern hemisphere), seven Hacks/Hackers groups are holding their first events of 2017, including in Asia, Europe, North America and Africa.
 
 {{< tweet 822329676311961600 >}}
 
@@ -24,7 +24,7 @@ Happy Friday, hacks and hackers. After a winter hibernation (or summer nap, for 
   * New York is holding a [workshop][6] on building web notifications
   * [IRE][7] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Earlier this week, [Rio de Janeiro][8] invited Nick Denton, the founder of Gawker Media, to come [speak to the group][9]. This was organizer [Gabriela Mafort][10]&#8216;s first time putting together a Hacks/Hackers event, and she said having a well-known speaker helped get the word out. &#8220;Having Nick Denton as our first speaker was a great incentive to move forward!&#8221;
 
