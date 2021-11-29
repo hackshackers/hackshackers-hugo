@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers. This is turning out to be an election year in more way than one, with referendums rocking Europe, attempted government changes erupting in Turkey and campaigns turning out high drama in the United States. London and Paris have both held meetups on polling data for their respective elections, and many other chapters will probably follow suit before the year is out.
+Greetings, hacks and hackers. This is turning out to be an election year in more way than one, with referendums rocking Europe, attempted government changes erupting in Turkey and campaigns turning out high drama in the United States. London and Paris have both held meetups on polling data for their respective elections, and many other groups will probably follow suit before the year is out.
 
 **The week ahead:**
 
@@ -19,7 +19,7 @@ Greetings, hacks and hackers. This is turning out to be an election year in more
   * London is holding its [July meetup][4] at Twitter HQ
   * Berlin is [tackling a couple topics][5] including crowdsourcing
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Last month, [Paris][6] held [a session on polling data][7], prepping for an upcoming election. Datagif, a consulting agency, presented some ideas on recycling tools from American outlets for the French election. [Alexandre Lechenet][8], one of the organizers, said they tried to focus on the real, rather than innovation for innovation&#8217;s sake.
 
