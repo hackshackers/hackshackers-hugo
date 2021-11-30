@@ -12,8 +12,9 @@ We hold these calls on the first Wednesday of every month. You can subscribe to
 
 **Add to the call notes:** [Google Doc](https://docs.google.com/document/d/1KtsWrrStnimnM7_h43Vk3CgTff6d7TipDuTmSG_KDWQ/edit?usp=sharing)
 
-{{< iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" width="600px" height="400px" >}}
+**Add to your calendar:** [Google Calendar ics](https://calendar.google.com/calendar/ical/b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com/public/basic.ics)
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+{{<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&showTabs=0&showCalendars=0&showPrint=0&showDate=1&src=YjFiZjVlZ2M3cjNjbm9xZ2VrbzU5MzI4cHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" style="border:solid 1px #777" width="600" height="400" frameborder="0">}}
+
 
  [1]: https://twitter.com/HacksHackers
