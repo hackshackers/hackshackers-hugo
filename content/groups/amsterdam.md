@@ -3,7 +3,7 @@ title: Amsterdam
 url: groups/amsterdam
 ---
 
-![HacksHackers Amsterdam Refugeehotspot](/content/content-images/group-images/amsterdam.jpg)
+![HacksHackers Amsterdam Refugeehotspot](/content-images/group-images/amsterdam.jpg)
 
 Bridging the gap between hackers and journalists!
 
