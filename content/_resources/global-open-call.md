@@ -14,7 +14,7 @@ We hold these calls on the first Wednesday of every month. You can subscribe to
 
 **Add to your calendar:** [Google Calendar ics](https://calendar.google.com/calendar/ical/b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com/public/basic.ics)
 
-{{<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&showTabs=0&showCalendars=0&showPrint=0&showDate=1&src=YjFiZjVlZ2M3cjNjbm9xZ2VrbzU5MzI4cHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" style="border:solid 1px #777" frameborder="0" width=100% height="400" >}}
+{{<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&showTabs=0&showCalendars=0&showPrint=0&showDate=1&src=YjFiZjVlZ2M3cjNjbm9xZ2VrbzU5MzI4cHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" style="border:solid 1px #777" frameborder="0" width=100% height=20% >}}
 
 
  [1]: https://twitter.com/HacksHackers
