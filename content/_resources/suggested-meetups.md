@@ -24,19 +24,21 @@ Lightning talks are a series of short talks, usually only 3-5 minutes long. This
 
 Examples: [Birmingham, UK][5]; [Washington, DC][6]
 
+{{< figure src="/content-images/resources/drinking-copy-1024x431.jpg" alt="drinking copy" >}}
+
 **_Happy hour_**
 
 A happy hour is probably the easiest event to organize, since all you need to do is pick a bar and tell people to come hang out and network. This is why it&#8217;s usually a good fill-in for when you don&#8217;t have time to organize something more elaborate. In the U.S., it&#8217;s somewhat of a tradition to hold a &#8220;holiday happy hour&#8221; in December, when everyone&#8217;s already on pseudo-vacation. If you want to make sure you&#8217;re staying on point, you could promote it with something like, &#8220;Happy hour to discuss new meetups&#8221; or &#8220;Happy hour to brainstorm a hackathon.&#8221;
 
 Examples: [Austin][4], [Toronto][7]
 
-{{< figure src="/content-images/resources/drinking-copy-1024x431.jpg" alt="drinking copy" >}}
-
 **_Workshop_**
 
 A workshop, unlike a talk or demonstration, is more like an actual paid course. An instructor will teach attendees how to scrape data with Python, for example, or map data with QGIS. It&#8217;s one of the more labor-intensive options for organizers, but also one of the more valuable for attendees. Often, these workshops provide the only free training journalists can get. You&#8217;ll need a classroom-type setup with a screen, projector, desks and lots of outlets or power strips.
 
 Examples: [Nigeria][8], [New York][9]
+
+{{< figure link="https://www.flickr.com/photos/ramirochanes/29147792251/in/album-72157672945079365/" src="/content-images/resources/29147792251_32e6e37e1f_b.jpg" >}}
 
 **_Hackathon_**
 
@@ -49,8 +51,6 @@ Examples: [Buenos Aires][11], [Boston][12]
 An open lab may be the easiest meetup of all. All you have to do is find a space (even if it&#8217;s just a coffee shop) to get together and work on projects. It&#8217;s less formally organized than a hackathon, and usually much shorter &#8211; an afternoon, let&#8217;s say. Open labs can be good follow-ups to workshops or hackathons, so people can keep working on their projects.
 
 Examples: [IRE Missouri][13], [Singapore][14]
-
-{{< figure link="https://www.flickr.com/photos/ramirochanes/29147792251/in/album-72157672945079365/" src="/content-images/resources/29147792251_32e6e37e1f_b.jpg" >}}
 
  [1]: https://www.hackshackersldn.co.uk/past-events
  [2]: http://www.meetup.com/Hacks-Hackers-New-Orleans/events/234083757/
