@@ -16,7 +16,6 @@ Do you want to start a new group, join an existing group, or just get more invol
   * Try holding intermittent or quarterly events (quality over quantity!)
   * Instead of planning a group-wide event, plan a dinner or outing for you and your co-organizers
   * [Email us](mailto:contact@hackshackers.com) if you have any questions, or just want to brainstorm
-  * If you need some startup money, let us know. We might have some money (not much) we can funnel to startup groups, but $50 can go a long way in a bar toward appetizers
 
 **If you want to get more involved…**
 
