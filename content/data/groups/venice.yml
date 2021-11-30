@@ -1,5 +1,5 @@
 label: Venezia
-externalUrl: https://www.meetup.com/it-IT/Hacks-Hackers-Venezia/
+externalUrl: https://www.hackshackers.com/groups/venice/
 coordinates:
   - 45.440847
   - 12.3155
@@ -9,4 +9,3 @@ organizers:
   - { name: "Antonio Massariolo", link: "http://www.antoniomassariolo.it" }
   - { name: "Erica Villa" }
   - { name: "Luca Corsato", link: "https://osd.tools" }
-# groupPage: venezia
