@@ -5,7 +5,7 @@ url: groups/st-louis
 
 ![St. Louis Skyline](https://upload.wikimedia.org/wikipedia/commons/d/de/St_Louis_night_expblend.jpg)
 
-Journalism x Tech!
+Journalism x Tech in the Gateway to the West!
 
 Follow us on [Facebook](https://www.facebook.com/STLhackshackers/).
 
