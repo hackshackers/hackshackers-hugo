@@ -1,4 +1,3 @@
-
 ---
 
 Title: What is a tech journalism job?
