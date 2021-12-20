@@ -24,7 +24,7 @@ Welcome to another week, hacks and hackers. The [Media Party][1] last month saw 
   * Halifax is getting together to [plan their next session][9]
   * Atlanta is teaching &#8220;[non-coding for hacks][10]&#8221; at the Atlanta Press Club
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Birmingham][11], in the UK, held an [R meetup][12] last week, inviting people to come learn new skills or get a refresher on the R programming language. [Maria Crosas][13], who put it together, said this was the first event she&#8217;d organized.
 
