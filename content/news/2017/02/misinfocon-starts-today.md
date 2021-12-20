@@ -29,9 +29,9 @@ In the meantime, [Billy Penn][5] and the Knight Foundation are putting together 
   * Taipei is holding a workshop on [immersive storytelling][12]
   * IRE is holding its [weekly open lab][13]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-Instead of zooming in on a local chapter, we&#8217;re going to give the Hacks/Hackers global team a little sunshine this week. [Jenny 8 Lee][14] and [Phillip Smith][15] put together a doozy of [a conference this weekend][1], and Phillip has been compiling suggested reading for weeks.
+Instead of zooming in on a local group, we&#8217;re going to give the Hacks/Hackers global team a little sunshine this week. [Jenny 8 Lee][14] and [Phillip Smith][15] put together a doozy of [a conference this weekend][1], and Phillip has been compiling suggested reading for weeks.
 
 {{< tweet 832573404058439680 >}}
 
