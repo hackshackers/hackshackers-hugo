@@ -13,7 +13,7 @@ groups:
 - Canterbury
 ---
 
-A new Hacks/Hackers Chapter was successfully launched 2nd July in Canterbury, UK: [@HacksHackersCTB][1]. This first event gathered an impressive crowd of 40, with a good balance of both hacks and hackers engaging in discussions about data driven journalism. We, the organisers Tom Foster [Tom Foster][2] and [Lizzie Hodgson][3], were very encouraged by both the standard of debate and the positive feedback from attendees. [Sign up now][4] to be notified of future Hacks/Hackers Canterbury events.
+A new Hacks/Hackers group was successfully launched 2nd July in Canterbury, UK: [@HacksHackersCTB][1]. This first event gathered an impressive crowd of 40, with a good balance of both hacks and hackers engaging in discussions about data driven journalism. We, the organisers Tom Foster [Tom Foster][2] and [Lizzie Hodgson][3], were very encouraged by both the standard of debate and the positive feedback from attendees. [Sign up now][4] to be notified of future Hacks/Hackers Canterbury events.
 
 Our first speaker [Martin Belam][5] of [Emblem Digital][6] and [currybet.net][7], formerly Lead UX/IA for the Guardian, kindly transcribed his presentation in essay form on his blog [here][8]. Martin also [took notes][9] from our second speaker [Nicola Hughes&#8217;][10] presentation of the top tips from her experiences as a [Knight-Mozilla OpenNews][11] fellow learning how to program in the Guardian&#8217;s newsroom.
 
