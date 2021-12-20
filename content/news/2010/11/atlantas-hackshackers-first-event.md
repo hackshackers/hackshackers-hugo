@@ -13,7 +13,7 @@ groups:
 - Atlanta
 ---
 
-On Monday November 22, the Atlanta chapter of Hacks/Hackers hosted its inaugural meetup at RíRá Irish Pub in Midtown. Approximately 50 people attended the event , with hacks and hackers from media companies like Turner/CNN, Cox Media Group and the AJC; academics and students from institutions like the University of Georgia, Kennesaw State University and Georgia Tech; entrepreneurs, consultants, small-biz media companies, and many others (including a librarian!)
+On Monday November 22, the Atlanta group of Hacks/Hackers hosted its inaugural meetup at RíRá Irish Pub in Midtown. Approximately 50 people attended the event , with hacks and hackers from media companies like Turner/CNN, Cox Media Group and the AJC; academics and students from institutions like the University of Georgia, Kennesaw State University and Georgia Tech; entrepreneurs, consultants, small-biz media companies, and many others (including a librarian!)
 
 {{< figure link="/content-images/news/2010/11/DSC\_03951.jpg" src="/content-images/news/2010/11/DSC\_03951-300x199.jpg" >}}
 
