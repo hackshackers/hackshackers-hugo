@@ -11,7 +11,7 @@ Welcome back, hacks and hackers! The University of Florida’s Brechner Center f
 
 {{< tweet 1219663445433315328 >}}
 
-Also, Hacks/Hackers DC is holding a little get-together next week to discuss future plans for the chapter. If you're in DC, don't miss it!
+Also, Hacks/Hackers DC is holding a little get-together next week to discuss future plans for the group. If you're in DC, don't miss it!
 
 **Happening this week:**
 
