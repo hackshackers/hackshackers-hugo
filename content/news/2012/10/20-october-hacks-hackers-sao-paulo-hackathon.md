@@ -16,7 +16,7 @@ _Members of Hacks/Hackers São Paulo meet to discuss MySQL and plan their first 
 
 Hacks/Hackers São Paulo &mdash; launched in July as the first group in Brazil &mdash; will hold its first hackathon 20 October during the W3C Brazil Conference and alongside the **[2012 international PERL community conference][1]**. The event will bring the most active participants from previous meetings together to present their ideas for hacking relevant datasets and building useful applications for journalism and news-related technologies.
 
-So far, the chapter in Brazil´s largest city counts 130 members on its **[Meetup page][2]** and has held three meetings. All of them were  driven by the discussion of how to explore the large ammounts  of data. This is a particularly timely theme because the country is going through a municipal elections period and several news apps are being created to explore the data behind candidates and their proposals.
+So far, the group in Brazil´s largest city counts 130 members on its **[Meetup page][2]** and has held three meetings. All of them were  driven by the discussion of how to explore the large ammounts  of data. This is a particularly timely theme because the country is going through a municipal elections period and several news apps are being created to explore the data behind candidates and their proposals.
 
 The most recent meetup, which took place at São Paulo municipal chamber, focused on the use of Structured Query Language (SQL) as a tool that can be useful for journalists&#8217; investigations. A short workshop on how to install and start using MySQL was given by hacker [Wesley Seidel][3], who is currently helping political scientists to use the software.
 
