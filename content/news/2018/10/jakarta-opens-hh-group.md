@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Happy October, hacks and hackers! This month, a new chapter opens in Jakarta.
+Happy October, hacks and hackers! This month, a new group opens in Jakarta.
 
 {{< tweet 1048680912056213510 >}}
 
