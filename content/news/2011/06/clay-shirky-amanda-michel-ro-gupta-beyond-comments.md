@@ -16,7 +16,7 @@ groups:
 - New York
 ---
 
-Last week was a bit of a blur: after meeting with the [Chicago Tribune News Applications team][1], and [descending into the Tribune dungeon][2] for an [evening of brainstorming][3] with the local Hacks/Hackers chapter, I was off to New York for the Hacks/Hackers NYC “[Beyond Comments: Discuss, brainstorm with Shirky, Michel, Gupta][4]” event at NYU’s Tisch School for the Arts (home of the [ITP program][5]).
+Last week was a bit of a blur: after meeting with the [Chicago Tribune News Applications team][1], and [descending into the Tribune dungeon][2] for an [evening of brainstorming][3] with the local Hacks/Hackers group, I was off to New York for the Hacks/Hackers NYC “[Beyond Comments: Discuss, brainstorm with Shirky, Michel, Gupta][4]” event at NYU’s Tisch School for the Arts (home of the [ITP program][5]).
 
 Sadly, I didn’t manage to capture [Clay Shirky’s][6] talk where he touched on some of his recent research into online conversations. (If you recorded it, or have links to his recent writings on the topic, please pop a note into the comments below!)
 
