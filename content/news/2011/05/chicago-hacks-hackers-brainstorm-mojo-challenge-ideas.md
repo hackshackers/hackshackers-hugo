@@ -16,7 +16,7 @@ groups:
 
 A group of 30-plus hacks and hackers gathered last week in the basement of the Tribune Tower for a “MoJo Beerstorm.”
 
-The event, hosted by the Chicago chapter of Hacks/Hackers, was a brainstorming meeting intended to inspire participants to submit ideas for the [Knight/Mozilla MoJo Innovation Challenge][1] – a chance for individuals to shape the future of news and re-open the web, à la Firefox.
+The event, hosted by the Chicago group of Hacks/Hackers, was a brainstorming meeting intended to inspire participants to submit ideas for the [Knight/Mozilla MoJo Innovation Challenge][1] – a chance for individuals to shape the future of news and re-open the web, à la Firefox.
 
 **[Phillip Smith][2]**, a key leader of the MoJo Challenge, flew in from Toronto to attend the May 24 event. The evening kicked off with pizza and soda before Smith gave a brief presentation about Mozilla and the challenge details.
 
