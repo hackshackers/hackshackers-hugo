@@ -21,7 +21,7 @@ It&#8217;s almost election time in the U.S., hacks and hackers! Please join us n
   * [Miami][5] is holding its regular OpenHack Miami
   * [IRE][6] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [London][7] held its [October meetup][8] last week, inviting speakers from Bloomber, the Wall Street Journal and the BBC to talk about their latest projects. London has been a steadily moving machine for years when it comes to meetups like this, and organizer [Joanna Geary][9] said one advantage is to have the leadership in tightly organized roles.
 
@@ -31,7 +31,7 @@ It&#8217;s almost election time in the U.S., hacks and hackers! Please join us n
 
 {{< tweet 788833092245004288 >}}
 
-Not every Hacks/Hackers chapter needs or wants a formalized system like this. But the London group also shared their [Roles & Responsibilities template][10] and [task assignment spreadsheet][11], which help them manage an enormous amount of work and responsibility among five organizers.
+Not every Hacks/Hackers group needs or wants a formalized system like this. But the London group also shared their [Roles & Responsibilities template][10] and [task assignment spreadsheet][11], which help them manage an enormous amount of work and responsibility among five organizers.
 
 **Worth a read:**
 
