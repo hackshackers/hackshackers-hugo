@@ -12,7 +12,7 @@ categories:
 
 **by [Cedric Sam][1]**
 
-Hello hacks and hackers! I&#8217;ve had a grand time organizing Hacks/Hackers Hong Kong with my co-organizers [Jane][2], [Olivia][3], and [Darcy][4], since we founded the chapter in 2013.
+Hello hacks and hackers! I&#8217;ve had a grand time organizing Hacks/Hackers Hong Kong with my co-organizers [Jane][2], [Olivia][3], and [Darcy][4], since we founded the group in 2013.
 
 {{< figure link="https://twitter.com/HacksHackersHK/status/661144313292681216/photo/1?ref_src=twsrc%5Etfw" src="/content-images/news/2016/10/hk2-300x225.jpg" >}}
 
@@ -56,7 +56,7 @@ Muyueh’s work focuses on building data dashboards for major corporations in Ta
 
 After talking about Muyueh’s tremendous work, we segued into open data and the vibrant community in Taiwan, one of the largest in the world, led by community organizations such as g0v.tw. Democracy (and unpopular governments) might have led politicians and people in power to give back more useful data to the people, who in turn have built important applications for the citizenry.
 
-[Taipei will soon have a new Hacks/Hackers chapter][26], led by [Silva Shih][27] of the FT and [Kirby Wu][28]. Their first event is about QGIS on October 16 and the speakers will be [Jeremy C.F. Lin][29] and Mimi Chen.
+[Taipei will soon have a new Hacks/Hackers group][26], led by [Silva Shih][27] of the FT and [Kirby Wu][28]. Their first event is about QGIS on October 16 and the speakers will be [Jeremy C.F. Lin][29] and Mimi Chen.
 
 # Robin Kwong, Financial Times
 
