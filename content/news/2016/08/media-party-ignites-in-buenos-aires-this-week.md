@@ -26,7 +26,7 @@ The Media Party will bring thousands of hackers, technologists, journalists and 
   * Buenos Aires is holding its huge annual [Media Party][9]
   * Johannesburg is sponsoring another installment of [#HacktheConstitution][10]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [#HacktheConstitution][11], a series of hackathons that started in Johannesburg in May, was named one of Africa&#8217;s most innovative tech projects [by The Guardian][12]. [Serah Njambi Rono][13], one of the main organizers for [Hacks/Hackers Africa][14], said timing has been important when it comes to getting people to show up or follow along from afar.
 
