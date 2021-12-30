@@ -20,7 +20,7 @@ Hope you had a good March, hacks and hackers! If you haven't yet, check out the 
 * Dublin is listening to an [expert on data vis](https://www.meetup.com/hacks-hackers-dublin/events/238461910/)
 * [IRE](https://www.meetup.com/hackshackersIRE/) is holding its regular weekly lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [New Orleans](https://www.meetup.com/Hacks-Hackers-New-Orleans/), which launched in the middle of last year, has already reached over 200 members. Organizer [Samantha Sunne](https://twitter.com/SamanthaSunne) wrote about their last hackathon, which drew an unexpectedly large crowd.
 
