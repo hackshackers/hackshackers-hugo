@@ -22,7 +22,7 @@ Happy Friday, hacks and hackers, and welcome to post-U.S. election life. Many of
   * [Miami][2] is holding its regular OpenHack Miami
   * [IRE][3] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Hacks/Hackers Southwest/South Wales][4] launched [last week in the UK][5], with a two-way talk from the BBC&#8217;s News Lab and the UK&#8217;s Office for National Statistics.
 
