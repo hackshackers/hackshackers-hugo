@@ -28,7 +28,7 @@ If you organize a local group, be sure to [let us know](https://docs.google.com/
 * New Orleans is holding a [hackathon](https://www.meetup.com/Hacks-Hackers-New-Orleans/events/238418707/) for Sunshine Week
 * [IRE](https://www.meetup.com/hackshackersIRE/) is holding its regular weekly lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Probably the biggest event in the Hacks/Hackers world this week was the [Awesomest Journalism Party Ever](https://theawesomest.journalismparty.com/ever/vii/), which sees hundreds of people partying like journalists at SXSW. Our website cohorts, [Alley Interactive](alleyinteractive.com), were there with swag:
 
