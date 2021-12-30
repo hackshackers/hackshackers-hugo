@@ -22,7 +22,7 @@ Conference season is firing along, with many journos and news hackers at the IRE
   * [Miami][5] is holding OpenHack Miami
   * [IRE][6] in mid-Missouri is holding its regular open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Nairobi held a [Hack4Humanity][7] to coincide with the World Humanitarian Summit earlier this month. The 24-hour hackathon featured speakers from media, startups and government on how African media projects can intersect with the humanitarian community there.
 
