@@ -21,7 +21,7 @@ Hello, hacks and hackers! We made it through Valentine&#8217;s Day (at least, th
   * London is [discussing facts][5], fake facts and alternative facts
   * [IRE][6] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [London][7], which successfully transitioned away from using Meetup last year, has continued to hold a meetup every month on the dot. [Joanna Geary][8], who has since moved on to other locales, said the organizers use a variety of tools to keep in touch, including an email list for volunteers, a MailChimp list for attendees and an Eventbrite account for announcing events.
 
