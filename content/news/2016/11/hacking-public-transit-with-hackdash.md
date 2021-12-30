@@ -17,7 +17,7 @@ Greetings, hacks and hackers. A lot of the suggested reads this week follow the 
   * [Miami][1] is holding its regular OpenHack Miami
   * [IRE][2] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Mendoza][3] organized a &#8216;[transportatón][4]&#8216; last week, hacking solutions for sustainable transportation in Argentina, offering an enticing 20,000 pesos to the winning team to develop their project
 
