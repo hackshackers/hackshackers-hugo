@@ -26,7 +26,7 @@ We&#8217;re launching it just in time for the [Awesomest Journalism Party Ever][
   * Boston is [hacking FOIA][3] law
   * [IRE][4] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Toronto][5] is [rebooting this year][6] after taking a break for the back half of 2016. Organizer [Pippin Lee][7] said restarting can be tough as leaders get their footing and build a network.
 
