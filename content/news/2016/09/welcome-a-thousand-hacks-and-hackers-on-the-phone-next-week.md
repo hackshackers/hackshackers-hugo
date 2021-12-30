@@ -21,7 +21,7 @@ Hello, new hacks and hackers! As of last week, he have 1,000 subscribers on this
   * [Miami][3] is holding its regular OpenHack Miami
   * [IRE][4] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Hong Kong][5] held a [show-and-tell][6] with media leaders earlier this week, and sadly it was the city&#8217;s last meetup for a while. Organizer [Cedric Sam][7] is moving on to New York, and is still looking for someone to pass the torch.
 
