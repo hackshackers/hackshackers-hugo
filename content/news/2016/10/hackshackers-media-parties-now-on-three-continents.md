@@ -23,7 +23,7 @@ This weekend, a third Hacks/Hackers group held its own Media Party, this time in
   * Austin is meeting with [Google News Lab][9]
   * Singapore is holding a special [U.S. election][10] event
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Earlier this month, [Montreal][11] met [to talk about][12] cloud-based services for journalists. Speaker and co-organizer [Roberto Rocha][13] said the group has been promoting themselves by finding new members and new venues though other local meetups.
 
