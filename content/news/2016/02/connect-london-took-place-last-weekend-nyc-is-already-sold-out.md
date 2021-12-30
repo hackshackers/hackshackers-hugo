@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Greetings hacks and hackers, [the Connect series][1] is rolling onward like a behemoth and all over the world, individual chapters are holding get-togethers and learning new skills. Let’s take a look at what’s coming up:
+Greetings hacks and hackers, [the Connect series][1] is rolling onward like a behemoth and all over the world, individual groups are holding get-togethers and learning new skills. Let’s take a look at what’s coming up:
 
 **The week ahead**:
 
