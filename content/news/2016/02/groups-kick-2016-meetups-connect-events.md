@@ -49,7 +49,7 @@ The next Connect event will take place in London next week, Feb. 5-6. Applicatio
 
 Let’s start 2016 with a clean slate: What is something you learned in 2015? Just one thing. Doesn’t have to be the best or deepest or most important &#8211; just pick one at random. Shoot me a response to this email and I’ll share it, or share it with everybody at [#hackshackers][18].
 
-Another call to action: If you know of a job, event, chapter to highlight or even just a reading suggestion, respond to this email and it will reach [Samantha Sunne][19], our new newsletter writer. Thanks, everybody! Here’s to a 2016 full of journohacks.
+Another call to action: If you know of a job, event, group to highlight or even just a reading suggestion, respond to this email and it will reach [Samantha Sunne][19], our new newsletter writer. Thanks, everybody! Here’s to a 2016 full of journohacks.
 
 If you&#8217;re not already subscribed to the newsletter, [do so now][20]!
 
