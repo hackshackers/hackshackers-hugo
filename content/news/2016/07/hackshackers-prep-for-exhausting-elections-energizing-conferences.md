@@ -19,7 +19,7 @@ News last week was dominated by fallouts of the [Brexit vote][1], attempted [Tur
   * Brisbane is debuting a sneak peek at the [upcoming Storyology conference][7]
   * Uruguay is discussing [recyclable data projects][8]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Hacks/Hackers Nairobi][9] met this month for [an open government session][10] in conjunction with the [Kenya Open Data Initiative][11]. Organizer [Serah Njambi Rono][12] said the group strives to hold meetups monthly, prioritizing regular events over finding a specific topic to talk about. Topics can vary, she said, but what&#8217;s important is that it&#8217;s a cohesive, active group.
 
