@@ -26,7 +26,7 @@ At the same time, the Jakarta hosted the [Global Forum for Media Development][2]
   * Zurich is exploring Switzerland&#8217;s [new open data portal][9]
   * [Miami][10] and [IRE][11] are holding their regular weekly open labs
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Birmingham, UK][12], recently rebooted after a few months off, and co-organizer [Maria Crosas][13] is tyring to introduce a variety of advanced and beginner concepts in a variety of meetup types. Just last week they tackled text analysis, Tableau and Telegram in a series of [lightning talks][14].
 
