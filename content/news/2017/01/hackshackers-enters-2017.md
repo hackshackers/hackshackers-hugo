@@ -14,7 +14,7 @@ Welcome to a new year, hacks and hackers! 2016 was a tumultuous one for many Hac
 
 {{< tweet 815274401436463104 >}}
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Austin][3] held a series of events last year, ranging from [a D3 workshop][4] to a massive [Connect event][5]. Organizer [Cindy Royal][6] said the organizers, who come from two local universities, two local news outlets and one national outlet, take turns organizing events, resulting in four or five events a year.
 
