@@ -23,7 +23,7 @@ Hacks/Hackers [Dubli][1]n is promoting the [Investigative Journalism on the Digi
   * [IRE][7] in Missouri is holding its weekly meeting
   * South Wales is holding its [first event][8]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Taipei][9] went a pretty ambitious route with its very [first meetup][10] last month: they held a QGIS workshop with two instructors and a pretty full turnout
 
