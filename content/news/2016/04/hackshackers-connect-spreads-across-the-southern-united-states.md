@@ -18,7 +18,7 @@ categories:
   2. [Miami][5] is holding its regular OpenHack Miami
   3. [IRE][6] is also holding its regular open lab in mid-Missouri
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Austin held a special one-day [Connect event][7] on Thursday, featuring entrepreneur extraordinaire [Ash Maurya][8].
 
