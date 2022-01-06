@@ -1,12 +1,9 @@
 ---
-Title: A new year of news nerdery
-
+Title: New year of news nerdery
 Authors: 
-
 - Samantha Sunne
-
-date: "2022-01-02” 
-categories: 
+date: "2021-12-19"
+categories:
 - Newsletter 
 ---
 
