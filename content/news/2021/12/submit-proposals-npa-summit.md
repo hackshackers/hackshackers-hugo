@@ -14,8 +14,6 @@ categories:
 
 The [News Product Alliance](https://newsproduct.org/) is holding [its annual summit](https://newsproduct.org/summit) online on March 10 and 11, and opened its call for session proposals.
 
-{{< tweet 1466534390326956035 >}}
-
 You can find out more about what kind of proposals they’re looking for in [their proposal guide](https://newsproduct.org/summit/proposal-guide), and the deadline to submit is December 15. 
 
 **Worth a read:**
@@ -25,8 +23,6 @@ You can find out more about what kind of proposals they’re looking for in [the
 * The Solutions Journalism Network created [an interactive playbook](https://learninglab.solutionsjournalism.org/en/courses/revenue-playbook) with case studies and strategies about how to generate revenue from solutions-oriented reporting. 
 * [Here’s a guide on seven different R packages](https://towardsdatascience.com/the-7-r-packages-you-should-be-using-for-data-visualisation-e29010cefe51) that can help aid in creating data visualizations straight from R, includings ones that specialize in 3D vizzes, color schemes, financial models and more. 
 * The Canadian Association of Journalists released [its inaugural newsroom diversity survey results](https://www.niemanlab.org/2021/12/overwhelmingly-white-but-leaning-female-see-the-results-of-the-canadian-association-of-journalists-inaugural-diversity-survey/) from 209 Canadian newsrooms and found that although newsrooms are overwhelmingly white, they do lean more female.
-
-{{< tweet 1465314640829767691 >}}
 
 **Jobs:**
 
