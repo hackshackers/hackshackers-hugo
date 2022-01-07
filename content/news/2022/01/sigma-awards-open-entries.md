@@ -1,5 +1,5 @@
 ---
-Title: Sigma Awards are open for entries
+Title: The Sigma Awards are open for entries
 Authors: 
 - Samantha Sunne
 date: "2022-01-07"
@@ -8,13 +8,11 @@ categories:
 ---
 
 
-Hello, hacks and hackers! MuckRack’s annual State of Journalism survey is live, and [you can fill it out here](https://www.surveymonkey.com/r/MREmail). The survey tracks the biggest trends and challenges facing the industry each year, and responses stay anonymous. 
+Hello, hacks and hackers! The deadline to submit 2021 data journalism projects to [the Sigma Awards](https://sigmaawards.org/) is January 14th.
 
-{{< tweet 1373014187434201088 >}}
+{{< tweet 1479094121105137665 >}}
 
-Last year, around 2,400 journalists filled out the form and you can check out the insights from [last year’s survey results here](https://muckrack.com/blog/2021/03/15/state-of-journalism-2021).
-
-Also, the deadline to submit 2021 data journalism projects to [the Sigma Awards](https://sigmaawards.org/) is January 14.
+The Sigma Awards highlight the best data journalism projects around the world, and this year is its third iteration.
 
 **Worth a read:**
 
