@@ -99,13 +99,18 @@ function _filterEvents(map, opts) {
   // Break into future/past lists
   Object.keys(map).forEach((key) => {
     const item = map[key];
-    const compareTime = item[opts.orderBy].getTime();
 
-    // Add to future or past queue
-    if (compareTime > opts.compareTime) {
+    if (opts.includePast) {
       futureEvents.push(item);
     } else {
-      pastEvents.push(item);
+      const compareTime = item[opts.orderBy].getTime();
+      // Show all events, regardless of if in present or past
+      // Add to future or past queue
+      if (compareTime > opts.compareTime) {
+        futureEvents.push(item);
+      } else {
+        pastEvents.push(item);
+      }
     }
   });
 
@@ -136,8 +141,9 @@ function _filterEvents(map, opts) {
  * @param string orderBy 'start' or 'end'
  * @param bool ascOrder Defaults to true, use false to sort in descending order.
  */
+
 function _compareFunc(first, second, orderBy, ascOrder = true) {
-  const delta = first[orderBy].getTime() - second[orderBy].getTime();
+  const delta = first[orderBy].dtstamp - second[orderBy].dtstamp;
   if (!ascOrder) {
     return -1 * delta;
   }
