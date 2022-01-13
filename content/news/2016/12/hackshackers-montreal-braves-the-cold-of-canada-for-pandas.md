@@ -10,9 +10,9 @@ categories:
 - Newsletter
 ---
 
-We&#8217;re midway through the coldest months &#8211; unless, of course, you live on the southern hemisphere &#8211; and techs and reporters are burrowing into projects or warm coats, or both. [Montreal][1], who we [featured in October][2], met for a [Pandas and D3 party][3] last week. Check out the chapter spotlight for how organizers in Quebec have been experimenting with their events.
+We&#8217;re midway through the coldest months &#8211; unless, of course, you live on the southern hemisphere &#8211; and techs and reporters are burrowing into projects or warm coats, or both. [Montreal][1], who we [featured in October][2], met for a [Pandas and D3 party][3] last week. Check out the group spotlight for how organizers in Quebec have been experimenting with their events.
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Roberto Rocha][4], one of the organizers of [Hacks/Hackers Montreal][1], said the group has been experimenting with meetup formats in order to make it easiest on organizers.
 

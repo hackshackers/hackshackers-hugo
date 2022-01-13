@@ -29,14 +29,14 @@ categories:
 - News
 groups:
 - New York
-description: "The New York City chapter of Hacks/Hackers  met last Wednesday, December
+description: "The New York City group of Hacks/Hackers  met last Wednesday, December
   3rd for Demo Day at the generously donated space, New Work City. The pizza was delicious
   and the place was packed. People had to raise their hands if there was an empty
   seat. Let’s time travel back to Wednesday, December 1, 2010 – at 8pm-ish, and learn
   what these folks are up to. \r\n\r\n"
 ---
 
-The New York City chapter of Hacks/Hackers metWednesday, December 1 for [Demo Day][1] at the generously donated space, New Work City.
+The New York City group of Hacks/Hackers metWednesday, December 1 for [Demo Day][1] at the generously donated space, New Work City.
 
 {{< figure link="http://twitter.com/#!/hackshackers" src="/content-images/news/2010/12/600_19992295-300x200.jpg" >}}
 

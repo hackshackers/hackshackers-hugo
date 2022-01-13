@@ -23,7 +23,7 @@ We'll be talking about the huge rollout of the [new website](hackshackers.com), 
 * Seattle is discussing [infosec for journalists](https://www.meetup.com/Hacks-Hackers-Seattle/events/237943153/)
 * [IRE](https://www.meetup.com/hackshackersIRE/) is holding its regular weekly lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Boston](https://www.meetup.com/hackshackersboston/) did double-duty last week as the host of a [Baseball Hack Day](https://www.meetup.com/hackshackersboston/events/238464991/) and a conference on [new frameworks for public discourse](https://www.meetup.com/hackshackersboston/events/238211056/).
 

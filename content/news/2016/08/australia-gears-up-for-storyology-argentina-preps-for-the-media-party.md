@@ -22,9 +22,9 @@ And of course [Hacks/Hackers Buenos Aires][6] is prepping for its annual [Media 
   * Berlin is [hosting][10] London&#8217;s own Sarah Marshall
   * Africa is holding [#HacktheConstitution][11] in Johannesburg
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The [Hacks/Hackers Africa][12] chapter in Kenya has been consistently collaborating with [Code for Africa][13], thanks to double agent [Serah Njambi Romo][14], who heads both H/H and CfA in Nairobi. She said holding H/H meetups in the same venue as CfA&#8217;s Civic Labs has helped keep the two groups organized and in contact with one another.
+The [Hacks/Hackers Africa][12] group in Kenya has been consistently collaborating with [Code for Africa][13], thanks to double agent [Serah Njambi Romo][14], who heads both H/H and CfA in Nairobi. She said holding H/H meetups in the same venue as CfA&#8217;s Civic Labs has helped keep the two groups organized and in contact with one another.
 
 > &#8220;We planned for meetup dates well in advance (at the beginning of the year) and booked the space for all these dates then. In case there&#8217;s need to push the meetup date, as sometimes happens due to unavoidable circumstances, we let them know at least a week or two in advance.&#8221;
 
@@ -65,7 +65,7 @@ The [Hacks/Hackers Africa][12] chapter in Kenya has been consistently collaborat
       * Sept 17-20 &#8211; New Orleans, USA &#8211; Society of Professional Journalists [Excellence in Journalism][35] conference
       * Sept 20-22 &#8211; Jakarta, Indonesia &#8211; [Global Forum for Media Development][36] (GFMD)
       * Sept. 22 &#8211; New York, USA &#8211; NYC Media Lab [Annual Summit][37], for executives, academics and startups to convene around future of media
-          * (Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER)
+          * Hacks/Hackers community members can register with a 25% off discount code: HACKSHACKER
       * Sept 23-24 &#8211; Toronto, Canada &#8211; Hacks/Hackers [Connect Toronto][38]
       * Sept 23-25 &#8211; Kathmandu, Nepal &#8211; [Asian Investigative Journalism Conference][39]
       * Sept 29-Oct 1 &#8211; Miami, USA &#8211; Digital Humanities + [Data Journalism Symposium][40]

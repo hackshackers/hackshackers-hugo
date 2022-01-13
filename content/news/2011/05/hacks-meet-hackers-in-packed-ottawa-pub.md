@@ -26,11 +26,11 @@ While he was humble about his own work in the field, Glen set the crowd — half
 
 Alice, a hero on Parliament Hill in all political corners thanks to her electoral data crunching, happily managed to out-geek Glen. She showcased how she reverse-engineered inaccessible public elections data into gigabytes of relational databases. The hackers were wowed by her smug SQL, while visions of headlines danced in hacks’ heads. If every column is a story, her work could be a multi-volume epic.
 
-Between presentations, one  of Ottawa’s leading hackers [offered beer][5] to any hack/hacker pair who came forward with one collaborative idea. That beer, perhaps unsurprisingly, was soon [claimed][6]. Journalists from across the country joined local developer groups, data visualizers, political parties, public servants — and one [accordion guy][7] — to launch Ottawa’s chapter.
+Between presentations, one  of Ottawa’s leading hackers [offered beer][5] to any hack/hacker pair who came forward with one collaborative idea. That beer, perhaps unsurprisingly, was soon [claimed][6]. Journalists from across the country joined local developer groups, data visualizers, political parties, public servants — and one [accordion guy][7] — to launch Ottawa’s group.
 
 The event couldn’t have happened without the support of the [Ottawa Citizen][8], [OpenFile Ottawa][9] and [Open Data Ottawa][10]. The next meet-up will be sometime in July, and we hope to see you there. Join the [Hacks/Hackers Ottawa meetup group][2] to be notified.
 
-_Nick Taylor-Vaisey and Alex Lougheed are a Hack and Hacker, respectively, who helped get Hacks and Hackers Ottawa off the ground. They can be reached through the group’s meetup page at [hackshackers.com/chapter/ottawa][11]._
+_Nick Taylor-Vaisey and Alex Lougheed are a Hack and Hacker, respectively, who helped get Hacks and Hackers Ottawa off the ground. They can be reached through the group’s meetup page at [hackshackers.com/group/ottawa][11]._
 
  [1]: /content-images/news/2011/05/ottawa_side.gif "Hacks/Hackers Ottawa"
  [2]: http://www.meetup.com/HacksHackersOttawa/
@@ -42,4 +42,4 @@ _Nick Taylor-Vaisey and Alex Lougheed are a Hack and Hacker, respectively, who h
  [8]: http://www.ottawacitizen.com/
  [9]: http://ottawa.openfile.ca/
  [10]: http://www.opendataottawa.ca/
- [11]: http://hackshackers.com/chapter/ottawa
+ [11]: http://hackshackers.com/group/ottawa

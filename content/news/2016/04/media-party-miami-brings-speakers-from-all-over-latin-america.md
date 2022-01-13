@@ -18,7 +18,7 @@ We’re still looking for input on the new Hacks/Hackers website, so please pass
 
 **The week ahead:**
 
-  * The Pakistan chapter is [teaching journalists][3] to use Instagram in Karachi
+  * The Pakistan group is [teaching journalists][3] to use Instagram in Karachi
   * [Miami][4] and [IRE][5] are holding their regular weekly open labs
   * Paris is discussing [producing new media elements][6] like Snapchat and video 360
   * London is featuring a few [all-star speakers][7], including Simon Rogers, Google’s data editor

@@ -29,9 +29,9 @@ If you can&#8217;t make it, please take this super short (i.e., four-question) [
   * Munich is [discussing Facebook bots][11] and prediction models after Trump
   * [Miami][12] and [IRE][13] are holding their regular weekly open labs
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Taipei][14], the recently-founded first chapter in Taiwan, is holding its [second meetup][4] tomorrow, spreading the Github gospel to the journalists of Taiwan. They&#8217;ve already scheduled their [third][15], which will tackle immersive storytelling.
+[Taipei][14], the recently-founded first group in Taiwan, is holding its [second meetup][4] tomorrow, spreading the Github gospel to the journalists of Taiwan. They&#8217;ve already scheduled their [third][15], which will tackle immersive storytelling.
 
 {{< tweet 796927717643980800 >}}
 

@@ -7,11 +7,11 @@ categories:
 - Newsletter
 ---
 
-It's here, hacks and hackers! [Media Party](https://mediaparty.info/), the biggest HH event in the world, kicks off Thursday in Buenos Aires.
+It's here, hacks and hackers! [Media Party](https://mediaparty.info/), the biggest H/H event in the world, kicks off Thursday in Buenos Aires.
 
 {{< tweet 1164369508032815109 >}}
 
-Media Party gathers around 2,500 journalists, developers, designers and entrepreneurs from around the world to talk about journalism and its future. You can still register for it on the [HH Buenos Aires Meetup page](https://www.meetup.com/es-ES/HacksHackersBA/events/).
+Media Party gathers around 2,500 journalists, developers, designers and entrepreneurs from around the world to talk about journalism and its future. You can still register for it on the [H/H Buenos Aires Meetup page](https://www.meetup.com/es-ES/HacksHackersBA/events/).
 
 **Happening this week:**
 

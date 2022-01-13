@@ -19,7 +19,7 @@ Good morning, afternoon, evening or night, hacks and hackers. After a year of ne
   * Zurich is [talking about storytelling][3]
   * [Miami][4] and [IRE][5] are holding their regular weekly open labs
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Helsinki][6] met [last month][7] to share info about the Uutisraivaaja media innovation contest in Finland. Event organizer [Rosa Lampela][8] learned something that may be counterintuitive: sometimes you can have _too_ many speakers.
 

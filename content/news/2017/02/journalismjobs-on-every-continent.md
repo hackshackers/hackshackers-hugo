@@ -22,7 +22,7 @@ Also, we&#8217;ve got journalism jobs on every continent this week, and journali
   * Philadelphia is hearing about [cool projects][6] from National Geographic
   * [IRE][7] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Nairobi][8] organizer [Flo Sipalla][9] shared a [blog post][10] she wrote on the group&#8217;s meetup last week, a [roundtable discussion][11] on how to combat fake news.
 
@@ -36,7 +36,7 @@ She said the Africa regional group uses a combination of sites to make, promote 
   * [bit.ly][15] for tracking readership
   * [Google Group][8] for discussing group news
 
-If you decide five platforms aren&#8217;t enough for you, check out other chapters&#8217; experiments with Meetup, Github, Slack, MailChimp and Eventbrite.
+If you decide five platforms aren&#8217;t enough for you, check out other groups&#8217; experiments with Meetup, Github, Slack, MailChimp and Eventbrite.
 
 **Worth a read:**
 

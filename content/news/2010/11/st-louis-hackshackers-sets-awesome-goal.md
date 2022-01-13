@@ -13,7 +13,7 @@ groups:
 - St. Louis
 ---
 
-The first St. Louis chapter meet-up was a great success. 
+The first St. Louis group meet-up was a great success. 
 
 Fifteen hacks and hackers met for happy hour last Thursday, and expectations are high. When asked &#8220;Hacks/Hackers should \___\____,&#8221; the overwhelming answer was &#8220;be awesome.&#8221; (There was also a vote for &#8220;be pretty.&#8221; We&#8217;re going to try for both.)
 

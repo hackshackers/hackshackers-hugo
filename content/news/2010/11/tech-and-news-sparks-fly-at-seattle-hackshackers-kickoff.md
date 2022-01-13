@@ -15,7 +15,7 @@ groups:
 - Seattle
 ---
 
-News and tech nerds gathered at Havana Social Club Thursday night to kickoff the Seattle chapter of [Hacks/Hackers][1] and nosh on Hawaiian-Korean eats from Marination Mobile (thanks to [Patch.com][2]).
+News and tech nerds gathered at Havana Social Club Thursday night to kickoff the Seattle group of [Hacks/Hackers][1] and nosh on Hawaiian-Korean eats from Marination Mobile (thanks to [Patch.com][2]).
 
 The coming out party brought a nice mix of hacks (_The Seattle Times_, _Seattle_ magazine, MSNBC, InvestigateWest, Capitol Hill Seattle blog and more) and hackers (including Adobe, Microsoft, Intersect, BigDoor and other local start ups) from around the Puget Sound area. Guests sipped on signature cocktails (The Hack, a shot of whiskey and a beer; the Hacker, a cocktail of Maker&#8217;s Mark, fresh lemon and honey), and shared ideas for future events. A few highlights:
 
@@ -27,7 +27,7 @@ The coming out party brought a nice mix of hacks (_The Seattle Times_, _Seattle_
 
 -Host a Hacks 101 and Hackers 101 evening to educate journos and techies on the basics of both professions
 
-Keep in touch with us via our new [Meetup page][3] as we finalize our winter and spring calendar. You can also follow us on [Twitter][4] or e-mail the Seattle chapter co-organizers Sharon Chan and Karen Johnson at hackshackersSEA@gmail.com to learn more.
+Keep in touch with us via our new [Meetup page][3] as we finalize our winter and spring calendar. You can also follow us on [Twitter][4] or e-mail the Seattle group co-organizers Sharon Chan and Karen Johnson at hackshackersSEA@gmail.com to learn more.
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/3/9/8/b/600_19574731.jpeg" >}}
 

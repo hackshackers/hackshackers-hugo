@@ -16,7 +16,7 @@ There are certainly enough opinions, think pieces and tweet storms to cover thes
 
 {{< tweet 813217776953233408 >}}
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Bogota][1], Colombia, held a hackathon in August called &#8220;[Hackeando la Educación][2]&#8220;, or &#8220;Hacking Education.&#8221; Two civic organizations presented projects they were working on &#8211; [Datos Al Tablero][3] and [Ciudatos][4] &#8211; which aim to improve open data in this area. Organizer [Daniel Suárez Pérez][5] said he would like to continue doing hackathons in the same space.
 

@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Happy July, hacks and hackers. Meetups tripled from last week to this, with chapters building robots, making maps and hacking hackathons from Portland to Patagonia. Los Angeles also rebooted last week, with the first of a two-parter workshop on Javascript and D3. Let&#8217;s check out their meetup and others coming up this week.
+Happy July, hacks and hackers. Meetups tripled from last week to this, with groups building robots, making maps and hacking hackathons from Portland to Patagonia. Los Angeles also rebooted last week, with the first of a two-parter workshop on Javascript and D3. Let&#8217;s check out their meetup and others coming up this week.
 
 **The week ahead:**
 
@@ -22,7 +22,7 @@ Happy July, hacks and hackers. Meetups tripled from last week to this, with chap
   * Rosario, Argentina, is holding a [hackathon][6]
   * [Miami][7] and [IRE][8] are holding their regular weekly open labs
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Los Angeles][9] partnered with Codesmith last week for a [workshop on JavaScript][10]. In September, they&#8217;ll follow up with a second session on D3.js. Organizer [David Caswell][11] said Codesmith was interested in teaching the events because they get to demonstrate their coding tutorials to journalists.
 

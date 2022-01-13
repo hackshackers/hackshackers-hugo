@@ -17,7 +17,7 @@ groups:
 
 {{< figure src="https://secure.meetupstatic.com/photos/event/5/a/0/5/event_18383045.jpeg" >}}
 
-The [Austin chapter of Hacks/Hackers][1] kicked off with a social meetup on September 30 at Austin&#8217;s Pizza near The University of Texas campus. More than 40 communicators and coders got together for some pizza and beverage, with lots of promise that these initial contacts will lead to some valuable collaborations.
+The [Austin group of Hacks/Hackers][1] kicked off with a social meetup on September 30 at Austin&#8217;s Pizza near The University of Texas campus. More than 40 communicators and coders got together for some pizza and beverage, with lots of promise that these initial contacts will lead to some valuable collaborations.
 
 In addition to the socializing and snacks, there were door prizes provided by [Gowalla][2], [Texas Tribune][3], [Austin American-Statesman][4] and [Austin&#8217;s Pizza][5]. Many thanks to everyone who came out to make this event a success. Thanks as well to Christian McDonald, Matt Stiles, Niran Babalola and Jon Lebkowsky for their help in organizing this event.
 

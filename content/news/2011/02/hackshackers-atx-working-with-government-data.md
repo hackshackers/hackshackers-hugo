@@ -26,7 +26,7 @@ On Feb. 17, [Andrew Dupont][1] of Gowalla discussed his side project, [Filibuste
 
 More photos available at [Meetup.com][3].
 
-As always, a good crowd of Austinites were on board. [Mutual Mobile][4] sponsored the delicious Banh Mi sandwiches from the [Me So Hungry][5] food trailer. This was our sixth meeting since we started late last year. Thanks to everyone who has supported this chapter!
+As always, a good crowd of Austinites were on board. [Mutual Mobile][4] sponsored the delicious Banh Mi sandwiches from the [Me So Hungry][5] food trailer. This was our sixth meeting since we started late last year. Thanks to everyone who has supported this group!
 
 {{< youtube 4UFi3ulP8gg >}}
 

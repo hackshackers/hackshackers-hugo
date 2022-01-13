@@ -19,9 +19,9 @@ Happy Friday, hacks and hackers, and I hope those among you who went to [NICAR]
   * Montreal is hosting [an informational talk][4] on the dark web, the deep web, and internet security for journalists
   * Hacks/Hacker IRE is holding its [regular weekly lab][5]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The [Philadelphia chapter][6] had some members at NICAR last week, and invited them back to share some of the tips and tricks they’d picked up. Olivia Hall from PMN, Rachelle Faroul from the Rutgers Coding Bootcamp and other shared some of the presentations they found most helpful, including how to make “snackable and shareable&#8221; dataviz projects.
+The [Philadelphia group][6] had some members at NICAR last week, and invited them back to share some of the tips and tricks they’d picked up. Olivia Hall from PMN, Rachelle Faroul from the Rutgers Coding Bootcamp and other shared some of the presentations they found most helpful, including how to make “snackable and shareable&#8221; dataviz projects.
 
 **Worth a read:**
 

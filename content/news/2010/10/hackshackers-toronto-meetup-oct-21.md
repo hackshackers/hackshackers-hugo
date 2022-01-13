@@ -15,11 +15,11 @@ groups:
 
 Hacks/Hackers is coming to Canada.
 
-A new Toronto chapter has been founded and its first meetup is Oct. 21 at 7 p.m. at the [Press Club][1] (850 Dundas St. W.). Those interested in attending can register at [meetupTO.hackshackers.com][2], and anyone with questions can email <toronto@hackshackers.com>.
+A new Toronto group has been founded and its first meetup is Oct. 21 at 7 p.m. at the [Press Club][1] (850 Dundas St. W.). Those interested in attending can register at [meetupTO.hackshackers.com][2], and anyone with questions can email <toronto@hackshackers.com>.
 
 Our goals are to facilitate the connections between Toronto’s hacks and hackers and to push the boundaries of where and how news and journalism can be part of innovative collaborations.
 
-We’ll report back after the first event, but for now here’s a look at the group organizing Hacks/Hackers in Toronto. (Also, anyone interested in helping with a Montreal chapter can email me at craig at craigsilverman.ca.)
+We’ll report back after the first event, but for now here’s a look at the group organizing Hacks/Hackers in Toronto. (Also, anyone interested in helping with a Montreal group can email me at craig at craigsilverman.ca.)
 
 The Toronto team:
 

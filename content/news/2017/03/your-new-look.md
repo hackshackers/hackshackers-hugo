@@ -27,7 +27,7 @@ So back in 2015, the intrepid volunteers of the [Website Action Group](https://g
 
 * A [centralized repository](https://github.com/hackshackers/action-group-website/wiki) for Hacks/Hackers information, such as tools for organizers and a directory of local groups.
 * Clearer information - a lot of the content on the site was out of date or unorganized.
-* Easier and quicker routes to the content users want. This [turned out to be](https://github.com/hackshackers/action-group-website/blob/master/meeting-notes/2015-10-19.md), for example, guides on how to find new members, run a chapter or start a new one.
+* Easier and quicker routes to the content users want. This [turned out to be](https://github.com/hackshackers/action-group-website/blob/master/meeting-notes/2015-10-19.md), for example, guides on how to find new members, run a group or start a new one.
 
 ![screenshot of resources page]
 (/content-images/news/2017/Screen Shot 2017-03-10 at 12.32.41 PM.png)

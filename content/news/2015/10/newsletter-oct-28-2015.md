@@ -15,11 +15,11 @@ Happy Wednesday. Starting next week, we’ll include job postings as a section o
 ****The week ahead for Hacks/Hackers:****
 
   * In ****Montréal**** tonight, they’ll be learning about [Crypto 101][1] &#8211; Secure communication for journalists &#8211; including understanding encryption and tools to use for protection from government surveillance.
-  * In ****Zürich****, the chapter will hear [how Neue Zürcher Zeitung built][2] [this beautiful 3-D interactive][3] about the first ascent of the Matterhorn.
+  * In ****Zürich****, the group will hear [how Neue Zürcher Zeitung built][2] [this beautiful 3-D interactive][3] about the first ascent of the Matterhorn.
   * Hacks/Hackers Denmark hosts an event in ****Copenhagen****, “[Transforming Journalism Through Interactivity][4]” with speakers from The Wall Street Journal and the Danish Broadcasting Corporation.
-  * The ****Hong Kong**** chapter [meets up at Google’s offices][5] to hear from Isao Matsunami, James Griffiths (CNN) and Pili Hu (Initium Media).
-  * The new ****Islamabad**** chapter of Hacks/Hackers Pakistan [holds its very first meeting][6]. (Always great to see new chapters launching.)
-  * In ****Amsterdam****, the chapter is holding a “[Refugee Hackathon][7].” It aims to bring journalists, technologist and organizations together to chat about existing and potential future projects and collaborations. From the event page: “We hope this meetup will be the first in a series of meetups on this topic, where we can come together to build a better situation for what is currently a crisis.”
+  * The ****Hong Kong**** group [meets up at Google’s offices][5] to hear from Isao Matsunami, James Griffiths (CNN) and Pili Hu (Initium Media).
+  * The new ****Islamabad**** group of Hacks/Hackers Pakistan [holds its very first meeting][6]. (Always great to see new groups launching.)
+  * In ****Amsterdam****, the group is holding a “[Refugee Hackathon][7].” It aims to bring journalists, technologist and organizations together to chat about existing and potential future projects and collaborations. From the event page: “We hope this meetup will be the first in a series of meetups on this topic, where we can come together to build a better situation for what is currently a crisis.”
 
 ****Spotlight:**** Hacks/Hackers event at Stanford
 

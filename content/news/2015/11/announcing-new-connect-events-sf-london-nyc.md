@@ -27,15 +27,15 @@ After a few months spent toiling in the Hacks/Hackers laboratory, we’re back a
 
 The [San Francisco event][1] will take place on the weekend of January 22 at the startup co-working space [Runway][2], followed by events in [London][3] on the weekend of February 5 at [Rainmaking Loft][4], and [New York City][5] on the weekend of February 26 at the CUNY Graduate School of Journalism.
 
-**In partnership with the [Google News Lab][6], **Connect enables local Hacks/Hackers chapters to tailor events to support innovation within their communities. This includes partnering with leading early-stage investors, digital agencies and academic programs, including [Seedcamp][7] (London), [Grand Central Tech][8] (NYC), [Medill University’s Media Innovation and Entrepreneurship program][9] (San Francisco), [Alley Interactive][10] (San Francisco, NYC), [Tow-Knight Center for Entrepreneurial Journalism at CUNY][11] (NYC) and [NYC Media Lab][12] (NYC).
+**In partnership with the [Google News Lab][6], **Connect enables local Hacks/Hackers groups to tailor events to support innovation within their communities. This includes partnering with leading early-stage investors, digital agencies and academic programs, including [Seedcamp][7] (London), [Grand Central Tech][8] (NYC), [Medill University’s Media Innovation and Entrepreneurship program][9] (San Francisco), [Alley Interactive][10] (San Francisco, NYC), [Tow-Knight Center for Entrepreneurial Journalism at CUNY][11] (NYC) and [NYC Media Lab][12] (NYC).
 
 Connect, which launched [its first event][13] in Berlin in June, is an ambitious series that aims for every event to be designed and built by and for the community in which it runs.
 
 Connect Berlin video recap:
 
-By collaborating with organizers and members from the [extensive Hacks/Hackers chapter network][14], Connect benefits from a wealth of local experience ensuring events are highly-tailored and targeted to the local media landscape, and aspire to deliver practical skills for those interested in building and developing news-related technology or content businesses.
+By collaborating with organizers and members from the [extensive Hacks/Hackers group network][14], Connect benefits from a wealth of local experience ensuring events are highly-tailored and targeted to the local media landscape, and aspire to deliver practical skills for those interested in building and developing news-related technology or content businesses.
 
-Hacks/Hackers is also working with chapters to expand the program to new locations with planning underway for events in **Austin**, **Barcelona**, **Brussels**, **Miami**, and **Paris**. If you’re interested in hosting a Connect event in your city, or getting involved in an event near you, please get in touch.
+Hacks/Hackers is also working with groups to expand the program to new locations with planning underway for events in **Austin**, **Barcelona**, **Brussels**, **Miami**, and **Paris**. If you’re interested in hosting a Connect event in your city, or getting involved in an event near you, please get in touch.
 
 Thanks for reading & stay tuned for registration details!
 

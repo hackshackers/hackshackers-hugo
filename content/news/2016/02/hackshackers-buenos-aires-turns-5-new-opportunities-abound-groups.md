@@ -23,9 +23,9 @@ The largest Hacks/Hackers group (over 5,000 and counting!) had what looks like a
   * Johannesburg is informing local hacks and hackers about [opportunities with impactAFRICA][4]
   * Halifax is holding [an event][5] on Thursday, details to be announced
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-Buenos Aires celebrated its 5th birthday last week, with a pool party and some quintessential Argentine barbeque. Mariano Blejman shared some tips on keeping the world’s largest H/H chapter alive and well for five years straight:
+Buenos Aires celebrated its 5th birthday last week, with a pool party and some quintessential Argentine barbeque. Mariano Blejman shared some tips on keeping the world’s largest H/H group alive and well for five years straight:
 
   * Keep it fresh! New people, new ideas, new projects always
   * Be useful: Communities grow if they are useful and solve real problems

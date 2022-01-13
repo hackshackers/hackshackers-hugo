@@ -22,7 +22,7 @@ Next Tuesday, we&#8217;ll be catching up in our global call at 11 a.m. EST (1500
   * [IRE][4] in mid-Missouri is holding its regular open lab
   * Hacks/Hackers is holding its [monthly global call][2]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Zurich, Switzerland][5], met this week to explore [different ways to use social media][6] for reporting, research and engagement. Organizer [Christan Stettler][7] said it was a benefit to the 3-year-old group to hold every meetup in the Neue Zürcher Zeitung media office.
 

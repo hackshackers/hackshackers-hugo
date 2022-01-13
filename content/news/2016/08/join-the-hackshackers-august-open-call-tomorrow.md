@@ -22,9 +22,9 @@ A new month also means a new [global open call][1]. Join us tomorrow at [1500 GM
   * [IRE][4] in Missouri is holding its weekly meeting
   * Hacks/Hackers is holding its [global open call][1]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Uruguay][5] hosted a panel last week [to discuss][6] making data projects that are both engaging and reusable. The group relaunched earlier this summer by holding their third annual [DataCampUY][7]. Organizer [Manuel Podetti][8], who helped reboot the chapter, suggested chapters try to hold regular events to keep the group active, perhaps leaning on other groups to help with planning.
+[Uruguay][5] hosted a panel last week [to discuss][6] making data projects that are both engaging and reusable. The group relaunched earlier this summer by holding their third annual [DataCampUY][7]. Organizer [Manuel Podetti][8], who helped reboot the group, suggested groups try to hold regular events to keep the group active, perhaps leaning on other groups to help with planning.
 
 > &#8220;When you are planning a event, it&#8217;s good to organize it with other organizations. This allows you to add new people to H / H and learn from other communities.&#8221;
 

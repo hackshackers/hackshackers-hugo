@@ -12,7 +12,7 @@ groups:
 - Boston
 ---
 
-[Fernanda Viégas and Martin Wattenberg][1] (&#8220;fm&#8221; as the two data viz specialists are known to call themselves) demoed  their newest venture into the journalism space at the Boston chapters first event Meetup on July 20.
+[Fernanda Viégas and Martin Wattenberg][1] (&#8220;fm&#8221; as the two data viz specialists are known to call themselves) demoed  their newest venture into the journalism space at the Boston groups first event Meetup on July 20.
 
 In front of a crowd of between 40 and 50 at the Microsoft N.E.R.D Center (Microsoft&#8217;s status jumped in our eyes for that name alone), Fernanda and Martin showed [TimeFlow][2], a new open source project for displaying large data sets on a time line, targeted at helping investigative journalists sift through information. They&#8217;d be working with Matt Carroll of The Boston Globe, and lead organizer of the Boston Hacks/Hackers Meetup.
 

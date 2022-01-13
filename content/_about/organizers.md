@@ -12,7 +12,7 @@ url: about/organizers
 
 [Jennifer 8. Lee](http://www.jennifer8lee.com) is an author and a journalist focused on the evolv­ing infra­struc­ture of news and information, specifically thinking about the business models. She started her journalism career at The New York Times at age 24 and worked for nine years. NPR has called her a &#8220;conceptual scoop artist&#8221; for her feature stories. She also authored [The Fortune Cookie Chronicles][7], a book on how Chinese food is all-American, which was featured on [The Colbert Report][8] and [TED.com][9]. She has made dumplings with Martha Steward and on the Today Show during the Beijing Olympics. She has played a lead role with the [Knight News Challenge][10], [News Foo][11], and the [SXSW][12] news events. She serves on the [advisory board for the Nieman Foundation][13], the board of the [Center for Public Integrity][14], the [Young Lions Committee of the New York Public Library][15], and the executive committee of the [Asian American Writers Workshop][16]. She is also co-producer of a documentary-in-progress called [The Search for General Tso][17] with the folks at [Wicked Delicate][18].
 
-{{< figure src="https://media-exp1.licdn.com/dms/image/C4D03AQFldLBO2ZiEQQ/profile-displayphoto-shrink_200_200/0/1609894660395?e=1616025600&v=beta&t=nHXc15YHMX-Mlsp4bJmkc2NBKts-l3QjLIjQBTzkDlY" >}}
+{{< figure src="https://www.niemanlab.org/images/mariano-blejman-1-200x200.jpg" >}}
 
 [Mariano Blejman](https://ar.linkedin.com/in/marianoblejman) is a media entrepreneur with more than 25 years in the field of news, technology and innovation. After more than a decade as a journalist in the newspaper[ Página/12](https://www.pagina12.com.ar/), in 2011 he co-founded[ Hacks/Hackers Buenos Aires](https://www.meetup.com/es/HacksHackersBA/) that became the biggest chapter in the world with more than 12.000 participants. In 2012 he founded[ Media Party](https://www.mediaparty.info/), the biggest media innovation gathering in latin América. Since then, he has been running media innovation programs across Latin America for the last decade. He was a[ Knight Fellow at ICFJ](https://www.icfj.org/our-work/knight/profiles/mariano-blejman) during three years. In that period he launched[ Media Factory](https://mediafactory.vc/), the first news accelerator to be known, and he founded[ HacksLabs](https://hackdash.org/dashboards/hackslabs) a DataJournalism accelerator program where he helped to invest in regional media outlets together with donors and investors like North Base Media, MDIF, Omidyar Network, Open Society Foundation, Google, Facebook and Knight Foundation.
 
@@ -34,11 +34,23 @@ url: about/organizers
 
 ---
 
-## Communications Director
+## Community Director
 
 {{< figure src="/content-images/about/sunne.jpg" >}}
 
 [Samantha Sunne][22] leads communications at Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana. She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
+
+--- 
+
+## Contact Us
+
+We can be reached by email at contact at hackshackers dot com, or the following mailing address:
+
+Hacks/Hackers
+
+700 12th St N.W Suite 700 PMB 96681
+
+Washington, DC 20005
 
 
  [1]: http://www.linkedin.com/in/richgordon

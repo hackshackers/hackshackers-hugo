@@ -14,7 +14,7 @@ groups:
 
 Hackathon[YAN] Yerevan 2011
 
-[Public Journalism Club][1] a Yerevan based Non-Profit, chapter of Hacks/Hackers in Armenia and [Microsoft Innovation Center][2] in Armenia in association with [Yerevan City Hall][3] will launch  **Hackathon[YAN] Yerevan 2011** contest of innovative ideas that will take place on 17 December, 2011 in Yerevan, Armenia.
+[Public Journalism Club][1] a Yerevan based Non-Profit, group of Hacks/Hackers in Armenia and [Microsoft Innovation Center][2] in Armenia in association with [Yerevan City Hall][3] will launch  **Hackathon[YAN] Yerevan 2011** contest of innovative ideas that will take place on 17 December, 2011 in Yerevan, Armenia.
 
 Why Hackathon[YAN] ? Well, because most Armenian last names end with YAN <img src="http://hackshackers.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 

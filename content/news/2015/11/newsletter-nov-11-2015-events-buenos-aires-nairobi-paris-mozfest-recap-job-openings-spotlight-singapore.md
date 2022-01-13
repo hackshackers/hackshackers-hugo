@@ -19,20 +19,20 @@ Photo by Phillip Smith.
 
 **The week ahead for Hacks/Hackers:**
 
-  * In **Buenos Aires**, the chapter brings together several speakers on “[cybersurveillance, big data and human rights][2].”
+  * In **Buenos Aires**, the group brings together several speakers on “[cybersurveillance, big data and human rights][2].”
   * Hacks/Hackers **Miami** learns about [ethical hacking][3] from FIU Professor Alexander Pons. 
   * Hacks/Hackers **Mendoza**, Argentina, takes part in a two-day event about [innovation in the media][4]. 
   * In **Birmingham, UK**, there’s a [hackday about football agency data][5] on ownership and networks.
-  * The **Sydney** chapter attends a [networking event][6] at the Storyology festival. 
+  * The **Sydney** group attends a [networking event][6] at the Storyology festival. 
   * In **Nairobi**, the Hacks/Hackers community gathers with Refunite and the Humanitarian Data Exchange to talk about the [global refugee crisis][7], and how hacks and hackers within Africa can help. (Inspired by [The 19 Million Project][8] hackathon in Rome)  
-  * The **Paris** chapter hears about three different [intersections of journalists and robots][9]: recommendations, semantic analysis and automated writing.  
+  * The **Paris** group hears about three different [intersections of journalists and robots][9]: recommendations, semantic analysis and automated writing.  
   * Hacks/Hackers **Berlin** hosts an event around [dealing with trolls][10] (government and ordinary citizen trolls) and image verification.
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Hacks/Hackers **Singapore** held an event last week where they critiqued election graphics. You can watch it on YouTube: 
 
-There are links to the graphics they discussed within the YouTube description. The chapter also has a nicely active [Facebook page][11].
+There are links to the graphics they discussed within the YouTube description. The group also has a nicely active [Facebook page][11].
 
 **Job openings:**
 

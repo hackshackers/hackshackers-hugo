@@ -1,5 +1,5 @@
 ---
-Title: HH London launches a YouTube channel
+Title: H/H London launches a YouTube channel
 authors: 
 - Samantha Sunne
 date: "2019-03-17"

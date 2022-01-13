@@ -19,7 +19,7 @@ Greetings, hacks and hackers, and happy Friday. Hacks/Hackers now officially has
   * [IRE][4] is also holding its regular open lab in mid-Missouri
   * Venice will host [the author of a book][5] on “The Architecture of Information”
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Warsaw held its first meeting ever, which brought more than 60 journalists and techies from various media outlets in Poland.
 

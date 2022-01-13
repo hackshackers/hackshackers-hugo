@@ -11,7 +11,7 @@ Meanwhile, in Silicon Valley, Burt Herman, a former AP foreign correspondent fre
 
 From opposite sides of the country, we coincidentally both hit on the name of "Hacks and Hackers" as a way to symbolize what the group was about. The terms conveyed the grassroots spirit of the community we wanted to build both online and off, made up of the people doing the real work on the ground.
 
-Now the three of us have combined forces to build the Hacks/Hackers community. Hacks/Hackers grew from an [initial chapter in the Bay Area](http://meetupbayarea.hackshackers.com) in late 2009 to flourishing chapters in [New York](http://meetupnyc.hackshackers.com), [Boston](http://meetupbos.hackshackers.com), [Austin](http://meetupaustin.hackshackers.com/) and other cities during 2010. Hacks/Hackers has also gone international, with chapters launching in Latin America, Europe and Australia.
+Now the three of us have combined forces to build the Hacks/Hackers community. Hacks/Hackers grew from an [initial group in the Bay Area](http://meetupbayarea.hackshackers.com) in late 2009 to flourishing groups in [New York](http://meetupnyc.hackshackers.com), [Boston](http://meetupbos.hackshackers.com), [Austin](http://meetupaustin.hackshackers.com/) and other cities during 2010. Hacks/Hackers has also gone international, with groups launching in Latin America, Europe and Australia.
 
 We welcome your participation and suggestions.
 

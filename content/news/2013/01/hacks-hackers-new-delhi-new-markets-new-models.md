@@ -14,7 +14,7 @@ groups:
 
 {{< figure src="/content-images/news/2013/01/HHDEL-entry-450.jpg" alt="Hacks/Hackers New Delhi first meetup" >}}
 
-Hacks/Hackers New Delhi, the first Hacks/Hackers chapter in India, launched Dec. 5. About 50 journalists, techies and supporters came by [What&#8217;s Up Bharat][1], in Hauz Khas Village to talk about the challenges of combining media and technology in India.
+Hacks/Hackers New Delhi, the first Hacks/Hackers group in India, launched Dec. 5. About 50 journalists, techies and supporters came by [What&#8217;s Up Bharat][1], in Hauz Khas Village to talk about the challenges of combining media and technology in India.
 
 Nikhil Pahwa ([@nixxin][2]), founder and publisher of digital analysis site [MediaNama][3], said he&#8217;s looking for people to take a closer look at ways to organize big data. He also suggested creating tools that can track the evolution of stories and ideas in real-time.
 

@@ -14,9 +14,9 @@ It&#8217;s a new year, hacks and hackers, and newsrooms seem to be ushering in t
 
 {{< tweet 818486192501039104 >}}
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[San Francisco][2] &#8211; the original Hacks/Hackers chapter &#8211; has held nearly five dozen events since 2009, when it was first founded. This year they&#8217;ve collaborated often with other Bay Area interest groups, like the Solutions Journalism Network and the Brown Institute for Media Innovation.
+[San Francisco][2] &#8211; the original Hacks/Hackers group &#8211; has held nearly five dozen events since 2009, when it was first founded. This year they&#8217;ve collaborated often with other Bay Area interest groups, like the Solutions Journalism Network and the Brown Institute for Media Innovation.
 
 [Ryan Singel][3], one of the current organizers, said he was surprised by how much luck he has had searching for a partner or venue with a good old-fashioned social media call. For a recent event, he said,
 

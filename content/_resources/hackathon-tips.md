@@ -1,6 +1,7 @@
 ---
 title: Hackathon Tips
 url: resources/hackathon-tips
+authors: Cindy Royal
 ---
 
 As Hacks/Hackers chapters have gotten more experience running hackathons — eight and counting — we have compiled some of our experience into advice.

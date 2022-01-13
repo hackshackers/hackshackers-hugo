@@ -21,13 +21,13 @@ Welcome to September, hacks and hackers, and happy [Labor Day][1] to those labor
   * [IRE][5] in Missouri is holding its weekly meeting
   * It&#8217;s another [#HacktheConstitution][6] day in Johannesburg
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-[Rosario][7], a chapter in Argentina, hopped on the [Media Party][8] train last week to present a series of [lightning talks][9] on search engine hacks. It was a follow-up to a [session they had][10] on search engines last month. [Mauricio Viola][11], the organizer, said search engines are a topic that any chapter could take on, as long as they tailor it to their communities.
+[Rosario][7], a group in Argentina, hopped on the [Media Party][8] train last week to present a series of [lightning talks][9] on search engine hacks. It was a follow-up to a [session they had][10] on search engines last month. [Mauricio Viola][11], the organizer, said search engines are a topic that any group could take on, as long as they tailor it to their communities.
 
 > &#8220;For example, in Rosario, our city, journalists who investigate drug trafficking have very few tools and need programmers, data journalists and search specialists or search engines that help them find information that&#8217;s journalistically and investigatively valuable.&#8221;
 
-[Viola][11] said the Rosario chapter hopes to help replicate these search engine hacking events in different locations around the world.
+[Viola][11] said the Rosario group hopes to help replicate these search engine hacking events in different locations around the world.
 
 {{< tweet 770389401826385921 >}}
 

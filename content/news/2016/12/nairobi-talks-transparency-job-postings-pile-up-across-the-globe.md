@@ -12,17 +12,17 @@ categories:
 
 {{< figure src="/content-images/news/2010/12/hh\_holiday\_logo.png" alt="hh\_holiday\_logo" >}}
 
-Happy holidays, hacks and hackers, to those of you celebrating. To everyone else, I hope you are staying warm (or cool, depending on your hemisphere). Many chapters are either celebrating or hibernating right about now, but job postings are up in other parts of the world &#8211; check out the list below:
+Happy holidays, hacks and hackers, to those of you celebrating. To everyone else, I hope you are staying warm (or cool, depending on your hemisphere). Many groups are either celebrating or hibernating right about now, but job postings are up in other parts of the world &#8211; check out the list below:
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The [Hacks/Hackers Africa][1] chapter in Nairobi [met last week][2] to discuss how digital activism can aid government accountability, and vice versa. Organizer [Florence Sipalla][3] wrote about the talk on the [H/H Africa blog][4]:
+The [Hacks/Hackers Africa][1] group in Nairobi [met last week][2] to discuss how digital activism can aid government accountability, and vice versa. Organizer [Florence Sipalla][3] wrote about the talk on the [H/H Africa blog][4]:
 
 {{< tweet 808608091025641472 >}}
 
 [Serah Njambi Rono][5], who used to organize in Nairobi, suggested other organizers start a habit of recapping or blogging about their events. A volunteer blogger will take notes, interact with the audience and even sometimes interview the speakers.
 
-> &#8220;This ensures that other Hacks/Hackers chapters the world over know what your chapter is up to and can borrow a leaf, serve as grounds for collaboration, et al.&#8221;
+> &#8220;This ensures that other Hacks/Hackers groups the world over know what your group is up to and can borrow a leaf, serve as grounds for collaboration, et al.&#8221;
 
 **Worth a read:**
 

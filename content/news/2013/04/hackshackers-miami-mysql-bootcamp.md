@@ -26,7 +26,7 @@ Rosenblatt, who formerly worked at the Miami Herald developing online applicatio
 
 Rosenblatt also contributed to the [University of Florida’s Journalism Now Podcast][3] and has taught courses at [Florida Society of News Editors][4], [WordCamp][5] and [BarCamp][6] conferences. She is currently a technical producer and senior developer for an ad technology startup in Deerfield Beach, Fla.
 
-Hacks/Hackers Miami is working to build ties among local tech and journalism communities in a variety of ways, including through educational events like MySQL bootcamp, said chapter organizer [Dan Grech][7], radio news director of [WLRN-Miami Herald News][8]. In the next few months, the chapter will host several demo and show-and-tell events and will participate in Miami’s [National Day of Civic Hacking][9].
+Hacks/Hackers Miami is working to build ties among local tech and journalism communities in a variety of ways, including through educational events like MySQL bootcamp, said group organizer [Dan Grech][7], radio news director of [WLRN-Miami Herald News][8]. In the next few months, the group will host several demo and show-and-tell events and will participate in Miami’s [National Day of Civic Hacking][9].
 
  [1]: http://miami.meetup.hackshackers.com/
  [2]: http://www.linkedin.com/in/srosenblatt

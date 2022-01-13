@@ -18,7 +18,7 @@ I&#8217;m happy to announce that we&#8217;ve successfully launched a [Hacks/Hack
 
 Both Denver and Boulder have a strong history in both publishing and technology.  Two of the largest publishing startups in the past decade, [The Examiner][2] and [Associated Content][3], both came from this area.  With [Techstars][4], the five-year-old incubator that was [just voted the top ranked][5] in the country, Boulder’s startup ecosystem continues to grow and produce more and more innovative companies.  Given the success, we found it to be completely ridiculous that there wasn’t a Hacks/Hackers Meetup in the area.
 
-I recently went to a HH Meetup in NYC, saw first-hand the energy and excitement these meetups generate and was immediately jealous that we didn’t have a casual, relaxed get -together in my home town —  meetup where I could meet other people in the industry and learn of interesting new technologies and techniques in the space.  Well, now we do.
+I recently went to a H/H Meetup in NYC, saw first-hand the energy and excitement these meetups generate and was immediately jealous that we didn’t have a casual, relaxed get -together in my home town —  meetup where I could meet other people in the industry and learn of interesting new technologies and techniques in the space.  Well, now we do.
 
 Our second session was done in a typical demo-day fashion with five presentations:
 

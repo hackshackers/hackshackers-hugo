@@ -7,7 +7,7 @@ categories:
 - Newsletter
 ---
 
-Happy 2020, hacks and hackers! Our first [global open call](https://hackshackers.com/resources/global-open-call/) of the decade is coming up on Wednesday! Feel free to tune in to hear what’s going on in HH chapters and share what’s going on in yours. 
+Happy 2020, hacks and hackers! Our first [global open call](https://hackshackers.com/resources/global-open-call/) of the decade is coming up on Wednesday! Feel free to tune in to hear what’s going on in H/H chapters and share what’s going on in yours. 
 
 {{< tweet 1213201382788026369 >}}
 

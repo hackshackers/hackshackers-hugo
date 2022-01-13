@@ -21,7 +21,7 @@ The Online Journalism Association held its [yearly conference][1] this weekend i
   * [Miami][7] is holding its regular OpenHack Miami
   * [IRE][8] in Missouri is holding its weekly meeting
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 We&#8217;ve spot-lit [London][9] before, because they churn out [mini-conferences][10] in the time it takes a lot of meetup groups plan a happy hour. In the last year or so, they&#8217;ve started transitioning away from Meetup to Eventbrite, to better handle their more than 4,000 members and 200 monthly attendees.
 

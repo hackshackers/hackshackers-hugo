@@ -16,18 +16,18 @@ Happy Wednesday! Watch for news soon from Hacks/Hackers about the next [Connect]
 **The week ahead:**
 
   * Hacks/Hackers IRE in **Columbia, Mo.**, [will hear about research][2] into the page load times of news websites. 
-  * In **Los Angeles**, the chapter will hear about three projects during a [Show and Tell with the L,A, Times Data Desk][3]. 
+  * In **Los Angeles**, the group will hear about three projects during a [Show and Tell with the L,A, Times Data Desk][3]. 
   * In **Lima**, Hacks/Hackers chats with the Electronic Frontier Foundation about [defending digital privacy][4]. 
-  * The Hacks/Hackers chapter in **Munich** holds an event where they’ll learn about [three topics][5]: Tableau, explanatory journalism platforms, and using style guides in design.
+  * The Hacks/Hackers group in **Munich** holds an event where they’ll learn about [three topics][5]: Tableau, explanatory journalism platforms, and using style guides in design.
 
 **Job openings:**
 
   * A [digital editor position][6] is open at The World based in Boston. (Submitted by Steven Davy)
   * Two [data journalist][7] positions at The Associated Press. (Submitted by Troy Thibodeaux)
 
-**Chapter spotlight: Hacks/Hackers Buenos Aires**
+**Group spotlight: Hacks/Hackers Buenos Aires**
 
-**Hacks/Hackers Buenos Aires has more than 5000 members on Meetup, and held its 50th event this past week. The chapter held its first event [way back in April 2011][8]. More recently, you might’ve heard about the awesome (and well-attended) Media Party that the chapter hosted in August:**
+**Hacks/Hackers Buenos Aires has more than 5000 members on Meetup, and held its 50th event this past week. The group held its first event [way back in April 2011][8]. More recently, you might’ve heard about the awesome (and well-attended) Media Party that the group hosted in August:**
 
 {{< figure link="/content-images/news/2015/11/MediaPartyMeetupPhoto.jpeg" src="/content-images/news/2015/11/MediaPartyMeetupPhoto-300x200.jpeg" alt="MediaPartyMeetupPhoto" >}}
 

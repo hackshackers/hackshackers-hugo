@@ -23,9 +23,9 @@ Connect events have been selling out fast, so [subscribe for updates][1] to be t
   * Brisbane is holding [an event][4] full of algorithms, digital security and tasty nibbles.
   * Miami is celebrating [World Information Architecture Day][5] with a daylong event.
 
-**Chapter spotlight:**
+**Group spotlight:**
 
-The Halifax chapter just got started a few months ago, but their events are already standing room only:  
+The Halifax group just got started a few months ago, but their events are already standing room only:  
 
 <fb:post href="https://www.facebook.com/HacksHackersHFX/posts/455362151319650"></fb:post>
 

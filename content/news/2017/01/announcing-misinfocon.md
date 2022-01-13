@@ -25,7 +25,7 @@ Several Hacks/Hackers organizers, including Jenny 8. Lee, Burt Herman and Philli
   * Singapore is [collaborating][6] on a &#8216;privilege calculator&#8217; project
   * [Miami][7] and [IRE][8] are holding their regular weekly open labs
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Last week, [Singapore][9] met for [an event called][10] &#8220;A Study in Moire: Code Art with D3 / Greensock.&#8221; Organizer [Rebecca Pazos][11] said the group recently committed to meet the third Monday of every month, in an attempt to organize themselves and build their community better.
 

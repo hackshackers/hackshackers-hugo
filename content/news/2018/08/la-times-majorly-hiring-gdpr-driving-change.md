@@ -23,7 +23,7 @@ Next week,our regular [open call](https://hackshackers.com/resources/global-open
 
 * The new(ish) GDPR regulations have been somewhat controversial, but have they succeeded in [stopping European news sites](http://www.niemanlab.org/2018/08/has-the-gdpr-law-actually-gotten-european-news-outlets-to-cut-down-on-rampant-third-party-cookies-and-content-on-their-sites-it-seems-so/?utm_source=Weekly+Lab+email+list&utm_campaign=0eba834618-weeklylabemail&utm_medium=email&utm_term=0_8a261fca99-0eba834618-396331065) from tracking their users so much? A new Reuters Institute report says yes (NiemanLab)
 * Local reporting in the U.S. has been in a tailspin for decades, and several projects are afoot to try [reverse that trend](http://www.niemanlab.org/2018/08/how-not-to-be-a-parachute-partner-propublicas-figured-out-how-to-collaborate-with-local-newsrooms-without-bigfooting-them/?utm_source=Weekly+Lab+email+list&utm_campaign=0eba834618-weeklylabemail&utm_medium=email&utm_term=0_8a261fca99-0eba834618-396331065). ProPublica claims it has found a happy medium (NiemanLab)
-* Paternity leave is an ongoing discussion in the UK, and the Hacks/Hackers London chapter took the unusual step of [issuing a statement](https://medium.com/@HacksHackersLDN/why-men-should-be-thinking-about-maternity-leave-854217a890cb) in support (Medium)
+* Paternity leave is an ongoing discussion in the UK, and the Hacks/Hackers London group took the unusual step of [issuing a statement](https://medium.com/@HacksHackersLDN/why-men-should-be-thinking-about-maternity-leave-854217a890cb) in support (Medium)
 
 {{< tweet 1031828363474812930 >}}
 

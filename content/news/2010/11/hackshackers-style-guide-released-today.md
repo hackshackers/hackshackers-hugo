@@ -16,7 +16,7 @@ categories:
 
 {{< figure link="/content-images/news/2010/11/hh\_styleguide\_113010.pdf" src="/content-images/news/2010/11/style\_guide\_180.jpg" >}}
 
-Today we’re releasing the [Hacks/Hackers style guide][1].  As our organization continues to grow rapidly with chapters across the world (five countries and counting), it&#8217;s become clear we need visual brand consistency. We wanted to make it easier for our members to access and create high-quality logos for everything from events to websites to Hacks/Hackers gear.
+Today we’re releasing the [Hacks/Hackers style guide][1].  As our organization continues to grow rapidly with groups across the world (five countries and counting), it&#8217;s become clear we need visual brand consistency. We wanted to make it easier for our members to access and create high-quality logos for everything from events to websites to Hacks/Hackers gear.
 
 As our brand continues to grow, we also wanted to explain how we ended up with our logo design in the first place.  It may seem basic but as any journalist, coder or designer knows, it takes a lot of work to make things simple.
 
@@ -40,7 +40,7 @@ For any digital logo, you need at least three layouts: A square version for [Twi
 
 {{< figure link="/content-images/news/2010/11/nyc\_side.gif" src="/content-images/news/2010/11/nyc\_side.gif" >}}
 
-We designed it so the chapter name could be added in the bottom of the main Hacks/Hackers logo. The one flourish we gave into were sexy ascenders, those parts of lower-case letters like “h” or “k” that reach seductively upward. This idea, provided by [Chrys Wu][8], adds a bit of uniqueness to our chapters, the same way each of them adds their own flavor to the Hacks/Hackers brand.
+We designed it so the group name could be added in the bottom of the main Hacks/Hackers logo. The one flourish we gave into were sexy ascenders, those parts of lower-case letters like “h” or “k” that reach seductively upward. This idea, provided by [Chrys Wu][8], adds a bit of uniqueness to our groups, the same way each of them adds their own flavor to the Hacks/Hackers brand.
 
 We hope you like our logos.
 

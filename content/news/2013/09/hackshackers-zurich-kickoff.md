@@ -14,7 +14,7 @@ groups:
 
 {{< figure src="/content-images/news/2013/09/zurich\_stacked\_1.jpg" >}}
 
-Hello everyone! We&#8217;d like to announce the launch of [Hacks/Hackers Zurich][1] — a chance to get to know fellow hacks and hackers in an informal setting and plan out possibilities for future meet-ups! This first Swiss chapter is launched with the support of Laurian Gridinoc ([@gridinoc][2]), Sylke Gruhnwald  ([@SylkeGruhnwald][3]) and Benjamin Wiederkehr ([@datavis][4]). We are busy preparing the first event scheduled sometime during the month of November. Please join in the ride and share your thoughts and ideas with us.
+Hello everyone! We&#8217;d like to announce the launch of [Hacks/Hackers Zurich][1] — a chance to get to know fellow hacks and hackers in an informal setting and plan out possibilities for future meet-ups! This first Swiss group is launched with the support of Laurian Gridinoc ([@gridinoc][2]), Sylke Gruhnwald  ([@SylkeGruhnwald][3]) and Benjamin Wiederkehr ([@datavis][4]). We are busy preparing the first event scheduled sometime during the month of November. Please join in the ride and share your thoughts and ideas with us.
 
 We are looking forward to meeting up with you! [Join us][1] to hear about upcoming event announcements.
 

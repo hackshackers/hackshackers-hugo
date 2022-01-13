@@ -23,7 +23,7 @@ Hacks/Hackers and other illustrious orgs like ONA and Google News Lab are puttin
   * Johannesburg is holding another [#HacktheConstitution][6]
   * [IRE][7] in Missouri is holding its weekly open lab
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Kuala Lumpur][8] recently launched as the first Hacks/Hackers group in Malaysia, and it&#8217;s already maxed out attendance for its [first meetup][4]. Organizer [Kuang Keng Kek Ser][9] said finding another organization to sign on as a partner was important.
 

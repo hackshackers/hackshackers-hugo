@@ -10,7 +10,7 @@ categories:
 - Newsletter
 ---
 
-Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as well be called conference season. Last week, [Connect][1] and [Dataharvest][2] brought journalists together in Brussels. Next up for North America, [IRE][3] comes to New Orleans, [SRC CON][4] to Portland and [Connect Toronto][5]. Let&#8217;s take a look at what individual chapters have been up to.
+Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as well be called conference season. Last week, [Connect][1] and [Dataharvest][2] brought journalists together in Brussels. Next up for North America, [IRE][3] comes to New Orleans, [SRC CON][4] to Portland and [Connect Toronto][5]. Let&#8217;s take a look at what individual group have been up to.
 
 **The week ahead:**
 
@@ -20,7 +20,7 @@ Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as
   * Venice is discussing how [visual journalism][10] influences social change
   * New Orleans is hosting a [meet-and-greet][11] at the IRE conference
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 {{< figure src="/content-images/news/2015/11/ConnectLogoHorizontal-300x61.png" alt="ConnectLogoHorizontal" >}}
 
@@ -28,7 +28,7 @@ Greetings, hacks and hackers. In case you haven&#8217;t noticed, summer might as
 
 <fb:post href="https://www.facebook.com/hhbru/photos/a.1131172120257452.1073741827.157790107595663/1131180170256647/?type=3&theater"></fb:post>
 
-Organizers said the event helped to revitalize the Brussels chapter, and [Camille Pollie][14] said she and others in Brussels will be organizing regular events for the Brussels chapter from here on.
+Organizers said the event helped to revitalize the Brussels group, and [Camille Pollie][14] said she and others in Brussels will be organizing regular events for the Brussels group from here on.
 
 > &#8220;What I’ve learned is that it’s better to inspire people (in) the Hacks/Hackers community via regular events rather than organising a one-off event. We noticed that there is a big need for a more active Brussels Hacks/Hackers community. So after our event we’ve decided to resurrect the Hacks/Hackers community in Brussels and we’re trying to plan our first event.&#8221;
 

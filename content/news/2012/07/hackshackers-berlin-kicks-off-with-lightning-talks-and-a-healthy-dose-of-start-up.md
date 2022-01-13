@@ -17,7 +17,7 @@ groups:
 
 ![][1]
 
-Germany&#8217;s capital Berlin saw the launch of its first Hacks/Hackers chapter last night at [co.up][2] in Kreuzberg. Around 40 coders, journalists, engineers, entrepreneurs and curious individuals attended to witness five lightning talks before breaking out into informal discussion groups.
+Germany&#8217;s capital Berlin saw the launch of its first Hacks/Hackers group last night at [co.up][2] in Kreuzberg. Around 40 coders, journalists, engineers, entrepreneurs and curious individuals attended to witness five lightning talks before breaking out into informal discussion groups.
 
 Among the speakers, who presented for a maximum of five minutes, was Knight-Mozilla Fellow [Cole Gillespie][3] and [Thomas Zoechler][4] of [Zeit Online][5]. They talked about everything from [drone journalism][6] &mdash; the latest fascination among cutting-edge journalists &mdash; to open sourcing the newsroom, and set the tone for a wide range of discussions that covered mobile news apps, content management, data visualization, breaking news verification and online journalist portals.
 

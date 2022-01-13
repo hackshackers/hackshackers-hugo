@@ -21,13 +21,13 @@ Welcome to May, hacks and hackers. Miami is gearing up for its highly anticipate
   * Miami will also be hosting the <a href="{{< tweet 725230791693766656 >}}&#8221;>6th Connect event</a> next weekend
   * Johannesburg is holding [#HacktheConstitution][6]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Brisbane, Australia, held its [April meetup last week][7], focusing on how to wrestle great storytelling out of mountains of text.
 
 {{< tweet 725230791693766656 >}}
 
-Co-organizer Simon Elvery, who helped re-launch the chapter earlier this year, said they’ve had most success finding sponsors by engaging with the community, especially through meetups coordinated with other groups.
+Co-organizer Simon Elvery, who helped re-launch the group earlier this year, said they’ve had most success finding sponsors by engaging with the community, especially through meetups coordinated with other groups.
 
 > ”Essentially it was just through announcement at the first meetup. One of the speakers at the first event asked his employer about sponsoring H/H. We&#8217;ve also attempted to get sponsorship through directly sending a proposal to a local industry group. We&#8217;ve received some level of interest in sponsoring, but no agreement yet.”
 

@@ -23,7 +23,7 @@ While we&#8217;re still digesting the tips and tools from those events, investig
   * [IRE][6] in Missouri is holding its weekly meeting
   * Philadelphia is attending [Barcamp News Innovation][7]
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 [Zurich][8] took a peek at Switzerland&#8217;s [brand new open data portal][9], opendata.swiss. Zurich has had success with holding meetups every other month or so, rather than every month. &#8220;It&#8217;s good to know some dates in advance so you can tease the next meetup at the current one,&#8221; organizer [Timo Grossenbacher][10] said.
 
