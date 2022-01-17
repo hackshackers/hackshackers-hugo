@@ -3,7 +3,7 @@ Title: Hacks/Hackers seeks content writer
 date: "2022-01-17"
 ---
 
-Hacks/Hackers is looking for a consultant to create a content campaign for the next two upcoming MisinfoCon events in 2022 including MisinfoCo at Mozfest House in Amsterdam and the International Journalism Festival in Perugia, Italy. The consultant will create engaging content, communications, and conversations with our audiences and especially content that will linger and create further interactions after both events are over. You can find out more about Hacks/Hackers’ MisinfoCon event series [here](https://misinfocon.com/hacks-hackers-announces-new-misinfocon-events-for-2022-b38d6b5a5205) or read more about the event on our blog misinfocon.com.
+Hacks/Hackers is looking for a consultant to create a content campaign for the next two upcoming MisinfoCon events in 2022 including MisinfoCon at Mozfest House in Amsterdam and the International Journalism Festival in Perugia, Italy. The consultant will create engaging content, communications, and conversations with our audiences and especially content that will linger and create further interactions after both events are over. You can find out more about Hacks/Hackers’ MisinfoCon event series [here](https://misinfocon.com/hacks-hackers-announces-new-misinfocon-events-for-2022-b38d6b5a5205) or read more about the event on our blog misinfocon.com.
 
 
 This is a temporary, contract-based, remote role from February to May. 
