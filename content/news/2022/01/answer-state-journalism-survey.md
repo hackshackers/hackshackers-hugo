@@ -14,7 +14,7 @@ categories:
 
 Hello, hacks and hackers! MuckRack’s annual State of Journalism survey is live, and[ you can fill it out here](https://www.surveymonkey.com/r/MREmail). The survey tracks the biggest trends and challenges facing the industry each year, and responses stay anonymous. 
 
-{{< 1373014187434201088 >}}
+{{< tweet 1373014187434201088 >}}
 
 Last year, around 2,400 journalists filled out the form and you can check out the insights from[ last year’s survey results here](https://muckrack.com/blog/2021/03/15/state-of-journalism-2021).
 
