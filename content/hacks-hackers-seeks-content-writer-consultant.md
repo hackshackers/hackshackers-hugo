@@ -15,29 +15,29 @@ The Consultant will create content about both events including themes and specif
 
 	
 
-- _Content planning and writing: Suggest, plan, and execute content ideas related to the campaign, the Misinfocon event series, participants, themes and coordinate with Hacks/Hackers organizers and misinfocon.com blog editors; 
+- Content planning and writing: Suggest, plan, and execute content ideas related to the campaign, the Misinfocon event series, participants, themes and coordinate with Hacks/Hackers organizers and misinfocon.com blog editors; 
 
-- _Build connections with other organizations in the misinformation community;
+- Build connections with other organizations in the misinformation community;
 
-- _Develop a partnership and communication strategy around MisinfoCon events.
+- Develop a partnership and communication strategy around MisinfoCon events.
 
 ### Campaign goals
 
-- _Create written materials for MisnifoCon participants, speakers, and new perspective multistakeholders to learn more about the MisinfoCon program;
+- Create written materials for MisnifoCon participants, speakers, and new perspective multistakeholders to learn more about the MisinfoCon program;
 
-- _Grow the audience for the MisinfoCon newsletter, website, and event blog posts;
+- Grow the audience for the MisinfoCon newsletter, website, and event blog posts;
 
-- _Potentially generate leads for new sponsors and more themed MisinfoCon events
+- Potentially generate leads for new sponsors and more themed MisinfoCon events
 
 ### The ideal candidate 
 
-- _Is a trained, multiplatform writer, media researcher or works/worked in a similar role
+- Is a trained, multiplatform writer, media researcher or works/worked in a similar role
 
-- _Can produce written content pieces as well as content in other format_
+- Can produce written content pieces as well as content in other format
 
-- _Should be comfortable working independently_
+- Should be comfortable working independently
 
-- _Has a high standard of editorial judgment_
+- Has a high standard of editorial judgment
 
 
 ### Qualifications and Requirements
