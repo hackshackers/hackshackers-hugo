@@ -26,7 +26,7 @@ Applications open on February 7 and will be accepted through March 4. Find out m
 * Google’s AI Blog [looked at machine learning trends from last year](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html) and the ways that it evolved and expanded across different fields, and includes predictions for the progress and directions it’ll take in the coming years.
 * [This “map of data visualization”](https://nightingaledvs.com/a-map-of-data-visualization-please-comment/) visually organizes types of visuals, software, skills and resources to help people entering the field get a better idea of what they should learn and ways to learn it.
 
-{{< tweet1488956358166732814 >}}
+{{< tweet 1488956358166732814 >}}
 
 **Jobs:**
 
