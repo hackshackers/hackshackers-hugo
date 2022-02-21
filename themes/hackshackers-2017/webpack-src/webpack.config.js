@@ -37,15 +37,29 @@ var webpackConfig = {
          use: [
            {
              loader: 'css-loader',
-             options: { autoprefixer: false, sourceMap: false}
+             options: {
+                       autoprefixer: true,
+                       // sourceMap: false 
+                   use: ["source-map-loader"],
+                 }
            },
            {
-             loader: 'postcss-loader?parser=postcss-scss',
+             loader: 'postcss-loader',
              options: {
-                       sourceMap: true, 
-                       scss: false,
-                       }
+              plugins: () => [autoprefixer()],
+                      // sourceMap: false, 
+                      // scss: false,
+                       parser: 'postcss-scss'
+                      }
            },
+
+             {
+               loader: 'sass-loader',
+               options: {
+                   use: ["source-map-loader"],
+               // sourceMap: true   
+                 }
+            },
        //    {
        //      loader: 'postcss-scss'
        //    }
@@ -61,9 +75,11 @@ var webpackConfig = {
 //             options :{
 //                 sourceMap: false,
 //                  }
-//            }, {
+//            }, 
+//              {
 //               loader: 'sass-loader',
-//
+//               }
+
 //}],
         })
       },

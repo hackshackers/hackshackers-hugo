@@ -38,6 +38,7 @@
     "lodash": "4.17.15",
     "lunr": "2.3.9",
     "slug": "0.9.1",
+    "source-map-loader": "^0.2.4",
     "whatwg-fetch": "2.0.1"
   }
 }
