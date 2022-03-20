@@ -43,7 +43,7 @@ The course starts on April 13 and will include guest speakers, office hours, how
 * April 1-3, Tønsberg, Norway, [SKUP Conference](https://www.skup.no/2021/11/merk-deg-disse-datoene)
 * April 6-10, Perugia, Italy, [International Journalism Festival](https://www.journalismfestival.com/)
 * April 7, Perugia, Italy, [MisinfoCon @ IJF](https://misinfocon.com/hacks-hackers-announces-new-misinfocon-events-for-2022-b38d6b5a5205)
-* April 13-TK, Online, [AP Local News AI Readiness Workshops](https://edmaker.co/ap/readiness-workshops/local-news-ai)
+* April 13-May 18, Online, [AP Local News AI Readiness Workshops](https://edmaker.co/ap/readiness-workshops/local-news-ai)
 * May 19-20, Chicago, US, [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2022/)
 * May 19-22, Mechelen, Belgium, [Dataharvest](https://dataharvest.eu/)
 * June 6-10, Online, [RightsCon](https://www.rightscon.org/)
