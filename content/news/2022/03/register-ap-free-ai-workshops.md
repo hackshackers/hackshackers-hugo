@@ -1,6 +1,6 @@
 ---
 
-Title: Register for AP's free AI workshops
+Title: Register for the AP's free AI workshops
 
 Authors: 
 
