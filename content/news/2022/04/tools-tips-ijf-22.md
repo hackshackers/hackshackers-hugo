@@ -26,7 +26,7 @@ A lot of the sessions, tweets and recaps can be found on the [conference website
 * [GIJN talked to some South African reporters](https://gijn.org/2022/04/07/overcoming-the-challenges-to-investigative-journalism-in-southern-africa/) to learn about the challenges they face when reporting on their region, including financial obstacles, unresponsive officials, data vacuums and a culture of fear and harassment. 
 * For World Health Day, Flourish Visualization Studio [visualized air pollution around the world](https://flourish.studio/blog/world-health-day-visualizing-air-pollution/) in a series of interactive data visualizations.
 
-{{< 1512068846777077766 >}}
+{{< tweet 1512068846777077766 >}}
 
 **Upcoming events:**
 
