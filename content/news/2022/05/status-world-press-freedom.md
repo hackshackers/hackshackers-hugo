@@ -1,7 +1,7 @@
 ---
-Title: 
+Title: Status of world press freedom
 
-Authors: Status of world press freedom
+Authors: 
 
 - Samantha Sunne
 
