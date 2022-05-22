@@ -1,5 +1,4 @@
 ---
-
 Title: SRCCON sessions announced
 
 Authors: 
@@ -8,9 +7,9 @@ Authors:
 
 date: "2022-05-24" 
 categories: 
-- Newsletter 
+- Newsletter
 
-—--
+---
 
 Hello, hacks and hackers! SRCCON is happening online from June 22-24 and just released [their list of accepted proposals](https://2022.srccon.org/program/).
 
