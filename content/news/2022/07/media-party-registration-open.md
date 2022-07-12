@@ -12,7 +12,7 @@ categories:
 
 ---
 
-Hello, hacks and hackers! Registration for this year’s Media Party is open! The party is happening from August 25-27 in Buenos Aires.
+Hello, hacks and hackers! Registration for this year’s [Media Party](mediaparty.info) is open! The party is happening from August 25-27 in Buenos Aires.
 
 {{< tweet 1544386347967848448 >}}
 
