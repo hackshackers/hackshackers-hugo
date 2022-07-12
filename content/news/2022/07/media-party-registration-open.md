@@ -32,7 +32,7 @@ The call for workshops and lightning talks closed on July 8, but you can still m
 * GIJN collected [free data extraction tools](https://gijn.org/2022/07/05/free-game-changing-data-extraction-tools-that-require-no-coding-skills/) mentioned by investigative journalists at the IRE Conference that require no coding skills, like Google Pinpoint for working with PDFs and Tesseract for securely extracting data offline.
 * Massive amounts of social media hype and venture funding have created a sense of enormous potential for technology like AI and disruptive startups. But real-world economic impact has been [nowhere near as large](https://www.niemanlab.org/2022/06/hype-is-a-weaponized-form-of-optimism/), Nieman Lab writes, and may be creating an "unproductive bubble."
 
-{{< tweet 1545130278921744384 >}}
+{{< tweet 1546178185112522752 >}}
 
 **Job postings:**
 
