@@ -26,7 +26,7 @@ You can sign up for news on [SRCCON:CARE](https://srccon.org/?mc_cid=5c412282d9&
 * The Lenfest Institute, a journalism innovation nonprofit, has been working on several ongoing projects related to improving diversity and sustainability in journalism. The group recently released an explainer on [the metrics it uses](https://www.lenfestinstitute.org/local-journalism/how-the-lenfest-institute-is-measuring-impact-in-the-philadelphia-media-ecosystem/) to track its success in improving these sometimes fuzzy concepts.
 * A substantial chunk of the news read by US news consumers comes from journalism students, a new report by the University of Vermont found. The university recently received a grant to [catalog partnerships](https://www.poynter.org/educators-students/2022/university-vermont-center-community-news-local-academic-partnerships/) between schools and professional newsrooms.
 
-{{< tweet NJCivicInfo/status/1552660145196482562 >}}
+{{< tweet 1552660145196482562 >}}
 
 **Job postings:**
 
