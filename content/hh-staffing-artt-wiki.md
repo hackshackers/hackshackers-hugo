@@ -1,5 +1,5 @@
 ---
-Title: HH Staffing ARTT/Wiki
+Title: HH Staffing ARTT and Wiki
 date: "2022-08-08"
 ---
 
