@@ -1,5 +1,5 @@
 ---
-Title: HH is Hiring!
+Title: H/H is Hiring!
 date: "2022-08-08"
 ---
 
