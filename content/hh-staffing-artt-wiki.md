@@ -1,7 +1,9 @@
 ---
-Title: HH Staffing ARTT and Wiki
+Title: HH is Hiring!
 date: "2022-08-08"
 ---
+
+Hacks/Hackers is hiring for three positions: Two positions for the Analysis and Response Toolkit for Trust (ARTT) Project and one position for the NewsQ Project. See below for the position description and how to send your CV.
 
 # NewsQ Project Coordinator - Reliable Sources
 Hacks/Hackers is looking for a Research Coordinator to help us wrangle project resources and communications for a project that supports the use of reliable sources on Wikipedia, particularly those associated with vaccine topics. A little bit about the News Quality Initiative and the project can be found here. 
@@ -26,6 +28,8 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, and salary expectations, to jobs [at] hackshackers [dot] com with the subject line “NewsQ Coordinator - Reliable Sources.”
 
+----------------------------------------------------------------------------------------------------------------
+
 # ARTT Research Coordinator - Analysis and Connection 
 Hacks/Hackers is looking for a Project Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations on complicated topics, such as around vaccine efficacy. More information about the project, called the Analysis and Response Toolkit for Trust (ARTT), can be found here. ARTT is a 2021 cohort member of the National Science Foundation Convergence Accelerator program.
 
@@ -49,6 +53,8 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 Hacks/Hackers is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group status.. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
 
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to jobs [at] hackshackers [dot] com with the subject line “Coordinator - Analysis/Connection.”
+
+----------------------------------------------------------------------------------------------------------------
 
 # ARTT Research Coordinator - Response
 Hacks/Hackers is looking for a Project Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations on complicated topics, such as around vaccine efficacy. More information about the project, called the Analysis and Response Toolkit for Trust (ARTT), can be found here. ARTT is a 2021 cohort member of the National Science Foundation Convergence Accelerator program.
