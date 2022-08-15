@@ -1,6 +1,6 @@
 ---
 
-Title: The Media Party happening next week
+Title: The Media Party is happening next week!
 
 Authors: 
 
