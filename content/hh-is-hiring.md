@@ -81,4 +81,4 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to jobs [at] hackshackers [dot] com with the subject line “Coordinator - Response.”
 
 <meta name="twitter:card" content="summary">
-<meta property="og:image" content="https://www.hackshackers.com/content-images/about/hackshackers_logotype-stacked_small.png" />
+<meta name="twitter:image" content="https://www.hackshackers.com/content-images/about/hackshackers_logotype-stacked_small.png" />
