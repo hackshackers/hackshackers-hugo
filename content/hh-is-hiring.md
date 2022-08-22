@@ -79,3 +79,6 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 [Hacks/Hackers](https://www.hackshackers.com/) is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group status. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
 
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to jobs [at] hackshackers [dot] com with the subject line “Coordinator - Response.”
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image:src" content="https://hackshackers.com/content-images/about/hackshackers_logomark.png">
