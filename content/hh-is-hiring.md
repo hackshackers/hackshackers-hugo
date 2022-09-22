@@ -30,32 +30,6 @@ Interested applicants should submit their resume, a cover letter explaining thei
 
 ----------------------------------------------------------------------------------------------------------------
 
-# ARTT Research Coordinator - Analysis and Connection 
-Hacks/Hackers is looking for a Project Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations on complicated topics, such as around vaccine efficacy. More information about the project, called the Analysis and Response Toolkit for Trust (ARTT), can be found [here](https://artt.cs.washington.edu). ARTT is a 2021 cohort member of the National Science Foundation Convergence Accelerator program.
-
-This is a temporary full-time, remote role for 12 months, which is contingent upon awarded funding and successful completion of a 90-day probationary period. The position may be extended. Applications will be reviewed starting August 15, 2022 on a rolling basis until the position is filled. The start date is anticipated to be mid- to late-September, 2022. 
-
-## Roles and Responsibilities
-Under the direction of the Project Manager (PM)/ Principal Investigator (PI), who works in concert with the other co-PIs, the Research Coordinator would be responsible for several types of work within the area of “Analysis” and “Connection.” Priorities are adjusted throughout in discussion with the PM/PI:
-	
-- Area Research Coordination. Responsibilities for coordinating the collaboration among project participants to achieve goals related to tools for analysis for software integration (for more information, see: https://artt.cs.washington.edu/artt-tool-search/). The Coordinator will also be responsible for supporting research in user experience designs and other aspects related to online communities led by our partners, chiefly at the University of Washington. In both areas, Coordinator has responsibility to work with and support other Coordinators and project members in order to achieve the overall project.
-- Research and process development related to the Community Trusted Resources database.  Identifying both trustworthy and trusted sources on information such as vaccines can be a complicated endeavor. Our project has built a prototype database that contains high-quality question and answer resources developed by many community leaders that are in alignment with authoritative guidance on vaccines; the Coordinator will have responsibility for overtaking this work and adding to it in collaboration with our partners.  
-- Literature Review.  Responsibilities include literature reviews of academic and practitioner research related to themes touching on the project’s four [frameworks of analysis](https://artt.cs.washington.edu/analysis), online communities, and vaccine hesitancy. Coordinator will work alongside with assigned technical personnel — under the oversight of the PM/PI and in collaboration with the team/group as a whole — the Area Coordinator will continue to steward the growth and/or contribute to the literature collection throughout the life of the project.
-- Project documentation.  Area Coordinator will support the creation and maintenance of internal project work documentation and outward facing materials (eg. website, training) by contributing to the writing and editing of their own project areas as well as others when needed.
-- Communications and presentations. Area Coordinator may support the project by contributing documentation and resources related to external communication of the project, in addition to serving as a liaison or representative of the project when directed. Travel and accommodation costs will be reimbursed with approval in advance.
-- And other related tasks as directed.
-
-## Qualifications and Requirements
-Successful applicants must have authorization to work in the United States and be based in a continental US time zone. Applicants who are successful will also have at least a Bachelor's Degree and three years of professional work experience. Excellent academic credentials, research, and/or writing background are also required in combination with strong organizational and interpersonal skills, diligence and creativity. Experience in a field related to data analysis and/or architecture in addition to multidisciplinary research is a strong need in this position.  Previous study, work experience, or skills in our analytical areas — journalism, fact checking, content moderation, psychology or medical science (i.e. vaccines), and/or philosophical, sociological understandings regarding public discourse —  is strongly preferred.
-
-Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. 
-
-[Hacks/Hackers](https://www.hackshackers.com/) is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group status.. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
-
-Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to jobs [at] hackshackers [dot] com with the subject line “Coordinator - Analysis/Connection.”
-
-----------------------------------------------------------------------------------------------------------------
-
 # ARTT Research Coordinator - Response
 Hacks/Hackers is looking for a Project Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations on complicated topics, such as around vaccine efficacy. More information about the project, called the Analysis and Response Toolkit for Trust (ARTT), can be found [here](https://artt.cs.washington.edu/). ARTT is a 2021 cohort member of the National Science Foundation Convergence Accelerator program.
 
