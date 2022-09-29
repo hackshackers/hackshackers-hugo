@@ -27,29 +27,3 @@ Position requires familiarity or ability to quickly gain familiarity with issues
 [Hacks/Hackers](https://www.hackshackers.com/) is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group status. 
 
 Interested applicants should submit their resume, a cover letter explaining their interest and fit, and salary expectations, to jobs [at] hackshackers [dot] com with the subject line “NewsQ Coordinator - Reliable Sources.”
-
-----------------------------------------------------------------------------------------------------------------
-
-# ARTT Research Coordinator - Response
-Hacks/Hackers is looking for a Project Research Coordinator to help us wrangle research communications and resources for a software prototype aimed at helping users engage in conversations on complicated topics, such as around vaccine efficacy. More information about the project, called the Analysis and Response Toolkit for Trust (ARTT), can be found [here](https://artt.cs.washington.edu/). ARTT is a 2021 cohort member of the National Science Foundation Convergence Accelerator program.
-
-This is a temporary full-time, remote role for 12 months, which is contingent upon awarded funding and successful completion of a 90-day probationary period. The position may be extended. Applications will be reviewed starting August 15, 2022 on a rolling basis until the position is filled. The start date is anticipated to be mid-to-late September, 2022. 
-
-## Roles and Responsibilities
-Under the direction of the Project Manager (PM)/ Principal Investigator (PI), who works in concert with the other co-PIs, the Research Coordinator would be responsible for several types of work within the area of “Response.” Priorities are adjusted throughout in discussion with the PM/PI:
-	
-- Area Research Coordination. Responsibilities for coordinating the collaboration among project participants to achieve goals related to [response framework](https://artt.cs.washington.edu/response/) internally and with partners. In this area, Coordinator has responsibility to work with and support other Coordinators and project members in order to achieve the overall project.
-- Research and process development related to the response-related “tips” database and other guidance.  Our project is building a prototype database that translates research from [our response catalog](https://artt.cs.washington.edu/artt-catalog/); the Coordinator will have responsibility for overseeing this work and adding to it, as needed, in collaboration with our partners.  
-- Catalog Literature Review.  Responsibilities include literature reviews of academic and practitioner research as needed related to response themes. The Area Coordinator will continue to steward the growth and/or contribute to the literature collection throughout the life of the project.
-- Project documentation.  Area Coordinator will support the creation and maintenance of internal project work documentation and outward facing materials (eg. website, training) by contributing to the writing and editing of their own project areas as well as others when needed.
-- Communications and presentations. Area Coordinator may support the project by contributing documentation and resources related to external communication of the project, in addition to serving as a liaison or representative of the project when directed. Travel and accommodation costs will be reimbursed with approval in advance.
-- And other related tasks as directed.
-
-## Qualifications and Requirements
-Successful applicants must have authorization to work in the United States and be based in a continental US time zone. Applicants who are successful will also have at least a Bachelor's Degree and three years of professional work experience. Excellent academic credentials, research, and/or writing background are also required in combination with strong organizational and interpersonal skills, diligence and creativity. Experience in a field related to multidisciplinary research is a strong need in this position.  Previous study, work experience, or skills in the areas related to our project response modes — psychology, conflict resolution or transformation, media literacy — in addition to a background or experience in translating academic concepts for general audiences is strongly preferred.
-
-Position requires familiarity or ability to quickly gain familiarity with issues related to health communications related to vaccines within online environments. 
-
-[Hacks/Hackers](https://www.hackshackers.com/) is an international grassroots organization aimed at building the future of media. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other protected group status. Due to the parameters of the project, applicants living in the United States must be able to verify their employability. 
-
-Interested applicants should submit their resume, a cover letter explaining their interest and fit, as well as their salary requirements, to jobs [at] hackshackers [dot] com with the subject line “Coordinator - Response.”
