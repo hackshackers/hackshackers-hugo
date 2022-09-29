@@ -17,7 +17,7 @@ Expected salary: $80,000 - $100,000. While the below responsibilities are not a 
 
 Hacks/Hackers is a global network of local grassroots organizations, and a community of journalists and technologists who collaborate to create physical and digital community to explore new ways to tell stories. 
 
-Since 2015, Hacks/Hackers has also incubated a number of projects in the misinformation space, including one which just received a [$5 million two-year contract from the National Science Foundation](https://newsq.net/2021/09/22/hacks-hackers-partners-awarded-funding-to-participate-in-the-2021-national-science-foundations-convergence-accelerator/) and will require competent financial and operational oversight, which is why we need to bring in a Director of Operations who has experience overseeing government awards or, at least, loves the idea of digging into the Federal Acquisitions Regulations. 
+Since 2017, Hacks/Hackers has also incubated a number of projects in the misinformation space, including one which just received a [$5 million two-year contract from the National Science Foundation](https://newsq.net/2021/09/22/hacks-hackers-partners-awarded-funding-to-participate-in-the-2021-national-science-foundations-convergence-accelerator/) and will require competent financial and operational oversight, which is why we need to bring in a Director of Operations who has experience overseeing government awards or, at least, loves the idea of digging into the Federal Acquisitions Regulations. 
 
 We believe the open flow of quality information is essential to democratic society, and seek to ensure that the watchdog function journalists have fulfilled continues to exist, regardless of the institutions that have played that role in the past.
 
