@@ -12,7 +12,7 @@ categories:
 
 ---
 
-[Jamfest](https://jamlab.africa/jamfest/), the Journalisn and Media Festival based in Johannesburg, is happening this month both virtually and in-person in Johannesburg, South Africa.
+[Jamfest](https://jamlab.africa/jamfest/), the Journalism and Media Festival based in Johannesburg, is happening this month both virtually and in-person in Johannesburg, South Africa.
 
 {{< tweet 1576935100197048324 >}}
 
