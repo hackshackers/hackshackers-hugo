@@ -1,6 +1,6 @@
 ---
 
-Title: OpenRefine call for improvement proposals
+Title: OpenRefine calls for improvement proposals
 
 Authors: 
 
