@@ -1,6 +1,6 @@
 ---
 
-Title: Watch the AIJC from whererever you are
+Title: Watch the AIJC from wherever you are
 
 Authors: 
 
