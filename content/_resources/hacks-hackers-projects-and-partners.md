@@ -1,6 +1,6 @@
 ---
-Title: Hacks/Hackers Projects and Partners
-date: "2022-11-01"
+title: Hacks/Hackers Projects and Partners
+url: resources/projects-and-partners
 ---
 
 # Local Groups
