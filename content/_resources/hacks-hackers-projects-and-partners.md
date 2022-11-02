@@ -1,6 +1,6 @@
 ---
-title: Hacks/Hackers Projects and Partners
-url: resources/projects-and-partners
+title: Projects and Partners
+url: about/projects-and-partners
 ---
 
 # Local Groups
