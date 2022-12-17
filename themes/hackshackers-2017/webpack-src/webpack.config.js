@@ -26,7 +26,7 @@ var webpackConfig = {
 //        use: ["style-loader", "css-loader", "less-loader", "postcss-loader"],
 //      },
   {
-        test: /\.(sass|css|scss)$/,
+        test: /\.(sass|css)$/,
         use: [
           'style-loader',
           'css-loader',
