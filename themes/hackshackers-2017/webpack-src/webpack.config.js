@@ -21,9 +21,25 @@ var webpackConfig = {
   module: {
     rules: [
       { test: /\.js$/, use: 'eslint-loader', enforce: "pre", exclude: /node_modules/ },
-      {
-        test: /\.css$/i,
-        use: ["style-loader", "css-loader", "postcss-loader"],
+//      {
+//       test: /\.(sass|less|css)$/,
+//        use: ["style-loader", "css-loader", "less-loader", "postcss-loader"],
+//      },
+  {
+        test: /\.(sass|css|scss)$/,
+        use: [
+          'style-loader',
+          'css-loader',
+          {
+            loader: "postcss-loader",
+            options: {
+              plugins: () => [
+                require("autoprefixer")()
+              ],
+            },
+          },
+          'sass-loader',
+        ]
       },
       {
         use: 'babel-loader',
