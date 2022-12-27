@@ -1,5 +1,5 @@
 ---
-Title: Google & YouTube launch fact checking fund
+Title: Google and YouTube launch fact checking fund
 
 Authors: 
 
