@@ -80,6 +80,7 @@ var webpackConfig = {
         [ {
           loader: 'url-loader',
           query: {
+            limit: 10000,
             mimetype: 'image/jpg'
           }
         }
