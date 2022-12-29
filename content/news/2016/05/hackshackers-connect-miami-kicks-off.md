@@ -19,7 +19,7 @@ Happy Friday the 13th, hacks and hackers. [#HHConnect][1] Miami fires off today 
   * The #PanamaPapers talks keep boomeranging around the world, this week [reaching Munich][5]
   * London is [featuring speakers][6] from a tech community, an innovation agency and a political nonprofit
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Last week, [Hacks/Hackers Venezia][7] (Venice) [invited author Federico Badaloni][7] to discuss his book “The Architecture of Communication.” [Enrico Costa][8] said he and the other organizers try to attract audiences with a wide range of talks and discussions.
 

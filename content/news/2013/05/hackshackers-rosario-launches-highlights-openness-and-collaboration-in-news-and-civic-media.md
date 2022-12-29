@@ -16,7 +16,7 @@ groups:
 - Rosario
 ---
 
-[Hacks/Hackers Rosario][1] (HHROS) is already a reality. On Thursday, April 25, the second Argentine chapter of Hacks/Hackers (H/H) had its first meetup in [ClubdeFun Bar][2], with more than 60 attendees.
+[Hacks/Hackers Rosario][1] (HHROS) is already a reality. On Thursday, April 25, the second Argentine group of Hacks/Hackers (H/H) had its first meetup in [ClubdeFun Bar][2], with more than 60 attendees.
 
 {{< figure src="https://lh4.googleusercontent.com/lanq99WiiV3Lhbu2qIqwtGMYVcZ988A5YZNPoeQt4VspLKWdjqcyKmFc9CD76Xa4-EFTNgaPBBJabbyCeArQ9H094a0Z3i0t7rCA4x6WZC6cQYNH_yfNYMAsrA" >}}
 

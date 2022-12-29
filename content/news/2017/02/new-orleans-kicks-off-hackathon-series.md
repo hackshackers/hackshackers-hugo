@@ -14,7 +14,7 @@ groups:
 
 #### **By** [**Samantha Sunne**][1]
 
-Hacks/Hackers [New Orleans][2] held its first hackathon this week, digging into dirty assessment data, partial wetlands maps, unanswered recycling questions and other problems just waiting to be solved. The organizers partnered with [ONA][3], which also opened a New Orleans group last year. The HH Nola chapter has grown to almost 200 members since it launched about six months ago.
+Hacks/Hackers [New Orleans][2] held its first hackathon this week, digging into dirty assessment data, partial wetlands maps, unanswered recycling questions and other problems just waiting to be solved. The organizers partnered with [ONA][3], which also opened a New Orleans group last year. The HH Nola group has grown to almost 200 members since it launched about six months ago.
 
 &#8220;We were fortunate to have so many talented participants whose interests converged around issues important to our community,&#8221; organizer [Troy Thibodeaux][4] said. &#8220;Each group came away with some wonderful progress to show for the day, and the call for a follow-up was pretty much unanimous.&#8221;
 

@@ -6,11 +6,9 @@ The global open calls are a monthly conference call for Hacks/Hackers organizer
 
 We hold these calls on the first Wednesday of every month. You can subscribe to the Google Calendar or find the dates below.
 
-**Join the call online:** [UberConference](https://www.uberconference.com/hackshackers)
+**Join the call online:** [Zoom](https://us06web.zoom.us/j/82848413524?pwd=MS92SjY4dFRKQUcwbVZUWmhoT3Zidz09)
 
-**Or call in:** +1 (650) 250-4579 (International numbers can be found in the online conference room)
-
-**Add to the call notes:** [Google Doc](https://docs.google.com/document/d/1KtsWrrStnimnM7_h43Vk3CgTff6d7TipDuTmSG_KDWQ/edit?usp=sharing)
+**Add to the agenda:** [Google Doc](https://docs.google.com/document/d/1KtsWrrStnimnM7_h43Vk3CgTff6d7TipDuTmSG_KDWQ/edit?usp=sharing)
 
 **Add to your calendar:** [Google Calendar ics](https://calendar.google.com/calendar/ical/b1bf5egc7r3cnoqgeko59328ps%40group.calendar.google.com/public/basic.ics)
 

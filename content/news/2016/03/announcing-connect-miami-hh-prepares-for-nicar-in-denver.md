@@ -20,7 +20,7 @@ The intrepid website committee is asking for opinions on [their plans for a new 
   * Halifax is sharing some [Excel tricks][7] for getting the most out of your data
   * Colorado is hosting a [happy hour][4] in honor of the [NICAR conference][8]. Come on by and say hi!
 
-**Chapter spotlight:**
+**Group spotlight:**
 
 Hacks/Hackers IRE, located at [IRE][9]’s headquarters at the University of Missouri, has taken a few different forms over the years. Since last summer, [James Gordon][10] has been running it as a weekly open lab for students or anyone else interested in coming in to work on a journalism or tech project.
 

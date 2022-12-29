@@ -3,7 +3,7 @@ title: Jakarta
 url: groups/jakarta
 ---
 
-![hh jakarta](/content-images/group-images/jakarta.jpeg)
+![hh jakarta](/.../content-images/group-images/jakarta.jpeg)
 
 Hacks/Hackers Jakarta opened up shop in 2018, bringing journalism and technology in Indonesia!
 
