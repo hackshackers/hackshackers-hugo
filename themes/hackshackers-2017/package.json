@@ -2,7 +2,7 @@
   "name": "hacks-hackers",
   "version": "0.0.2",
   "scripts": {
-    "build": "BUILD=true webpack --config webpack-src/webpack.config.js -p --devtool eval-source-map",
+    "build": "BUILD=true webpack --config webpack-src/webpack.config.js -p --devtool source-map",
     "start": "WATCH=true BUILD=true webpack -d --config webpack-src/webpack.config.js --optimize-minimize"
   },
   "devDependencies": {
