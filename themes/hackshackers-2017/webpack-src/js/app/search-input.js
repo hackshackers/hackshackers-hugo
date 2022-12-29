@@ -18,7 +18,7 @@ export default function () {
       }
     });
 
-    document.querySelector('.mobile-nav-search button').onclick = function () {
+    document.querySelector('.mobile-nav-search button').onclick = function querySelector() {
       // MOBILE: Close side bar if either enter pressed, or sidebar clicked.
       fullBleed.classList.toggle('active');
     };

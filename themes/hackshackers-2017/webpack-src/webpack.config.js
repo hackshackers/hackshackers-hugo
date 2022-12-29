@@ -20,33 +20,19 @@ var webpackConfig = {
   ],
   module: {
     rules: [
-      { test: /\.js$/, use: 'eslint-loader', enforce: "pre", exclude: /node_modules/ },
-//      {
-//       test: /\.(sass|less|css)$/,
-//        use: ["style-loader", "css-loader", "less-loader", "postcss-loader"],
-//      },
-  {
-        test: /\.(sass|css)$/,
-        use: [
-          'style-loader',
-          'css-loader',
-          {
-            loader: "postcss-loader",
-            options: {
-              plugins: () => [
-                require("autoprefixer")()
-              ],
-            },
-          },
-          'sass-loader',
-        ]
-      },
+        {
+          enforce: "pre",
+          test: /\.js$/, 
+         exclude: /node_modules/,
+         loader: "eslint-loader"
+        },
       {
-        use: 'babel-loader',
         test: /\.js$/,
+        exclude: /node_modules/,
+        use: "babel-loader", 
         include: path.resolve(__dirname, 'js'),
       },
-      {
+     {
         test: /\.scss$/,
         use: ExtractTextPlugin.extract({
             fallback: 'style-loader',
@@ -75,7 +61,6 @@ var webpackConfig = {
              },
 
           ]
-//        // todo: it works with just css-loader, but the page is messed up. when i add the string of css?-autoprefix.... it breaks because of missing dependency. i suspect that if i can find what is the missing dependency it will work. could there be some sort of a dependency that i am missing and didnt declare earlier in the file? 
         })
       },
       {
