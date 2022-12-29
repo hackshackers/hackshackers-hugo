@@ -16,7 +16,7 @@ var webpackConfig = {
     jsonpFunction: 'hackshackersJsonp'
   },
   plugins: [
-    new ExtractTextPlugin({filename:'[name].css'}),
+    new ExtractTextPlugin('[name].css'),
   ],
   module: {
     rules: [
