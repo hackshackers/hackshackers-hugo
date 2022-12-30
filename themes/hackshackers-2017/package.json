@@ -21,7 +21,7 @@
     "fs-extra": "1.0.0",
     "html-loader": "^0.4.4",
     "img-loader": "^4.0.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "3.0.0",
     "postcss-scss": "3.0.5",
     "raw-loader": "^0.5.1",
