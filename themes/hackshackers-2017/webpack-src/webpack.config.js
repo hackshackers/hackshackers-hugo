@@ -19,39 +19,77 @@ var webpackConfig = {
     new ExtractTextPlugin('[name].css'),
   ],
   module: {
-    preLoaders: [
-      { test: /\.js$/, loader: 'eslint', exclude: /node_modules/ },
-    ],
-    loaders: [
+    rules: [
+        {
+          enforce: "pre",
+          test: /\.js$/, 
+         exclude: /node_modules/,
+         loader: "eslint-loader"
+        },
       {
-        loader: 'babel',
         test: /\.js$/,
+        exclude: /node_modules/,
+        use: "babel-loader", 
         include: path.resolve(__dirname, 'js'),
       },
-      {
-        loader: ExtractTextPlugin.extract('style-loader', 'css?-autoprefixer&sourceMap!postcss?parser=postcss-scss!sass?sourceMap'),
-        test: /\.scss$/
+     {
+        test: /\.scss$/,
+        use: ExtractTextPlugin.extract({
+            fallback: 'style-loader',
+            use: [
+              {
+                loader: 'css-loader', 
+                options: {
+                  plugins: () => [autoprefixer()],
+                 sourceMap: true,
+                 },
+              },
+              {
+                loader: 'postcss-loader',
+                options: {
+                  plugins: () => [autoprefixer()],
+                 postcssOptions: {
+                   parser: "postcss-scss",
+                   },
+                }
+              }, 
+              {
+                 loader: 'sass-loader',
+                 options: {
+                      sourceMap: true,
+               },
+             },
+
+          ]
+        })
       },
       {
         test: /\.png$/,
-        loader: 'url',
-        query: {
-          limit: 10000,
-          mimetype: 'image/png'
+        use: [{
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            mimetype: 'image/png'
+          }
         }
+        ]
       },
       {
         test: /\.jpg$/,
-        loader: 'url',
-        query: {
-          limit: 10000,
-          mimetype: 'image/jpg'
+        use:
+        [ {
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            mimetype: 'image/jpg'
+          }
         }
+        ]
       },
-      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader" }
-    ]
+      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, use: 'url-loader' },
+    ],
+
   },
-  postcss: [ autoprefixer({ browsers: ['last 4 versions'] }) ]
 };
 
 module.exports = webpackConfig;

@@ -3,8 +3,8 @@ import assign from 'lodash/assign';
 import template from 'lodash/template';
 import { defaultOpts, calendarFeed } from './config';
 import 'whatwg-fetch';
-import basicTemplate from 'raw!./event-basic.html';
-import expandedTemplate from 'raw!./event-expanded.html';
+import basicTemplate from 'raw-loader!./event-basic.html';
+import expandedTemplate from 'raw-loader!./event-expanded.html';
 import fecha from 'fecha';
 
 /**
