@@ -53,7 +53,7 @@ Hacks/Hackers
 Washington, DC 20005
 
 
- [1]: http://www.linkedin.com/in/richgordon
+ [1]: https://www.linkedin.com/in/richgor/
  [2]: http://www.medill.northwestern.edu/
  [3]: http://burtherman.com
  [4]: http://knight.stanford.edu/fellows/2009/herman/
