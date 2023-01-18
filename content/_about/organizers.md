@@ -48,9 +48,9 @@ We can be reached by email at contact at hackshackers dot com, or the following 
 
 Hacks/Hackers
 
-700 12th St N.W Suite 700 PMB 96681
+712 H St NE PMB 96681
 
-Washington, DC 20005
+Washington, DC 20002
 
 
  [1]: https://www.linkedin.com/in/richgor/
