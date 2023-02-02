@@ -7,7 +7,7 @@ Hacks/Hackers is a rapidly expanding international grassroots journalism organiz
 
 ### What do we do?
 
-Lots. Our mission is to spread knowledge. information and ideas. Local group activities currently include talks, [hackathons](/blog/2010/11/open-all-night-the-great-urban-hack-nyc/) and demo days (just to get to know each other). We are also known to throw [awesome parties](http://awesomest.journalismparty.com/ever) with great DJs. Based on demand, we are strategically trying to expand into offering courses such as coding for beginners, Google Fusion Tables and .js. If you have any ideas, please email us at [contact@hackshackers.com](mailto:contact@hackshackers.com).
+Lots. Our mission is to spread knowledge. information and ideas. Local group activities currently include talks, [hackathons](/blog/2010/11/open-all-night-the-great-urban-hack-nyc/) and demo days (just to get to know each other). We are also known to throw awesome parties with great DJs. If you have any ideas, please email us at [contact@hackshackers.com](mailto:contact@hackshackers.com).
 
 ### Who are we?
 
