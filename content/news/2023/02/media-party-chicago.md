@@ -14,6 +14,7 @@ categories:
 
 Media Party is going global! The hands-on celebration of journalism and technology that has brought more than 10,000 people to Buenos Aires over the past decade is coming to the United States. Media Party Chicago conference happens June 8-10. Mark your calendars and sign up for updates below:
 
+{{< iframe 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&amp;id=fb2bc6f10b&amp;f_id=0058c0e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
@@ -36,9 +37,9 @@ Media Party is going global! The hands-on celebration of journalism and technolo
     </div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
-
+>}}
+>
 Media Party has been a benchmark for digital media innovation since it began in 2012, facilitating the intersection between technology, journalism and storytelling – and the weird people who live between all these spaces. We are a bridge between industries to improve the quality of information, and with it the quality of democracy. From its roots in Hacks/Hackers Buenos Aires, Media Party is working in partnership with the broader Hacks/Hackers organization to stage a series of events around the globe.
 
 The Chicago event will follow a similar format as the original, bringing together entrepreneurs, journalists, developers and designers over three days. The event includes keynotes, a media fair, workshops, short talks and a hackathon – each attendee can choose their own adventure. For this year, the themes we are focusing on are synthetic media, ethics in artificial intelligence, misinformation and privacy. 
