@@ -35,7 +35,7 @@ menu:
       URL: "/news/"
       Weight: 2
     - Name: Edit this site
-      URL: "/hack-this-site/"
+      URL: "/edit-this-site/"
       Weight: 4
 
 params:
