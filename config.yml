@@ -34,7 +34,7 @@ menu:
     - Name: News
       URL: "/news/"
       Weight: 2
-    - Name: Hack This Site
+    - Name: Edit this site
       URL: "/hack-this-site/"
       Weight: 4
 
