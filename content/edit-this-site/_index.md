@@ -1,3 +1,3 @@
 ---
-title: Hack this site
+title: Edit this site
 ---
