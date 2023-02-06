@@ -30,9 +30,6 @@ The deadline to apply is February 21, and grant recipients can receive up to 130
 
 **Jobs:**
 
-
-
-* Anywhere - Greenpeace, [Head of Investigations (Nordic region)](https://nordic.jobs.greenpeace.org/jobs/2350578-head-of-investigations)
 * UK - The Jewish Chronicle, [Sr. Designer](https://www.cisionjobs.co.uk/job/109512/the-jewish-chronicle-senior-designer/?LinkSource=PremiumListing)
 * US - Bloomberg, [Graphics Journalist](https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/details/Graphics-Journalist_113815)
 * US - Cityside Journalism Initiative, [Director of Development](https://inn.org/job/cityside-journalism-initiative-oakland-ca-8-director-of-development/)
