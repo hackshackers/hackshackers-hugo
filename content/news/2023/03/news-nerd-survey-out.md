@@ -1,9 +1,8 @@
 ---
 
-Title: 
+Title: The News Nerd Survey is out
 
-Authors: The News Nerd Survey is out
-
+Authors:
 - Samantha Sunne
 
 date: "2023-03-14"
