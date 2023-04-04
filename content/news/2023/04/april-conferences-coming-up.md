@@ -12,7 +12,7 @@ categories:
 
 ---
 
-Happy April, hacks and hackers! There are two worldwide conferences happening this month - the [International Symposium on Online Journalism](https://isoj.org/isoj-celebrates-a-successful-new-hybrid-model-and-announces-dates-for-2023-conference/) (April 14-15) and the [International Journalism Festival](https://www.journalismfestival.com/) (April 19-23.) 
+Happy April, hacks and hackers! There are two worldwide conferences happening this month - the [International Symposium on Online Journalism](https://isoj.org/isoj-celebrates-a-successful-new-hybrid-model-and-announces-dates-for-2023-conference/) (April 14-15) and the [International Journalism Festival](https://www.journalismfestival.com/) (April 19-23). 
 
 {{< tweet 1642655648595812353 >}}
 
