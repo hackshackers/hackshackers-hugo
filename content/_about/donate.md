@@ -27,8 +27,8 @@ You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hac
 Please make your check payable to “Hacks/Hackers” and mail it to:
 
 Hacks/Hackers  
-700 12th St N.W Suite 700 PMB 96681  
-Washington, DC 20005  
+712 H St NE PMB 96681  
+Washington, DC 20002  
 
 All checks received will be used wherever the need is greatest. If you would like to give to a specific project, please contact [donate@hackshackers.com](mailto:donate@hackshackers.com).
 
