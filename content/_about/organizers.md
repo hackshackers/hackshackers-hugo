@@ -2,6 +2,7 @@
 title: Who We Are
 url: about/organizers
 ---
+
 ## Board Members
 
 {{< figure src="/content-images/about/burtrocket-1024x769.jpg" >}}
@@ -14,15 +15,35 @@ url: about/organizers
 
 {{< figure src="https://www.niemanlab.org/images/mariano-blejman-1-200x200.jpg" >}}
 
+[Anika] TK
+
+{{< figure src="https://www.niemanlab.org/images/mariano-blejman-1-200x200.jpg" >}}
+
 [Mariano Blejman](https://ar.linkedin.com/in/marianoblejman) is a media entrepreneur with more than 25 years in the field of news, technology and innovation. After more than a decade as a journalist in the newspaper[ Página/12](https://www.pagina12.com.ar/), in 2011 he co-founded[ Hacks/Hackers Buenos Aires](https://www.meetup.com/es/HacksHackersBA/) that became the biggest chapter in the world with more than 12.000 participants. In 2012 he founded[ Media Party](https://www.mediaparty.info/), the biggest media innovation gathering in latin América. Since then, he has been running media innovation programs across Latin America for the last decade. He was a[ Knight Fellow at ICFJ](https://www.icfj.org/our-work/knight/profiles/mariano-blejman) during three years. In that period he launched[ Media Factory](https://mediafactory.vc/), the first news accelerator to be known, and he founded[ HacksLabs](https://hackdash.org/dashboards/hackslabs) a DataJournalism accelerator program where he helped to invest in regional media outlets together with donors and investors like North Base Media, MDIF, Omidyar Network, Open Society Foundation, Google, Facebook and Knight Foundation.
 
 ---
+
+## Team Members
+
+{{< figure src="/content-images/about/connie.jpg" >}}
+
+[Connie Moon Sehat](https://www.linkedin.com/in/connieatwork) is Researcher-at-Large for Hacks/Hackers. Connie leads the News Quality Initiative, and serves as Principal Investigator of the Analysis, Response, and Toolkit for Trust (ARTT) project. For the past twenty years, Connie has focused on the intersections of technology and democratic life, including the direction of projects such as NewsFrames at Global Voices, the New Orleans Research Collaborative, and ELMO (election, human rights, and health monitoring). Her doctorate from Rice University specialized in twentieth century German history, with minor fields in Enlightenment Europe and Modern Japan. Connie’s first job out of college allowed her to develop software for the International Space Station. Most recently, she served as a Senior Fellow for Media, Entertainment and Sport Industries at the World Economic Forum and also has previously worked for The Carter Center, Emory University, and The Center for History and New Media at George Mason University.
+
+{{< figure src="/content-images/about/nevin.png" >}}
+
+[Nevin Thompson](https://www.linkedin.com/in/nevinthompson) is the Community Lead of Credibility Coalition, a research community co-founded by Hacks/Hackers that fosters collaborative approaches to understanding the veracity, quality and credibility of online information. Since 2019 he has served as Communications and Engagement Coordinator for CredCo,  specializing in marketing and communications in journalism contexts. Nevin co-edits the MisinfoCon blog, and provides marketing support to the NewsQ initiative and the Analysis, Response, and Toolkit for Trust (ARTT) project, and as Project Fellow with the World Economic Forum’s Global Coalition for Digital Safety. Nevin served as Japan News Editor and Social Media Manager for Global Voices from 2014 to 2022. As a translator, writer, and journalist, Nevin has been connected to Japan for nearly 30 years.
+
+{{< figure src="/content-images/about/sunne.jpg" >}}
+
+[Samantha Sunne][22] is the Director of Community for Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana and recenly published "[Data+Journalism: A story-driven approach to learning data reporting](https://dataplusjournalism.com/)." She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
+
+--- 
 
 ## Co-Founders
 
 {{< figure src="/content-images/about/richgordon-300dpi-smaller.jpg" >}}
 
-[Rich Gordon][1], co-founder, is associate professor and director of digital innovation at the [Medill School of Journalism][2], where he launched the school’s graduate program in new media journalism. He has spent most of his career exploring the areas where journalism and technology intersect. As a reporter and editor, he was an early adopter of technological tools to analyze data for journalistic purposes. At The Miami Herald, he was among the first generation of journalists to lead online publishing efforts at newspapers. At Medill, he has developed courses through which students have explored digital content and communities and developed new forms of storytelling taking advantage of interactive media. He has also served as director of new communities for the Northwestern Media Management Center, where he researched the impact of online communities on journalism and publishing. In 2007, Rich won a Knight News Challenge grant allowing Medill to offer full scholarships for journalism master&#8217;s degrees to people with computer programming experience.
+[Richelle Gordon][1], co-founder, is associate professor and director of digital innovation at the [Medill School of Journalism][2], where he launched the school’s graduate program in new media journalism. He has spent most of his career exploring the areas where journalism and technology intersect. As a reporter and editor, he was an early adopter of technological tools to analyze data for journalistic purposes. At The Miami Herald, he was among the first generation of journalists to lead online publishing efforts at newspapers. At Medill, he has developed courses through which students have explored digital content and communities and developed new forms of storytelling taking advantage of interactive media. He has also served as director of new communities for the Northwestern Media Management Center, where he researched the impact of online communities on journalism and publishing. In 2007, Rich won a Knight News Challenge grant allowing Medill to offer full scholarships for journalism master&#8217;s degrees to people with computer programming experience.
 
 {{< figure src="/content-images/about/aron.jpg" >}}
 
@@ -31,14 +52,6 @@ url: about/organizers
 {{< figure src="/content-images/about/hi-resChrys-Wu-avatar1-e1286923351288.jpg" >}}
 
 [Chrys Wu](http://chryswu.com) consults on systems thinking, product development, and people leadership and management. People turn to her for help with thinking through the interplay of peoples’ lives and the larger systems in which we exist. She also speaks and mentors at technology, design and media festivals. She has founded/co-founded and led the growth of several cross-disciplinary organizations, including [Write/Speak/Code](http://writespeakcode.com/), [Hacks/Hackers](http://hackshackers.com/), [NYC Ruby Women](http://www.meetup.com/NYC-Ruby-Women) and the [Robot Film Festival](http://robotfilmfestival.com/). She is also an [Awesome Foundation NYC](https://www.awesomefoundation.org/en/chapters/nyc) trustee emeritus. Chrys has spent many years in journalism and “on the business side” as a freelancer and as staff of organizations such as The New York Times, The Los Angeles Times, NPR and its affiliates, National Geographic Magazine, and what is now CBS Local. She has experienced the hard work and joy-by-proxy of working on a Pulitzer Prize winning story.
-
----
-
-## Community Director
-
-{{< figure src="/content-images/about/sunne.jpg" >}}
-
-[Samantha Sunne][22] leads communications at Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana. She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
 
 --- 
 
