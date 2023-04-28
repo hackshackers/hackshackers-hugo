@@ -13,9 +13,9 @@ url: about/organizers
 
 [Jennifer 8. Lee](http://www.jennifer8lee.com) is an author and a journalist focused on the evolv­ing infra­struc­ture of news and information, specifically thinking about the business models. She started her journalism career at The New York Times at age 24 and worked for nine years. NPR has called her a &#8220;conceptual scoop artist&#8221; for her feature stories. She also authored [The Fortune Cookie Chronicles][7], a book on how Chinese food is all-American, which was featured on [The Colbert Report][8] and [TED.com][9]. She has made dumplings with Martha Steward and on the Today Show during the Beijing Olympics. She has played a lead role with the [Knight News Challenge][10], [News Foo][11], and the [SXSW][12] news events. She serves on the [advisory board for the Nieman Foundation][13], the board of the [Center for Public Integrity][14], the [Young Lions Committee of the New York Public Library][15], and the executive committee of the [Asian American Writers Workshop][16]. She is also co-producer of a documentary-in-progress called [The Search for General Tso][17] with the folks at [Wicked Delicate][18].
 
-{{< figure src="https://www.niemanlab.org/images/mariano-blejman-1-200x200.jpg" >}}
+{{< figure src="/content-images/about/anika.jpg" >}}
 
-[Anika] TK
+[Anika Gupta](http://www.linkedin.com/in/digitalanika) is a business and product strategist with more than ten years' experience in media, fashion and journalism. She works with clients - mainly news and social media startups - on building sustainable businesses and communities online. From 2009 to 2014, she worked as a journalist in New Delhi, India, where she helped start Hacks Hackers India. She studied journalism at Northwestern University and has a graduate degree from the Massachusetts Institute of Technology. She studies online culture and communities, and has worked as a product manager for media organizations like the Atlantic and National Geographic. Her first book, "How to Handle a Crowd," was published by Simon & Schuster in 2019. For the book, she interviewed online moderators from spaces as diverse as community listservs and video games.
 
 {{< figure src="https://www.niemanlab.org/images/mariano-blejman-1-200x200.jpg" >}}
 
