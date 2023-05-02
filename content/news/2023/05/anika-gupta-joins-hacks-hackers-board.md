@@ -12,7 +12,7 @@ categories:
 
 ---
 
-We are excited to announce that [Anika Gupta](http://www.linkedin.com/in/digitalanika)) is joining the [Hacks/Hackers Board of Directors](https://www.hackshackers.com/about/organizers/)!
+We are excited to announce that [Anika Gupta](http://www.linkedin.com/in/digitalanika) is joining the [Hacks/Hackers Board of Directors](https://www.hackshackers.com/about/organizers/)!
 
 {{< tweet 1653425743156658178 >}}
 
