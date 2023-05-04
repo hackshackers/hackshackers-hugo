@@ -1,6 +1,6 @@
 ---
 
-Title: Hacks/Hackers is hiring for a Partnership Coordinator for the ARTT Project
+Title: Hacks/Hackers is hiring a Partnership Coordinator
 
 Authors: 
 
@@ -9,6 +9,8 @@ Authors:
 date: "2023-05-04" 
 
 ---
+
+{{< figure src="content/content-images/news/artt_logo.png" >}}
 
 # Background
 
