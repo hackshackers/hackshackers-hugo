@@ -10,11 +10,11 @@ date: "2023-05-04"
 
 ---
 
-#Background
+# Background
 
 Hacks/Hackers is a global network of local grassroots organizations, and a community of journalists and technologists who collaborate to create physical and digital community to explore new ways to tell stories. The Partnerships Coordinator (PC) will serve on the NSF Analysis and Response for Trust Tool: Expert-Informed Resources for Individuals and Online Communities to Address Vaccine Hesitancy and Misinformation (ARTT) project. The ARTT project is an inherently dynamic project, in which roles will be defined and refined often especially in the early part of the project. 
 
-#Position Overview
+# Position Overview
 
 We are seeking a Partnerships Coordinator (PC) to oversee the relationships among the ARTT team at Hacks/Hackers, project organizational partners and affiliates, as well as our advisors and other key stakeholders. PC responsibilities include:
 
@@ -32,7 +32,7 @@ We are seeking a Partnerships Coordinator (PC) to oversee the relationships amon
 
 This is a remote position with occasional travel. Candidates must be located in U.S. timezones and authorized to work in the U.S. The expected salary range is $60,000-$70,000 plus a healthcare stipend and generous leave policy. 
 
-#Qualifications
+# Qualifications
 
 
 
@@ -42,7 +42,7 @@ This is a remote position with occasional travel. Candidates must be located in 
 * Strategic Thinking: The PC will need to think strategically about how to leverage partnerships to achieve project goals. This requires an ability to identify opportunities for collaboration and innovation, as well as the ability to develop and implement plans to achieve desired outcomes.
 * Fundraising: An ideal candidate has experience in grant writing and fundraising, including knowledge of funding sources and application processes.
 
-#How to Apply
+# How to Apply
 
 We recognize that we are seeking a wide range of skills and experience for this position, and not all candidates will be an exact match for the criteria as laid out in the job description. We do not expect every candidate to be equally skilled in these areas, and this is not a complete list of what you may be asked to do or what you may bring to the role. Please feel free to let us know about other relevant skills and qualifications that may be of interest to us. If you do not have the exact combination of skills, but you love our mission, we’d still love to hear from you. If not this role, there might be more opportunities in the future.
 
