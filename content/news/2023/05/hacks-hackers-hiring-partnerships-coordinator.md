@@ -1,8 +1,14 @@
-**Partnerships Coordinator**
+---
 
-Hacks/Hackers, ARTT
+Title: Hacks/Hackers is hiring for a Partnership Coordinator for the ARTT Project
 
-{{< figure src="/content-images/news/artt_logo.png" >}}
+Authors: 
+
+- Samantha Sunne
+
+date: "2023-05-04" 
+
+---
 
 **<span style="text-decoration:underline;">Background</span>**
 
