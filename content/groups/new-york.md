@@ -7,7 +7,7 @@ url: groups/new-york
 
 Bringing journalists and technologists together!
 
-Join us on **[Meetup.com](https://www.meetup.com/hacks-hackers-nyc/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersNYC).
+We share our events on [Twitter](https://twitter.com/HacksHackersNYC).
 
 {{< tweet id="1042077500082454529" width=80% >}}
 
