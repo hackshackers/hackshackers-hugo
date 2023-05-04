@@ -1,6 +1,6 @@
 ---
 
-Title: Hacks/Hackers is hiring a Partnership Coordinator
+Title: Hacks/Hackers is hiring a Partnerships Coordinator
 
 Authors: 
 
@@ -9,8 +9,6 @@ Authors:
 date: "2023-05-04" 
 
 ---
-
-{{< figure src="content/content-images/news/artt_logo.png" >}}
 
 # Background
 
@@ -35,8 +33,6 @@ We are seeking a Partnerships Coordinator (PC) to oversee the relationships amon
 This is a remote position with occasional travel. Candidates must be located in U.S. timezones and authorized to work in the U.S. The expected salary range is $60,000-$70,000 plus a healthcare stipend and generous leave policy. 
 
 # Qualifications
-
-
 
 * Relationship Building: The PC should be skilled at building and maintaining relationships with internal and external stakeholders. This requires an ability to listen and understand the needs of others, as well as the ability to work collaboratively to identify mutually beneficial opportunities.
 * Communication Skills: Excellent written and verbal communication skills are essential for this role, as the PC will be responsible for creating and maintaining relationships with partners, collaborators, and stakeholders. The PC must be able to communicate clearly and effectively with people from diverse backgrounds and with varying levels of expertise.
