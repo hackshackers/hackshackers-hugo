@@ -1,6 +1,6 @@
 ---
 title: Austin
-url: groups/austin
+url: /groups/austin
 ---
 
 ![HacksHackers Austin presentation](https://pbs.twimg.com/media/D_yZJ28W4AwgfvY?format=jpg&name=large)

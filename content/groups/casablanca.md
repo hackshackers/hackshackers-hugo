@@ -1,6 +1,6 @@
 ---
 title: Casablanca
-url: groups/casablanca
+url: /groups/casablanca
 ---
 
 ![Casablanca metropolis](https://upload.wikimedia.org/wikipedia/commons/e/e1/Casablanca_aerial_photograph_1.jpg)

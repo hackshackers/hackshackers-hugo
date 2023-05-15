@@ -1,6 +1,6 @@
 ---
 title: IRE
-url: groups/ire
+url: /groups/ire
 ---
 
 ![HacksHackers IRE logo](https://pbs.twimg.com/profile_images/1552249156/ire_twitter_reasonably_small.gif)

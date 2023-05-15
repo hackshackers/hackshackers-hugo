@@ -1,6 +1,6 @@
 ---
 title: Glasgow
-url: groups/glasgow
+url: /groups/glasgow
 ---
 
 ![HacksHackers Scotland](https://secure.meetupstatic.com/photos/event/c/a/9/e/600_478431870.jpeg)

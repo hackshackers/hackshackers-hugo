@@ -1,6 +1,6 @@
 ---
 title: Logos
-url: resources/logos
+url: /resources/logos
 ---
 Are you looking for Hacks/Hackers logos, or making your own for your own group?
 

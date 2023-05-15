@@ -1,6 +1,6 @@
 ---
 title: Buenos Aires
-url: groups/buenos-aires
+url: /groups/buenos-aires
 ---
 
 ![HacksHackers Buenos Aires Media Party banner](https://i.imgur.com/hzQnAgx.png)

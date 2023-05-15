@@ -1,6 +1,6 @@
 ---
 title: Vienna
-url: groups/vienna
+url: /groups/vienna
 ---
 
 ![HacksHackers Vienna logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Vienna%2C_Austria_%2845116684251%29.jpg)

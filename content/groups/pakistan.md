@@ -1,6 +1,6 @@
 ---
 title: Pakistan
-url: groups/pakistan
+url: /groups/pakistan
 ---
 
 ![HacksHackers Pakistan event](https://pbs.twimg.com/media/DIJ3C9VXgAAxN7k?format=jpg&name=large)

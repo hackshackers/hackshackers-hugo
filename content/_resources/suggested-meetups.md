@@ -1,6 +1,6 @@
 ---
 title: Suggested Meetups
-url: resources/suggested-meetups
+url: /resources/suggested-meetups
 ---
 Looking for some inspiration? Here are the most common meetups among Hacks/Hackers groups all over the world:
 

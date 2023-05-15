@@ -1,6 +1,6 @@
 ---
 title: Nairobi
-url: groups/nairobi
+url: /groups/nairobi
 ---
 
 ![HacksHackers Nairobi Event](/content-images/group-images/nairobi.jpeg)

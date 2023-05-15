@@ -1,6 +1,6 @@
 ---
 title: Lausanne
-url: groups/lausanne
+url: /groups/lausanne
 ---
 
 ![HacksHackers Lausanne Event](https://pbs.twimg.com/media/BqgVTwdCUAEQPvm?format=jpg&name=medium)

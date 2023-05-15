@@ -1,6 +1,6 @@
 ---
 title: Philly
-url: groups/philly
+url: /groups/philly
 ---
 
 ![HacksHackers Philly event](https://secure.meetupstatic.com/photos/event/3/9/e/f/highres_453914831.jpeg)

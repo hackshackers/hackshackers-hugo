@@ -1,6 +1,6 @@
 ---
 title: Berlin
-url: groups/berlin
+url: /groups/berlin
 ---
 
 ![HacksHackers Berlin logo](https://pbs.twimg.com/profile_banners/618188440/1510748635/1500x500)

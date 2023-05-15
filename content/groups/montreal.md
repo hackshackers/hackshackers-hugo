@@ -1,6 +1,6 @@
 ---
 title: Montreal
-url: groups/montreal
+url: /groups/montreal
 ---
 
 ![HacksHackers Montreal event](https://pbs.twimg.com/media/C9ujm_PUQAEgVnx?format=jpg&name=4096x4096)

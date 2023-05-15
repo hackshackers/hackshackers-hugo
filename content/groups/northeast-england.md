@@ -1,6 +1,6 @@
 ---
 title: Northeast England
-url: groups/northeast-england
+url: /groups/northeast-england
 ---
 
 ![HacksHackers NE banner](https://upload.wikimedia.org/wikipedia/commons/5/5c/Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg)

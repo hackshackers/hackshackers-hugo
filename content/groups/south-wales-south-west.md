@@ -1,6 +1,6 @@
 ---
 title: South Wales x South West
-url: groups/south-wales-south-west
+url: /groups/south-wales-south-west
 ---
 
 ![HacksHackers SWxSW event](https://secure.meetupstatic.com/photos/event/8/6/0/9/highres_458734313.jpeg)

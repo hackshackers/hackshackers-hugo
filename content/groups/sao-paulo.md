@@ -1,6 +1,6 @@
 ---
 title: São Paulo
-url: groups/sao-paulo
+url: /groups/sao-paulo
 ---
 
 ![HacksHackers São Paulo event](https://secure.meetupstatic.com/photos/event/5/5/highres_441300085.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: Quito
-url: groups/quito
+url: /groups/quito
 ---
 
 ![Quito event](https://secure.meetupstatic.com/photos/event/6/6/6/b/clean_497066219.jpeg)

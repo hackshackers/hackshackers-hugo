@@ -1,6 +1,6 @@
 ---
 title: Global Open Call
-url: resources/global-open-call
+url: /resources/global-open-call
 ---
 The global open calls are a monthly conference call for Hacks/Hackers organizers and members to share details of current and upcoming events in the community, and to discuss the future of the Hacks/Hackers network.
 

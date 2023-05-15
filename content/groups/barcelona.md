@@ -1,6 +1,6 @@
 ---
 title: Barcelona
-url: groups/barcelona
+url: /groups/barcelona
 ---
 
 ![HacksHackers Barcelona panel](https://pbs.twimg.com/media/C98jSTdXoAAxnTW?format=jpg&name=medium)

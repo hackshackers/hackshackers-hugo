@@ -1,6 +1,6 @@
 ---
 title: Colorado
-url: groups/colorado
+url: /groups/colorado
 ---
 
 ![HacksHackers Colorado banner](https://pbs.twimg.com/profile_banners/275115772/1433981369/1500x500)

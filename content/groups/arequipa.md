@@ -1,6 +1,6 @@
 ---
 title: Arequipa
-url: groups/arequipa
+url: /groups/arequipa
 ---
 
 ![HacksHackers Arequipa Event](https://secure.meetupstatic.com/photos/event/c/3/0/f/highres_468649935.jpeg)

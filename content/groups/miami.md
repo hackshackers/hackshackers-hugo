@@ -1,6 +1,6 @@
 ---
 title: Miami
-url: groups/miami
+url: /groups/miami
 ---
 
 ![HacksHackers Miami event](https://pbs.twimg.com/media/CxQ5_RlXUAAkpQm?format=jpg&name=large)

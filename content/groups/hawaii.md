@@ -1,6 +1,6 @@
 ---
 title: Hawaii
-url: groups/hawaii
+url: /groups/hawaii
 ---
 
 ![HacksHackers Hawaii](https://live.staticflickr.com/7246/7556990366_1cac39a4dc_3k.jpg)

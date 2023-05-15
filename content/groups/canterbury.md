@@ -1,6 +1,6 @@
 ---
 title: Canterbury
-url: groups/canterbury
+url: /groups/canterbury
 ---
 
 ![canterbury](https://a.cdn-hotels.com/gdcs/production132/d1495/1b3743a9-5890-4d5c-a087-bc814dc5014f.jpg)

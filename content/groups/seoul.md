@@ -1,6 +1,6 @@
 ---
 title: Seoul
-url: groups/seoul
+url: /groups/seoul
 ---
 
 ![Seoul](https://secure.meetupstatic.com/photos/event/2/0/2/6/600_484208230.jpeg)

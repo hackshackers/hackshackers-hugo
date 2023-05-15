@@ -1,6 +1,6 @@
 ---
 title: Antwerp
-url: groups/antwerp
+url: /groups/antwerp
 ---
 
 ![HacksHackers antwerp logo](/content-images/group-images/antwerp.jpeg)

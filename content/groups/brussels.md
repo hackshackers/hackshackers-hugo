@@ -1,6 +1,6 @@
 ---
 title: Brussels
-url: groups/brussels
+url: /groups/brussels
 ---
 
 ![HacksHackers Brussels Event](/content-images/group-images/brussels_connect_2017.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: Zurich
-url: groups/zurich
+url: /groups/zurich
 ---
 
 ![HacksHackers Zurich event](https://secure.meetupstatic.com/photos/event/2/1/f/a/highres_438968698.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: Amsterdam
-url: groups/amsterdam
+url: /groups/amsterdam
 ---
 
 ![HacksHackers Amsterdam Refugeehotspot](/content-images/group-images/amsterdam.jpg)

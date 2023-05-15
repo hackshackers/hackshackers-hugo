@@ -1,6 +1,6 @@
 ---
 title: Stirling
-url: groups/stirling
+url: /groups/stirling
 ---
 
 ![HacksHackers Scotland](https://secure.meetupstatic.com/photos/event/c/a/9/e/600_478431870.jpeg)

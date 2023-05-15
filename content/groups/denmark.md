@@ -1,6 +1,6 @@
 ---
 title: Denmark
-url: groups/denmark
+url: /groups/denmark
 ---
 
 ![HacksHackers Denmark event](https://pbs.twimg.com/media/CSo4XmzVEAAYZG1?format=jpg&name=small)

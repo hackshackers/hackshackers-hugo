@@ -1,6 +1,6 @@
 ---
 title: Mumbai
-url: groups/mumbai
+url: /groups/mumbai
 ---
 
 ![HacksHackers India logo](https://pbs.twimg.com/media/DJRyq3bUMAAKsLP?format=jpg&name=large)

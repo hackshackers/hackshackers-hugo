@@ -1,6 +1,6 @@
 ---
 title: Belfast
-url: groups/belfast
+url: /groups/belfast
 ---
 
 ![Belfast](/content-images/group-images/belfast.jpg)

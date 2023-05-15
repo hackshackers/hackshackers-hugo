@@ -1,6 +1,6 @@
 ---
 title: Lima
-url: groups/lima
+url: /groups/lima
 ---
 
 ![HacksHackers Lima presentation](https://pbs.twimg.com/media/CKOpsxVWsAAr0rV?format=jpg&name=medium)

@@ -1,6 +1,6 @@
 ---
 title: Brisbane
-url: groups/brisbane
+url: /groups/brisbane
 ---
 
 ![HacksHackers Brisbane presentation](https://pbs.twimg.com/profile_banners/883295768/1489629664/1500x500)

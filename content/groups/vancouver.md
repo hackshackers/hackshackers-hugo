@@ -1,6 +1,6 @@
 ---
 title: Vancouver
-url: groups/vancouver
+url: /groups/vancouver
 ---
 
 ![HacksHackers Vancouver reboot](https://phillipadsmith.com/files/hhyvr-feb26.jpg)

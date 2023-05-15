@@ -1,6 +1,6 @@
 ---
 title: Accra
-url: groups/accra
+url: /groups/accra
 ---
 
 ![accra wikicommons](https://upload.wikimedia.org/wikipedia/commons/b/b6/A_drone_footage_of_Accra_central%2C_Ghana.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Bogota
-url: groups/bogota
+url: /groups/bogota
 ---
 
 ![HacksHackers Bogota banner](https://pbs.twimg.com/profile_banners/2491642994/1401914723/1500x500)

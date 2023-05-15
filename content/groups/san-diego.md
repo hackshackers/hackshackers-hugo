@@ -1,6 +1,6 @@
 ---
 title: San Diego
-url: groups/san-diego
+url: /groups/san-diego
 ---
 
 ![San Diego wikicommons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/San_Diego_Reflecting_Pond.jpg/800px-San_Diego_Reflecting_Pond.jpg)

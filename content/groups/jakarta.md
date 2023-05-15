@@ -1,6 +1,6 @@
 ---
 title: Jakarta
-url: groups/jakarta
+url: /groups/jakarta
 ---
 
 ![hh jakarta](/.../content-images/group-images/jakarta.jpeg)

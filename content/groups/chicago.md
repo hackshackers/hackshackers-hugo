@@ -1,6 +1,6 @@
 ---
 title: Chicago
-url: groups/chicago
+url: /groups/chicago
 ---
 
 ![Chicago Meetup](https://secure.meetupstatic.com/photos/event/5/b/5/6/highres_127283382.jpeg)

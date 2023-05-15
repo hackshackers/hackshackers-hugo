@@ -1,6 +1,6 @@
 ---
 title: St. Louis
-url: groups/st-louis
+url: /groups/st-louis
 ---
 
 ![St. Louis Skyline](https://upload.wikimedia.org/wikipedia/commons/d/de/St_Louis_night_expblend.jpg)

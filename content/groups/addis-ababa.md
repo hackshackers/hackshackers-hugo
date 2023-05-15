@@ -1,6 +1,6 @@
 ---
 title: Addis Ababa
-url: groups/addis-ababa
+url: /groups/addis-ababa
 ---
 
 ![addis wikicommons](https://upload.wikimedia.org/wikipedia/commons/e/e1/Addis_Ababa_by_night_activity.jpg)

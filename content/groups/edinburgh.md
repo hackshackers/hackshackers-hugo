@@ -1,6 +1,6 @@
 ---
 title: Edinburgh
-url: groups/edinburgh
+url: /groups/edinburgh
 ---
 
 ![HacksHackers Scotland](https://secure.meetupstatic.com/photos/event/c/a/9/e/600_478431870.jpeg)

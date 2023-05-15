@@ -1,6 +1,6 @@
 ---
 title: New Orleans
-url: groups/new-orleans
+url: /groups/new-orleans
 ---
 
 ![HacksHackers New Orleans logo](/../content-images/group-images/New-Orleans.png)

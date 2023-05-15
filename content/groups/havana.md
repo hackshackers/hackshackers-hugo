@@ -1,6 +1,6 @@
 ---
 title: Havana
-url: groups/havana
+url: /groups/havana
 ---
 
 ![Havana Street](https://secure.meetupstatic.com/photos/event/1/8/3/9/highres_461526201.jpeg)

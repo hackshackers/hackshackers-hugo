@@ -1,6 +1,6 @@
 ---
 title: How to Donate
-url: about/donate
+url: /about/donate
 published: true
 ---
 

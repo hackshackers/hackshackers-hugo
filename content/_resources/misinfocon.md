@@ -1,6 +1,6 @@
 ---
 title: MisinfoCon
-url: resources/misinfocon
+url: /resources/misinfocon
 ---
 ![misinfocon-logo](/content-images/resources/misinfocon_black.png)
 

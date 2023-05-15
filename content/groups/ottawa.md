@@ -1,6 +1,6 @@
 ---
 title: Ottawa
-url: groups/ottawa
+url: /groups/ottawa
 ---
 
 ![Ottawa Skyline](https://upload.wikimedia.org/wikipedia/commons/f/f1/Ottawa_Skyline_June_2019.jpg)

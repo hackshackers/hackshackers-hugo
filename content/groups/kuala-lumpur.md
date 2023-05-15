@@ -1,6 +1,6 @@
 ---
 title: Kuala Lumpur
-url: groups/kuala-lumpur
+url: /groups/kuala-lumpur
 ---
 
 ![HacksHackers Kuala Lumpur presentation](https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/20622287_487999311536588_3027573968312501466_n.png?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=zfOMb5CgQtgAX88xhnn&_nc_ht=scontent-atl3-2.xx&oh=bac897a16145acd040b60f6559c07eb0&oe=61CC76C2)

@@ -1,6 +1,6 @@
 ---
 title: Shanghai
-url: groups/shanghai
+url: /groups/shanghai
 ---
 
 ![HacksHackers Shanghai](https://upload.wikimedia.org/wikipedia/commons/6/64/Shanghai_skyline_from_the_bund.jpg)

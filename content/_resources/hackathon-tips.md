@@ -1,6 +1,6 @@
 ---
 title: Hackathon Tips
-url: resources/hackathon-tips
+url: /resources/hackathon-tips
 authors: Cindy Royal
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: San Jose
-url: groups/san-jose
+url: /groups/san-jose
 ---
 
 ![HacksHackers San Jose event](https://pbs.twimg.com/media/BO2vTN6CAAAdv5v?format=jpg&name=medium)

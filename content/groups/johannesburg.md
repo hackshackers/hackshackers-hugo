@@ -1,6 +1,6 @@
 ---
 title: Johannesburg
-url: groups/johannesburg
+url: /groups/johannesburg
 ---
 
 ![HacksHackers JHB presentation](https://pbs.twimg.com/media/EH9BUrZWkAEnW7F?format=jpg&name=large)
