@@ -1,6 +1,6 @@
 ---
 title: Milan
-url: groups/milan
+url: /groups/milan
 ---
 
 ![HacksHackers milan](https://pbs.twimg.com/media/Axi8nA7CEAATH-a?format=jpg&name=medium)

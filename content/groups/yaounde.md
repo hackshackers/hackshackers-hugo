@@ -1,6 +1,6 @@
 ---
 title: Yaounde
-url: groups/yaounde
+url: /groups/yaounde
 ---
 
 ![HacksHackers Yaounde](https://upload.wikimedia.org/wikipedia/commons/1/10/Yaound%C3%A9_1.jpg)

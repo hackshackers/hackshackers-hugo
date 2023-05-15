@@ -1,6 +1,6 @@
 ---
 title: DC
-url: groups/dc
+url: /groups/dc
 ---
 
 ![HacksHackers DC group photo](https://secure.meetupstatic.com/photos/event/5/7/9/4/highres_488602420.jpeg)

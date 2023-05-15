@@ -1,6 +1,6 @@
 ---
 title: Boston
-url: groups/boston
+url: /groups/boston
 ---
 
 ![HacksHackers Boston meetup](https://secure.meetupstatic.com/photos/event/3/2/5/2/highres_372912882.jpeg)

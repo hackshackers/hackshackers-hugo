@@ -1,6 +1,6 @@
 ---
 title: Toronto
-url: groups/toronto
+url: /groups/toronto
 ---
 
 ![Toronto Skyline](https://upload.wikimedia.org/wikipedia/commons/6/65/Toronto_Skyline_Summer_2020.jpg)

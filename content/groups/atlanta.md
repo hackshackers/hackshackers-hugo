@@ -1,6 +1,6 @@
 ---
 title: Atlanta
-url: groups/atlanta
+url: /groups/atlanta
 ---
 
 ![Atlanta skyline](https://upload.wikimedia.org/wikipedia/commons/2/26/Atlanta_skyline.jpg)

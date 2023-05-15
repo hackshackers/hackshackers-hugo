@@ -1,6 +1,6 @@
 ---
 title: Brighton
-url: groups/brighton
+url: /groups/brighton
 ---
 
 ![HacksHackers Brighton Event](https://pbs.twimg.com/media/Aw5SJsJCMAIJ497?format=jpg&name=900x900)

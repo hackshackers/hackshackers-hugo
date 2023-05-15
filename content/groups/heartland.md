@@ -1,6 +1,6 @@
 ---
 title: Heartland
-url: groups/heartland
+url: /groups/heartland
 ---
 
 ![Omaha Skyline](https://raw.githubusercontent.com/hackshackers/hackshackers-hugo/master/content/content-images/group-images/omaha.jpg)

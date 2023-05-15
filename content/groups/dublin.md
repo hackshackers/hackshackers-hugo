@@ -1,6 +1,6 @@
 ---
 title: Dublin
-url: groups/dublin
+url: /groups/dublin
 ---
 
 ![HacksHackers Dublin panel](https://pbs.twimg.com/media/DsjWVbxWsAANP_y?format=jpg&name=large)

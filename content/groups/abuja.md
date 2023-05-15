@@ -1,6 +1,6 @@
 ---
 title: Abuja
-url: groups/abuja
+url: /groups/abuja
 ---
 
 ![Abuja Skyline](https://upload.wikimedia.org/wikipedia/commons/9/9b/Abuja_Nightlife.jpg)

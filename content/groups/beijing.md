@@ -1,6 +1,6 @@
 ---
 title: Beijing
-url: groups/beijing
+url: /groups/beijing
 ---
 
 ![Beijing Skyline](https://upload.wikimedia.org/wikipedia/commons/6/64/Beijing_skyline_from_northeast_4th_ring_road.jpg)

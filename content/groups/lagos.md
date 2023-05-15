@@ -1,6 +1,6 @@
 ---
 title: Lagos
-url: groups/lagos
+url: /groups/lagos
 ---
 
 ![Lagos](/content-images/group-images/hacks-hackers-nigeria.jpeg)

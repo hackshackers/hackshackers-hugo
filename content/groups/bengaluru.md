@@ -1,6 +1,6 @@
 ---
 title: Bengaluru
-url: groups/bengaluru
+url: /groups/bengaluru
 ---
 
 ![HacksHackers India logo](https://pbs.twimg.com/media/DJRyq3bUMAAKsLP?format=jpg&name=large)

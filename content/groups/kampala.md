@@ -1,6 +1,6 @@
 ---
 title: Kampala
-url: groups/kampala
+url: /groups/kampala
 ---
 
 ![HacksHackers Kampala](/content-images/group-images/kampala.jpeg)

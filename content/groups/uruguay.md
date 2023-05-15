@@ -1,6 +1,6 @@
 ---
 title: Uruguay
-url: groups/uruguay
+url: /groups/uruguay
 ---
 
 ![HacksHackers Uruguay event](https://secure.meetupstatic.com/photos/event/1/5/4/2/highres_372365442.jpeg)

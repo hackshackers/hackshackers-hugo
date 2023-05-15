@@ -1,6 +1,6 @@
 ---
 title: La Paz
-url: groups/la-paz
+url: /groups/la-paz
 ---
 
 ![HacksHackers La Paz Event](https://pbs.twimg.com/media/BptVYy8IgAAp8CK?format=jpg&name=medium)

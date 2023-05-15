@@ -1,6 +1,6 @@
 ---
 title: Rome
-url: groups/rome
+url: /groups/rome
 ---
 
 ![Rome banner](https://secure.meetupstatic.com/photos/event/1/3/8/8/clean_468665000.jpeg)

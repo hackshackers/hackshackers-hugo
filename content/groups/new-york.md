@@ -1,6 +1,6 @@
 ---
 title: New York
-url: groups/new-york
+url: /groups/new-york
 ---
 
 ![HacksHackers New York event](https://pbs.twimg.com/media/CrtalO9XgAATwmY?format=jpg&name=medium)

@@ -1,6 +1,6 @@
 ---
 title: Seattle
-url: groups/seattle
+url: /groups/seattle
 ---
 
 ![HacksHackers Seattle event](https://secure.meetupstatic.com/photos/event/a/e/3/1/highres_22364593.jpeg)

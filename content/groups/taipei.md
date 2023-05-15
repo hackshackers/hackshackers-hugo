@@ -1,6 +1,6 @@
 ---
 title: Taipei
-url: groups/taipei
+url: /groups/taipei
 ---
 
 ![HacksHackers Taipei event](https://pbs.twimg.com/media/EL1YZRjU4AAyTIw?format=jpg&name=large)

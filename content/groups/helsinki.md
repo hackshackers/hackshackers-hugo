@@ -1,6 +1,6 @@
 ---
 title: Helsinki
-url: groups/helsinki
+url: /groups/helsinki
 ---
 
 ![HacksHackers Helsinki Event](https://pbs.twimg.com/media/BgNTa7CIQAAkZDc?format=jpg&name=medium)

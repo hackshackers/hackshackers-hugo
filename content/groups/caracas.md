@@ -1,6 +1,6 @@
 ---
 title: Caracas
-url: groups/caracas
+url: /groups/caracas
 ---
 
 ![HacksHackers Caracas group photo](https://pbs.twimg.com/media/C4a3qXZXUAA9YIZ?format=jpg&name=large)

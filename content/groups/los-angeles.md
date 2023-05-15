@@ -1,6 +1,6 @@
 ---
 title: Los Angeles
-url: groups/los-angeles
+url: /groups/los-angeles
 ---
 
 ![HacksHackers Los Angeles Event](https://pbs.twimg.com/media/CURZOJxUsAADMee?format=jpg&name=medium)

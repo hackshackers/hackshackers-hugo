@@ -1,6 +1,6 @@
 ---
 title: Start A Group
-url: resources/start-a-group
+url: /resources/start-a-group
 ---
 So you want to start a Hacks/Hackers group of your own? Welcome! To start a group under the Hacks/Hackers banner, we just have a few rules:
 

@@ -1,6 +1,6 @@
 ---
 title: Portland
-url: groups/portland
+url: /groups/portland
 ---
 
 ![portland](https://cdn.pixabay.com/photo/2017/05/29/02/27/portland-2352754_960_720.jpg)

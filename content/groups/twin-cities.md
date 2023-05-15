@@ -1,6 +1,6 @@
 ---
 title: Twin Cities
-url: groups/twin-cities
+url: /groups/twin-cities
 ---
 
 ![MSP](https://www.goodfreephotos.com/albums/united-states/minnesota/minneapolis-st.-paul/minnesota-river-through-the-city.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Beirut
-url: groups/beirut
+url: /groups/beirut
 ---
 
 ![Beirut photo](/content-images/group-images/beirut.jpg)

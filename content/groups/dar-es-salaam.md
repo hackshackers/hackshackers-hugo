@@ -1,6 +1,6 @@
 ---
 title: Dar es Salaam
-url: groups/dar-es-salaam
+url: /groups/dar-es-salaam
 ---
 
 ![HacksHackers dar es salaam](/content-images/group-images/dar%20es%20salaam.jpeg)

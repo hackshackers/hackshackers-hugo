@@ -1,6 +1,6 @@
 ---
 title: Mendoza
-url: groups/mendoza
+url: /groups/mendoza
 ---
 
 ![HacksHackers Mendoza event](https://pbs.twimg.com/media/CxjZBvKXEAAkWgp?format=jpg&name=medium)

@@ -1,6 +1,6 @@
 ---
 title: La Plata
-url: groups/la-plata
+url: /groups/la-plata
 ---
 
 ![La Plata Aerial](https://upload.wikimedia.org/wikipedia/commons/f/fd/La_Plata_desde_el_Aire.jpg)

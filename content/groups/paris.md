@@ -1,6 +1,6 @@
 ---
 title: Paris
-url: groups/paris
+url: /groups/paris
 ---
 
 ![HacksHackers Paris Event](https://pbs.twimg.com/media/ChEbRxKW4AUmD5d?format=jpg&name=large)

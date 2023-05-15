@@ -1,6 +1,6 @@
 ---
 title: Rochester
-url: groups/rochester
+url: /groups/rochester
 ---
 
 ![Rochester Skyline](https://upload.wikimedia.org/wikipedia/commons/d/d9/Rochester_NY_Skyline.jpg)

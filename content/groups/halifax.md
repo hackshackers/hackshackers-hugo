@@ -1,6 +1,6 @@
 ---
 title: Halifax
-url: groups/halifax
+url: /groups/halifax
 ---
 
 ![HacksHackers Halifax Event](https://pbs.twimg.com/media/CtH41kIUsAA-I2P?format=jpg&name=large)

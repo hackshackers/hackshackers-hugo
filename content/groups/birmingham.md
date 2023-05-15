@@ -1,6 +1,6 @@
 ---
 title: Birmingham
-url: groups/birmingham
+url: /groups/birmingham
 ---
 
 ![HacksHackers Birmingham logo](https://pbs.twimg.com/media/CQfA-OdWoAAP8XO?format=png&name=4096x4096)

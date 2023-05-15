@@ -1,6 +1,6 @@
 ---
 title: San Francisco
-url: groups/san-francisco
+url: /groups/san-francisco
 ---
 
 ![HacksHackers San Francisco event](https://secure.meetupstatic.com/photos/event/7/e/4/2/highres_18512322.jpeg)

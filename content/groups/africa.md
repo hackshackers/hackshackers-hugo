@@ -1,6 +1,6 @@
 ---
 title: Africa
-url: groups/africa
+url: /groups/africa
 ---
 
 ![HacksHackers Africa logo](/content-images/group-images/africa.jpeg)

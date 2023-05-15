@@ -1,6 +1,6 @@
 ---
 title: Singapore
-url: groups/singapore
+url: /groups/singapore
 ---
 
 ![HacksHackers Singapore logo](https://pbs.twimg.com/profile_banners/3194842794/1489242434/1500x500)

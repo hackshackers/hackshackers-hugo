@@ -1,6 +1,6 @@
 ---
 title: Santiago
-url: groups/santiago
+url: /groups/santiago
 ---
 
 ![HacksHackers Santiago event](https://secure.meetupstatic.com/photos/event/a/c/d/c/highres_253904252.jpeg)

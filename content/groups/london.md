@@ -1,6 +1,6 @@
 ---
 title: London
-url: groups/london
+url: /groups/london
 ---
 
 ![HacksHackers London logo](https://static.wixstatic.com/media/5b672e_ca1fa479d25e4c4b9dc47d276d60d0b2~mv2.jpg/v1/fill/w_1200,h_525,al_c,q_85/5b672e_ca1fa479d25e4c4b9dc47d276d60d0b2~mv2.webp)

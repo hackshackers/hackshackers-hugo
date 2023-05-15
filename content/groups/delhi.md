@@ -1,6 +1,6 @@
 ---
 title: Delhi
-url: groups/delhi
+url: /groups/delhi
 ---
 
 ![HacksHackers India logo](https://pbs.twimg.com/media/DJRyq3bUMAAKsLP?format=jpg&name=large)

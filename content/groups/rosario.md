@@ -1,6 +1,6 @@
 ---
 title: Rosario
-url: groups/rosario
+url: /groups/rosario
 ---
 
 ![HacksHackers Rosario event](https://secure.meetupstatic.com/photos/event/b/b/5/0/highres_244847952.jpeg)

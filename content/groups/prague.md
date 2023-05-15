@@ -1,6 +1,6 @@
 ---
 title: Prague
-url: groups/prague
+url: /groups/prague
 ---
 
 ![HacksHackers Prague event](https://secure.meetupstatic.com/photos/event/d/1/8/0/highres_353813632.jpeg)

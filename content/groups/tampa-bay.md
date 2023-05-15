@@ -1,6 +1,6 @@
 ---
 title: Tampa Bay
-url: groups/tampa-bay
+url: /groups/tampa-bay
 ---
 
 ![Tampa Skyline](https://upload.wikimedia.org/wikipedia/commons/5/5c/Downtowntampa08.jpg)

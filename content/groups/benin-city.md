@@ -1,6 +1,6 @@
 ---
 title: Benin City
-url: groups/benin-city
+url: /groups/benin-city
 ---
 
 ![Benin](https://upload.wikimedia.org/wikipedia/commons/8/8f/Areal_view_of_the_ancient_city_of_Benin.jpg) 

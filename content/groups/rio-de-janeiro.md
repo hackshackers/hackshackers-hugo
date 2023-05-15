@@ -1,6 +1,6 @@
 ---
 title: Rio de Janeiro
-url: groups/rio-de-janeiro
+url: /groups/rio-de-janeiro
 ---
 
 ![HacksHackers Rio event](https://secure.meetupstatic.com/photos/event/6/2/6/6/highres_462985190.jpeg)

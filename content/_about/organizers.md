@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-url: about/organizers
+url: /about/organizers
 ---
 
 ## Board Members

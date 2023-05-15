@@ -1,6 +1,6 @@
 ---
 title: Syracuse
-url: groups/syracuse
+url: /groups/syracuse
 ---
 
 ![Syracuse Downtown](https://upload.wikimedia.org/wikipedia/commons/8/8b/Syracuse_NY_downtown.jpg)

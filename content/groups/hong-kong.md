@@ -1,6 +1,6 @@
 ---
 title: Hong Kong
-url: groups/hong-kong
+url: /groups/hong-kong
 ---
 
 ![HacksHackers Hong Kong Event](https://pbs.twimg.com/media/CtRx_9kUEAAAjKX?format=jpg&name=large)

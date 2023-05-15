@@ -1,6 +1,6 @@
 ---
 title: History
-url: about/history
+url: /about/history
 published: true
 ---
 The roots of Hacks/Hackers were planted in 2009, based on the interests of three people interested in the intersection of journalism and technology.

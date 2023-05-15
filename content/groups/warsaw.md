@@ -1,6 +1,6 @@
 ---
 title: Warsaw
-url: groups/warsaw
+url: /groups/warsaw
 ---
 
 ![HacksHackers Warsaw logo](https://secure.meetupstatic.com/photos/event/a/8/b/f/highres_458263199.jpeg)

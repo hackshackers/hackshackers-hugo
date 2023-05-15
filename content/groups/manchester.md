@@ -1,6 +1,6 @@
 ---
 title: Manchester
-url: groups/manchester
+url: /groups/manchester
 ---
 
 ![HacksHackers Manchester Presentation](https://pbs.twimg.com/media/DKKnvwHWkAASDL7?format=jpg&name=4096x4096)

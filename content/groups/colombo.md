@@ -1,6 +1,6 @@
 ---
 title: Colombo
-url: groups/colombo
+url: /groups/colombo
 ---
 
 ![Colombo Skyline](https://upload.wikimedia.org/wikipedia/commons/5/57/UG-LK_Photowalk_-_Colombo_Skyline_-_2017-03-12_%284%29.jpg)

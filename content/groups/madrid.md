@@ -1,6 +1,6 @@
 ---
 title: Madrid
-url: groups/madrid
+url: /groups/madrid
 ---
 
 ![HacksHackers Madrid Event](https://pbs.twimg.com/media/BENvG8cCUAAwGFL?format=jpg&name=medium)

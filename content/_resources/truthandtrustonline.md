@@ -1,6 +1,6 @@
 ---
 title: Truth and Trust Online
-url: resources/truthandtrustonline
+url: /resources/truthandtrustonline
 ---
 ![](https://i1.wp.com/truthandtrustonline.com/wp-content/uploads/2019/06/tto-colour-e1565295551864.png?fit=638%2C287&ssl=1)
 

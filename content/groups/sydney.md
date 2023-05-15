@@ -1,6 +1,6 @@
 ---
 title: Sydney
-url: groups/sydney
+url: /groups/sydney
 ---
 
 ![HacksHackers Sydney Event](https://pbs.twimg.com/media/BKX8SfsCUAEeJiA?format=jpg&name=medium)

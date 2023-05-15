@@ -1,6 +1,6 @@
 ---
 title: Munich
-url: groups/munich
+url: /groups/munich
 ---
 
 ![Munich](https://pbs.twimg.com/media/CzF9wOAXAAolaoX?format=jpg&name=medium)

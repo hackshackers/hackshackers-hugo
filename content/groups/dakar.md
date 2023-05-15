@@ -1,6 +1,6 @@
 ---
 title: Dakar
-url: groups/dakar
+url: /groups/dakar
 ---
 
 ![Dakar](/content-images/group-images/dakar.jpeg)

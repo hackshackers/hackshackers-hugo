@@ -1,6 +1,6 @@
 ---
 title: Tokyo
-url: groups/tokyo
+url: /groups/tokyo
 ---
 
 ![HacksHackers New Orleans logo](https://pbs.twimg.com/media/CQOpcimVEAATG2s?format=jpg&name=medium)

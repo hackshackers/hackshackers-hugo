@@ -1,6 +1,6 @@
 ---
 title: Guatemala
-url: groups/guatemala
+url: /groups/guatemala
 ---
 
 ![HacksHackers Guatemala Event](https://pbs.twimg.com/media/Bpio7IrIcAEoGWY?format=jpg&name=medium)

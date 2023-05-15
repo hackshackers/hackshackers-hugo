@@ -1,6 +1,6 @@
 ---
 title: Venezia
-url: groups/venice
+url: /groups/venice
 ---
 
 ![HacksHackers Venezia event](https://pbs.twimg.com/media/Ch3nNkfXEAABgek?format=jpg&name=large)
