@@ -16,9 +16,11 @@ View our disclosures by year:
 
 Hacks/Hackers is a registered 501(c)(3) non-profit corporation. Our EIN is 45-5351484. Additional financial information can be found on www.guidestar.org or by contacting [donate@hackshackers.com](mailto:donate@hackshackers.com).
 
-## Donate to the Hacks/Hackers Unrestricted Fund Via PayPal
+## Support Hacks/Hackers Via PayPal
 
-You can donate to the Hacks/Hackers unrestricted fund so it is used wherever Hacks/Hackers needs it the most. If you would like to give to a specific project, please contact [donate@hackshackers.com](mailto:donate@hackshackers.com).
+Hacks/Hackers is at the forefront of shaping the future of credible media and journalism. Since 2009, we have connected industries and organizations to improve the quality of the information on which healthy democracies rely and support actionable efforts that prioritize our core values of inclusion, collegiality, collaboration, and delivering genuine value with our projects. Your gift will increase Hacks/Hackers capacity to support emerging and impactful projects. Thank you for helping to strengthen the trustworthiness of information at every level of the media ecosystem: journalism, platforms, communities, verification, fact checking, and reader experience. 
+
+If you would like to give to a specific project, please contact [donate@hackshackers.com](mailto:donate@hackshackers.com).
 
 {{< paypal >}}
 
