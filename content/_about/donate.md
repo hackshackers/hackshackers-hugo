@@ -10,6 +10,9 @@ Hacks/Hackers is committed to being transparent and accountable regarding the re
 
 View our disclosures by year:
 
+
+[2021](https://www.hackshackers.com/content-images/about/Hacks_Hackers_2021_990.pdf)  
+[2020](https://www.hackshackers.com/content-images/about/Hacks_Hackers_2020_990.pdf)  
 [2019](https://www.hackshackers.com/content-images/about/Hacks_Hackers_2019_990.pdf)  
 [2018](https://www.hackshackers.com/content-images/about/Hacks_Hackers_2018_990.pdf)  
 [2017](https://www.hackshackers.com/content-images/about/Hacks_Hackers_2017_990.pdf) 
