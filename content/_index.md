@@ -7,3 +7,5 @@ Hacks/Hackers is an international grassroots community of people who seek to ins
 "Hacks" (journalists) and "hackers" (technologists) work together to create physical and digital spaces for exploring new ways to tell stories. We help members find collaborators for projects and new ventures, and share information and code. We bring together startups and large companies working in media, defined broadly.
 
 We believe the open flow of information is essential to democratic society and seek to ensure that the watchdog function journalists have fulfilled continues to exist, regardless of the institutions that have played that role in the past.
+
+Hacks/Hackers has achieved the Gold Seal for Transparency with Guidestar, the leading database for charitable giving.
