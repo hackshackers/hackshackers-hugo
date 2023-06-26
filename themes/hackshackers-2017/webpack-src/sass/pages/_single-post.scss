@@ -223,6 +223,22 @@
 	color: $color-white;
 	font-size: 13px;
 	margin-bottom: $spacer-large;
+	&:hover {
+		background-color: $color-blue-water;
+	}
+}
+
+.link-donate-button {
+	position: relative;
+	background-color: $color-black;
+	width: 122px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	height: 30px;
+	color: $color-white;
+	font-size: 13px;
+	margin-bottom: $spacer-large;
 
 	&:hover {
 		background-color: $color-blue-water;

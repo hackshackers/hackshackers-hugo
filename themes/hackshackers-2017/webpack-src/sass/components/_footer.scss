@@ -35,10 +35,15 @@
 }
 
 .footer-social {
+	display: inline-flex;
+	@media #{$breakpoint-mobile} {	
+		display: none;
+	}
 	li {
 		display: inline-block;
 		&:not(:first-of-type) {
 			margin-left: 20px;
+			margin-right: 20px;
 		}
 
 		a {
