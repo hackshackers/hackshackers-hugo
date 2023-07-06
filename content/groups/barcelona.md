@@ -5,9 +5,7 @@ url: /groups/barcelona
 
 ![HacksHackers Barcelona panel](https://pbs.twimg.com/media/C98jSTdXoAAxnTW?format=jpg&name=medium)
 
-Reiniciando el periodisme!
-
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Barcelona/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBCN).
+Reiniciando el periodisme! Join us on [Twitter](https://twitter.com/HacksHackersBCN).
 
 {{< tweet id="1328625708189560832" width=80% >}}
 
