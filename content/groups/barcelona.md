@@ -11,8 +11,5 @@ Reiniciando el periodisme! Join us on [Twitter](https://twitter.com/HacksHackers
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| April 2017 | [Hacks/Hackers Media Disruption](https://www.meetup.com/Hacks-Hackers-Barcelona/events/238722213/) |
-| February 2017 | [Hacks/Hackers Barcelona et convida a 4YFN!!](https://www.meetup.com/Hacks-Hackers-Barcelona/events/237926787/) |   
-| December 2016 | [Vermutillo de ciberseguridad para periodistas y afines (I)](https://www.meetup.com/Hacks-Hackers-Barcelona/events/236135362/) |
+[Digital Rights and Open Source with Mozilla](https://twitter.com/HacksHackersBCN/status/901723506978775040/photo/1)
+[Factchecking with Google](https://twitter.com/HacksHackersBCN/status/855465978775449600)
