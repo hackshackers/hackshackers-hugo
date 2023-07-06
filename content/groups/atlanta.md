@@ -3,7 +3,7 @@ title: Atlanta
 url: /groups/atlanta
 ---
 
-![Atlanta skyline](https://upload.wikimedia.org/wikipedia/commons/2/26/Atlanta_skyline.jpg)
+![Atlanta logo](https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/300382057_396016295973921_844884964209771996_n.jpg)
 
 Help us build the future of media in Atlanta! Join us on [Twitter](https://twitter.com/HacksHackersATL) and [Facebook](https://www.facebook.com/HacksHackersATL).
 
