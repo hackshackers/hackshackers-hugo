@@ -5,9 +5,7 @@ url: /groups/atlanta
 
 ![Atlanta skyline](https://upload.wikimedia.org/wikipedia/commons/2/26/Atlanta_skyline.jpg)
 
-Help us build the future of media in Atlanta!
-
-Join us on **[Meetup.com](https://www.meetup.com/HacksHackersATL/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersATL) and [Facebook](https://www.facebook.com/HacksHackersATL).
+Help us build the future of media in Atlanta! Join us on [Twitter](https://twitter.com/HacksHackersATL) and [Facebook](https://www.facebook.com/HacksHackersATL).
 
 {{< tweet 696698381876461569>}}
 
