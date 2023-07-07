@@ -13,5 +13,5 @@ Join us on on [Twitter](https://twitter.com/HacksHackersIN) and [Facebook](https
 
 # Past Highlights
 
-[What Journalists Should Know About Code](https://twitter.com/cyrilsam/status/952858424890372098)
-[Reading balance sheets for news](https://twitter.com/iamkunran/status/928942886355382272)
+* [What Journalists Should Know About Code](https://twitter.com/cyrilsam/status/952858424890372098)
+* [Reading balance sheets for news](https://twitter.com/iamkunran/status/928942886355382272)
