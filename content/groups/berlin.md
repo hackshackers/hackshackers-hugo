@@ -13,8 +13,6 @@ Join us on **[Google Groups](https://groups.google.com/forum/#!forum/hhber-organ
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| March 2020 | [Audience, community & memberships](https://www.meetup.com/Hacks-Hackers-Berlin/events/268982631/) |
-| January 2020 | [Data journalism special: Meet the Dataship fellows](https://www.meetup.com/Hacks-Hackers-Berlin/events/267772121/) |   
-| December 2019 | [Christmas special: Drinks at Das Gift](https://www.meetup.com/de-DE/Hacks-Hackers-Berlin/events/266832435/) |
+* [Diversity issues in the media](https://twitter.com/sjockers/status/1386608291229446144)
+* [COVID-19 and Us](https://twitter.com/HacksHackersBER/status/1368629965189754884)
+* [Audience engagement, community building, and memberships](https://twitter.com/correctiv_org/status/1234504802853359616)
