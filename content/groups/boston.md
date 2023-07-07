@@ -11,8 +11,5 @@ We're bringing journalists and technology together to make things happen! Join u
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| March 2020 | [Computation + Journalism Symposium 2020](https://www.meetup.com/hackshackersboston/events/266558019/) |
-| December 2019 | [Code for Boston Demo Night 2019](https://www.meetup.com/hackshackersboston/events/266385319/) |   
-| October 2019 | [Getting Smarter about Visual Information with Albert Cairo](https://www.meetup.com/hackshackersboston/events/265350976/) |
+* [Designing Cards for Everyone: Enabling Posts Across Sites and Platforms](https://twitter.com/hackshackersbos/status/442999534575046656)
+* [Baseball hackathon at the Boston Globe](https://twitter.com/hackshackersbos/status/437990707903885312)
