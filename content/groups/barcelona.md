@@ -11,5 +11,5 @@ Reiniciando el periodisme! Join us on [Twitter](https://twitter.com/HacksHackers
 
 # Past Highlights
 
-[Digital Rights and Open Source with Mozilla](https://twitter.com/HacksHackersBCN/status/901723506978775040/photo/1)
-[Factchecking with Google](https://twitter.com/HacksHackersBCN/status/855465978775449600)
+* [Digital Rights and Open Source with Mozilla](https://twitter.com/HacksHackersBCN/status/901723506978775040/photo/1)
+* [Factchecking with Google](https://twitter.com/HacksHackersBCN/status/855465978775449600)
