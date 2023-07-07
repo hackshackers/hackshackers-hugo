@@ -13,8 +13,5 @@ Join us on [Twitter](https://twitter.com/hackshackersccs).
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| July 2017 | [Charla/Taller Design Thinking: diseño centrado en las personas](https://www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas/events/241151651/) |
-| February 2017 | [Mini taller: introducción al scraping con Python (Data party)](https://www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas/events/237254005/) |   
-| October 2016 | [Data&Tequeños](https://www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas/events/234249929/) |
+* [Chat on design thinking](https://twitter.com/hackshackersccs/status/882077701561094144)
+* [#DataParty](https://twitter.com/hackshackersccs/status/830553142186110977)
