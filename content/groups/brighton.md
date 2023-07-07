@@ -11,8 +11,5 @@ Journalism x technology in Brighton! Join us on [Twitter](https://twitter.com/ha
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| March 2020 | [Hacks/Hackers Brighton is back - and we are going virtual!](https://www.meetup.com/Hacks-Hackers-Brighton/events/269181291/) |
-| June 2013 | [Hacks/Hackers Brighton June meetup: Mobile stories](https://www.meetup.com/Hacks-Hackers-Brighton/events/120317172/) |   
-| April 2013 | [Hackathon: Urban Prototyping, Imperial College](https://www.meetup.com/Hacks-Hackers-Brighton/events/106275372/) |
+* [Audience engagement and content monetization](https://twitter.com/fedecherubini/status/1235898234272444417)
+* [Free HTML course for journalists](https://twitter.com/HacksHackersBtn/status/263216939424444416)
