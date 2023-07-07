@@ -5,9 +5,7 @@ url: /groups/brighton
 
 ![HacksHackers Brighton Event](https://pbs.twimg.com/media/Aw5SJsJCMAIJ497?format=jpg&name=900x900)
 
-Journalism x technology in Brighton!
-
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Brighton/)**. We also share our events on [Twitter](https://twitter.com/hackshackersbtn?lang=en).
+Journalism x technology in Brighton! Join us on [Twitter](https://twitter.com/hackshackersbtn?lang=en).
 
 {{< tweet id="1235225161437196291" width=80% >}}
 
