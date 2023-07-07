@@ -5,9 +5,7 @@ url: /groups/bogota
 
 ![HacksHackers Bogota banner](https://pbs.twimg.com/profile_banners/2491642994/1401914723/1500x500)
 
-Changing the way we tell stories using journalism + tech!
-
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Bogota/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersBTA).
+Changing the way we tell stories using journalism + tech! Join us on [Twitter](https://twitter.com/HacksHackersBTA).
 
 {{< tweet id="1031593186773401601" width=80% >}}
 
