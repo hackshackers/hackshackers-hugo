@@ -7,7 +7,7 @@ url: /groups/caracas
 
 Bringing together journalists and technologists who are working to help people make sense of their world!
 
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Periodistas-y-Programadores-Caracas/)**. We also share our events on [Twitter](https://twitter.com/hackshackersccs).
+Join us on [Twitter](https://twitter.com/hackshackersccs).
 
 {{< tweet id="830553142186110977" width=80% >}}
 
