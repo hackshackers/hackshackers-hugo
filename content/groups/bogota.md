@@ -11,8 +11,5 @@ Changing the way we tell stories using journalism + tech! Join us on [Twitter](h
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| February 2018 | [¡A subir el costo de la mentira en elecciones!](https://www.meetup.com/Hacks-Hackers-Bogota/events/247110790/) |
-| August 2017 | [Datos y Guaros + Hacks & Hackers BOG + Chicas Poderosas](https://www.meetup.com/Hacks-Hackers-Bogota/events/242385799/) |   
-| August 2016 | [HackeaLaEducación](https://www.meetup.com/Hacks-Hackers-Bogota/events/233322512/) |
+* [Data visualization and cleaning workshop](https://twitter.com/HacksHackersBTA/status/654080853581107200/photo/1)
+* [#MediaFactoryBOG](https://twitter.com/HacksHackersBTA/status/628213966368579584/photo/1)
