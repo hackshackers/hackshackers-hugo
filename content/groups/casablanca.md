@@ -7,6 +7,4 @@ url: /groups/casablanca
 
 Help us build the future of media in Morocco!
 
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Casablanca/)**.
-
 ##### Photo from [WikiCommons](wikicommons.org).
