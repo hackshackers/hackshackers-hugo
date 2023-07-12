@@ -11,8 +11,6 @@ We bring together "hacks" (journalists) and "hackers" (technologists) in Sri Lan
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| July 2020 | [Facing the future: How can journalists use tech to take on challenges?](https://www.meetup.com/Hacks-Hackers-Colombo/events/272213098/) |
+* [Facing the future: How can journalists use tech to take on challenges?](https://twitter.com/HacksHackersCMB/status/1289208954770223106)
 
 ##### Photo from [WikiCommons](wikicommons.org).
