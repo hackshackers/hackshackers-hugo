@@ -11,8 +11,5 @@ Bringing journalists and technologists together! Join us on [Twitter](https://tw
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| September 2016 | [Hacks/Hackers Colorado & ONA Rocky Mountains #ONA16 Meetup](https://www.meetup.com/hackshackersco/events/230700183/) |
-| July 2016 | [Hacks/Hackers CO free workshop at Google Boulder](https://www.meetup.com/hackshackersco/events/231279927/) |   
-| May 2016 | [Hacks/Hackers CO & JAWS: Building social media relationships](https://www.meetup.com/hackshackersco/events/230726264/) |
+* [ONA Meetup](https://www.facebook.com/HacksHackersCO/posts/1174911262569487)
+* [Free workshop at Google Boulder](https://www.facebook.com/events/1616277562017741)
