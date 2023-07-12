@@ -5,9 +5,7 @@ url: /groups/colorado
 
 ![HacksHackers Colorado banner](https://pbs.twimg.com/profile_banners/275115772/1433981369/1500x500)
 
-Bringing journalists and technologists together!
-
-Join us on **[Meetup.com](https://www.meetup.com/hackshackersco/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersCO) and [Facebook](https://www.facebook.com/HacksHackersCO/).
+Bringing journalists and technologists together! Join us on [Twitter](https://twitter.com/HacksHackersCO) and [Facebook](https://www.facebook.com/HacksHackersCO/).
 
 {{< tweet id="1345378199119622145" width=80% >}}
 
