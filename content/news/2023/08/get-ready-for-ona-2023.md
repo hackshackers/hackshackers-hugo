@@ -20,7 +20,7 @@ The organization is also sponsoring [a resume drop](https://ona23.journalists.or
 
 
 
-* A study evaluating [the impact of Google News Initiative grants](https://gijn.org/2023/07/27/google-news-initiative-grants-africa-middle-east-mixed-results/) in Africa and the Middle East found that many projects resulted in "minimum viable products" due to challenges faced by newsrooms in these regions, including a lack of technical expertise, high hiring costs and reliance on third-party vendors
+* Want to prevent OpenAI from scraping your pages, or just track whether they are using your site to train ChatGPT? They have now shared [how their crawler can be identified](https://platform.openai.com/docs/gptbot), and potentially disallowed using robots.txt.
 * Two professors did a study [comparing New York Times headlines from the wars in Yemen and Ukraine](https://www.niemanlab.org/2023/08/in-news-headlines-some-civilian-casualties-are-more-valuable-than-others/), and found a bias that emphasizes Ukraine's crisis due to U.S. interests, while Yemen's suffering caused by the Saudi-led coalition is downplayed and obscured.
 * Poynter talked with local newsrooms to see [how they’re using AI in their newsrooms](https://www.poynter.org/tech-tools/2023/how-some-local-newsrooms-are-using-ai/), and they’re experimenting with automating tasks like scanning for typos, summarizing stories and analyzing tone among others. 
 
