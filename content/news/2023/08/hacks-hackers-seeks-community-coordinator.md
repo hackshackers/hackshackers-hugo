@@ -1,10 +1,10 @@
-**Community Coordinator**
-
-Hacks/Hackers, ARTT
+---
+Title: Hacks/Hackers seeks Community Coordinator
+---
 
 **<span style="text-decoration:underline;">Background</span>**
 
-Hacks/Hackers is a global network of local grassroots organizations, and a community of journalists and technologists who collaborate to create physical and digital community to explore new ways to tell stories. The Community Coordinator will serve on the NSF Analysis and Response for Trust Tool (ARTT) project. This is an inherently dynamic project, in which roles will be defined and refined often especially in the early part of the project. 
+Hacks/Hackers is a global network of local grassroots organizations, and a community of journalists and technologists who collaborate to create physical and digital community to explore new ways to tell stories. The Community Coordinator will serve on the NSF Analysis and Response for Toolkit for Trust (ARTT) project. This is an inherently dynamic project, in which roles will be defined and refined often especially in the early part of the project. 
 
 **<span style="text-decoration:underline;">Position Overview</span>**
 
