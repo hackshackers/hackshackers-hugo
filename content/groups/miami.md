@@ -7,15 +7,12 @@ url: /groups/miami
 
 Bringing journalists, designers and developers together!
 
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Miami/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersMIA) and [Facebook](https://www.facebook.com/groups/552778958178936).
+Join us on [Twitter](https://twitter.com/HacksHackersMIA) and [Facebook](https://www.facebook.com/groups/552778958178936).
 
 {{< tweet id="808500673235054593" width=80% >}}
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| December 2018 | [Facebook's Cutting-Edge Efforts in Latin America](https://www.meetup.com/Hacks-Hackers-Miami/events/257024031/) |
-| November 2018 | [NBCUniversal Hackathon: Leverage Tech for Storytelling and Community Engagement](https://www.meetup.com/Hacks-Hackers-Miami/events/255557542/) | 
-| October 2018 | [Code for Miami Open Hack Night](https://www.meetup.com/Hacks-Hackers-Miami/events/gkqctpyxnbdc/) |
-
+* [Meetup with Code for Miami and Frontend Miami](https://twitter.com/rsm/status/808500673235054593)
+* [#openhackmia](https://twitter.com/jmm/status/808467726159216640)
+* [Learning about VR](https://twitter.com/HacksHackersMIA/status/798326798517993472)
