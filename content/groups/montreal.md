@@ -7,14 +7,12 @@ url: /groups/montreal
 
 A gathering of MTL journalists and programmers!
 
-Join us on **[Meetup.com](https://www.meetup.com/HacksHackersMontreal/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersMTL) and [Facebook](https://www.facebook.com/HacksHackersMtl/).
+Join us on [Twitter](https://twitter.com/HacksHackersMTL) and [Facebook](https://www.facebook.com/HacksHackersMtl/).
 
 {{< tweet id="1204061675290333184" width=80% >}}
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| November 2019 | [Hacks/Hackers Pub Meetup](https://www.meetup.com/HacksHackersMontreal/events/czbwkryzpbpb/) |
-| September 2019 | [Hacks/Hackers Pub Meetup](https://www.meetup.com/HacksHackersMontreal/events/wfdvhryzmbpb/) |   
-| Feb 2019 | [Démystifier les algorithmes](https://www.meetup.com/HacksHackersMontreal/events/258147431/) |
+* [Démystifier les algorithmes](https://www.facebook.com/events/303988066923424/)
+* [Doing journalism with sensors](https://www.facebook.com/events/161835434451142/)
+* [Intelligence artificielle appliquée au journalisme](https://www.facebook.com/events/288589421656936/?ref=newsfeed)
