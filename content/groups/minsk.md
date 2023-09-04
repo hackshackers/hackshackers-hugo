@@ -9,4 +9,9 @@ url: /groups/minsk
 
 Join us on [Facebook](https://www.facebook.com/groups/hackshackersminsk/).
 
-##### Photo from [WikiCommons](wikicommons.org).
+## Past Highlights:
+
+* [Product Hunt Meetup](https://www.facebook.com/groups/hackshackersminsk/posts/438484469690109/)
+* [FinTech Minsk Hackathon](https://www.facebook.com/groups/hackshackersminsk/posts/452893488249207/)
+
+Photo from [WikiCommons](wikicommons.org).
