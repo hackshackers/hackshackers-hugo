@@ -7,7 +7,7 @@ url: /groups/mendoza
 
 ¡Bienvenidos a la revolución del periodismo!
 
-Join us on **[Meetup.com](https://www.meetup.com/Hacks-Hackers-Mendoza/)**. We also share our events on [Twitter](https://twitter.com/HacksHackersMZA).
+Join us on [Twitter](https://twitter.com/HacksHackersMZA).
 
 {{< tweet id="909822713874829312" width=80% >}}
 
