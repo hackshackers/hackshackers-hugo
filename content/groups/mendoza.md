@@ -13,8 +13,5 @@ Join us on [Twitter](https://twitter.com/HacksHackersMZA).
 
 # Past Highlights
 
-| **Date**  | **Highlight** |  
-|-----------|---------------|  
-| November 2017 | [DATAGOB MENDOZA. Hackeando el Gobierno Abierto](https://www.meetup.com/Hacks-Hackers-Mendoza/events/244782498/) |
-| November 2016 | [Transportatón: primer hackatón sobre transporte público en Mendoza](https://www.meetup.com/Hacks-Hackers-Mendoza/events/235490374/) |   
-| September 2016 | [Hackatón: quiénes controlan al poder en Mendoza](https://www.meetup.com/Hacks-Hackers-Mendoza/events/233895446/) |
+* [Hackeando la Vendimia](https://twitter.com/compucanjes/status/569837592260296704)
+* [Hackatón #mediaparty2014](https://twitter.com/HacksHackersBA/status/505703536320348162)
