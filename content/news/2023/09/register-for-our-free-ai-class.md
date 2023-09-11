@@ -30,8 +30,6 @@ The course runs from September 25 through October 22, and you can learn more abo
 
 
 
-* US - Hacks/Hackers, [Community Coordinator](https://www.hackshackers.com/news/2023/08/hacks-hackers-seeks-community-coordinator/)
-* US - Hacks/Hackers, [Researcher](https://www.hackshackers.com/news/2023/08/hacks-hackers-hiring-a-researcher/)
 * Anywhere - GIJN, [Finance Manager](https://global-investigative-journalism-network.rippling-ats.com/job/668586/finance-manager)
 * Anywhere - OCCRP, [Acting Head of Journalism Products](https://www.occrp.org/en/occrp-jobs/acting-head-of-journalism-products)
 * US - The Detroit News, [Social Media Manager](https://careers.journalists.org/jobs/19111053/social-media-manager)
