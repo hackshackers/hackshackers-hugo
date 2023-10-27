@@ -7,7 +7,7 @@ export default {
     zoom: 2,
   },
   tileLayer: {
-    url: 'https://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}.{ext}',
+    url: 'https://hh-map.s3.us-west-2.amazonaws.com/{z}-{x}-{y}.png',
     opts: {
       subdomains: 'abcd',
       ext: 'png',
