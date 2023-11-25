@@ -25,7 +25,7 @@ We’re hoping to select at least 2 projects and no more than 4.
 
 **Deadline:**
 
-January 31, 2024. But we encourage teams to apply early - we’ll start awarding grants on a rolling basis once the call opens, and will notify all applicants if they’ve\ been accepted by mid-February 2024.
+January 31, 2024. But we encourage teams to apply early - we’ll start awarding grants on a rolling basis once the call opens, and will notify all applicants if they’ve been accepted by mid-February 2024.
 
 **How to Apply?**
 
