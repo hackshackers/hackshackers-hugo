@@ -21,7 +21,6 @@ The ideal projects will address misinformation issues, involve innovative uses o
 
 
 * Investigative journalism may not drive pageviews as much as other beats, but [highlighting its impact in other ways](https://thefix.media/2023/11/20/how-to-track-the-impact-of-your-investigative-journalism) - like policy changes and its effect on individual lives - could help convince news organizations to prioritize it.
-* Al Jazeera’s weekly series, History Illustrated, uses AI-generated graphics in a photo gallery format to connect news events with historical context. Some of its latest entries include how the [Isareli government is trying to control the narrative of the war on Gaza](https://www.aljazeera.com/gallery/2023/11/9/the-war-on-gaza-a-masterclass-in-disinformation) and [a look at the history of prisoner exchanges](https://www.aljazeera.com/gallery/2023/11/27/israel-hamas-and-the-toil-of-the-prisoner-exchange).
 * The European Media Freedom Act (EMFA), which is in the final stages of negotiation, was designed to give robust protections to the press, but [journalists say it’s been watered down behind the scenes](https://www.theguardian.com/media/2023/nov/22/eu-laws-to-protect-press-freedom-in-jeopardy-campaigners-claim). One of the top concerns relates to the right of member states to plant spyware on journalists’ phones
 
 **Jobs:**
