@@ -1,5 +1,5 @@
 ---
-Title: Prediction for journalism in 2024: More open source AI
+Title: Prediction for journalism in 2024 — More open source AI
 
 Authors: 
 
@@ -8,12 +8,11 @@ Authors:
 date: "2024-01-15" 
 categories: 
 - Newsletter 
-
 ---
 
 *We have a chance to try again and learn from the tortured history between technology companies and journalism.*
 
-By Burt Herman, Hacks/Hackers cofounder and board chair.
+By Burt Herman, Hacks/Hackers co-founder and board chair.
 
 It is truly magical to speak to a machine using the same language you’d use to talk to a human. And that initial awe at the technology commonly known as generative AI caught a lot of us in the hype over artificial intelligence this past year.
 
@@ -29,8 +28,7 @@ We have barely scratched the surface of how this new way to interact with machin
 
 **More open source, less reliance on large platforms:** We have a chance to try again and learn from the tortured history between technology companies and journalism — and not to tie our fates to companies where interests aren’t aligned. Open source is progressing quickly, and we can build technologies that are more resilient and not reliant on a single company that is a gatekeeper or a single point of failure. Journalism is inherently open source and all about sharing learnings to better our communities, and we should work with companies who operate in a similar spirit of sharing and transparency.
 
-*Originally published by [Nieman Lab](https://www.niemanlab.org/2023/12/more-open-source-ai/). Each year, Nieman Lab asks some of the smartest people in journalism what they think is coming in the new year. Here are their predictions for 2024. [SEE THE FULL LIST](Each year, Nieman Lab asks some of the smartest people in journalism what they think is coming in the new year. Here are their predictions for 2024.
-SEE THE FULL LIST)*
+*Originally published by [Nieman Lab](https://www.niemanlab.org/2023/12/more-open-source-ai/). Each year, Nieman Lab asks some of the smartest people in journalism what they think is coming in the new year. Here are their predictions for 2024. Each year, Nieman Lab asks some of the smartest people in journalism what they think is coming in the new year. Here are their predictions for 2024. [SEE THE FULL LIST](https://www.niemanlab.org/collection/predictions-2024/) 
 
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&amp;id=fb2bc6f10b" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 
