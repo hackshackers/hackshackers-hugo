@@ -12,8 +12,6 @@ categories:
 
 *We have a chance to try again and learn from the tortured history between technology companies and journalism.*
 
-By Burt Herman, Hacks/Hackers co-founder and board chair.
-
 It is truly magical to speak to a machine using the same language you’d use to talk to a human. And that initial awe at the technology commonly known as generative AI caught a lot of us in the hype over artificial intelligence this past year.
 
 We also learned that while the large language models (LLMs) that power generative AI are great at stringing words together, they have a tendency to BS their way through it. A few media outlets ran into trouble publishing AI-generated words without paying attention to what the words actually said. A promising year also ended with the very human turmoil at OpenAI between the nonprofit board and CEO Sam Altman, raising concerns about governance and control of these powerful tools.
