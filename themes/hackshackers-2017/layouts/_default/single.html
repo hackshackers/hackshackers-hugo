@@ -12,9 +12,7 @@
       <article>
         <h2 class="single-headline">{{ .Title }}</h2>
 
-
-
-        {{ if eq .Type "blog" }}
+        {{ if eq .Type "news" }}
           {{ partial "meta-single.html" . }}
         {{ else if (isset .Params "sectionfront") }}
           <ul class="section-list">
