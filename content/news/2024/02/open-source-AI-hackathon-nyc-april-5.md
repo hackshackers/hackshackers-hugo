@@ -2,7 +2,6 @@
 Title: Open-source AI hackathon for journalists: Catalyzing new forms of journalism and civic discourse.
 
 Authors: 
-
 - Burt Herman
 
 date: "2023-02-28" 
