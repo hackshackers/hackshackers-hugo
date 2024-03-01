@@ -1,5 +1,5 @@
 ---
-Title: Open-source AI hackathon for journalists: Catalyzing new forms of journalism and civic discourse.
+Title: Open-source AI hackathon for journalists (starting April 5th in NYC)
 
 Authors: 
 - Burt Herman
