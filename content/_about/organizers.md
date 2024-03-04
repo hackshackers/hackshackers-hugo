@@ -42,13 +42,27 @@ url: /about/organizers
 
 [Samantha Sunne][22] is the Director of Community for Hacks/Hackers, providing support to chapter organizers and maintaining the monthly global open call. She is a freelance journalist based in New Orleans, Louisiana and recenly published "[Data + Journalism: A story-driven approach to learning data reporting](https://dataplusjournalism.com/)." She is a recipient of two national awards and three national grants for investigative reporting. She speaks at conferences, universities and newsrooms around the world, teaching digital tools and tech literacy for journalists, and publishes the [Tools for Reporters][23] newsletter. Her work has been published by the Washington Post, NPR and Reuters, and recommended by the Poynter Institute and the Harvard Shorenstein Center on Media, Politics and Public Policy. If you have any questions about Hacks/Hackers, you can reach her at samantha[at]hackshackers.com.
 
-{{< figure src="/content-images/about/anna.jpeg" >}}
-
-[Anna Nirmala](https://www.linkedin.com/in/anna-nirmala-61129527/) brings over a decade of business strategy and operations experience. Most recently, she was one of the first hires and founding team members for The American Journalism Project (AJP), the country’s first venture philanthropy fund dedicated to nonprofit local news. As Vice President, she led due diligence and investment efforts, as well as serving as Success Partner for the largest portfolio of nonprofit newsrooms within the organization, where she provided strategic, technological and operational guidance to award-winning newsrooms spanning 11 regions and markets throughout the country. Prior to AJP, Anna was the first business leader hired at Hearken, a SaaS and consultancy business that was integral in bringing audience engagement philosophies and engagement strategies to the forefront of the news and media sector internationally. Anna started her career in management consulting at PricewaterhouseCoopers, where she worked across leading Fortune 500 companies spanning sectors such as Retail, Consumer Product Goods, Private Equity, Financial Services, Telecommunications, and Technology.
-
 {{< figure src="/content-images/about/sil.jpeg" >}}
 
 [Sil Hamilton](https://srhm.ca/) is AI researcher-in-residence at Hacks/Hackers. A machine learning researcher at McGill University exploring the intersection of AI and culture, Sil has published research at NLP conferences like ACL, AAAI, and COLING. His work exploring the limits of language models has been discussed by Wired, The Financial Times, and Le Devoir. Sil has given talks on AI in the newsroom at the[ Nieman Foundation for Journalism at Harvard](https://nieman.harvard.edu/); the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia; the [Computer History Museum](https://computerhistory.org/events/tech-x-the-future-of-news-2023/) in Mountain View, California; and [The Knight Center for Journalism in the Americas](https://knightcenter.utexas.edu/) at the University of Texas at Austin. Sil has consulted for The Associated Press on AI policies and serves as technology advisor at Health Tech Without Borders, a non-profit seeking to mitigate healthcare crises with digital tools.
+
+---
+
+## Advisors
+
+{{< figure src="content-images/about/Paul.jpg" >}}
+
+[Paul Cheung](https://www.linkedin.com/in/paulcheung630/) is a mission-driving executive dedicated to creating a healthier information ecosystem. His career, extending over two decades, showcases a commitment to leading digital innovation within the media sector, including pioneering work in AI, VR/AR, combating misinformation and launching digital initiatives.
+
+Previously, Cheung led The Center for Public Integrity as CEO to increase diversity in the newsroom, pioneered new local-national partnership models, and empowered investigations that spurred tangible change. At the Knight Foundation, Cheung focused on scaling AI, fostering business sustainability in media, and combating misinformation. He has held leadership positions at outlets such as NBC News Digital, The Associated Press, The Miami Herald, and The Wall Street Journal.
+
+He contributes to the [Reynolds Journalism Institute](https://rjionline.org/?s=paul+cheung), advising on the utilization of AI tools in newsrooms with limited resources. Besides his professional commitments, Cheung is deeply engaged in philanthropic activities, holding positions on the boards and committees of several organizations including [Center for Disaster Philanthropy](https://disasterphilanthropy.org/) and the [Chronicle of Philanthropy](https://www.philanthropy.com/page/about-the-chronicle-of-philanthropy/).
+
+Cheung is a graduate of the 2016 Punch Sulzberger Executive Leadership program at Columbia University and an alumnus of New York University.
+
+{{< figure src="/content-images/about/anna.jpeg" >}}
+
+[Anna Nirmala](https://www.linkedin.com/in/anna-nirmala-61129527/) brings over a decade of business strategy and operations experience. Most recently, she was one of the first hires and founding team members for The American Journalism Project (AJP), the country’s first venture philanthropy fund dedicated to nonprofit local news. As Vice President, she led due diligence and investment efforts, as well as serving as Success Partner for the largest portfolio of nonprofit newsrooms within the organization, where she provided strategic, technological and operational guidance to award-winning newsrooms spanning 11 regions and markets throughout the country. Prior to AJP, Anna was the first business leader hired at Hearken, a SaaS and consultancy business that was integral in bringing audience engagement philosophies and engagement strategies to the forefront of the news and media sector internationally. Anna started her career in management consulting at PricewaterhouseCoopers, where she worked across leading Fortune 500 companies spanning sectors such as Retail, Consumer Product Goods, Private Equity, Financial Services, Telecommunications, and Technology.
 
 --- 
 
