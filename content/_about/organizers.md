@@ -50,7 +50,7 @@ url: /about/organizers
 
 ## Advisors
 
-{{< figure src="content-images/about/Paul.jpg" >}}
+{{< figure src="https://rjionline.org/wp-content/uploads/sites/2/2023/04/162834da-b0ed-47d4-83b6-d14474c1e5ac-e1682006900560.jpg" >}}
 
 [Paul Cheung](https://www.linkedin.com/in/paulcheung630/) is a mission-driving executive dedicated to creating a healthier information ecosystem. His career, extending over two decades, showcases a commitment to leading digital innovation within the media sector, including pioneering work in AI, VR/AR, combating misinformation and launching digital initiatives.
 
