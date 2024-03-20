@@ -5,7 +5,7 @@ Authors:
 
 - Burt Herman
 
-date: "2024-03-21" 
+date: "2024-03-20" 
 categories: 
 - Newsletter 
 
