@@ -59,7 +59,7 @@ Local journalism and AI: What’s happening at The Texas Tribune, by Liam Andrew
 
 **What’s next for Hacks/Hackers on AI and Journalism?**
 
-To move from discussions to product prototypes, join Hacks/Hackers and the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University for an in-person open-source AI hackathon from April 5-7. Sponsored by [Hugging Face](http://huggingface.co/) and [Codingscape](https://codingscape.com/), the hackathon lasts the entire weekend, and provides a hands-on opportunity to experiment and even build generative AI tools for journalism workflows.
+To move from discussions to product prototypes, join Hacks/Hackers and the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University for an in-person open-source AI hackathon from April 5-7. Sponsored by [Hugging Face](http://huggingface.co/) and [Codingscape](https://codingscape.com/), the hackathon lasts the entire weekend, and provides a hands-on opportunity to experiment and even build generative AI tools for journalism workflows. [See signup details here](https://lu.ma/hh-ai-hackathon-brown-4-2024).
 
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//hackshackers.us1.list-manage.com/subscribe/post?u=c56f2e53d5ed6ef87f8aaa75c&amp;id=fb2bc6f10b" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 
