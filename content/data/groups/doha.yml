@@ -1,0 +1,18 @@
+label: Doha, Qatar
+
+coordinates:
+  - 25.285446
+  - 51.531040
+
+founded: January 2024
+
+organizers:
+  - { name: "Hamda Khochtali", link: "https://www.linkedin.com/in/hamdatn" }
+  - { name: "M. Amine Belhadj", link: "https://www.instagram.com/medamineblh" }
+  - { name: "M.Aghid Kabawa", link: "https://www.linkedin.com/in/m-aghid-kabawa-9a429b1a6" }
+
+externalUrl: https://www.meetup.com/hacks-hackers-doha
+
+contactInfo: doha@hackshackers.com
+
+calendarUrl: https://www.meetup.com/hacks-hackers-doha/events/ical/
