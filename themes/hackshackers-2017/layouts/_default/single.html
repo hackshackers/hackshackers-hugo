@@ -27,6 +27,13 @@
         {{ partial "utils/suggest-edits.html" . }}
 
         <article class="single-article">
+
+        {{ if eq .Type "news" }}
+	{{ if .Params.image }}
+	<img src="{{ .Params.image  }}">
+	<p><i>{{ .Params.image_caption }}</i></p>
+	{{ end }}
+        {{ end  }}
           {{ .Content }}
         </article>
 
