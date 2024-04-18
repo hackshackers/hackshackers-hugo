@@ -81,6 +81,11 @@ We also have a custom `{{</* iframe */>}}` shortcode that accepts `src` and _CSS
 {{</* iframe src="https://foo.bar" width="100%" height="300px" */>}}
 ```
 
+#### Adding a featured image
+It's possible to add a featured image to a page by includig its information in the metadata of the page. The following two parameters must be added to include a featured image: 
+image: The URL to where the featured image is hosted
+image_caption: This is the caption that should appear beneath the featured image.
+
 [1]: https://github.com/hackshackers/hackshackers-hugo-content
 [2]: https://gohugo.io
 [3]: https://guides.github.com/features/mastering-markdown/
