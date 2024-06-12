@@ -1,5 +1,5 @@
 ---
-Title: How Apple AI signals the decline of apps, and the web itself
+Title: How Apple AI signals the decline of apps and the web itself
 
 Authors: 
 
@@ -11,7 +11,7 @@ categories:
 
 ---
 
-**...And what this might mean for news publishers**
+*And what this might mean for news publishers*
 
 Reflecting on [Apple WWDC 2024]() on Monday, my thoughts turned to the ill-fated [Humane AI Pin](https://humane.com/). In bending over backwards to build a device without a screen, while also trying to ignite an entirely new platform, Humane sold a cringe-inducing gadget that seemed doomed to be laughably inadequate. Disconnected mostly from any of your other devices and your Apple or Google profiles, the Humane pin had to learn about you from scratch. Rather than solving a problem, Humane’s design is more about avoiding a screen at all costs, even when relying on a screen is more useful compared to having every output read aloud to you by what sounds like a [lobotomized cyborg](https://youtu.be/UwCFY6pmaYY?si=ifwACy8W3za4D8rd). The company is already reportedly exploring a sale. 
 
